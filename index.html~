@@ -55,27 +55,43 @@
 <li>
  <a href="http://guskant.github.com/lojbo/tanpopo.svg">tanpopo.svg</a> for <a href="http://groups.google.com/group/lojban-soudan/msg/9f9111d999cc5473">my message to ロジバン相談室</a>
 </li>
-<li>fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJK on jbovlaste</a>:<br />
-for Chinese, Japanese and Korean, simply add the following lines after "fancy" setting lines in the preamble of *.tex, and run "xelatex *.tex" instead of pdflatex (the font settings may vary according to the fonts you have in your computer):
+<li>Fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJK on jbovlaste</a>:<br />
+Use XeTeX for multilingual typesetting!<br />
+For CJK, follow the instructions below. XeTeX should work also on many other languages with suitable packages and fonts. For the right-to-left languages, it works, but the words in latin alphabet between the letters of the language appear in unusual place; modification of the contents is required in the <code>*.tex</code> files of these languages.
+	<ol>
+	<li>
+Delete the lines of <code>ucs</code> and <code>inputenc</code> (and <code>fontenc</code> if any) in the preamble of <code>*.tex</code> to avoid the "MalformedUTF-8sequence" error (see <a href="http://tug.org/pipermail/xetex/2011-January/019737.html">http://tug.org/pipermail/xetex/2011-January/019737.html</a>).
+	</li>
+	<li>
+Add the following lines after "fancy" setting lines in the preamble of <code>*.tex</code> (the font settings may vary according to the fonts you have in your computer):
 <pre>
+\usepackage{fontspec}
 \usepackage{xeCJK}
 \setCJKmainfont{Bitstream Cyberbit}
 \setCJKsansfont{WenQuanYi Micro Hei}
 \setCJKmonofont{WenQuanYi Micro Hei Mono}
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{Courier 10 Pitch}
 </pre>
 Moreover, I replaced <code>\textit</code> by <code>\textbf</code> for legibility of CJK texts. 
-For Chinese dictionary, pinyin letters produced errors of xelatex. I replaced those letters by LaTeX commands.
-<ul>
-	<li>
-	 <a href="http://guskant.github.com/lojbo/jpn20120108.pdf">日本語 To lojban and lojban To 日本語 Dictionary, 2012-01-08</a>
 	</li>
 	<li>
- <a href="http://guskant.github.com/lojbo/kor20120108.pdf">(한국어 To lojban and) lojban To 한국어 Dictionary, 2012-01-08</a>
+Run "<code>xelatex *.tex</code>" instead of <code>pdflatex</code>.
 	</li>
-	<li>
- <a href="http://guskant.github.com/lojbo/zho20120108.pdf">中文 To lojban and lojban To 中文 Dictionary, 2012-01-08</a>
-	</li>
-	</ul>
+	</ol>
+	Results:
+		<ul>
+		<li>
+		 <a href="http://guskant.github.com/lojbo/jpn20120108.pdf">日本語 To lojban and lojban To 日本語 Dictionary, 2012-01-08</a>
+		</li>
+		<li>
+		 <a href="http://guskant.github.com/lojbo/kor20120108.pdf">(한국어 To lojban and) lojban To 한국어 Dictionary, 2012-01-08</a>
+		</li>
+		<li>
+		 <a href="http://guskant.github.com/lojbo/zho20120108.pdf">中文 To lojban and lojban To 中文 Dictionary, 2012-01-08</a>
+		</li>
+		</ul>
 </ul>
 </p>
     
