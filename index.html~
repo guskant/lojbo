@@ -56,7 +56,7 @@
  <a href="http://guskant.github.com/lojbo/tanpopo.svg">tanpopo.svg</a> for <a href="http://groups.google.com/group/lojban-soudan/msg/9f9111d999cc5473">my message to ロジバン相談室</a>
 </li>
 <li>fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJK on jbovlaste</a>:<br />
-for Chinese, Japanese and Korean, simply add the following lines after "fancy" setting lines in the preamble of <code>*.tex</code>, and run "<code>xelatex *.tex</code>" instead of pdflatex (the font settings may vary according to the fonts you have in your computer):
+for Chinese, Japanese and Korean, simply add the following lines after "fancy" setting lines in the preamble of *.tex, and run "xelatex *.tex" instead of pdflatex (the font settings may vary according to the fonts you have in your computer):
 <pre>
 \usepackage{xeCJK}
 \setCJKmainfont{Bitstream Cyberbit}
