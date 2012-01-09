@@ -20,10 +20,11 @@
     h1 .small { font-size: 0.4em; }
     h1 a { text-decoration: none }
     h2 { font-size: 1.5em; color: #d29f8c; }
-    h3 { text-align: center; color: #d29f8c; }
-    a { color: #d29f8c; }
+    h3 { text-align: left; color: #d29f8c; margin-left: 10px }
+    a { color: #f4bfae; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
     .download { float: right; }
+    .text { margin-left: 20px }
     pre { background: #000; color: #fff; padding: 15px;}
     hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
     .footer { text-align:center; padding-top:30px; font-style: italic; }
@@ -50,14 +51,18 @@
     </div>
 
     
-      <p>lojbo datnyvei   
-<ul>
-<li>
- <a href="http://guskant.github.com/lojbo/tanpopo.svg">tanpopo.svg</a> for <a href="http://groups.google.com/group/lojban-soudan/msg/9f9111d999cc5473">my message to ロジバン相談室</a>
-</li>
-<li>Fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJK on jbovlaste</a>:<br />
+      <h2>lojbo datnyvei</h2>   
+<a name="tanpopo"></a>
+<h3>- 
+<a href="http://guskant.github.com/lojbo/tanpopo.svg">tanpopo.svg</a> for <a href="http://groups.google.com/group/lojban-soudan/msg/9f9111d999cc5473">my message to ロジバン相談室</a>
+</h3>
+
+<a name="CJK"></a><h3>-
+Fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJK on jbovlaste</a>:
+</h3>
+<div class="text">
 Use XeTeX for multilingual typesetting!<br />
-For CJK, follow the instructions below. XeTeX should work also on many other languages with suitable packages and fonts. For the right-to-left languages, it works, but the words in latin alphabet between the letters of the language appear in unusual place; modification of the contents is required in the <code>*.tex</code> files of these languages.
+For CJK, follow the instructions below. XeTeX should work also on many other languages with suitable packages and fonts. For the right-to-left languages, however, the latin letters mixed in the right-to-left texts appear in unusual place. To fix the problem, modification of the contents is required in the <code>*.tex</code> files of right-to-left languages.
 	<ol>
 	<li>
 Delete the lines of <code>ucs</code> and <code>inputenc</code> (and <code>fontenc</code> if any) in the preamble of <code>*.tex</code> to avoid the "MalformedUTF-8sequence" error (see <a href="http://tug.org/pipermail/xetex/2011-January/019737.html">http://tug.org/pipermail/xetex/2011-January/019737.html</a>).
@@ -92,10 +97,7 @@ Run "<code>xelatex *.tex</code>" instead of <code>pdflatex</code>.
 		 <a href="http://guskant.github.com/lojbo/zho20120108.pdf">中文 To lojban and lojban To 中文 Dictionary, 2012-01-08</a>
 		</li>
 		</ul>
-</li>
-</ul>
-</p>
-    
+</div>
 
 
     
@@ -103,14 +105,14 @@ Run "<code>xelatex *.tex</code>" instead of <code>pdflatex</code>.
     
 
     
-      <h2>Authors</h2>
+      <h2>Author</h2>
       <p>guskant
 <br/>      </p>
     
 
     
       <h2>Contact</h2>
-      <p> guskant
+      <p> <a href="http://photon.freeshell.org/mail.html">guskant</a>
 <br/>      </p>
     
 
