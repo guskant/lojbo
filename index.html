@@ -63,6 +63,7 @@ Fixing <a href="http://jbovlaste.lojban.org/export/latex.html">LaTeX stuff of CJ
 <div class="text">
 Use XeTeX for multilingual typesetting!<br />
 For CJK, follow the instructions below. XeTeX should work also on many other languages with suitable packages and fonts. For the right-to-left languages, however, the latin letters mixed in the right-to-left texts appear in unusual place. To fix the problem, modification of the contents is required in the <code>*.tex</code> files of right-to-left languages.
+<h4>Instructions for CJK</h4>
 	<ol>
 	<li>
 Delete the lines of <code>ucs</code> and <code>inputenc</code> (and <code>fontenc</code> if any) in the preamble of <code>*.tex</code> to avoid the "MalformedUTF-8sequence" error (see <a href="http://tug.org/pipermail/xetex/2011-January/019737.html">http://tug.org/pipermail/xetex/2011-January/019737.html</a>).
