@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />    
+  <title>me SUMTI me'u MOI</title>
+<link rel="shortcut icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+
+  <style type="text/css">
+    body {
+      margin-top: 1.0em;
+      font-family: Helvetica, Arial, FreeSans, san-serif;
+    }
+    #container {
+      margin: 0 auto;
+      width: 700px;
+    }
+    h1 { font-size: 3.8em; margin-bottom: 3px; }
+    h1 .small { font-size: 0.4em; }
+    h1 a { text-decoration: none }
+    h2 { font-size: 1.5em; }
+    h3 { text-align: left; margin-left: 10px }
+    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+    .download { float: right; }
+    .text { margin-left: 20px }
+    pre { background: #000; padding: 15px;}
+    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+    .footer { text-align:center; padding-top:30px; font-style: italic; }
+    summary:hover { text-decoration: underline; }
+  </style>
+</head>
+
+<body>
+
+  <div id="container">
+<h3>My understanding on mathematical meaning of {me SUMTI [me'u] MOI}</h3>
+ <div><a href="http://ponjbogri.github.io/cll-ja/chapter18.html#e11.14" target="_blank">I made some remarks in Japanese on the meaning of {me SUMTI [me'u] MOI} long ago.</a> Recently I translated it into English for some reasons. I will do also into Lojban some day.</div>
+
+<h4></h4>
+<div>In the expression {me SUMTI [me'u] MOI}, the meaning of it should inherit that of {PA MOI}: "cardinal", "ordinal", "portion", "probability" and "scale" for {mei}, {moi}, {si'e}, {cu'o} and {va'e} respectively. In order to realize it, there must be at least one mapping from a set of signifiés of "plausible" (<a href="http://dag.github.io/cll/15/4/" target="_blank">see CLL15.4</a>) sumti into a set of possible numbers of MOI. Otherwise the meaning of {me SUMTI [me'u] MOI} cannot be reasonably defined.</div>
+
+<div><img align="top" width="500" src="./moi_e.svg" /></div>
+
+<div>On the basis of this interpretation of {me SUMTI [me'u] MOI}, it is essential that {mei} and {moi} are defined so that infinite sets can be treated <a href="#1" name="a1">[*1]</a>.
+
+<div>{mei} and {moi} would be then, for example on the basis of the definition of BPFK, defined mathematically as follows <a href="#2" name="a2">[*2]</a>:
+ 	<dl><dt>[number] mei :</dt><dd> x1 (mass) are among x2; a set that consists of x1 is equinumerous to a cardinal [number].</dd>
+	<dt> [number] moi :</dt><dd> x1 is/are the one(s) among x2; a set that consists of x2 is equinumerous to an ordinal number, the order relation of which is defined by rule x3; x1 correspond(s) to [number] in the ordinal.</dd></dl>
+</div>
+
+<div>With these definitions, [number] of {mei} and {moi} can be transfinite cardinals/ordinals. Then {me SUMTI [me'u] MOI} is meaningful even if SUMTI is an irrational number.</div>
+
+<div>
+<dl><dt>example 1: rational number</dt>
+<dd>"<a href="https://en.wikipedia.org/wiki/Platform_9%C2%BE#Platform_Nine_and_Three-Quarters" target=_blank">Platform Nine and Three-Quarters</a>"</dd>
+<dd>me li so su'i ci fi'u vo me'u moi</dd>
+<dd>Supoose that a set of plausible SUMTI of {li so su'i ci fi'u vo} is the set Q of all rational numbers (which is equinumerous to the set of all natural numbers, cardinality of which is aleph-0); then there is a mapping from Q into the set of all possible PA of {PA moi}, which are all ordinal numbers.</dd>
+
+<dt>example 2: irrational number</dt>
+<dd>"the π-th"</dd>
+<dd>me li pai me'u moi</dd>
+<dd>Supoose that a set of plausible SUMTI of {li pai} is the set R of all real numbers (cardinality of which is aleph-1); then there is a mapping from R into the set of all possible PA of {PA moi}, which are all ordinal numbers.</dd></dl>
+</div>
+
+<h4><a href="#a1" name="1">[*1]</a> {mei} and {moi} are actually defined as follows:</h4>
+<div><dl><dt>
+mei 
+</dt><dd>
+- x1 is a mass formed from the set x2 of n members, one or more of which is/are x3 (According to <a href="http://dag.github.io/cll/18/11/" target="_blank">CLL18.11</a>.)
+</dd><dd>
+- galfi lo namcu lo brivla .i x1 gunma gi'e zilkancu le namcu (According to <a href="http://jbovlaste.lojban.org/dict/mei" target="_blank">jbovlaste</a>.)
+</dd><dd>
+- "x1 are [number] in number among x2". In general for any sumti the place structure is "x1 is/are among x2, quantified by [number/lerfu/sumti]". (According to <a href="http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri" target="_blank">BPFK Section</a>.)
+</dd><dt>
+moi
+</dt><dd>
+- x1 is the (n)th member of set x2 when ordered by rule x3 (According to <a href="http://dag.github.io/cll/18/11/" target="_blank">CLL18.11</a>.)
+</dd><dd>
+- galfi lo namcu lo brivla .i x1 cmima x2 noi porsi x3 ku'o gi'e ckini le namcu x3 (According to <a href="http://jbovlaste.lojban.org/dict/moi" target="_blank">jbovlaste</a>.)
+</dd><dd>
+- "x1 is/are the [number]th among x2 by rule x3". More generally, for any sumti the place structure is "x1 is/are the one(s) among x2 that correspond(s) to [number/lerfu/sumti] by rule x3". (According to <a href="http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri" target="_blank">BPFK Section</a>.)
+</dd></dl>
+</div>
+
+<h4><a href="#a2" name="2">[*2]</a> "among":</h4>
+<div>The term "among" is formalized in the book <i>Plural Predication</i> (Oxford University Press, 2006) by Thomas McKay.</div>
+  </div>
+
+<p>detri fa li 2013-12-11 mi'e la guskant</p>
+</body>
+</html>
