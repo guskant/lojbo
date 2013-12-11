@@ -1,4 +1,5 @@
    body {
+      font-size: 1.2em;
       margin-top: 1.0em;
       background-color: #203E6C;
       font-family: monospace;
@@ -9,11 +10,14 @@
       margin: 0 auto;
       width: 700px;
     }
-    h1 { font-size: 3.8em; margin-bottom: 3px; }
-    h1 .small { font-size: 0.4em; }
-    h1 a { text-decoration: none }
-    h2 { font-size: 1.5em; }
-    h3 { text-align: left; margin-left: 10px }
+    h1 { font-size: 3.8em; margin-bottom: 3px; margin-bottom: 30px; }
+    .small { font-size: 0.4em; line-height: 150%;}
+    h1 a { text-decoration: none; }
+    h2 { font-size: 1.5em; line-height: 150%; }
+    h3 { text-align: left; margin-left: 10px; line-height: 150%; }
+    h4 { text-align: left; margin-left: 15px; line-height: 150%; }
+    h5 { text-align: left; margin-left: 20px; line-height: 150%; }
+    h6 { text-align: left; margin-left: 25px; line-height: 150%; }
     a { color: #f4cbbc; text-decoration: none; }
     a:hover { color: #f4cbbc; text-decoration: underline; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
