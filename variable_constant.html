@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />    
+  <title>variable / constant</title>
+<link rel="shortcut icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="lojbo.css">
+</head>
+
+<body>
+
+  <div id="container">
+
+ <h1><span class="small">変項と定項
+</span></h1>
+<div>
+<a href="https://twitter.com/lojytan_bot/status/425019793633075200" target="_blank">「あれ、そうなると、ロジバンは何も指すことがないのではないですか？束縛変項は議論領域にいる特定のものを指すわけではありませんし、自由変項は何も指しませんし...。...なぜ私たちはロジバンである程度意思疎通できるんでしょう...不思議です。」</a> <br />
+という疑問に対する回答です。
+</div>
+<br />
+<div>
+束縛変項 bound variable ではない変項を 自由変項 free variable と呼びます。
+</div><div>
+自由変項は量化されていないので、議論領域も決まっていません。
+</div><div>
+自由変項は、何か代入されるのを待っている項です。
+</div><div>
+つまり、自由変項を使った命題は、その自由変項に、どの議論領域のどの項を代入するかによって、真理値が決まります。
+</div>
+<br />
+<div>
+定項 constant というのは、議論領域を決めた上で、その中の特定の対象を指す (specific) 項です。
+</div><div>
+述語論理では、定項 c について以下のような論理式が、公理または定理となります（どちらになるかは公理系の取り方に依ります）。
+<blockquote>
+F(c) ⇒ ∃x F(x)
+</blockquote>
+among の理論でも同様です。
+<blockquote>
+F(c) ⇒ [∀Y: Y among c] c among Y ∧ ∃X FX
+</blockquote>
+つまり、定項は {su'o da} （議論領域の中で個として存在する）という意味を含んでいます。
+</div>
+<br />
+<div>
+従って、 {zo'e} を定項と決めてしまうと、以下のような問題が起こります。
+<dl>
+<dt>
+問題点1. 
+</dt>
+<dd>
+定項は「個」ですから、 {zo'e} を定項と決めてしまうと、 <br />
+{lo PA broda} =ca'e {zo'e noi ke'a broda gi'e zilkancu li PA lo broda} <br />
+が distributive/collective について不定な群れを表すことができなくなります。<br />
+# 個体定項 (individual constant) ではなく、複数定項 (plural constant) というものを考慮することも可能ですが、 among 理論では採用されていません。 また、それが collective な群れしか指さないとしたら、 問題点1は残ります。
+</dd>
+<dt>
+問題点2. 
+</dt>
+<dd>
+定項は「議論領域の中に存在する」ので、 {zo'e} を定項と決めてしまうと、 <br />
+{lo no broda} =ca'e {zo'e noi ke'a broda gi'e zilkancu li no lo broda} <br />
+という項が意味をなさなくなります。
+</dd>
+</dl>
+これでは何のために xorlo を導入したのかわかりません。
+</div><div>
+gadri からデフォルトの量化を取り除くという xorlo の大原則に従うなら、 {zo'e} は自由変項（何も指さない unspecific）である必要があります。
+</div>
+<br />
+<div>
+{zo'e} は自由変項ですから、「何か代入されるのを待っている項」です。 したがって、 話し手が {zo'e} に定項を代入することはできます。
+ただし、代入した時点で、何らかの議論領域を固定したことになります。
+<blockquote>
+{zo'e} を含む命題の真理値が文脈に依存する
+</blockquote>
+というのは、つまり、
+<blockquote>
+{zo'e} を含む命題の真理値が、その {zo'e} に代入される定項に依存し、その定項は議論領域に依存し、その議論領域は文脈に依存する
+</blockquote>
+ということです。
+</div><div>
+ロジバンの文脈依存という側面は、非論理的なのでもなく、自然言語に迎合したものでもなく、純粋に論理学の範疇で説明できることです。
+</div>
+<br />
+<div>
+話し手は、{zo'e} に定項を代入しているかどうかを明言する必要はありませんが、
+明言したい場合は以下のように、必要条件をnoiで追記する方法があります。
+<blockquote>
+{zo'e noi pa da zo'u da me ke'a ku'o}
+</blockquote>
+また、話し手がそれを明言していなくても、 xu で質問してみれば、その回答によって明らかになる場合があります。
+<blockquote>
+質問: {xu zo'e [noi ke'a broda cu] brode} <br />
+回答1. {go'i} <br />
+回答2. {na go'i} <br />
+回答3. {na'i} 
+</blockquote>
+回答1 と 回答2 の場合は、自由変項 {zo'e} に何らかの定項が代入されていることがわかります。
+</div><div>
+回答3の場合は、依然として {zo'e} に定項が代入されているかどうかが不明です。 
+</div>
+
+    <div class="footer">
+      Contact :
+       <a href="http://photon.freeshell.org/mail.html">email</a> <br /> The source code on GitHub : <a href="https://github.com/guskant/lojbo">guskant/lojbo</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
