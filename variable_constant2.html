@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />    
+  <title>variable / constant 2</title>
+<link rel="shortcut icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="lojbo.css">
+</head>
+
+<body>
+
+  <div id="container">
+
+ <h1><span class="small">変項と定項 その2
+</span></h1>
+<div>
+<a href="variable_constant.html">変項と定項</a>の話の続きです。
+</div><div>
+<a href="https://twitter.com/lojytan_bot/status/426283002365087744" target="_blank">「読みました。二つ(+一つ)質問よろしいでしょうか。①individualについて ②自由変項について ③noiについてです。① BPFKでは群れも集合も数字も、なんでもindividualだとあります。これでも問題1は回避されないのでしょうか。」</a>
+</div>
+<br />
+<div>回答：
+</div><div>
+ <a href="http://www.lojban.org/tiki/BPFK+Section%3A+gadri" target="_blank">BPFK の gadri のページ</a>
+にある
+<blockquote>
+An <i>individual</i> can be anything, including a group, a set, a substance, a number, etc.
+</blockquote>
+という記述のことですね。
+</div><div>
+この部分のイタリック体の <i>individual</i> が何を指すかによって解釈が異なりますが、他の文章とつじつまが合うように解釈するなら、これは「{lo} で作られる項」を指すはずです。 {zo'e} が plural variable であればこそ、 「{lo} で作られる項 can be anything, including a group, a set, a substance, a number, etc.」と言えます。 もし {zo'e} を定項と決めてしまうと among の理論の定項に関する公理から、 {zo'e} は「個」、つまり
+[∀Y: Y among {zo'e}] {zo'e} among Y
+であり、群れを指すことができなくなります。
+</div><div>
+もしイタリック体の <i>individual</i> が among の理論で定義される individual、つまり
+<blockquote>
+[∀Y: Y among X] X among Y となる X
+</blockquote>
+を指すとしたら、この記述が among の理論と矛盾するので、 BPFK の {me} を使う定義は全て崩壊します。 
+</div>
+<br />
+<div>
+<a href="https://twitter.com/lojytan_bot/status/426284951143604224" target="_blank">「② </a><a href="http://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%A4%89%E6%95%B0%E3%81%A8%E6%9D%9F%E7%B8%9B%E5%A4%89%E6%95%B0" target="_blank">http://ja.wikipedia.org/wiki/自由変数と束縛変数</a><a href="https://twitter.com/lojytan_bot/status/426284951143604224" target="_blank"> にある、∀x ∃y φ(x,y,z) のような表現の際の自由変項にもzo'eを使いますか？ 論理学のテキストにはよく出てくる表現ですが、これにzo'eを使うと意味合いが変わってきてしまう気がします。」</a>
+</div>
+<div>
+<a href="https://twitter.com/lojytan_bot/status/426285639160438784" target="_blank">「zo'eは確かに自由変項ですが、あのような形式的な自由変項に比べて、代入されることをより強く要求している気がするんです(もちろん代入しなくてもいいわけですが)。 f(x) = x^2 と言われても、私はxに何かを想定しようとは思いません。」</a>
+</div>
+<div>
+<a href="https://twitter.com/lojytan_bot/status/426286435197415425" target="_blank">「しかし、g(x)=xは寝ている。 と言われた場合は何かxに代入したくてたまりません。でも、この場合であっても、f(x)で私がそうであったように、何も代入せずに"そのまま"解釈する人もいると思います(おそらく少数でしょうが)。f(x)とg(x)で何が違うのでしょう」</a>
+</div>
+<div>
+<a href="https://twitter.com/lojytan_bot/status/426287110157381632" target="_blank">「ごめんなさい、まとまりがなくて...。 つまり、論理学のテキストで出てくるような「xとyは友人関係だ」というフレーズをロジバンではどのように表現すればいいでしょうか？ 「ko'a ko'e pendo」ですか？ 「zo'e zo'e pendo」ですか？」</a>
+</div>
+<br />
+<div>回答：
+</div><div>
+{ko'a} {ko'e} も 自由変項ですから、 {ko'a ko'e pendo} で「xとyは友人関係だ」という自由変項を使った命題を正しく訳したことになります。
+</div><div>
+{ko'a} {ko'e} は本来 {goi} で何かを代入して使うものなので、詳しく言うと
+{[ko'a/ko'e] noi ca'e ke'a du zo'e} です。
+</div><div>
+{zo'e} で書きたければ {zo'e zo'e pendo} としても構いません。
+</div><div>
+xとyの区別を明記したければ {zo'e xi [pa/re]} と書けますが、ここではその必要はありません。
+</div><div>
+元の日本語の命題で xとyを区別して書いているのは、同じ文字を使う項は同一の項であるという暗黙の了解があるからです。
+</div><div>
+ロジバンでは各 {zo'e} が同一の項かどうか決まっていないので、これらのxとyを他の文に流用しない場合は、これらの添字が無くても元の日本語文と同じ意味を表せます。
+</div><div>
+つまり、むしろ {zo'e} が複数出てくる文章で、2つの {zo'e} が同一であることを言いたい場合には、 {zo'e xi pa du zo'e xi re} を追記する必要が出てきます。
+</div>
+<br />
+<div>
+自由変項の代入される要求の強さは主観的なものなので、比較のしようがないですが、ロジバンの {zo'e} に定項が代入されていると解釈されることは多いと思います。しかし、そのことは {zo'e} を定項と定義して良い根拠にはなりません。 BPFK の {zo'e} の 定義で第一に書かれている "unspecific" は、他の単語の定義とつじつまを合わせるためにも欠かせない性質です。もし {zo'e} を定項と定義してしまうと、 "it represents specified value" ということになり、 BPFK の {zo'e} の 定義と矛盾します。
+</div>
+<br />
+<div>
+<a href="https://twitter.com/lojytan_bot/status/426287385505050624" target="_blank">「③ guskantさんの公演会のスライド76ページの zo'e noi broda cu brode = zo'e ge broda gi brode の書き換えは以前聞いたものと違うように思うのですが、なぜでしょうか。」</a>
+</div>
+<br />
+<div>回答：
+</div><div>
+BPFK の定義上、 
+<blockquote>
+{zo'e noi ke'a broda}={zo'e to ri xi rau broda toi} 
+</blockquote>
+であって、この定義に異存ありませんが、これを並列の論理接続で書き換える際には、 {gi'e} や {ge gi} などの AND に相当する接続で繋ぐしかありません。 {to toi} 内も話し手の言明であることに変わりないからです。
+</div><div>
+先日話した <a href="https://twitter.com/fotono/status/416526022087946240" target="_blank">{zo'e poi} の解釈</a> のことでしたら、<a href="http://youtu.be/lzqhNYCWKLo" target="_blank">講演の話</a>と関係ありません。 {zo'e poi} の話は、 
+<blockquote>
+{zo'e noi ke'a broda cu brode} は、たとえ {naku ke'a broda} であっても {zo'e brode} の真理値に影響しないけれども、 <br />
+{zo'e poi ke'a broda cu brode} は {naku ke'a broda} が {zo'e brode} の真理値を反転させることをも含意している
+</blockquote>
+という解釈の提案です。 
+</div><div>
+これらを<a href="lojban20131221.pdf">講演スライド</a>76ページと同様に、並列の論理接続で書き換えるなら
+<blockquote>
+{zo'e noi broda cu brode} ~= {zo'e ge broda gi brode} <br />
+{zo'e poi broda cu brode} ~= {zo'e go broda gi brode}
+</blockquote>
+とするのが妥当だと思います。 ただし、これは定義ではなく、意味上ほぼ同じと考えられるということです。 
+</div><div>
+この {zo'e poi} の解釈は BPFK の定義と相容れませんが、 {zo'e noi} の解釈は BPFK と矛盾するものではありません。
+</div>
+<br />
+<div>
+<a href="variable_constant.html">もどる</a>
+</div>
+
+    <div class="footer">
+      Contact :
+       <a href="http://photon.freeshell.org/mail.html">email</a> <br /> The source code on GitHub : <a href="https://github.com/guskant/lojbo">guskant/lojbo</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
