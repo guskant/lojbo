@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />    
+  <title>variable / constant 2</title>
+<link rel="shortcut icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="lojbo.css">
+</head>
+
+<body>
+
+  <div id="container">
+
+ <h1><span class="small">変項と定項 その3
+</span></h1>
+<div>
+<a href="variable_constant.html">変項と定項</a>、<a href="variable_constant2.html">変項と定項 その2</a>
+</div><div>
+<a href="https://twitter.com/lojytan_bot/status/426486449689481216" target="_blank">「ありがとうございます。ひとつ思ったのですが、zo'eを自由変項として見てやるような、名詞句を自由変項として扱う理論ってあったりしますか？ ロジバン特有の考え方ですか？」</a>
+</div>
+<br />
+<div>回答：
+</div><div>
+自由変項が用意されている論理があるかどうかという意味なら、述語論理であればどの論理でも必ず自由変項があります。 最も一般的な「名詞句」を自由変項で表しているからこそ、それを束縛したり、そこに定項を代入したりして、述語論理を始めることができるのです。
+</div>
+<br />
+<div>
+自由変項を含む命題は真理値が不定ですから、真理値を決めるためには、議論領域に応じて、それを束縛したり、そこに定項を代入したりしなければいけません。 自然言語で出てくる「名詞句」も、その指示対象は、文脈次第で存在したり存在しなかったりするはずです。 その意味で、自然言語においても、文脈が決まらない限り、命題の真理値は確定せず、その命題に現れる「名詞句」の指示対象の存在も不明です。 そのような文脈不定の命題の「名詞句」を論理学に当てはめて考えるなら、自由変項としか言いようがありません。
+</div>
+<br />
+<div>
+文脈が決まりさえすれば、ロジバンでも自然言語でも、変項を束縛したり、変項に定項を代入したりして、命題の真理値を決めることができます。 この性質はロジバンに特有のものではありません。
+</div>
+<br />
+<div>
+例えば、以下のような命題を考えましょう。
+<blockquote>
+ご飯を食べる <br />
+citka lo rismi <br />
+[X:R(X)] C(X)
+</blockquote>
+これらは日本語・ロジバン・ among 理論の記法で、同じ命題を表していると見なして良いと思います。 文脈が決まらない限り、「ご飯」・ {lo rismi} ・ "X" は自由変項であり、この命題の真理値は決まりません。 <br />
+# 実は citka_1 にも暗黙の {zo'e} が入っていますが、ここでは省略します。
+</div>
+<br />
+<div>
+文脈上、この命題が実際に誰かが目の前のご飯を食べることを描写しているならば、以下のように書け、真理値が決まります。
+<blockquote>
+ご飯を食べる <br />
+citka lo rismi <br />
+[∃X:R(X)] C(X)
+</blockquote>
+ここで記述が変わったのは among 理論の記法だけですが、これらの「ご飯」・ {lo rismi} ・ "X" は quantified plural variable （束縛複数変項） になっています。
+</div>
+<br />
+<div>
+さらに、話し手がこのご飯を「個」として認識しているなら、定項と見なすこともでき、以下のようにも書けます。
+<blockquote>
+ご飯を食べる <br />
+citka lo rismi <br />
+C(c)
+</blockquote>
+ここでも、記述が変わったのは among 理論の記法だけです。 これらの「ご飯」・ {lo rismi} ・ "c" は定項になっています。 
+</div>
+<br />
+<div>
+以上のように、自由変項は文脈によって束縛されたり定項が代入されたりするのですが、日本語やロジバンには、この違いを正確に表現する方法がありません。 <br />
+ただしロジバンは日本語よりはうまくできていて、「ご飯」が「個」として存在することを表したければ外部量化 {PA lo} によって表すことができますし、 collective な群れであることを表したければ {loi} を使えますし、 さらにその collective な群れ自体が「個」として存在することを表したければ、外部量化 {PA loi} を使えます。 ロジバンは、これらの方法によって、 among 理論と同程度の表現力を持つことができます。
+</div>
+<br />
+<div>
+<a href="variable_constant.html">変項と定項</a>、<a href="variable_constant2.html">変項と定項 その2</a>
+</div>
+
+    <div class="footer">
+      Contact :
+       <a href="http://photon.freeshell.org/mail.html">email</a> <br /> The source code on GitHub : <a href="https://github.com/guskant/lojbo">guskant/lojbo</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
