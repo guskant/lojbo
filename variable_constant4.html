@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />    
+  <title>variable / constant 4</title>
+<link rel="shortcut icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="http://guskant.github.com/lojbo/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="lojbo.css">
+</head>
+
+<body>
+
+  <div id="container">
+
+ <h1><span class="small">変項と定項 その4
+</span></h1>
+<div>
+（<a href="variable_constant.html">変項と定項</a>、<a href="variable_constant2.html">変項と定項 その2</a>、<a href="variable_constant3.html">変項と定項 その3</a>）
+</div>
+<br />
+<div>
+<a href="https://twitter.com/lojytan_bot/status/429256652106104833" target="_blank">「私の疑問は [X:P(X)]の":"と[∃X:P(X)]の":"はロジバンではpoiとnoiで違うけれど、区別しなくてもいいのか、ということです。poiとnoiというか、非制限と制限は論理学では書き分けられるんですか？」</a>
+</div>
+<br />
+<div>回答：
+</div><div>
+「:」は本来 {poi} です。
+<blockquote>
+[X:R(X)] C(X)
+</blockquote>
+という表現はロジバンの {zo'e noi} の形に合わせて書いただけです。<br />
+論理学の通常の表記で、自由変項に関して同じ意味のことを表すには
+<blockquote>
+R(X)∧C(X)
+</blockquote>
+と書くはずです。
+</div>
+<br />
+<div>
+{poi} は議論領域の部分集合を指定するものなので、それと同じ意味で自由変項の定義に使うことはできません。<br />
+BPFKは {zo'e poi} に相当する定義として
+<blockquote>
+{sumti poi broda} =ca'e {lo me sumti je broda}
+</blockquote>
+と言っていますが、 tanru 用の論理接続を使っているので、 論理学的にはこれを別の論理接続の形に書き換えることができません。<br />
+従って、この意味の {poi} は推論の中で扱うことができません。
+</div>
+<br />
+<div>
+それに対して {noi} は {poi} から「議論領域の部分集合の指定」という機能を取り除いた関係詞です。<br />
+つまり、議論領域の決まっていない、最も一般的な命題に、別の命題を追記する目的だけのために {noi} を使うことができます。<br />
+{noi} は {poi} から、議論領域の部分集合に関する「制限」という機能だけを取り去ったものという意味で、「非制限」と言えると思います。
+</div>
+<br />
+<div>
+そのような {noi} を使った自由変項を含む命題全体を束縛すれば、「議論領域の部分集合の指定」という機能が追加されるので、 自然と {poi} に置き換えることができます。<br />
+通常の論理学の記法で書くなら
+<blockquote>
+R(X)∧C(X)
+</blockquote>
+を束縛して
+<blockquote>
+∃X R(X)∧C(X)
+</blockquote>
+となるだけです。
+</div>
+<br />
+<div>
+一方、言語学上の関係詞の「制限」「非制限」という用語は、論理学の議論領域の部分集合の指定とは別の意味合いも含むように見えます（私は言語学に詳しくないので、間違っているかもしれません）。
+</div>
+<br />
+<div>
+英語では [restrictive/non-restrictive] relative clause と呼ぶので、意味がわかりにくいですが、<br />
+フランス語では同じ機能を relative [déterminative/explicative] と呼びます。
+「[決定的な／説明的な] 関係詞」ということです。
+</div>
+<br />
+<div>
+つまり、「決定的」な関係詞（つまり制限用法）は、それで接続される命題の真理値が、本体の命題の真理値に影響するのですが、<br />
+「説明的な」関係詞（つまり非制限用法）は、必ずしもそうではないのです。
+</div>
+<br />
+<div>
+このような、言語学上の意味での関係詞の非制限用法を、論理学で書く例はあまり無いかもしれません。<br />
+なぜなら非制限用法の関係詞で追加される命題は、推論に必要ない命題だからです。
+</div>
+<br />
+<div>
+（<a href="variable_constant.html">変項と定項</a>、<a href="variable_constant2.html">変項と定項 その2</a>、<a href="variable_constant3.html">変項と定項 その3</a>）
+</div>
+
+    <div class="footer">
+      Contact :
+       <a href="http://photon.freeshell.org/mail.html">email</a> <br /> The source code on GitHub : <a href="https://github.com/guskant/lojbo">guskant/lojbo</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
