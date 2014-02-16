@@ -1,0 +1,461 @@
+!((BPFK Section: gadri)) の論理学的観点からの解説
+
+;__lo__ (LE): selbri の前について、その selbri の1番めの場所 (first place, x_1) に入るものを指す複数定項 (Plural constant, 複数・単数についての解説は後述) を形成する。 つまり
+||
+lo broda | what is/are broda | broda なもの
+||
+gadri によって形成される sumti は、全て zo'e
+に展開されるように定義されている。 つまり zo'e
+は最も一般的な複数定項である。
+
+!!複数定項 C に関して、以下の論理公理が与えられる。
++ ganai C broda gi ~lt~SU'O~gt~ da zo'u da broda
+ここで ~lt~SU'O~gt~ は「存在する」という意味になる複数量化子 (plural
+quantifier) であり、 {~lt~SU'O~gt~ da} によって束縛複数変項 (quantified plural
+variable) を表す。 lojban で公式に定義されている {PA da} は、束縛単数変項
+(quantified singular variable) であり、束縛複数変項ではない。複数と単数の違いについては後述する。 ~lt~SU'O~gt~ に相当する単語は、 lojban には公式に存在しない。非公式には、 la xorxes が提案した su'oi がある。
+この公理は、「ある議論領域において、複数定項をbrodaのx_1とする命題が成り立つならば、brodaのx_1となる指示対象 (referent) がその議論領域内に存在する」ということを表す。つまり、議論領域の中に指示対象が存在しないような項を、 lo broda で表すことはできない。
+
+!!複数定項の指示対象 (referent) の同一性 (identity) は以下のように定義される。
++ 「A と B は同一である」 =ca'e {A me B ije B me A}
+
+!!複数定項の指示対象は必ずしも複数ではなく、1個の個を指すことも可能である。
+
+!!!個 (an individual) は以下のように定義される。
++ 「A は個である」 =ca'e {~lt~RO~gt~ da poi ke'a me A zo'u A me da}
+
+ここで ~lt~RO~gt~ は「全ての」という意味になる複数量化子で、その使い方は上述の ~lt~SU'O~gt~ と同様である。 ~lt~RO~gt~ に相当する単語は、 lojban には公式に存在しない。非公式には、 la xorxes が提案した ro'oi がある。
+
+!! 2つの複数定項 A と B を jo'u で繋げば、全体として1つの複数定項が形成され、以下の関係が成り立つ。
++ A me A jo'u B
++ B me A jo'u B
+また、 jo'u による接続は可換である。つまり、 A jo'u B と B jo'u A の指示対象は同一である：
++ A jo'u B me B jo'u A ije B jo'u A me A jo'u B 
+
+!! A と B のそれぞれが個 (an individual) であるとき、 {A jo'u B} を個たち (individuals)
+と呼ぶことにする。 A と B のそれぞれが個または個たちであるときも、 {A jo'u B}
+を個たちと呼ぶ。 
+
+!!複数 (plural) と単数 (singular) の違い
+!!! 複数定項 (plural constant) のうち、個 (an individual) であるものを、単数定項 (singular constant) と呼ぶ。
+;例1: A と B のそれぞれが単数定項であるかどうかに関わらず、 {A jo'u B} は単数定項ではない。 なぜなら
+++ A me A jo'u B ijenai A jo'u B me A
++が成り立つので、 {A jo'u B} は個の条件 {~lt~RO~gt~ da poi ke'a me A jo'u B zo'u A jo'u B me da} を満たさないからである。
+;例2: ある議論領域内の複数定項 A について、 X me A となるような X が、 A
+自体以外に存在しないとき、A は個の条件 {~lt~RO~gt~ da poi ke'a me A zo'u A
+me da} を満たすので、 A は単数定項である。
+
+!!! 束縛複数変項 (quantified plural variable) に対し、その束縛複数変項の変域を個 (an individual) だけに制限したものが、束縛単数変項 (quantified singular variable) である。
+つまり
+||
+ro da | ~lt~RO~gt~ da poi ~lt~RO~gt~ de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
+su'o da | ~lt~SU'O~gt~ da poi ~lt~RO~gt~ de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
+||
+ここで ~lt~RO~gt~ と ~lt~SU'O~gt~ は lojban で公式には定義されていない複数量化子であり、 ~lt~RO~gt~ da と ~lt~SU'O~gt~ da は束縛複数変項である。一方、 ro と su'o は lojban で公式に定義されている単数量化子であり、 ro da と su'o da は束縛単数変項である。
+
+例えば {A jo'u B} という複数定項は、束縛複数変項の変域に入ることができるが、個ではないので、束縛単数変項の変域に入ることはできない。
+
+!!複数定項の指示対象は、個または個たちであるとは限らない。
+複数定項の指示対象が個でも個たちでもないような議論領域を想定することは可能である。
+
+例えば、以下の命題が真であるような議論領域を考えよう。
++ ~lt~RO~gt~ da poi ke'a me lo broda ku'o ~lt~SU'O~gt~ de zo'u de me da ijenai da me de ~--~ 条件1
+つまり、この議論領域においては、 X me lo broda を満たす X に対して、 Y me X であって X me Y ではないという Y が必ず存在する。
+
+;定理: 条件1を真とする議論領域において、 lo broda は個ではなく、個たちでもない。
+
+;証明: lo broda が個であると仮定する。 つまり、個の定義により
+++ ~lt~RO~gt~ da poi ke'a me lo broda zo'u lo broda cu me da ~--~ 仮定2
++~lt~RO~gt~ da を naku ~lt~SU'O~gt~ da naku に書き換え
+++ naku ~lt~SU'O~gt~ da poi ke'a me lo broda ku'o naku zo'u lo broda cu me da ~--~ 仮定2-1
++最も内側の naku を命題内に移動し
+++ naku ~lt~SU'O~gt~ da poi ke'a me lo broda zo'u naku lo broda cu me da ~--~ 仮定2-2
++~lt~SU'O~gt~ da poi を ije に書き換えて命題内に移動し
+++ naku ~lt~SU'O~gt~ da zo'u da me lo broda ije naku lo broda cu me da ~--~ 仮定2-3
++ije naku を ijenai に書き換え
+++ naku ~lt~SU'O~gt~ da zo'u da me lo broda ijenai lo broda cu me da ~--~ 仮定2-4
++一方、 me の性質により、 
+++ lo broda cu me lo broda 
++は常に真であるから、 lo broda は、条件1の da の変域に含まれる。 従って、条件1の ~lt~RO~gt~ da を lo broda に置き換えても真となる。 つまり
+++ ~lt~SU'O~gt~ de zo'u de me lo broda ijenai lo broda cu me de ~--~ 条件1-1
++が成り立つ。 
++条件1-1と仮定2-4は矛盾する。
++背理法により、仮定2は棄却される。
++つまり lo broda は個ではない。
+
++また、 lo broda を A jo'u B と表すことができる場合、 jo'u の性質により
+++ A me lo broda 
+++ B me lo broda
++であるから A と B はそれぞれ 条件1 の da の変域内にあり、条件1-1と同様の考察によって、 A も B も個ではない。
++従って、 lo broda は個たちでもない。
++証明終わり
+
+!! 集団性 (collectivity) と分配性 (distributivity)
+
+複数変項や複数定項は、「項が複数のものを指す場合にしか意味をなさないような述語」を使った命題を表現しやすくするために考えだされた。
+;例: AとBが、集まって料理して食べた。
++ A jo'u B cu jmaji gi'e jukpa gi'e citka
++ 人々が、集まって料理して食べた。
++ lo prenu cu jmaji gi'e jukpa gi'e citka
+
++「AとBが集まって」と言うとき、「Aが集まって」と「Bが集まって」という2つの命題がそれぞれに真であるとは言えない。
++つまり、「AとB」がともにこの述語「集まって」を満たすのでなければ、意味をなさない。
++項が複数として述語を満たすとき、「項が集団的に (collectively) 述語を満たす」と言う。
+
++「AとBが食べた」と言うとき、「Aが食べた」と「Bが食べた」という2つの命題がそれぞれに真である。
++また、「食べる」という述語が、「食べ物を口から入れて咀嚼し喉を通して胃へ送る」という行為を表すとすれば、「AとB」が集団的に食べるということは考えにくい。二人羽織で食べるにしても、手の役をしている人は顔の役をしている人が食べるのを手伝っているだけであり、実際に食べているのは集団ではなくて個人だ。
++項を構成する個のそれぞれが単独で述語を満たすとき、「項が分配的に (distributively) 述語を満たす」と言う。
+
++「AとBが料理して」と言うとき、「AとB」が協力して「集団的に」料理することもあり得るし、「Aが料理して」と「Bが料理して」のそれぞれが真である、つまり「AとB」が「分配的に」料理するという事もあり得る。
+
+この例では、「AとB」はどの述語についても同じものを指しているのだが、述語によって、その述語の満たし方が集団的であるか分配的であるかが異なる。
+単数変項や単数定項は、述語を分配的に満たすような項としてのみ使うことができる。
+一方、複数変項や複数定項は、述語を集団的に満たす場合でも分配的に満たす場合でも、その両方の場合でも使うことができる。
+
+「AとBが料理して」の場合は、「AとB」が「集団的に」料理するのか「分配的に」料理するのか、明示されていない。「集団的に」料理するということを明示したい場合には、 {A joi B} や、後述の __loi__ を使う。
+（「分配的に」料理することを明示したい場合は、外部量化、または lu'a を使う。）
+
+
+!!内部量化（lo PA broda の PA）は、 lo broda を単位（つまり1）として lo PA broda を数えた場合の数を表す。
+
+!!外部量化 PA sumti は束縛単数変項である。
+ An outer quantifier can be used to quantify distributively over such individuals. 
+   lo rozgu cu xunre 
+   ''Roses are red.''
+
+   xu ro lo rozgu cu xunre i na go'i i mu'a su'o lo rozgu cu pelxu
+   ''Is every rose red? No, some roses are yellow, for example.''
+
+   lo tadni cu sruri le dinju gi'e krixa
+   ''Students are surrounding the building and yelling.''
+
+   ko'a pu lebna lo xanlai pe lo cmananba gi'e dunda ciboi cy mi
+   ''He grabbed a handful of biscuits and gave me three.''
+
+   ca ro nu mi rere'u catlu lo skina kei mi cpacu lo so'i se cusku poi mi na cpacu ca lo pamoi
+   ''Every time I see a movie for the second time I get all this dialogue that I missed the first time.''
+
+   ei lo verba cu mutce fraxu lo makcu prenu
+   ''Children should show great forbearance toward grown-up people.''
+
+   ku'i uinai mi na viska lo lanme pa'o lo bitmu be fo lo tanxe i ju'ocu'i mi milxe simsa lo makcu prenu
+   ''But I, alas, do not see sheep through the walls of boxes. Perhaps I am a little like the grown-ups.''
+
+   ca lo nicte lo cinfo cu kalte lo cidja
+   ''At night lions hunt for food.'' 
+
+   lo pa pixra cu se vamji lo ki'o valsi
+   ''One picture is worth a thousand words.''
+後述のノートを参照。
+
+   de'i li 1960 lo pare sovda cu fepni li 42
+   ''In 1960 a dozen eggs cost 42 cents.''
+
+   cimai lo ctuca cu fendi lo selctu lo mu gunma be lo vo tadni
+   ''Step 3: The teacher will divide the class into five groups of four students.'' 
+
+   lo bidjylinsi pe lo ze seldri cu se pagbu ze gunma be lo ze bidju be'o e ji'a ci bidju e lo kucyga'asni
+   ''The Rosary of the Seven Sorrows consists of seven groups of seven beads, with three additional beads and a Crucifix.''
+
+   ro lo bidjylinsi pe le ze seldri cu se pagbu ze lo gunma be lo ze bidju be'o e ji'a ci lo bidju e pa lo kucyga'asni
+   ''Every Rosary of the Seven Sorrows consists of seven groups of seven beads, with three additional beads and exactly one Crucifix.''
+
+   lo sanli darxi bo dakli cu culno lo djacu onai lo canre to lo djacu cu pukmau ki'u lo nu slilu tolcando toi gi'e bunda li ji'i 270 
+   ''Standing punching bags are filled with water or sand - water being preferable because of the wave-motion created - and weigh about 270lbs.''
+
+   lo pavyseljirna cu ranmi danlu gi'e simlu lo ka ge ce'u xirma gi lo pa jirna cu cpana lo mebri be ce'u
+   ''Unicorns are mythical creatures that look like a horse with a horn coming out of their foreheads.''
+
+   re lo so plini cu zmadu le terdi lo ka ce'u jibni le solri
+   ''Two of the nine planets are closer to the Sun than the Earth.'' 
+
+;__le__ (LE): lo broda で表される複数定項に対して、「話し手が思い描く特定の」という意味を明示的に追加したものが le broda である。 論理学上の振る舞いは lo と同じ。
+
+   le palta ba'o porpi i ma gasnu i xu le gerku cu go'i
+   ''The dish is broken. Who did it? Was it the dog?''
+
+   ko punji le sicni ja'e lo porsi be lo vamrai ku bi'o lo vamtolrai 
+   ''Put the coins in order from greatest to least value.''
+
+   ci le bi ctuca cu ninmu
+   ''Three of the eight teachers are women.''
+
+   le va ninmu cu mutce melbi iku'i ca'a nanmu gi'e nelci lo nu ninmu dasni
+   ''That woman is very beautiful, but she's actually a man who likes to dress as a woman.''
+
+   o'i mu xagji sofybakni cu zvati le purdi
+   ''Caution! There are five hungry Soviet cows in the garden.''
+
+
+;__la__ (LA): selbri または cmevla の前について、それを名前とするものを指す複数定項を形成する。 論理学上の振る舞いは lo と同じ。
+
+   ma'i la midju terdi la sadam na sai me la sauron
+   ''In Middle Earth-terms, Saddam is by no means a 'Sauron'.''
+
+   la ci bakni ku poi gusta bu'u la kaiapois cu banli ge lo ka vanbi gi lo ka cidja
+   ''The Three Cows Restaurant in Kaiapoi is a wonderful place, both atmosphere and food-wise.''
+
+   ci la magdonaldz cu jibni le mi briju
+   ''There are three McDonald's near my office.''
+
+----------------
+
+;__loi__ (LE):  lo broda で表される複数定項に対して、集団性 (collectivity)
+を明示的に追加したものが loi broda である。 集団性については __lo__
+の解説で述べた。 loi broda は lo gunma be lo broda
+という別の複数変項によって定義されているので、 論理学上は lo broda
+を直接扱うことにはならず、 lo gunma という複数定項として扱われる。
+
+Generic mass article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to a group or groups of individuals that fit the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used to indicate the cardinality of the group or groups. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+  loi litru ti jmaji lo ro pagbu be le terdi 
+  ''Tourists gather here from all over the world.'' 
+
+  loi so'i tadni cu sruri le dinju i so'i le tadni cu krixa
+  ''Many students are surrounding the building. Many of the students are yelling.''
+
+  lo mulno kardygri cu gunma lo vo loi paci karda
+  ''A full deck consists of four groups of thirteen cards.''
+
+;__lei__ (LE): Specific mass article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to a group of individuals that the speaker has in mind and describes as fitting the first argument of the selbri and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used to indicate the cardinality of the group. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+  lei brazo cu jinga fi lei dotco la kabri
+  ''The Brazilians beat the Germans for the Cup.''
+
+;__lai__ (LA): Name mass article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to a group of individuals that  the speaker has in mind and names with the selbri or cmevla and which collectively satisfy the predicate for which the sumti is an argument. An inner quantifier can be used (in the case of a selbri) as part of the name. An outer quantifier can be used to quantify distributively over such groups. A fractional outer quantifier can be used to select a subgroup and indicate its cardinality as a fraction of the cardinality of the group.
+  ta melbi pixra lai simpson
+  ''That's a nice photograph of the Simpsons.''
+
+;__lo'i__ (LE): Generic set article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers generically to a set or sets of individuals that fit the first argument of the selbri. An inner quantifier can be used to indicate the cardinality of the set. An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+  ma cnano lo junta lo'i cifnu poi cazi jbena 
+  ''What is the normal weight of a baby at childbirth?'' 
+
+;__le'i__ (LE): Specific set article. It converts a selbri, selecting its first argument, into a sumti. The resulting expression refers specifically to the set of individuals that the speaker has in mind and describes as fitting the first argument of the selbri. An inner quantifier can be used to indicate the cardinality of the set.  An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set.
+  ro le verba pu cuxna pa karda le'i cnita selcra
+  ''Each child chose a card from the face-down collection.''
+
+;__la'i__ (LA): Name set article. It converts a selbri, selecting its first argument, or any string of cmevla into a sumti. The resulting expression refers specifically to the set of individuals that the speaker has in mind and names with the selbri or cmevla. An inner quantifier can be used (in the case of a selbri) as part of the name.  An outer quantifier can be used to quantify distributively over such sets. A fractional outer quantifier can be used to select a subset and indicate its cardinality as a fraction of the cardinality of the set. 
+  doi turni do so'i da na fadni la'i kenedis ma'i lo jecra'a
+  ''Governor, in many respects, you're not a typical Kennedy politically.''
+
+
+!!Formal definitions
+
+||
+LE, LA
+
+
+lo [[PA] broda | zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda]
+le [[PA] broda | zo'e noi mi ke'a do skicu lo ka ce'u broda [[gi'e zilkancu li PA lo broda] 
+la [[PA] broda | zo'e noi lu [[PA] broda li'u cmene ke'a mi
+
+lo PA ''sumti'' | lo PA me ''sumti''
+le PA ''sumti'' | le PA me ''sumti''
+la PA ''sumti'' | zo'e noi lu PA ''sumti'' li'u cmene ke'a mi 
+
+
+loi [[PA] broda | lo gunma be lo [[PA] broda
+lei [[PA] broda | lo gunma be le [[PA] broda
+lai [[PA] broda | lo gunma be la [[PA] broda
+
+loi PA ''sumti'' | lo gunma be lo PA ''sumti''
+lei PA ''sumti'' | lo gunma be le PA ''sumti''
+lai PA ''sumti'' | lo gunma be la PA ''sumti''
+
+
+lo'i [[PA] broda | lo selcmi be lo [[PA] broda
+le'i [[PA] broda | lo selcmi be le [[PA] broda
+la'i [[PA] broda | lo selcmi be la [[PA] broda
+
+lo'i PA ''sumti'' | lo selcmi be lo PA ''sumti''
+le'i PA ''sumti'' | lo selcmi be le PA ''sumti''
+la'i PA ''sumti'' | lo selcmi be la PA ''sumti''
+||
+
+||
+Quantified terms
+
+PA ''sumti'' | PA da poi ke'a me ''sumti''
+PA broda | PA da poi broda 
+
+piPA ''sumti'' | lo piPA si'e be pa me ''sumti''
+piPA 
+||
+
+
+!!Summary
+
+||__Cmavo__|__Article__|__Key phrase__|__Outer quantifier__|__Inner quantifier__|__Default quantifier__
+
+lo|~~#FF0000:Generic~~|fits|distributive over individuals|number of individuals ~~#FF0000:not necessarily all that exist~~|~~#FF0000:none~~
+le|Specific|described as|distributive over individuals|number of individuals|~~#FF0000:none~~
+la|Name|named with|distributive over individuals|part of the name|~~#FF0000:none~~
+
+loi|~~#FF0000:Generic ~~mass|fit and collectively satisfy|selects subgroup|number of individuals ~~#FF0000:not necessarily all that exist~~|~~#FF0000:none~~
+lei|Specific mass|described as and collectively satisfy|selects subgroup|number of individuals|~~#FF0000:none~~
+lai|Name mass|named with and collectively satisfy|selects subgroup|part of the name|~~#FF0000:none~~
+
+lo'i|~~#FF0000:Generic~~ set|has only members that fit|selects subset|cardinality of set ~~#FF0000:not necessarily all that exist~~|~~#FF0000:none~~
+le'i|Specific set|has only members described as|selects subset|cardinality of set|~~#FF0000:none~~
+la'i|Name set|has only members named with|selects subset|part of the name|~~#FF0000:none~~
+
+||
+~~#FF0000:''changes from CLL are shown in red'' ~~
+
+!!Notes
+
+* An ''individual'' can be anything, including a group, a set, a substance, a number, etc. {lo broda} can refer to one or more individuals. {lo'i broda} can refer only to those individuals that are sets. {loi broda} can refer only to those individuals that are groups ('masses').
+
+* Any term without an explicit outer quantifier is a __constant__, i.e. not a quantified term. This means that it __refers__ to one or more individuals, and changing the order in which the constant term appears with respect to a negation or with respect to a quantified term will not change the meaning of the sentence. A constant is something that always keeps the same referent or referents. For example {lo broda} always refers to brodas. In {mu da poi broda zo'u da brode}, "da" is a quantified variable, bound by the quantifier ''mu'', and it takes its values from the set of all things that broda. (Within the scope of the quantifier, it acts as a constant term, but it cannot escape as a constant out of that scope.) Any term with a quantifier in front takes values from the set of things over which the quantifier runs. When an unquantified term is quantified, the quantifier runs over the referents of the unquantified term.
+
+* CLL says about default quantifiers: ^''There are rules for each of the 11 descriptors specifying what the implicit values for the inner and outer quantifiers are. They are meant to provide sensible default values when context is absent, not necessarily to prescribe hard and fast rules. The following table lists the implicit values:'' ^The proposed definitions take the view that the most sensible default value when no explicit quantification is given is no quantification at all and that the unquantified terms are constants. 
+
+* http://groups.google.com/group/lojban/browse_thread/thread/6bab580f0b098348
+** loi/lei quantifier debate
+
+* http://groups.google.com/group/lojban/browse_thread/thread/92df4eed2d387cfa
+** more jbodau
+
+!!Usage convention suggestions
+
+* To refer to substances, lo/le/la without any quantifier are appropriate. The number {tu'o} could be used as inner quantifier to emphasize that no cardinality applies. 
+    le nanmu cu se snuti ija'ebo lo tu'o gerku cu kuspe le klaji
+    ''The guy had an accident and there was dog all over the road.''
+
+* A substance can also be seen as made up of component parts, and this can even be true in a physical sense: the water in a puddle of rain got there drop by drop.  If you look from far enough away, you can't tell whether the "sailor all over the deck" is literally goo, or just an aggregation of sailors standing still. So a substance may be treated as a group made up of individuals without worrying about which individuals they are.
+
+
+!!Impact
+
+* Positive impact: Some usages that make little sense with {lo} = {su'o} become validated. 
+ただし、 {lo broda} が複数変項であることと、複数変項に関する論理公理によって、 {lo broda cu brode} という命題は、 {~lt~SU'O~gt~ da brode} という命題を暗黙的に含意している。
+Examples:
+
+  bilga lenu jdice lenu roroi pilno __lo__ mokla tirxe (to zoigy. velar gy. toi) jonai crane (to zoigy. alveolar gy. toi)
+((tavla fi le tutra pe le terdi)) 
+
+  le cmana __lo__ cidja ba claxu
+  ''In the mountains there is no food.''
+((lapoi pelxu ku'o trajynobli))
+lo cidja を展開すると
+le cmana zo'e noi ke'a cidja ku'o ba claxu
+((BPFK Section: Subordinators|noi の定義))により
+le cmana zo'e to ri xi rau cidja toi ba claxu
+to toi 内は挿入句だから、 bridi 本体は
+le cmana zo'e ba claxu
+ zo'e は複数変項である。 複数変項に関する論理公理により、この命題は
+~lt~SU'O~gt~ da zo'u le cmana da ba claxu
+を含意する。つまり「この山に欠く何か」の指示対象が議論領域内に存在する。
+この表現の奇妙さは、 claxu の x_2 に、非存在を表すような意味合いがあるかのように見えることから生じる。
+辻褄が合うように解釈するならば、 claxu 自体は x_2 の指示対象の所在が x_1 に位置していないということを表しているだけで、議論領域内の存在については何も主張しないと考えれば良い。
+
+  le dargu pe __lo__ xamgu bangu cu kargu
+  ''The road of the good language is costly.''
+((lapoi pelxu ku'o trajynobli))
+
+  la jyryr. tolkien. cu te cukta la djine turni (to la'o gy Lord of the Rings gy toi) .e le so'omoi be __lo__  xanri munje lisri ca le lampru na'acto
+((tenguar)) 
+
+* Negative impact: It is conceivable that some usages become more vague than intended if the default quantifiers played an important role in some expression, such as interactions between su'o and na, but it is hard to determine. If someone finds examples where this happens please report them.
+
+!Issues
+* [http://groups.google.com/group/lojban/browse_thread/thread/9e44a5728883ff9b|lei quantification discussion]
+* This may already be covered here, but I (rlpowell) want to report something mentioned by PC, for future reference: Quite another problem with the cited reference.  It seems to say that {ro lo rozgu} and {ro rozgu} are equivalent, as I hope they are not.  The first talks about each and every one of a bunch of roses (which roses to be worked out from context if necessary) while the second talks about each and every rose, period, essentially {ro da poi rozgu}, so not equivalent (as far as I can tell).
+
+
+!!ノート
+!!! lo no broda の非公式な解釈案
+||
+lo no broda | naku lo broda
+||
+
++ ~--~ lo xo prenu cu jmaji gi'e jukpa gi'e citka
+++ ~--~ no
++ ''「何人集まって料理して食べたの？」「0人」''
+
+この返答は {lo no prenu cu jmaji gi'e jukpa gi'e citka} の簡略形である。
+
+この命題は、 {lo no prenu} が selbri {jmaji} を集団的かつ (je) 非分配的に、 {jukpa} を集団的または (ja) 分配的に、 {citka} を非集団的かつ (je) 分配的に満たしていることを表す。集団的だけではないので、この {lo} を {loi}={lo gunma be lo} に置き換えることもできない。 このような内部量化を単純な形で外部量化に書き換えることは不可能だ。 なぜなら公式には、外部量化が担うのは分配的な量化である単数量化だけであり、集団性と分配性を併せ持つことが可能な量化である複数量化をすることができないからだ。 このような命題では、内部量化の形のまま PA=0 の命題に意味を与えることが必要になる。
+
+公式には lo PA broda が複数定項であるため、論理公理によって {jmaji gi'e jukpa gi'e citka} を満たすような指示対象が議論領域内に存在することになってしまうが、この例のような場合には、 PA=0 によって、そのような指示対象が存在しないことを表したい。 そこで上記のような特別な定義が必要になる。
+
+!!! zo'e は複数定項である
+仮に、 zo'e が自由変項・束縛複数変項・複数定項のどれにでもなれるという解釈をすれば、論理学的な観点から合理的である。
+しかしこの考えは、[https://groups.google.com/d/topic/lojban/RAtE7Yk-dqw/discussion|この議論]の中で、明確に否定された。 公式解釈による zo'e は常に複数定項であることが明らかになった。
+以下にこれらの考えを比較検討し、 zo'e が複数定項であるという公式解釈から生じる問題点の解消を試みる。
+
+!!!! zo'e が束縛複数変項になることが許されると仮定した場合
+「zo'e は本質的には自由変項であり、文脈に応じて議論領域が決まり、議論領域に応じて、 zo'e に何らかの定項が代入されているか、複数量化子によって量化されていると見なされる」という解釈をすると仮定した場合の、利点と欠点を挙げる。
+
+!!!!! 利点
+この仮定の下では、 lo PA broda における PA=0 の場合を、上記のように特異点扱いする必要は無かった。  lo PA broda が本来自由変項であれば、 PA>0 のときは複数定項が代入されるか、∃X などの複数量化子によって束縛され、 PA=0 のときには ¬∃X によって束縛されると解釈すれば良かったからである。 
+
+この解釈は、 PA=0 の時のみならず、 PA>0 についても、より自然言語に近い解釈を可能にする。例えば
++ lo ci xanto cu zilkancu li ci lo xanto
+この最後に出てくる方の lo xanto は数えの単位であるから、特定のものを指さずに（つまり定項と見なさずに）、むしろ複数量化によって「1」と量化されている束縛複数変項と解釈するほうが自然である。
+束縛複数変項と解釈する場合には、他の量化項や naku との相対的な出現順序を考慮しなければならないが、項である以上、冠頭に出すこともできるので、冠頭でその順序を明記することも可能である。
+さらに、この考え方は、文脈のない文の真理値が一般には不定であるという自然言語の性質を体現してもいる。 「zo'e が本質的には自由変項であり、文脈によって束縛されたり定項が代入されたりしている」と解釈しておけば、論理性も解釈上の構造美も損なわずに、 Lojban 文の自然な表現が可能だったのである。
+
+!!!!! 欠点
+zo'e が文脈によって自由変項だったり、束縛複数変項だったり、複数定項だったりするので、単一のbridiからは、その中の項がどのような項であるかを判断できず、文の真理値を判断することができない。 
+ただし、このように、文の真理値が文脈に依存するという側面は、あらゆる自然言語が共有する性質である。
+また、 zo'e が複数定項だけを表すという現行解釈を取るにしても、「何らかの議論領域が与えられている」ということが判断出来るだけで、文脈がわからなければ、どんな議論領域かを判断できないのだから、文脈無しでは文の真理値を判断できないという問題が解消されるわけではない。
+
+!!!! zo'e が複数定項であることから生じる問題点と、その解決方法
+公式解釈による zo'e は複数定項であるから、以下のような問題点が生じる。
+
+!!!!! 「¬∃X」という複数量化が表現できない
+PA=0 の場合の lo PA broda の合理的な解釈は、公式には lojban から追放されることが明らかになった。 つまり、複数論理では当然扱える ¬∃X という複数量化が、 lojban では公式には扱えない。 lo no broda という表現をしたい場合には、上記のように、非公式の解釈を提案する必要がある。
+
+!!!!! 特定のものを指さない束縛複数変項を表現できない
+lo PA broda が、文脈によっては束縛複数変項であるという解釈が不可能になったので、 数えの単位のような、特定のものを指さないはずの項も、何らかの定項であると解釈しなければいけなくなった。 例えば、
++ lo ci xanto cu zilkancu li ci lo xanto
+のように、数えの単位としての lo xanto を命題の中で使うために、 メートル原器のような、なんらかの「ゾウ原器」を議論領域の中に想定するという、いささか不自然かもしれない解釈が強いられる（現代ではもはやメートル原器さえ用いられていないにも関わらず）。
+
+!!!!! 素粒子を lo で表すことができない
+lo broda が複数定項として解釈される限り、以下の lojban 文は無意味である：
+
++ lo guska'u cu gau jmaji sepi'o lo lenjo gi'e pagre lo fenra
++ ''「光子がレンズで集められ、スリットを通り抜ける」''
+
+なぜなら実際のところ、光子は個であり、個の数を数えることはできるのだが、この光子とあの光子といった区別をすることはできない、つまり、「特定の」光子を指すことは不可能だからだ。 光子などの素粒子を表す項には、量化表現こそが相応しい。ところが lojban には公式には複数量化子が無いので、上記のように selbri を集団的にも分配的にも満たすような項として、量化を明示することはできないのである。 lo broda が複数定項であると宣言されたので、 lo guska'u を束縛複数変項として解釈する余地も残されていない。 解決策としては、 la xorxes がかつて提案したことのある非公式の複数量化子 su'oi を使うしかない。
+
++ su'oi da poi ke'a guska'u cu gau jmaji sepi'o lo lenjo gi'e pagre lo fenra
+
+!!!!! 一般論をどう解釈するか
+BPFK の gadri のページの例文にも出ている、
+
++ lo pa pixra cu se vamji lo ki'o valsi
++ ''「1枚の写真は1000語に値する」'' 
+
+といった一般論においても、 {lo pa pixra} や {lo ki'o valsi}
+は何か特定のものを指していると解釈される。 議論領域の中に、一般論に登場する sumti 用の、何らかの指示対象を用意しておかなければならない。
+
+直感的には、 lo ではなく lo'e を使えば良いが、((BPFK
+Section: Typicals|現状では lo'e と lo の関係について結論が出ていない))ので、
+lo'e について論理学的な観点から説明することはまだできない。
+
+あるいは、一般論の表現において指示対象への明言を避ける方法として、命題全体を NU類の中に入れるという方法が考えられる。 NU類内の命題の真理値は、 NU類外の命題の真理値に影響を及ぼさないからである（指示的に不透明 referentially opaque）。 言い換えれば、NU類内部の命題の議論領域はNU類外部の命題の議論領域と異なる。
+この方法を採用して、上記のことわざを表すなら、例えば si'o を使って
+
++ si'o lo pa pixra cu se vamji lo ki'o valsi 
++ ''「1枚の写真は1000語に値する」という概念だ''
+
+という形にすれば良い。 si'o の x_1 は暗黙の zo'e
+であり、複数定項として議論領域の中に指示対象を持つ。 一般論の解釈として、 si'o の x_1 に入る指示対象を想定することは、 {lo pa pixra} や {lo ki'o valsi} の指示対象を想定するよりも自然である。
+((The Complete Lojban Language)) では、このように terbri を明言しない bridi を「観察文」と呼んでいるが、ここで述べた用法では、この発話が特定の外部刺激 (stimulus) によって常に起こるものとは言えないから、観察文とする解釈は妥当ではない。
+
+!!!!! 自由変項をどう表現するか
+zo'e
+は複数定項であると決められているので、これによって自由変項を表すことはできない。
+このような条件下で、自由変項を使った文（開文 open
+sentence）を表現したい場合は、 ke'a か ce'u を使うのが妥当だ。
+なぜなら、これらを terbri とする bridi の真理値は決まらないからだ。
+ke'a が2回以上現れる bridi では、 ke'a が同一の項を表すと見なされる：
++ da poi ke'a gy xlura ke'a cu panci lo ka'e se citka
++ ((lo nu binxo))
+一方、 ce'u が2回以上現れる bridi では、 ce'u が同一の項を表すとは限らない：
++ lo mamta jo'u lo mensi cu simxu lo ka ce'u cisma fa'a ce'u
++ ((lo nu binxo))
+この性質を考慮すると、全く文脈のない状況で自由変項を使った開文 (open sentence) を表現するには、「同一の項」という制限がある ke'a よりも、制限のない ce'u の方が使いやすい。
++ ce'u ce'u citka
++ ''「A は B を食べる」'' （開文、真理値不定）
+
