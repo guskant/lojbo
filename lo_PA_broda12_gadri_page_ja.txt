@@ -204,7 +204,7 @@ loi PA ''sumti'' | lo gunma be lo PA ''sumti''
 lei PA ''sumti'' | lo gunma be le PA ''sumti''
 lai PA ''sumti'' | lo gunma be la PA ''sumti''
 ||
-このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数変項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で個であることは可能である：
+このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で個であることは可能である：
 ^ro'oi da poi ke'a me lo gunma be lo/le/la [[PA] broda zo'u lo gunma be lo/le/la [[PA] broda cu me da^
 ^ro'oi da poi ke'a me lo gunma be lo/le/la PA ''sumti'' zo'u lo gunma be lo/le/la PA ''sumti'' cu me da^
 
@@ -352,7 +352,7 @@ gi ro'oi de poi me ko'a zo'u de me ko'a
 ||
 これによって個でも個たちでもないようなものを内部量化することが可能になる。 さらに、これに対して上記の「内部量化の piPA の非公式な定議案」も適用できるようになる。
 
-下の図は個でも個たちでもないようなものを数え上げるしくみを有向グラフで表したものである。 この図では X me X のような自分に帰ってくるループを省略してある。 無限個の頂点（複数変項）のうち、話し手が su'o pa mei として選んだ頂点をピンク色で表している。 これらを数え上げるということは、 me によって関係付けられる有向グラフから、木の形となる部分グラフを選ぶことに相当する。 例えば図の青色の部分である。
+下の図は個でも個たちでもないようなものを数え上げるしくみを有向グラフで表したものである。 この図では X me X のような自分に帰ってくるループを省略してある。 無限個の頂点（複数定項）のうち、話し手が su'o pa mei として選んだ頂点をピンク色で表している。 これらを数え上げるということは、 me によって関係付けられる有向グラフから、木の形となる部分グラフを選ぶことに相当する。 例えば図の青色の部分である。
 
 {img fileId="9" thumb="y" rel="box[g]"}
 
@@ -459,10 +459,10 @@ lo broda が複数定項として解釈される限り、以下のロジバン�
 なぜなら、これらを terbri とする bridi の真理値は決まらないからだ。
 ke'a が2回以上現れる bridi では、 ke'a が同一の項を表すと見なされる：
 ^da poi ke'a gy xlura ke'a cu panci lo ka'e se citka
-((lo nu binxo))^
+~--~ ((lo nu binxo))^
 一方、 ce'u が2回以上現れる bridi では、 ce'u が同一の項を表すとは限らない：
 ^lo mamta jo'u lo mensi cu simxu lo ka ce'u cisma fa'a ce'u
-((lo nu binxo))^
+~--~ ((lo nu binxo))^
 この性質を考慮すると、全く文脈のない状況で自由変項を使った開文 (open sentence) を表現するには、「同一の項」という制限がある ke'a よりも、制限のない ce'u の方が使いやすい。
 ^ce'u ce'u citka
 ''「A は B を食べる」'' （開文、真理値不定）^
