@@ -312,7 +312,7 @@ lo no broda ~hs~|~hs~ =ca'e ~hs~|~hs~ naku su'oi da poi ke'a broda
 （{naku lo broda} とする定議案も良さそうだが、そうすると複数定項を含む命題全体の否定となり、量化が含意されなくなるので、上のように提案することにした。）
 
 !!!!!# 物質名詞のようなものを量化できない
-公理1によって、個でも個たちでもないようなものは {(su'o) N mei} や {lo N broda} という表現から排除される。
+((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))の公理1によって、個でも個たちでもないようなものは {(su'o) N mei} や {lo N broda} という表現から排除される。
 
 それなら piPA という量化を使えるかというと、やはり個でも個たちでもないようなものには使えない。
 ((BPFK Section: gadri|piPA は現状では外部量化についてしか定義されていない))。
@@ -347,7 +347,7 @@ gi ro'oi de poi me ko'a zo'u de me ko'a
 ||
 と言えるだけであって、{ko'a pa mei} の ko'a が個である必要はない。
 
-公理1を使わずに定義 (D1) (D2) (D3) を利用する場合は、 (D1) の de の条件として {gi'e su'o pa mei} を追加しておく必要がある（公理1を使う場合は、de の変域にある指示対象がこの条件を自動的に満たしている）。
+((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))の公理1を使わずに定義 (D1) (D2) (D3) を利用する場合は、 (D1) の de の条件として {gi'e su'o pa mei} を追加しておく必要がある（公理1を使う場合は、de の変域にある指示対象がこの条件を自動的に満たしている）。
 ;公理1を使わない場合の非公式な定義案:||
 (D1') ko'a su'o N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ su'oi da poi me ko'a ku'o su'oi de poi me ko'a gi'e su'o pa mei zo'u ge da su'o N-1 mei ginai de me da
 (D2) ko'a N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ ko'a su'o N mei gi'e nai su'o N+1 mei 
@@ -469,4 +469,3 @@ ke'a が2回以上現れる bridi では、 ke'a が同一の項を表すと見�
 この性質を考慮すると、全く文脈のない状況で自由変項を使った開文 (open sentence) を表現するには、「同一の項」という制限がある ke'a よりも、制限のない ce'u の方が使いやすい。
 ^ce'u ce'u citka~pp~
 ~/pp~''「A は B を食べる」'' （開文、真理値不定）^
-
