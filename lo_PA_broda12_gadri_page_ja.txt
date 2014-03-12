@@ -7,22 +7,22 @@
 
 !!# 用語集
 このページでは gadri を解説するために以下の用語を使う。
-;項 (sumti): 話題にする対象を指す記号、あるいはその記号を代入できる記号。 
-;議論領域 (universe of discourse): 項の指示対象 (referent) になり得るものの集合。それは自ずと話題にしている世界となっている。 議論領域は文脈によって異なる。
-;定項 (constant): 議論領域の中の特定の対象を指す項。
-;変項 (variable): 項が現れる場所を表すために使われる項で、これ自体は何も指さず、他の項を代入することができる。 後述の束縛変項以外の変項を「自由変項 (free variable)」とも言う。 自由変項を含む文は真理値が決まらない。 このような文を開文 (open sentence) と言う。
+;__項 (sumti)__: 話題にする対象を指す記号、あるいはその記号を代入できる記号。 
+;__議論領域 (universe of discourse)__: 項の指示対象 (referent) になり得るものの集合。それは自ずと話題にしている世界となっている。 議論領域は文脈によって異なる。
+;__定項 (constant)__: 議論領域の中の特定の対象を指す項。
+;__変項 (variable)__: 項が現れる場所を表すために使われる項で、これ自体は何も指さず、他の項を代入することができる。 後述の束縛変項以外の変項を__自由変項 (free variable)__ とも言う。 自由変項を含む文は真理値が決まらない。 このような文を__開文 (open sentence)__ と言う。
 ^ロジバンでは {ke'a} と {ce'u} が常に自由変項と言える。 つまり、NOI節内部や、 {ce'u} を使うNU節内部の文は、単独では開文である（{ce'u} を使わないNU節内部の文は真理値を持つが、NU節の内部と外部はそれぞれ独立した議論領域を持ち、NU節内部の文の真理値は、外部の文の真理値とは無関係である：[http://ponjbogri.github.io/cll-ja/chapter9.html#9.7|CLL9.7]など参照）。 単語のロジバン定義などでは、KOhA4類のko'V/fo'Vシリーズ {ko'a, ko'e, ...} が自由変項として使われているが、これは便宜上の慣習であって、本来 KOhA2,3,4,5,6類の全ての単語およびKOhA7類の {zo'e} は定項である。^
-;量化 (quantify): 文中の変項に代入できる項を次々に代入していった場合に、何個の指示対象がその文を真とするのかを数え、その数を変項の直前に付けること。 
-;量化子 (quantifier): 量化に使われる数。 {pa}, {re}, {vei ny su'i pa (ve'o)} などのほか、 {ro} 「全ての」 や {su'o} 「少なくとも1つの」なども数である。 
-;束縛変項 (bound variable): 量化子が付いた変項。 量化されたことによって、項を自由に代入する余地は無くなっている。
+;__量化 (quantify)__: 文中の変項に代入できる項を次々に代入していった場合に、何個の指示対象がその文を真とするのかを数え、その数を変項の直前に付けること。 
+;__量化子 (quantifier)__: 量化に使われる数。 {pa}, {re}, {vei ny su'i pa (ve'o)} などのほか、 {ro} 「全ての」 や {su'o} 「少なくとも1つの」なども数である。 
+;__束縛変項 (bound variable)__: 量化子が付いた変項。 量化されたことによって、項を自由に代入する余地は無くなっている。
 ^ロジバンでは da, de, di が束縛変項である。 例えば {ro da zo'u da broda} と言えば、「議論領域の中の全ての da について da broda が真である」 という意味になる。 da, de, di に付く数が明示されない表現もあるが、その場合には必ず {su'o} が暗黙裡に付いていると見なされる。^
-;変域 (domain): 変項に代入できる項の指示対象の範囲、あるいは量化のために指示対象を数える際に考慮する範囲。
+;__変域 (domain)__: 変項に代入できる項の指示対象の範囲、あるいは量化のために指示対象を数える際に考慮する範囲。
 ^ロジバンでは {da poi...} という形で束縛変項の変域を制限できる。 例えば {ro da poi ke'a broda zo'u da brode} は「議論領域の中で broda の x1 となる全ての da について da brode が真である」という意味になる。 {poi...} がなければ議論領域全体が変域となる。^
-;恒真文 (tautology): 文脈に関係なく常に真である文。 {ko'a du ko'a} など。
-;論理公理 (logical axioms): 恒真文のうちのいくつかを選んで論理公理とし、さらに推論規則を決めることによって、論理公理から全ての恒真文が証明されるようにしたもの。
+;__恒真文 (tautology)__: 文脈に関係なく恒に真である文。 {ko'a du ko'a} など。
+;__論理公理 (logical axioms)__: 恒真文のうちのいくつかを選んで論理公理とし、さらに推論規則を決めることによって、論理公理から全ての恒真文が証明されるようにしたもの。
 
 !!# 複数量化
-ロジバンの項について論理学的観点から理解するには、複数量化 (plural quantification) について知っておく必要がある。
+ロジバンの項について論理学的観点から理解するには、__複数量化 (plural quantification)__ について知っておく必要がある。
 
 複数量化は、「項が複数のものを指す場合にしか意味をなさないような述語」を使った命題を表現しやすくするために考えだされた。
 ;例: 人が集まって料理して食べた。
@@ -33,16 +33,16 @@
 !!!# 集団性 (collectivity) と分配性 (distributivity)
 
 「人が集まって」と言うとき、「集まって」という述語の意味から考えて、「人が」という定項は複数の人を指しているはずだ。
-このように、項の指すものが、複数のものの集団として述語を満たすとき、「項が集団的に (collectively) 述語を満たす」と言う。
+このように、項の指すものが、複数のものの集団として述語を満たすとき、「項が__集団的に (collectively)__ 述語を満たす」と言う。
 
 また、この定項が指す複数の人の各人について、「Aさんが集まって」「Bさんが集まって」といった文に分けて考えると、それぞれの文は意味をなさない。
-このように、項が指す複数のもののそれぞれが、単独では述語を満たすことができないとき、「項が非分配的に (non-distributively) 述語を満たす」と言う。
+このように、項が指す複数のもののそれぞれが、単独では述語を満たすことができないとき、「項が__非分配的に (non-distributively)__ 述語を満たす」と言う。
 
 一方、「人が食べた」と言うときには、「人が」という定項が複数の人を指しているにしても、「食べた」という述語は各人それぞれが満たしている。つまり、「Aさんが食べた」「Bさんが食べた」というそれぞれの文が有意味である。
-このように、項を構成する個のそれぞれが単独で述語を満たすとき、「項が分配的に (distributively) 述語を満たす」と言う。
+このように、項を構成する個のそれぞれが単独で述語を満たすとき、「項が__分配的に (distributively)__ 述語を満たす」と言う。
 
 また、「食べる」という述語が、「食べ物を口から入れて咀嚼し喉を通して胃へ送る」という行為を表すとすれば、「人」が集団的に「食べる」という述語を満たしているとは考えにくい。二人羽織で食べるにしても、手の役をしている人は、顔の役をしている人の食べるのを手伝っているだけであり、実際に食べているのは集団ではなくて個人だ。
-このように、項が指す複数のものが、集団では述語を満たすことができないとき、「項が非集団的に (non-collectively) 述語を満たす」と言う。
+このように、項が指す複数のものが、集団では述語を満たすことができないとき、「項が__非集団的に (non-collectively)__ 述語を満たす」と言う。
 
 「集団的」「分配的」という性質が両立するような述語もある。
 「人が料理して」というとき、複数の人が協力して餅つきをし、カレーとバーベキューについてはそれぞれの人が分担するということも可能である。
@@ -56,15 +56,15 @@
 以下で説明する複数定項や複数変項を使うと、集合を使わずに述語論理の形式で複数のものを表すことが可能になる。
 
 !!!# 複数定項と複数変項
-集合を使わずに、集団的か分配的かという区別をせずに、さらに、単数か複数かの区別さえもせずに、議論領域の中の特定の対象を指す項を「複数定項 (plural constant)」と呼ぶことにする。
-複数定項を代入できる変項を「複数変項 (plural variable)」と呼ぶ。
-複数変項を量化することを「複数量化 (plural quantification)」と呼び、その際に使われる量化子を「複数量化子 (plural quantifier)」、複数量化子が付いた複数変項を「束縛複数変項 (bound plural variable)」と呼ぶ。
+集合を使わずに、集団的か分配的かという区別をせずに、さらに、単数か複数かの区別さえもせずに、議論領域の中の特定の対象を指す項を__複数定項 (plural constant)__ と呼ぶことにする。
+複数定項を代入できる変項を__複数変項 (plural variable)__ と呼ぶ。
+複数変項を量化することを__複数量化 (plural quantification)__ と呼び、その際に使われる量化子を__複数量化子 (plural quantifier)__、複数量化子が付いた複数変項を__束縛複数変項 (bound plural variable)__ と呼ぶ。
 
 !!!!# me と jo'u
 複数定項や複数変項を扱う関係 {me} と {jo'u} を導入する。
 
 ||
-X me Y (me'u) | X is among Y | XはYなものだ
+X me Y (me'u) ~hs~|~hs~ X is among Y ~hs~|~hs~ XはYなものだ
 ||
 ここでXとYは複数定項か複数変項を表す。 文法上は {me Y (me'u)} という塊がselbriとなる。 {me'u} は {me} で始まる構造を閉じるための、省略可能な終端詞。
 
@@ -75,7 +75,7 @@ X me Y (me'u) | X is among Y | XはYなものだ
 性質3は、XとYの指示対象が同一であるということを {X me Y ijebo Y me X} という {me} の関係として表現できるということだ。
 
 ||
-X jo'u Y | X and Y | XとY
+X jo'u Y ~hs~|~hs~ X and Y ~hs~|~hs~ XとY
 ||
 2つの項XとYを合成し、全体で1つの複数定項か複数変項となる。
 
@@ -100,27 +100,29 @@ X jo'u Y | X and Y | XとY
 !!!!# 個
 複数定項の指示対象は必ずしも複数ではなく、1個の個を指すことも可能である。
 個 (an individual) は以下のように定義される。
-^「X は個である」 =ca'e {ro'oi da poi ke'a me X zo'u X me da}^
+||
+__X は個である__ ~hs~|~hs~ =ca'e ~hs~|~hs~ ro'oi da poi ke'a me X zo'u X me da
+||
 
-ここで {ro'oi} は ((xorxes|la xorxes)) が提案した試験的 cmavo で、「全ての」という意味になる複数量化子である。 {ro'oi da} によって「da に当てはまる全てのものについて」という束縛複数変項を表す。 この定義は「Xなものであるような da にあてはまる全てのものについて、Xは da なものだ」という条件が満たされるとき、「Xは個である」と呼ぶということを表している。 つまり {X me da} となるようなdaにあてはまるものが、X自体以外には議論領域内に存在しないことを「Xは個である」と言う。
+ここで __ro'oi__ は ((xorxes|la xorxes)) が提案した試験的 cmavo で、「全ての」という意味になる複数量化子である。 {ro'oi da} によって「da に当てはまる全てのものについて」という束縛複数変項を表す。 この定義は「Xなものであるような da にあてはまる全てのものについて、Xは da なものだ」という条件が満たされるとき、「Xは個である」と呼ぶということを表している。 つまり {X me da} となるようなdaにあてはまるものが、X自体以外には議論領域内に存在しないことを「Xは個である」と言う。
 
-XとYのそれぞれが個であるとき、 {X jo'u Y} を「個たち (individuals)」と呼ぶことにする。 X と Y のそれぞれが個または個たちであるときも、 {X jo'u Y} を個たちと呼ぶ。 
+XとYのそれぞれが個であるとき、 {X jo'u Y} を__個たち (individuals)__ と呼ぶことにする。 X と Y のそれぞれが個または個たちであるときも、 {X jo'u Y} を個たちと呼ぶ。 
 
 !!!!# 複数と単数の違い
-複数定項 (plural constant) のうち、個 (an individual) であるものを「単数定項 (singular constant)」と呼ぶ。
+複数定項 (plural constant) のうち、個 (an individual) であるものを__単数定項 (singular constant)__ と呼ぶ。
 
 X と Y のそれぞれが複数であろうと単数であろうと、 {X jo'u Y} は単数定項ではない。 なぜなら
 ^X me X jo'u Y ijenai X jo'u Y me X^
 が成り立つので、 {X jo'u Y} は個の条件 {ro'oi da poi ke'a me X jo'u Y zo'u X jo'u Y me da} を満たさないからである。
 
 !!!!# 束縛単数変項
-束縛複数変項に対し、その束縛複数変項の変域を個だけに制限したものが、束縛単数変項 (bound singular variable) である。
+束縛複数変項に対し、その束縛複数変項の変域を個だけに制限したものが、__束縛単数変項 (bound singular variable)__ である。
 ロジバンで公式に定義されている {ro da} （da に当てはまる全てのものについて）や {su'o da} （da に当てはまるものが少なくとも1つ存在し）は束縛単数変項であり、 これらを束縛複数変項で表すと以下のようになる。
 ||
-ro da | ro'oi da poi ro'oi de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
-su'o da | su'oi da poi ro'oi de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
+ro da ~hs~|~hs~ ro'oi da poi ro'oi de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
+su'o da ~hs~|~hs~ su'oi da poi ro'oi de poi ke'a xi pa me ke'a xi re zo'u ke'a xi re me de
 ||
-ここで {su'oi} は、 {ro'oi} と同様、 ((xorxes|la xorxes)) が提案した試験的 cmavo で、「存在し」という意味になる複数量化子である。 {su'oi} が「少なくとも1つ」__ではない__ことに注意しよう。 {su'oi da} によって「da に当てはまるものが存在し」という束縛複数変項を表す。 
+ここで __su'oi__ は ((xorxes|la xorxes)) が提案した試験的 cmavo で、「存在し」という意味になる複数量化子である。 {su'oi} が「少なくとも1つ」__ではない__ことに注意しよう。 {su'oi da} によって「da に当てはまるものが存在し」という束縛複数変項を表す。 
 
 例えば {A jo'u B} という複数定項は、束縛複数変項の変域に入ることができるが、個ではないので、束縛単数変項の変域に入ることはできない。
 
@@ -153,8 +155,8 @@ ije naku を ijenai に書き換え
 つまり ko'a は個ではない。
 
 また、 ko'a を A jo'u B と表すことができる場合、 jo'u の性質により
-^A me ko'a ^
-^B me ko'a ^
+^A me ko'a~pp~
+~/pp~B me ko'a^
 であるから A と B はそれぞれ 条件1 の da の変域内にあり、条件1-1と同様の考察によって、 A も B も個ではない。
 従って、 ko'a は個たちでもない。
 証明終わり
@@ -176,13 +178,14 @@ ije naku を ijenai に書き換え
 !!# gadri の定義
 ;__lo__ (LE): selbri の前につくと、その selbri の1番めの場所 (first place, x1) に入るものを指す複数定項を形成する。 lo の後に量化子が来ると、その複数定項の指示対象の総数を表す。 lo の後に量化子が来る場合は selbri の代わりに項を置くこともでき、その量化子はその項の指示対象の総数を表す。 つまり
 ||
-lo [[PA] broda (ku) | zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda] (ku'o) | what is/are broda [[that is/are PA in total] | broda なもの[[で、全部でPA個]
-lo PA ''sumti'' (ku) | lo PA me ''sumti'' (me'u) (ku) | what is/are among ''sumti'' that is/are PA in total | ''sumti'' なもので、全部でPA個
+lo [[PA] broda (ku) ~hs~|~hs~ zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda] (ku'o) ~hs~|~hs~ what is/are broda [[that is/are PA in total] ~hs~|~hs~ broda なもの[[で、全部でPA個]
+lo PA ''sumti'' (ku) ~hs~|~hs~ lo PA me ''sumti'' (me'u) (ku) ~hs~|~hs~ what is/are among ''sumti'' that is/are PA in total ~hs~|~hs~ ''sumti'' なもので、全部でPA個
 ||
 ku, ku'o, me'u は省略可能な終端詞である。
 
-{lo PA} のように gadri の後に量化子が置かれる量化を「内部量化」と呼ぼう。 内部量化については、後ほど詳しく議論する。
-これに対して、gadriの前、あるいはもっと一般的に、項の前に量化子が置かれる量化を「外部量化」と呼ぼう。 外部量化については、後ほど簡単に説明する。
+{lo PA} のように gadri の後に量化子が置かれることを __内部量化 inner quantification__ と呼び、この量化子を __内部量化子 inner quantifier__ と呼ぶ。 「量化」とは言っても、論理学での量化とは異なり、変項に代入できる定項の指示対象を数えるのではなく、定項自体の構成要素を数えることを表す。 内部量化については、((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))で詳しく議論する。
+
+これに対して、gadriの前、あるいはもっと一般的に、項の前に量化子が置かれる量化を __外部量化 outer quantification__ と呼び、この量化子を __外部量化子 outer quantifier__ と呼ぶ。 外部量化については、((|#a18b8ea286bb8a9efe126f5c73d060cd8|3.2節))で簡単に説明する。
 
 gadri によって形成される sumti は、全て zo'e に展開されるように定義されている。 つまり最も一般的な複数定項は単独の zo'e で表され、それに説明を追加したものが gadri で形成される sumti となる。
 
@@ -195,46 +198,46 @@ gadri によって形成される sumti は、全て zo'e に展開されるよ�
 
 ;__la__ (LA): selbri または cmevla の前について、それを名前とするものを指す複数定項を形成する。 論理学上の振る舞いは lo と同じ。
 
-;__loi__ (LE), _lei__ (LE), _lai__ (LA):  lo/le/la broda で表される複数定項に対して、集団性 (collectivity) を明示的に追加したものが loi/lei/lai broda である。 
+;__loi__ (LE), __lei__ (LE), __lai__ (LA):  lo/le/la broda で表される複数定項に対して、集団性 (collectivity) を明示的に追加したものが loi/lei/lai broda である。 
 ||
-loi [[PA] broda | lo gunma be lo [[PA] broda
-lei [[PA] broda | lo gunma be le [[PA] broda
-lai [[PA] broda | lo gunma be la [[PA] broda
-loi PA ''sumti'' | lo gunma be lo PA ''sumti''
-lei PA ''sumti'' | lo gunma be le PA ''sumti''
-lai PA ''sumti'' | lo gunma be la PA ''sumti''
+loi [[PA] broda ~hs~|~hs~ lo gunma be lo [[PA] broda
+lei [[PA] broda ~hs~|~hs~ lo gunma be le [[PA] broda
+lai [[PA] broda ~hs~|~hs~ lo gunma be la [[PA] broda
+loi PA ''sumti'' ~hs~|~hs~ lo gunma be lo PA ''sumti''
+lei PA ''sumti'' ~hs~|~hs~ lo gunma be le PA ''sumti''
+lai PA ''sumti'' ~hs~|~hs~ lo gunma be la PA ''sumti''
 ||
 このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で個であることは可能である：
-^ro'oi da poi ke'a me lo gunma be lo/le/la [[PA] broda zo'u lo gunma be lo/le/la [[PA] broda cu me da^
-^ro'oi da poi ke'a me lo gunma be lo/le/la PA ''sumti'' zo'u lo gunma be lo/le/la PA ''sumti'' cu me da^
+^ro'oi da poi ke'a me lo gunma be lo/le/la [[PA] broda zo'u lo gunma be lo/le/la [[PA] broda cu me da~pp~
+~/pp~ro'oi da poi ke'a me lo gunma be lo/le/la PA ''sumti'' zo'u lo gunma be lo/le/la PA ''sumti'' cu me da^
 
-;__lo'i__ (LE), _le'i__ (LE), _la'i__ (LA): lo/le/la broda で表される複数定項を構成する個の集合。 集合であるから、その元である lo/le/la broda が個または個たちである場合にだけ、 lo'i/le'i/la'i が定義できる。 また、集合自体も、必ず個または個たちである。 個でも個たちでもないような集合は存在しない。
+;__lo'i__ (LE), __le'i__ (LE), __la'i__ (LA): lo/le/la broda で表される複数定項を構成する個の集合。 集合であるから、その元である lo/le/la broda が個または個たちである場合にだけ、 lo'i/le'i/la'i が定義できる。 また、集合自体も、必ず個または個たちである。 個でも個たちでもないような集合は存在しない。
 ||
-lo'i [[PA] broda | lo selcmi be lo [[PA] broda
-le'i [[PA] broda | lo selcmi be le [[PA] broda
-la'i [[PA] broda | lo selcmi be la [[PA] broda
-lo'i PA ''sumti'' | lo selcmi be lo PA ''sumti''
-le'i PA ''sumti'' | lo selcmi be le PA ''sumti''
-la'i PA ''sumti'' | lo selcmi be la PA ''sumti''
+lo'i [[PA] broda ~hs~|~hs~ lo selcmi be lo [[PA] broda
+le'i [[PA] broda ~hs~|~hs~ lo selcmi be le [[PA] broda
+la'i [[PA] broda ~hs~|~hs~ lo selcmi be la [[PA] broda
+lo'i PA ''sumti'' ~hs~|~hs~ lo selcmi be lo PA ''sumti''
+le'i PA ''sumti'' ~hs~|~hs~ lo selcmi be le PA ''sumti''
+la'i PA ''sumti'' ~hs~|~hs~ lo selcmi be la PA ''sumti''
 ||
 {lo'i/le'i/la'i} は {lo selcmi be lo/le/la} という別の複数変項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo selcmi} という複数定項として扱われる。 
 
-空集合は {lo selcmi be no da} であり、また、((|#a53144d82d50cb4f3ba5484fe6b2ec29d|次節))で述べるように {lo no broda} という表現は公式定義では無意味であるから、 lo'i/le'i/la'i によって空集合を表現することはできない。
+空集合は {lo selcmi be no da} であり、また、((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))で述べるように {lo no broda} という表現は公式定義では無意味であるから、 lo'i/le'i/la'i によって空集合を表現することはできない。
 
 !!!# 内部量化
 ((BPFK Section: gadri|内部量化の BPFKによる定義))は以下のようになっている。
 ||
-lo [[PA] broda | zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda]
-lo PA ''sumti'' | lo PA me ''sumti''
+lo [[PA] broda ~hs~|~hs~ zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda]
+lo PA ''sumti'' ~hs~|~hs~ lo PA me ''sumti''
 ||
 つまり内部量化は、 zilkancu_3 となる {lo broda} や {lo me ''sumti''} を単位（つまり1）として数えた場合の数を表す。
 しかし、zilkancuの意味が漠然としているので、 [https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/xi2h6A17CusJ|mei を使って以下のように定義し直す案が出された]。
 
 ;公理1: ro'oi da su'o pa mei
 ;定義:||
-(D1) ko'a su'o N mei | =ca'e | su'oi da poi me ko'a ku'o su'oi de poi me ko'a zo'u ge da su'o N-1 mei ginai de me da
-(D2) ko'a N mei | =ca'e | ko'a su'o N mei gi'e nai su'o N+1 mei 
-(D3) lo PA broda | =ca'e | zo'e noi ke'a PA mei gi'e broda
+(D1) ko'a su'o N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ su'oi da poi me ko'a ku'o su'oi de poi me ko'a zo'u ge da su'o N-1 mei ginai de me da
+(D2) ko'a N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ ko'a su'o N mei gi'e nai su'o N+1 mei 
+(D3) lo PA broda ~hs~|~hs~ =ca'e ~hs~|~hs~ zo'e noi ke'a PA mei gi'e broda
 ||
 
 公理1とこれらの定義によって、
@@ -281,7 +284,7 @@ ko'a pa mei	|=| ro'oi da poi me ko'a ku'o ro'oi de poi me ko'a zo'u de me da
 この右辺は「ko'a は個である」の条件 {ro'oi da poi ke'a me ko'a zo'u ko'a me da} を含意する。またその逆も成り立つ。 
 証明終わり
 
-下の図は4個のものを数え上げるしくみを有向グラフで表したものである。 この図では X me X のような自分に帰ってくるループを省略してある。 個数を数えるということは、 me によって関係付けられる有向グラフから、木の形となる部分グラフを選ぶことに相当する。 例えば図のマゼンダ色の部分である。
+下の図は4個のものを数え上げるしくみを有向グラフで表したものである。 この図では X me X のような自分に帰ってくるループを省略してある。 個数を数えるということは、 me によって形成される有向グラフから、数えるべき葉（個である定項）を全て含む木の形となる部分グラフを選ぶことに相当する。 例えば図のマゼンダ色の部分である。
 
 {img fileId="8" thumb="y" rel="box[g]"}
 
@@ -293,8 +296,8 @@ gadri で形成される項は複数定項だから、複数定項に関する�
 このことは、複数変項の存在否定 {naku su'oi da} を公式のロジバンでは表現できないということを意味する。
 複数変項の存在否定表現が必要になるのは以下のような場合だ。
 
-^lo xo prenu cu jmaji gi'e jukpa gi'e citka ~--~ no
-''「何人集まって料理して食べたの？」「0人」''^
+^ lo xo prenu cu jmaji gi'e jukpa gi'e citka ~hs~~--~ no~pp~
+~/pp~''「何人集まって料理して食べたの？」「0人」''^
 
 この返答は {lo no prenu cu jmaji gi'e jukpa gi'e citka} の簡略形である。
 
@@ -303,7 +306,7 @@ gadri で形成される項は複数定項だから、複数定項に関する�
 このような命題では、 {lo no broda} という表現に対して、複数変項の存在否定という意味を与えることが必要になる。
 そこで {lo PA broda} の定義の PA=0 の場合に対して、以下のような定義を提案する。
 ;{lo no broda} の非公式な定議案:||
-lo no broda | =ca'e | naku su'oi da poi ke'a broda
+lo no broda ~hs~|~hs~ =ca'e ~hs~|~hs~ naku su'oi da poi ke'a broda
 ||
 
 （{naku lo broda} とする定議案も良さそうだが、そうすると複数定項を含む命題全体の否定となり、量化が含意されなくなるので、上のように提案することにした。）
@@ -314,24 +317,24 @@ lo no broda | =ca'e | naku su'oi da poi ke'a broda
 それなら piPA という量化を使えるかというと、やはり個でも個たちでもないようなものには使えない。
 ((BPFK Section: gadri|piPA は現状では外部量化についてしか定義されていない))。
 ||
-piPA ''sumti'' | lo piPA si'e be pa me ''sumti''
+piPA ''sumti'' ~hs~|~hs~ lo piPA si'e be pa me ''sumti''
 ||
 このように、 piPA による外部量化の実体は lo piPA si'e という複数定項なので、これ自体は束縛単数変項ではない。 しかし {piPA si'e} の x2 として {pa me ''sumti''} が付いていて、これには ((BPFK Section: gadri|PA broda の定義))
 ||
-PA broda | PA da poi broda 
+PA broda ~hs~|~hs~ PA da poi broda 
 ||
 が適用されるため、{me ''sumti''} の x1 に当てはまるものとして個がある場合にしか成立しない。 つまり、個でも個たちでもないようなものは、 piPA という外部量化表現からも排除される。
 
 piPA を内部量化でも定義するという案もあり得る。
 その場合は、外部量化の piPA の形に合わせて、以下のような形にするのが理想的だ。
 ; 内部量化の piPA の非公式な定議案:||
-lo piPA broda | =ca'e | zo'e noi ke'a piPA si'e be lo pa broda
+lo piPA broda ~hs~|~hs~ =ca'e ~hs~|~hs~ zo'e noi ke'a piPA si'e be lo pa broda
 ||
 そうすると、個でも個たちでもないようなものは依然として、 {lo pa broda} によって表現できない限り、内部量化の piPA 表現からも排除される。
 
 ほかの望みの綱として、 {PA si'e} の表現を、個でも個たちでもないようなものの数量表現に利用するという案がある。 しかし、((BPFK Section: Numeric selbri|現在の si'e のBPFK定義))は pagbu に依存している。
 ||
-x1 number si'e x2 | x1 pagbu x2 gi'e klani li number lo se gradu be x2
+x1 number si'e x2 ~hs~|~hs~ x1 pagbu x2 gi'e klani li number lo se gradu be x2
 ||
 pagbu の x1 が x2 よりも大きくはならないと解釈すれば、si'e を使って[https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/nUbZiwmB2M0J|ものを数え上げる際に、単位の変更を余儀なくされるので、非常に使いにくい]。 {PA si'e} の PA が1よりも大きくなれるように si'e の定義を変えれば、個でも個たちでもないようなものの数量表現一般に si'e を使うことが可能になる。
 
@@ -346,9 +349,9 @@ gi ro'oi de poi me ko'a zo'u de me ko'a
 
 公理1を使わずに定義 (D1) (D2) (D3) を利用する場合は、 (D1) の de の条件として {gi'e su'o pa mei} を追加しておく必要がある（公理1を使う場合は、de の変域にある指示対象がこの条件を自動的に満たしている）。
 ;公理1を使わない場合の非公式な定義案:||
-(D1') ko'a su'o N mei | =ca'e | su'oi da poi me ko'a ku'o su'oi de poi me ko'a gi'e su'o pa mei zo'u ge da su'o N-1 mei ginai de me da
-(D2) ko'a N mei | =ca'e | ko'a su'o N mei gi'e nai su'o N+1 mei 
-(D3) lo PA broda | =ca'e | zo'e noi ke'a PA mei gi'e broda
+(D1') ko'a su'o N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ su'oi da poi me ko'a ku'o su'oi de poi me ko'a gi'e su'o pa mei zo'u ge da su'o N-1 mei ginai de me da
+(D2) ko'a N mei ~hs~|~hs~ =ca'e ~hs~|~hs~ ko'a su'o N mei gi'e nai su'o N+1 mei 
+(D3) lo PA broda ~hs~|~hs~ =ca'e ~hs~|~hs~ zo'e noi ke'a PA mei gi'e broda
 ||
 これによって個でも個たちでもないようなものを内部量化することが可能になる。 さらに、これに対して上記の「内部量化の piPA の非公式な定議案」も適用できるようになる。
 
@@ -356,12 +359,12 @@ gi ro'oi de poi me ko'a zo'u de me ko'a
 
 {img fileId="9" thumb="y" rel="box[g]"}
 
-!!! 外部量化
+!!!# 外部量化
 piPA以外の外部量化は束縛単数変項である。
 ||
-PA ''sumti'' | PA da poi ke'a me ''sumti''
-PA broda | PA da poi broda 
-piPA ''sumti'' | lo piPA si'e be pa me ''sumti''
+PA ''sumti'' ~hs~|~hs~ PA da poi ke'a me ''sumti''
+PA broda ~hs~|~hs~ PA da poi broda 
+piPA ''sumti'' ~hs~|~hs~ lo piPA si'e be pa me ''sumti''
 ||
 piPAによる外部量化は、lo piPA si'e という複数定項を表す。 ただし {piPA si'e} の x2 として {pa me ''sumti''} という外部量化を含んでいる。
 
@@ -370,13 +373,13 @@ piPAによる外部量化は、lo piPA si'e という複数定項を表す。 �
 
 !!!# 存在について
 ^((BPFK Section: gadri|Positive impact: Some usages that make little sense with {lo} = {su'o} become validated.))^
- 
-ただし、 {lo broda} が複数定項であることと、複数定項に関する論理公理によって、 {lo broda cu brode} という命題は、 {su'oi da brode} という命題を暗黙的に含意している。
+
+{lo} = {su'o} ではなくなったが、 {lo broda} が複数定項であることと、複数定項に関する論理公理によって、 {lo broda cu brode} という命題は、 {su'oi da brode} という命題を暗黙的に含意している。
 
 !!!# claxu の x2
-^((BPFK Section: gadri|le cmana __lo__ cidja ba claxu))
-  ''In the mountains there is no food.''
-((lapoi pelxu ku'o trajynobli))^
+^((BPFK Section: gadri|le cmana __lo__ cidja ba claxu))~pp~
+~/pp~  ''In the mountains there is no food.''~pp~
+~/pp~((lapoi pelxu ku'o trajynobli))^
 
 lo cidja を展開すると
 ^le cmana zo'e noi ke'a cidja ku'o ba claxu^
@@ -399,7 +402,7 @@ to toi 内は挿入句だから、 bridi 本体は
 「zo'e は本質的には自由変項であり、文脈に応じて議論領域が決まり、議論領域に応じて、 zo'e に何らかの定項が代入されているか、複数量化子によって量化されていると見なされる」という解釈をすると仮定した場合の、利点と欠点を挙げる。
 
 !!!!!# 利点
-この仮定の下では、 lo PA broda における PA=0 の場合を、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))の定議案のように特異点扱いする必要は無かった。  lo PA broda が本来自由変項であれば、 PA>0 のときは複数定項が代入されるか、∃X などの複数量化子によって束縛され、 PA=0 のときには ¬∃X によって束縛されると解釈すれば良かったからである。 
+この仮定の下では、 lo PA broda における PA=0 の場合を、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))の定議案のように特異点扱いする必要は無かった。  lo PA broda が本来自由変項であれば、 PA>0 のときは複数定項が代入されるか、su'oi da などの複数量化子によって束縛され、 PA=0 のときには naku su'oi da によって束縛されると解釈すれば良かったからである。 
 
 この解釈は、 PA=0 の時のみならず、 PA>0 についても、より自然言語に近い解釈を可能にする。例えば
 ^lo ci xanto cu zilkancu li ci lo xanto^
@@ -415,8 +418,8 @@ zo'e が文脈によって自由変項だったり、束縛複数変項だった
 !!!!# zo'e が複数定項であることから生じる問題点と、その解決方法
 公式解釈による zo'e は複数定項であるから、以下のような問題点が生じる。
 
-!!!!!# 「¬∃X」という複数量化が表現できない
-PA=0 の場合の lo PA broda の合理的な解釈は、公式にはロジバンから追放される。 つまり、複数論理では当然扱える ¬∃X という複数量化が、ロジバンでは公式には扱えない。 lo no broda という表現をしたい場合には、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))のように、非公式の解釈を提案する必要がある。
+!!!!!# 「存在しない」という複数量化が表現できない
+lo no broda の合理的な解釈は、公式にはロジバンから追放される。 つまり、複数量化では当然扱える「da に当てはまるものが存在しない naku su'oi da」に相当する表現が、ロジバンでは公式には扱えない。 lo no broda という表現をしたい場合には、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))のように、非公式の解釈をする必要がある。
 
 !!!!!# 特定のものを指さない束縛複数変項を表現できない
 lo PA broda が、文脈によっては束縛複数変項であるという解釈が不可能になったので、 数えの単位のような、特定のものを指さないはずの項も、何らかの定項であると解釈しなければいけなくなった。 例えば、
@@ -426,8 +429,8 @@ lo PA broda が、文脈によっては束縛複数変項であるという解�
 !!!!!# 素粒子を lo で表すことができない
 lo broda が複数定項として解釈される限り、以下のロジバン文は無意味である：
 
-^lo guska'u cu gau jmaji sepi'o lo lenjo gi'e pagre lo fenra
-''「光子がレンズで集められ、スリットを通り抜ける」''^
+^lo guska'u cu gau jmaji sepi'o lo lenjo gi'e pagre lo fenra~pp~
+~/pp~''「光子がレンズで集められ、スリットを通り抜ける」''^
 
 なぜなら実際のところ、光子は個であり、個数を数えることはできるのだが、この光子とあの光子といった区別をすることはできない、つまり、「特定の」光子を指すことは不可能だからだ。 光子などの素粒子を表す項には、量化表現こそが相応しい。ところがロジバンには公式には複数量化子が無いので、上記のように selbri を集団的にも分配的にも満たすような項として、量化を明示することはできない。 lo broda が複数定項であると宣言されたので、 lo guska'u を束縛複数変項として解釈する余地も残されていない。 解決策としては、 ((xorxes|la xorxes)) が提案した非公式の複数量化子 su'oi を使うしかない。
 
@@ -436,8 +439,8 @@ lo broda が複数定項として解釈される限り、以下のロジバン�
 !!!!!# 一般論をどう解釈するか
 ((BPFK Section: gadri|BPFK の gadri のページ))の例文にも出ている、
 
-^lo pa pixra cu se vamji lo ki'o valsi
-''「1枚の写真は1000語に値する」'' ^
+^lo pa pixra cu se vamji lo ki'o valsi~pp~
+~/pp~''「1枚の写真は1000語に値する」'' ^
 
 といった一般論においても、 {lo pa pixra} や {lo ki'o valsi}
 は何か特定のものを指していると解釈される。 議論領域の中に、一般論に登場する sumti 用の、何らかの指示対象を用意しておかなければならない。
@@ -447,8 +450,8 @@ lo broda が複数定項として解釈される限り、以下のロジバン�
 あるいは、一般論の表現において指示対象への明言を避ける方法として、命題全体を NU類の中に入れるという方法が考えられる。 NU類内の命題の真理値は、 NU類外の命題の真理値に影響を及ぼさないからである（指示的に不透明 referentially opaque; [http://ponjbogri.github.io/cll-ja/chapter9.html#9.7|CLL9.7]など参照）。 言い換えれば、NU類内部の命題の議論領域はNU類外部の命題の議論領域と異なる。
 この方法を採用して、上記のことわざを表すなら、例えば si'o を使って
 
-^si'o lo pa pixra cu se vamji lo ki'o valsi 
-''「1枚の写真は1000語に値する」という概念だ''^
+^si'o lo pa pixra cu se vamji lo ki'o valsi ~pp~
+~/pp~''「1枚の写真は1000語に値する」という概念だ''^
 
 という形にすれば良い。 si'o の x1 は暗黙の zo'e であり、複数定項として議論領域の中に指示対象を持つ。 一般論の解釈として、 si'o の x1 に入る指示対象を想定することは、 {lo pa pixra} や {lo ki'o valsi} の指示対象を想定するよりも自然である。
 （((The Complete Lojban Language)) では、このように terbri を明言しない bridi を「観察文」と呼んでいるが、ここで述べた用法では、この発話が特定の外部刺激 (stimulus) によって常に起こるものとは言えないから、観察文とする解釈は妥当ではない。）
@@ -458,12 +461,12 @@ lo broda が複数定項として解釈される限り、以下のロジバン�
 この慣習に従わずに自由変項を使った文（開文 open sentence）を表現したい場合は、 ke'a か ce'u を使うのが妥当だ。
 なぜなら、これらを terbri とする bridi の真理値は決まらないからだ。
 ke'a が2回以上現れる bridi では、 ke'a が同一の項を表すと見なされる：
-^da poi ke'a gy xlura ke'a cu panci lo ka'e se citka
-~--~ ((lo nu binxo))^
+^da poi ke'a gy xlura ke'a cu panci lo ka'e se citka~pp~
+~/pp~~--~ ((lo nu binxo))^
 一方、 ce'u が2回以上現れる bridi では、 ce'u が同一の項を表すとは限らない：
-^lo mamta jo'u lo mensi cu simxu lo ka ce'u cisma fa'a ce'u
-~--~ ((lo nu binxo))^
+^lo mamta jo'u lo mensi cu simxu lo ka ce'u cisma fa'a ce'u~pp~
+~/pp~~--~ ((lo nu binxo))^
 この性質を考慮すると、全く文脈のない状況で自由変項を使った開文 (open sentence) を表現するには、「同一の項」という制限がある ke'a よりも、制限のない ce'u の方が使いやすい。
-^ce'u ce'u citka
-''「A は B を食べる」'' （開文、真理値不定）^
+^ce'u ce'u citka~pp~
+~/pp~''「A は B を食べる」'' （開文、真理値不定）^
 
