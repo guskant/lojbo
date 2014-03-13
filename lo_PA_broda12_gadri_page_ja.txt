@@ -25,7 +25,8 @@
 ロジバンの項について論理学的観点から理解するには、__複数量化 (plural quantification)__ について知っておく必要がある。
 
 複数量化は、「項が複数のものを指す場合にしか意味をなさないような述語」を使った命題を表現しやすくするために考えだされた。
-;例: 人が集まって料理して食べた。
+^
+;例: 人が集まって料理して食べた。^
 この文は、論理学的に見れば、「人が」という定項と「集まって」「料理して」「食べた」という3つの述語からなる命題である。
 ただ、これらの3つの述語は、項の扱い方が互いに異なる。
 この例文について、項の扱い方を詳しく見てみよう。
@@ -43,6 +44,7 @@
 
 また、「食べる」という述語が、「食べ物を口から入れて咀嚼し喉を通して胃へ送る」という行為を表すとすれば、「人」が集団的に「食べる」という述語を満たしているとは考えにくい。二人羽織で食べるにしても、手の役をしている人は、顔の役をしている人の食べるのを手伝っているだけであり、実際に食べているのは集団ではなくて個人だ。
 このように、項が指す複数のものが、集団では述語を満たすことができないとき、「項が__非集団的に (non-collectively)__ 述語を満たす」と言う。
+（もっとも、「食べる」という述語を「集団的に食べる」という意味に解釈することは可能である。 例えば「体外にある食べ物を体内へ片付ける」という行為を表すとすれば、目の前にある料理を皆が食べて減らしていくことを、「集団的に食べる」と言える。）
 
 「集団的」「分配的」という性質が両立するような述語もある。
 「人が料理して」というとき、複数の人が協力して餅つきをし、カレーとバーベキューについてはそれぞれの人が分担するということも可能である。
@@ -87,11 +89,12 @@ X jo'u Y ~hs~|~hs~ X and Y ~hs~|~hs~ XとY
 性質3は {jo'u} で繋がった項の一部をもう一度 {jo'u} で合成しても、全体の指すものは変わらないということだ。
 
 {jo'u} を使うと、例えば以下のような表現が可能になる。
+^
 ;例: BとCが集まって料理して食べた。
-^by jo'u cy jmaji gi'e jukpa gi'e citka^
-このBとCのそれぞれは、「個」でなくても構わない。
+;: by jo'u cy jmaji gi'e jukpa gi'e citka^
+ここで {by} {cy} はそれぞれ複数定項である。
 
-{jukpa} （料理して）という述語は、集団的にも分配的にも解釈できるが、{by jo'u cy} という複数定項は、{jukpa} を集団的に満たすのか、分配的に満たすのかということを明示していない。「集団的に」料理するということを明示したい場合には {by joi cy} あるいは {lu'o by jo'u cy} と言う。 逆に、「分配的に」料理することを明示したい場合は {lu'a by jo'u cy} と言う。 ただし、このようにして集団性や分配性を明示した項を、 {jmaji} や {citka} のような他の述語がそのまま共有できるとは限らない。
+{jukpa} （料理して）という述語は、集団的にも分配的にも解釈できるが、{by jo'u cy} という複数定項は、{jukpa} を集団的に満たすのか、分配的に満たすのかということを明示していない。「集団的に」料理するということを明示したい場合には {by joi cy} あるいは((|#lu_a_lu_o_lu_i_gadri_|3.3節))で説明する {lu'o} を使って {lu'o by jo'u cy} と言う。 逆に、「分配的に」料理することを明示したい場合は((|#lu_a_lu_o_lu_i_gadri_|3.3節))で説明する {lu'a} を使って  {lu'a by jo'u cy} と言う。 ただし、このようにして集団性や分配性を明示した項を、 {jmaji} や {citka} のような他の述語がそのまま共有できるとは限らない。
 
 下の図は複数定項を頂点とする有向グラフとして、 {me} と {jo'u} を表現してみたものである。
 
@@ -126,7 +129,8 @@ su'o da ~hs~|~hs~ su'oi da poi ro'oi de poi ke'a xi pa me ke'a xi re zo'u ke'a x
 
 例えば {A jo'u B} という複数定項は、束縛複数変項の変域に入ることができるが、個ではないので、束縛単数変項の変域に入ることはできない。
 
-!!!!# 複数定項の指示対象は、個または個たちであるとは限らない。
+!!!!# 個でも個たちでもないもの
+複数定項の指示対象は、個または個たちであるとは限らない。
 複数定項の指示対象が個でも個たちでもないような議論領域を想定することは可能である。
 
 例えば、以下の命題が真であるような議論領域を考えよう。
@@ -185,12 +189,12 @@ ku, ku'o, me'u は省略可能な終端詞である。
 
 {lo PA} のように gadri の後に量化子が置かれることを __内部量化 inner quantification__ と呼び、この量化子を __内部量化子 inner quantifier__ と呼ぶ。 「量化」とは言っても、論理学での量化とは異なり、変項に代入できる定項の指示対象を数えるのではなく、定項自体の構成要素を数えることを表す。 内部量化については、((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))で詳しく議論する。
 
-これに対して、gadriの前、あるいはもっと一般的に、項の前に量化子が置かれる量化を __外部量化 outer quantification__ と呼び、この量化子を __外部量化子 outer quantifier__ と呼ぶ。 外部量化については、((|#a67bd8dedb0e13e60fcbb669ef81db5b0|3.2節))で簡単に説明する。
+これに対して、gadriの前、あるいはもっと一般的に、項の前に量化子が置かれる量化を __外部量化 outer quantification__ と呼び、この量化子を __外部量化子 outer quantifier__ と呼ぶ。 外部量化については、((|#a67bd8dedb0e13e60fcbb669ef81db5b0|3.2節))で説明する。
 
 gadri によって形成される sumti は、全て zo'e に展開されるように定義されている。 つまり最も一般的な複数定項は単独の zo'e で表され、それに説明を追加したものが gadri で形成される sumti となる。
-
+^
 ;例: 人が集まって料理して食べた。
-^lo prenu cu jmaji gi'e jukpa gi'e citka^
+;: lo prenu cu jmaji gi'e jukpa gi'e citka^
 
 {jukpa} （料理して）という述語は、集団的にも分配的にも解釈できるが、{lo prenu} という複数定項は、{jukpa} を集団的に満たすのか、分配的に満たすのかということを明示していない。「集団的に」料理するということを明示したい場合には、後述の {loi} を使って {loi prenu}と言う。 逆に、「分配的に」料理することを明示したい場合は、{ro lo prenu} のような外部量化を使うか、または {lu'a lo prenu} と言う。 ただし、このようにして集団性や分配性を明示した項を、 {jmaji} や {citka} のような他の述語が共有できるとは限らない。
 
@@ -207,7 +211,7 @@ loi PA ''sumti'' ~hs~|~hs~ lo gunma be lo PA ''sumti''
 lei PA ''sumti'' ~hs~|~hs~ lo gunma be le PA ''sumti''
 lai PA ''sumti'' ~hs~|~hs~ lo gunma be la PA ''sumti''
 ||
-このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で個であることは可能である：
+このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で {lo gunma} としての個であることは可能である：
 ^ro'oi da poi ke'a me lo gunma be lo/le/la [[PA] broda zo'u lo gunma be lo/le/la [[PA] broda cu me da~pp~
 ~/pp~ro'oi da poi ke'a me lo gunma be lo/le/la PA ''sumti'' zo'u lo gunma be lo/le/la PA ''sumti'' cu me da^
 
@@ -288,6 +292,12 @@ ko'a pa mei	|=| ro'oi da poi me ko'a ku'o ro'oi de poi me ko'a zo'u de me da
 
 {img fileId="10" thumb="y" rel="box[g]"}
 
+!!!!# 内部量化の重複
+{lo PA ''sumti''} という形が定義されているので、内部量化を重ねて1つの項を作ることもできる。
+^
+;例: lo mulno kardygri cu gunma lo vo loi paci karda ~hs~ ''トランプカード1組は13枚のカード4組で構成される''
+;: su'o da zo'u loi re lo'i ro mokca noi sepli py noi mokca ku'o da cu relcuktai ~hs~ ''点Pから等距離にある点の集合2個は二重丸だ''^
+
 !!!!# 内部量化の問題点
 !!!!!# ゼロと言えない
 
@@ -360,13 +370,83 @@ gi ro'oi de poi me ko'a zo'u de me ko'a
 {img fileId="9" thumb="y" rel="box[g]"}
 
 !!!# 外部量化
-piPA以外の外部量化は束縛単数変項である。
+外部量化は以下のように定義される。
 ||
 PA ''sumti'' ~hs~|~hs~ PA da poi ke'a me ''sumti''
 PA broda ~hs~|~hs~ PA da poi broda 
 piPA ''sumti'' ~hs~|~hs~ lo piPA si'e be pa me ''sumti''
 ||
-piPAによる外部量化は、lo piPA si'e という複数定項を表す。 ただし {piPA si'e} の x2 として {pa me ''sumti''} という外部量化を含んでいる。
+
+{piPA} 以外の外部量化は {PA da} であり、これは公式には束縛単数変項である。 従ってこれらの項が分配的に述語を満たすことに注意しなければならない。 例えば {jmaji} （集まる）の x1 として {ci lo prenu} という項を使うのは無意味である。 3人のそれぞれが「集まる」という述語を満たしているわけではないからだ。
+
+ただし PA として非公式の複数量化子 ro'oi や su'oi などを使えば、束縛複数変項にすることは可能だ。 例えば
+^su'oi prenu cu jmaji ~hs~ 集まる人が存在する^
+この文は内部量化の
+^lo prenu cu jmaji ~hs~ 人が集まる^
+から((|#a0e7530ddbf698632d1b6e3883594db9e|2.2.6節))の論理公理によって含意される文に等しい。
+
+{PA lo broda} と {PA broda} は、束縛単数変項に当てはまる指示対象を数えるときの変域が異なる。 外部量化の定義から以下のことが言える。
+||
+PA lo broda ~hs~|~hs~ PA da poi ke'a me lo broda ~hs~|~hs~ 議論領域の中の lo broda という複数定項の指示対象が束縛単数変項の変域であり、そのうちのPA個
+PA broda ~hs~|~hs~ PA da poi ke'a broda ~hs~|~hs~ 議論領域の中の全ての broda なものが束縛単数変項の変域であり、そのうちのPA個
+||
+
+^
+;例1: ro jmive ba morsi ~hs~ ''生きものは皆死ぬ''
+;例2: ro lo prenu ti klama ~hs~ ''全員ここに来る''^
+例1では議論領域内の全ての jmive なものについて言っている。 例2の議論領域内には、この文の lo prenu の指示対象以外にも prenu なものがあると考えて構わない。
+
+{piPA} による外部量化は、{lo piPA si'e} という複数定項を表す。 ただし {piPA si'e} の x2 として {pa me ''sumti''} という外部量化を含んでいる。 この定義に出てくる pi は「1より大きくない」ということを表すものであり、実際の表現では pi の代わりに fi'u などを用いても構わない。
+
+!!!!# 外部量化と内部量化の組み合わせ
+内部量化と外部量化の定義から、以下のことが言える。
+||
+M lo [[N] broda ~hs~|~hs~ [[N個の] lo broda のうちの M個 （それらが分配的に述語を満たす）
+M loi [[N] broda ~hs~|~hs~ [[N個の] lo broda からなる lo gunma M個 （それらが分配的に述語を満たす）
+M lo'i [[N] broda ~hs~|~hs~ [[N個の] lo broda からなる lo selcmi M個 （それらが分配的に述語を満たす）
+pi M lo [[N] broda ~hs~|~hs~ [[N個の] lo broda のうちの 1個の一部分で、その量は pi M si'e
+pi M loi [[N] broda ~hs~|~hs~ [[N個の] lo broda からなる lo gunma 1個 の一部分で、その量は pi M si'e
+pi M lo'i [[N] broda ~hs~|~hs~ [[N個の] lo broda からなる lo selcmi 1個 の一部分（部分集合）で、その量は pi M si'e 
+||
+
+これらのうちの {M lo [[N] broda} や {pi M loi [[N] broda} を使って、複数のものの一部を表現することができる。
+^
+;例1: re lo [[ci] mlatu mi viska ~hs~ ''[[3匹の]猫のうちの2匹がこっちを見ている''
+;例2: re fi'u ci loi [[vei ci pi'i ny (ve'o)] mlatu mi viska ~hs~ ''[[3n匹の]猫のうちの3分の2がこっちを見ている''^
+
+例1の {re lo [[ci] mlatu} は {lo [[ci] mlatu} の指示対象である（3匹の）猫のうちの2匹を指す。 
+内部量化子の {ci} が無い場合は {lo mlatu} の指示対象が何匹の猫であるか不明だが、それでもとにかく {re lo mlatu} はそれらの猫のうちの2匹を指す。
+
+例2では {loi} が使われているので、 その指示対象の実体は {lo gunma} である。 例2を {loi} と {piPA ''sumti''} の定義に従って展開すれば
+^
+;例2-1: lo re fi'u ci si'e be pa me lo gunma be lo [[vei ci pi'i ny (ve'o)] mlatu mi viska^
+つまり {re fi'u ci loi...} は {pa me lo gunma...} という「個」のうちの3分の2を指す。 その {lo gunma} は {vei ci pi'i ny (ve'o)} 匹の猫からなる。 
+内部量化子が無い場合は {loi mlatu} が何匹の猫からなる {lo gunma} を指すのか不明だが、それでもとにかく {re fi'u ci loi mlatu} はその {lo gunma} の3分の2を指す。 ただし
+^re fi'u ci loi mlatu mi viska^
+という文は、この {loi mlatu} の構成要素である猫の個体数が3の倍数でなければ意味をなさない。 猫の切れ端が {viska} という述語を満たすようなことは考えにくいからだ。
+またBPFKの解釈では非集団的に述語を満たす複数定項を {loi} で表すことはできないから、「猫が非集団的にこっちを見ている」ということを言いたい場合は {loi} を使わない表現にするか、あるいは((|#lu_a_lu_o_lu_i_gadri_|3.3節))に説明する {lu'a} を使って
+^lu'a re fi'u ci loi mlatu mi viska^
+とする。
+
+!!!# lu'a, lu'o, lu'i と gadri の関係
+((BPFK Section: Indirect Referers)) ではLAhE類の lu'a, lu'o, lu'i が以下のように定義されている。
+||
+lu'a ''sumti'' ~hs~|~hs~ lo me ''sumti'' ~hs~|~hs~ lo cmima be ''sumti'' [[noi selcmi]
+lu'o ''sumti'' ~hs~|~hs~ loi me ''sumti''
+lu'i ''sumti'' ~hs~|~hs~ lo'i me ''sumti''
+||
+しかし同ページに書かれた英語の説明から察すれば、この {lu'a} の定義は不足であり、 {lu'o} の定義はいくらか問題を含む。
+
+{lu'a} は、{lo selcmi} であるような項からは {selcmi} の x2 を抽出し、 {lo gunma} であるような項からは {gunma} の x2 を抽出する。 さらに {lu'a} は、項が分配的かつ非集団的に述語を満たすことを明示する。 一方 {lo} の定義によれば、 {lo me ''sumti''} という表現は「分配的かつ非集団的に」ということを含意しない。 
+
+また {lu'o} は非分配的かつ集団的に述語を満たすことを明示する。 一方 {loi} の定義によれば、 {loi me ''sumti''} は集団的に述語を満たす項を構成するが、それが非分配的に述語を満たすかどうかまでは明言していない。 整合性を追求するなら、 {loi} の定義に「非分配的に述語を満たす」ということを追記するのが良いだろう。
+
+以上の考えに基づいて、以下のような定義を提案する。
+; lu'a の非公式な定議案:||
+lu'a ''sumti'' ~hs~|~hs~ lo cmima be ''sumti'' noi selcmi ku onai lo se gunma be ''sumti'' noi gunma ku onai lo me ''sumti'' ku ~pp~
+~/pp~ ~hs~ vu'o noi su'o da zo'u da me ke'a gi'e no'a
+||
+ここに現れる vu'o 以降のnoi節では、 {lu'a ''sumti''} の指示対象が分配的にこの項を含む文を満たすことを説明している。
 
 !!# 覚書
 以下の話は解説者 guskant の覚書であり、 gadri の理解のために全く重要ではない。
@@ -402,7 +482,7 @@ to toi 内は挿入句だから、 bridi 本体は
 「zo'e は本質的には自由変項であり、文脈に応じて議論領域が決まり、議論領域に応じて、 zo'e に何らかの定項が代入されているか、複数量化子によって量化されていると見なされる」という解釈をすると仮定した場合の、利点と欠点を挙げる。
 
 !!!!!# 利点
-この仮定の下では、 lo PA broda における PA=0 の場合を、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))の定議案のように特異点扱いする必要は無かった。  lo PA broda が本来自由変項であれば、 PA>0 のときは複数定項が代入されるか、su'oi da などの複数量化子によって束縛され、 PA=0 のときには naku su'oi da によって束縛されると解釈すれば良かったからである。 
+この仮定の下では、 lo PA broda における PA=0 の場合を、((|#afa329c54276bc781a008934d4b0d5f76|3.1.2.1節))の定議案のように特異点扱いする必要は無かった。  lo PA broda が本来自由変項であれば、 PA>0 のときは複数定項が代入されるか、su'oi da などの複数量化子によって束縛され、 PA=0 のときには naku su'oi da によって束縛されると解釈すれば良かったからである。 
 
 この解釈は、 PA=0 の時のみならず、 PA>0 についても、より自然言語に近い解釈を可能にする。例えば
 ^lo ci xanto cu zilkancu li ci lo xanto^
@@ -419,7 +499,7 @@ zo'e が文脈によって自由変項だったり、束縛複数変項だった
 公式解釈による zo'e は複数定項であるから、以下のような問題点が生じる。
 
 !!!!!# 「存在しない」という複数量化が表現できない
-lo no broda の合理的な解釈は、公式にはロジバンから追放される。 つまり、複数量化では当然扱える「da に当てはまるものが存在しない naku su'oi da」に相当する表現が、ロジバンでは公式には扱えない。 lo no broda という表現をしたい場合には、((|#ad4023e9323e039bf4408972b2b4a392b|3.1.1.1節))のように、非公式の解釈をする必要がある。
+lo no broda の合理的な解釈は、公式にはロジバンから追放される。 つまり、複数量化では当然扱える「da に当てはまるものが存在しない naku su'oi da」に相当する表現が、ロジバンでは公式には扱えない。 lo no broda という表現をしたい場合には、((|#afa329c54276bc781a008934d4b0d5f76|3.1.2.1節))のように、非公式の解釈をする必要がある。
 
 !!!!!# 特定のものを指さない束縛複数変項を表現できない
 lo PA broda が、文脈によっては束縛複数変項であるという解釈が不可能になったので、 数えの単位のような、特定のものを指さないはずの項も、何らかの定項であると解釈しなければいけなくなった。 例えば、
@@ -430,7 +510,7 @@ lo PA broda が、文脈によっては束縛複数変項であるという解�
 lo broda が複数定項として解釈される限り、以下のロジバン文は無意味である：
 
 ^lo guska'u cu gau jmaji sepi'o lo lenjo gi'e pagre lo fenra~pp~
-~/pp~''「光子がレンズで集められ、スリットを通り抜ける」''^
+~/pp~''光子がレンズで集められ、スリットを通り抜ける''^
 
 なぜなら実際のところ、光子は個であり、個数を数えることはできるのだが、この光子とあの光子といった区別をすることはできない、つまり、「特定の」光子を指すことは不可能だからだ。 光子などの素粒子を表す項には、量化表現こそが相応しい。ところがロジバンには公式には複数量化子が無いので、上記のように selbri を集団的にも分配的にも満たすような項として、量化を明示することはできない。 lo broda が複数定項であると宣言されたので、 lo guska'u を束縛複数変項として解釈する余地も残されていない。 解決策としては、 ((xorxes|la xorxes)) が提案した非公式の複数量化子 su'oi を使うしかない。
 
@@ -440,7 +520,7 @@ lo broda が複数定項として解釈される限り、以下のロジバン�
 ((BPFK Section: gadri|BPFK の gadri のページ))の例文にも出ている、
 
 ^lo pa pixra cu se vamji lo ki'o valsi~pp~
-~/pp~''「1枚の写真は1000語に値する」'' ^
+~/pp~''1枚の写真は1000語に値する'' ^
 
 といった一般論においても、 {lo pa pixra} や {lo ki'o valsi}
 は何か特定のものを指していると解釈される。 議論領域の中に、一般論に登場する sumti 用の、何らかの指示対象を用意しておかなければならない。
