@@ -169,7 +169,7 @@ ije naku を ijenai に書き換え
 例えば物質名詞が指すものを表していると見なすことができる。
 パンの切れ端もまたパンであるという世界観を持つ話し手にとって、パンは個でも個たちでもない。
 
-[https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/pCGeYCE9l1QJ|（関連議論： ko'a=lo sodbo の場合について、以上の証明と同様の証明をロジバンのみで書いたものもある。）]
+[https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/pCGeYCE9l1QJ|（関連議論： {ko'a}={lo sodbo} の場合について、以上の証明と同様の証明をロジバンのみで書いたものもある。）]
 
 !!!!# 複数定項に関する論理公理
 複数定項 C に関して、以下の論理公理が与えられる。
@@ -191,7 +191,7 @@ ku, ku'o, me'u は省略可能な終端詞である。
 
 これに対して、gadriの前、あるいはもっと一般的に、項の前に量化子が置かれる量化を __外部量化 outer quantification__ と呼び、この量化子を __外部量化子 outer quantifier__ と呼ぶ。 外部量化については、((|#a67bd8dedb0e13e60fcbb669ef81db5b0|3.2節))で説明する。
 
-gadri によって形成される sumti は、全て zo'e に展開されるように定義されている。 つまり最も一般的な複数定項は単独の zo'e で表され、それに説明を追加したものが gadri で形成される sumti となる。
+gadri によって形成される sumti は、全て {zo'e} に展開されるように定義されている。 つまり最も一般的な複数定項は単独の {zo'e} で表され、それに説明を追加したものが gadri で形成される sumti となる。
 ^
 ;例: 人が集まって料理して食べた。
 ;: lo prenu cu jmaji gi'e jukpa gi'e citka^
@@ -199,8 +199,16 @@ gadri によって形成される sumti は、全て zo'e に展開されるよ�
 {jukpa} （料理して）という述語は、集団的にも分配的にも解釈できるが、{lo prenu} という複数定項は、{jukpa} を集団的に満たすのか、分配的に満たすのかということを明示していない。「集団的に」料理するということを明示したい場合には、後述の {loi} を使って {loi prenu}と言う。 逆に、「分配的に」料理することを明示したい場合は、{ro lo prenu} のような外部量化を使うか、または {lu'a lo prenu} と言う。 ただし、このようにして集団性や分配性を明示した項を、 {jmaji} や {citka} のような他の述語が共有できるとは限らない。
 
 ;__le__ (LE): lo broda で表される複数定項に対して、「話し手が思い描く特定の」という意味を明示的に追加したものが le broda である。 論理学上の振る舞いは lo と同じ。
+||
+le [[PA] broda (ku) ~hs~|~hs~ zo'e noi mi ke'a do skicu lo ka ce'u broda [[gi'e zilkancu li PA lo broda] (ku'o) 
+le PA ''sumti'' (ku) ~hs~|~hs~ le PA me ''sumti'' (me'u) (ku)
+||
 
 ;__la__ (LA): selbri または cmevla の前について、それを名前とするものを指す複数定項を形成する。 論理学上の振る舞いは lo と同じ。
+||
+la [[PA] broda (ku) ~hs~|~hs~ zo'e noi lu [[PA] broda li'u cmene ke'a mi (ku'o) 
+la PA ''sumti'' (ku) ~hs~|~hs~ zo'e noi lu PA sumti li'u cmene ke'a mi (ku'o) 
+||
 
 ;__loi__ (LE), __lei__ (LE), __lai__ (LA):  lo/le/la broda で表される複数定項に対して、集団性 (collectivity) を明示的に追加したものが loi/lei/lai broda である。 
 ||
@@ -211,7 +219,7 @@ loi PA ''sumti'' ~hs~|~hs~ lo gunma be lo PA ''sumti''
 lei PA ''sumti'' ~hs~|~hs~ lo gunma be le PA ''sumti''
 lai PA ''sumti'' ~hs~|~hs~ lo gunma be la PA ''sumti''
 ||
-このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で {lo gunma} としての個であることは可能である：
+このように、 {loi/lei/lai} は {lo gunma be lo/le/la} という別の複数定項によって定義されているので、 {lo broda} や {lo PA ''sumti''} を直接扱うことにはならず、 {lo gunma} という複数定項として扱われる。 このため {lo broda} や {lo PA ''sumti''} が個ではない場合でも、 {loi broda} や {loi PA ''sumti''} が、以下の条件下で {lo gunma} としての個であることは可能である。
 ^ro'oi da poi ke'a me lo gunma be lo/le/la [[PA] broda zo'u lo gunma be lo/le/la [[PA] broda cu me da~pp~
 ~/pp~ro'oi da poi ke'a me lo gunma be lo/le/la PA ''sumti'' zo'u lo gunma be lo/le/la PA ''sumti'' cu me da^
 
@@ -234,8 +242,8 @@ la'i PA ''sumti'' ~hs~|~hs~ lo selcmi be la PA ''sumti''
 lo [[PA] broda ~hs~|~hs~ zo'e noi ke'a broda [[gi'e zilkancu li PA lo broda]
 lo PA ''sumti'' ~hs~|~hs~ lo PA me ''sumti''
 ||
-つまり内部量化は、 zilkancu_3 となる {lo broda} や {lo me ''sumti''} を単位（つまり1）として数えた場合の数を表す。
-しかし、zilkancuの意味が漠然としているので、 [https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/xi2h6A17CusJ|mei を使って以下のように定義し直す案が出された]。
+つまり内部量化は、 {zilkancu} の x3 となる {lo broda} や {lo me ''sumti''} を単位（つまり1）として数えた場合の数を表す。
+しかし、 {zilkancu} の意味が漠然としているので、 [https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/xi2h6A17CusJ|mei を使って以下のように定義し直す案が出された]。
 
 ;公理1: ro'oi da su'o pa mei
 ;定義:||
@@ -288,7 +296,7 @@ ko'a pa mei	|=| ro'oi da poi me ko'a ku'o ro'oi de poi me ko'a zo'u de me da
 この右辺は「ko'a は個である」の条件 {ro'oi da poi ke'a me ko'a zo'u ko'a me da} を含意する。またその逆も成り立つ。 
 証明終わり
 
-下の図は4個のものを数え上げるしくみを有向グラフで表したものである。 この図では X me X のような自分に帰ってくるループを省略してある。 個数を数えるということは、 me によって形成される有向グラフから、数えるべき葉（個である定項）を全て含む木の形となる部分グラフを選ぶことに相当する。 例えば図のマゼンダ色の部分である。
+下の図は4個のものを数え上げるしくみを有向グラフで表したものである。 この図では {X me X} のような自分に帰ってくるループを省略してある。 個数を数えるということは、 {me} によって形成される有向グラフから、数えるべき葉（個である定項）を全て含む木の形となる部分グラフを選ぶことに相当する。 例えば図のマゼンダ色の部分である。
 
 {img fileId="10" thumb="y" rel="box[g]"}
 
@@ -311,7 +319,7 @@ gadri で形成される項は複数定項だから、複数定項に関する�
 
 この返答は {lo no prenu cu jmaji gi'e jukpa gi'e citka} の簡略形である。
 
-この命題は、 {lo no prenu} が selbri {jmaji} を集団的かつ (je) 非分配的に、 {jukpa} を集団的または (ja) 分配的に、 {citka} を非集団的かつ (je) 分配的に満たしていることを表す。 非分配的に満たすべき述語 {jmaji} を含むので、 束縛単数変項の存在否定 {naku su'o da = no da} に置き換えることはできない。 また、非集団的に満たすべき述語 {citka} を含むので、この {lo} を、後ほど定義する {loi}={lo gunma be lo} に置き換えることもできない。 
+この命題は、 {lo no prenu} が selbri {jmaji} を集団的かつ (je) 非分配的に、 {jukpa} を集団的または (ja) 分配的に、 {citka} を非集団的かつ (je) 分配的に満たしていることを表す。 非分配的に満たすべき述語 {jmaji} を含むので、 束縛単数変項の存在否定 {naku su'o da}={no da} に置き換えることはできない。 また、非集団的に満たすべき述語 {citka} を含むので、この {lo} を、後ほど定義する {loi}={lo gunma be lo} に置き換えることもできない。 
 
 このような命題では、 {lo no broda} という表現に対して、複数変項の存在否定という意味を与えることが必要になる。
 そこで {lo PA broda} の定義の PA=0 の場合に対して、以下のような定義を提案する。
@@ -346,10 +354,10 @@ lo piPA broda ~hs~|~hs~ =ca'e ~hs~|~hs~ zo'e noi ke'a piPA si'e be lo pa broda
 ||
 x1 number si'e x2 ~hs~|~hs~ x1 pagbu x2 gi'e klani li number lo se gradu be x2
 ||
-pagbu の x1 が x2 よりも大きくはならないと解釈すれば、si'e を使って[https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/nUbZiwmB2M0J|ものを数え上げる際に、単位の変更を余儀なくされるので、非常に使いにくい]。 {PA si'e} の PA が1よりも大きくなれるように si'e の定義を変えれば、個でも個たちでもないようなものの数量表現一般に si'e を使うことが可能になる。
+{pagbu} の x1 が x2 よりも大きくはならないと解釈すれば、 [https://groups.google.com/d/msg/lojban/RAtE7Yk-dqw/nUbZiwmB2M0J|{si'e} を使ってものを数え上げる際に、単位の変更を余儀なくされるので、非常に使いにくい]。 {PA si'e} の PA が1よりも大きくなれるように {si'e} の定義を変えれば、個でも個たちでもないようなものの数量表現一般に {si'e} を使うことが可能になる。
 
 あるいは、((|#a53144d82d50cb4f3ba5484fe6b2ec29d|3.1節))の公理1を使わないことにすれば、 定義 (D1) (D2) (D3) を個でも個たちでもないようなものに適用可能である。
-この場合、話し手は、複数定項をいくつか選んで、 ko'a su'o pa mei であると決めておけば良い。 この際に、選ばれた複数定項が部分的に重複することのないように、注意深く選ぶ必要がある。
+この場合、話し手は、複数定項をいくつか選んで、 {ko'a su'o pa mei} であると決めておけば良い。 この際に、 {pa mei} となる複数定項が互いに重複することのないように、注意深く選ぶ必要がある。
 こうしておくと、その ko'a に関しては、 (D2) から
 ||
 ganai ko'a pa mei 
@@ -452,13 +460,13 @@ lu'a ''sumti'' ~hs~|~hs~ lo cmima be ''sumti'' noi selcmi ku onai lo se gunma be
 以下の話は解説者 guskant の覚書であり、 gadri の理解のために全く重要ではない。
 
 !!!# 存在について
-^((BPFK Section: gadri|Positive impact: Some usages that make little sense with {lo} = {su'o} become validated.))^
+^((BPFK Section: gadri|Positive impact: Some usages that make little sense with {lo}={su'o} become validated.))^
 
-{lo} = {su'o} ではなくなったが、 {lo broda} が複数定項であることと、複数定項に関する論理公理によって、 {lo broda cu brode} という命題は、 {su'oi da brode} という命題を暗黙的に含意している。
+{lo}={su'o} ではなくなったが、 {lo broda} が複数定項であることと、複数定項に関する論理公理によって、 {lo broda cu brode} という命題は、 {su'oi da brode} という命題を暗黙的に含意している。
 
 !!!# claxu の x2
 ^((BPFK Section: gadri|le cmana __lo__ cidja ba claxu))~pp~
-~/pp~  ''In the mountains there is no food.''~pp~
+~/pp~  ''山には食べ物がないだろう''~pp~
 ~/pp~((lapoi pelxu ku'o trajynobli))^
 
 lo cidja を展開すると
