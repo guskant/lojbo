@@ -1,0 +1,105 @@
+a'a	cmavo			   	UI1      	Perspektivum: Aufmerksamkeit - Unaufmerksamkeit - Ausweichen (z.B. einer Diskussion)
+a'i	cmavo			   	UI1      	Perspektivum: Aufwand/Mühe - Mühelosigkeit - Untätigkeit/Muße
+a'o	cmavo			   	UI1      	Perspektivum: Hoffnung - Verzweiflung
+a'u	cmavo			   	UI1      	Perspektivum: Interesse - Desinteresse - Abscheu
+ai	cmavo			   	UI1      	Perspektivum: Absicht/Vorsatz - Unschlüssigkeit - Ablehnung
+au	cmavo			   	UI1      	Perspektivum: Begehren/Sehnsucht - Gleichgültigkeit - Abneigung/Widerwille
+bi	cmavo   	-biv-		   	PA1      	Zahl/Ziffer: 8 [Acht].
+bi'i	cmavo   	-biz-		      		nicht-logischer Intervallverbinder: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
+bo	cmavo   	-bor-		      		Verbindung kurzer Reichweite; verbindet verschiedene Konstrukte mit kürzestmöglicher Reichweite und rechts-assoziativer Gruppierung
+bu	cmavo   	-bus-   	-bu'i-	      		verwandelt ein beliebiges einzelnes Wort in BY
+bu'a	cmavo   	-bul-		      		logisch quantifizierte Prädikatvariable: irgendein selbri 1
+ca'a	cmavo   	-caz-		      		Modalaspekt: Wirklichkeit/fortdauerndes Ereignis
+ce	cmavo   	-cec-		      		nichtlogische Verbindung: Mengenverbinder, ungeordnet; „und außerdem“, aber eine Menge bildend
+ce'i	cmavo   	-cez-		      		Zahl/Ziffer: %, Prozentzeichen, Hundertstel
+ce'o	cmavo   	-ce'o-		      		nichtlogische Verbindung: verbindet geordnete Folgen; „und dann“, eine Folge bildend
+ci	cmavo   	-cib-		   	PA1      	Zahl/Ziffer: 3 [Drei]
+co	cmavo   	-col-		      		Tanruumstellungsoperator; „... vom Typ ...“; erlaubt nachfolgende, modifizierende Sumti ohne Sumti-Verbindungen
+co'a	cmavo   	-co'a-		      		Intervall-Ereignisumriss: am Anfang von ...; anfänglich
+co'e	cmavo   	-com-   	-co'e-	      		unspezifizierte Bridi-Beziehung
+co'o	cmavo			   	COI      	Vokativ: Tschüss
+co'u	cmavo   	-co'u-		      		Intervall-Ereignisumriss: am Schlusspunkt von … selbst, wenn noch nicht fertig; beendend | &gt;&lt; |
+coi	cmavo			   	COI      	Vokativ: Hallo
+da	cmavo   	-dav-   	-dza-	      		logisch quantifiziertes existenzielles Prosumti: es gibt etwas 1 (normalerweise eingeschränkt)
+da'a	cmavo   	-daz-		      		Ziffer/Zahl: alle außer n; alle bis auf n; (Default 1)
+do	cmavo   	-don-   	-doi-	   	KOhA3      	prosumti: Du/ihr die Zuhörer; Definiert durch doi.
+du	cmavo   	-dub-   	-du'o-	      		Identitäts-Selbri; Gleichheitszeichen '='; x_1 ist identisch mit x_2, x_3, usw.; anschließende Sumti beziehen sich alle auf dasselbe
+du'u	cmavo   	-dum-		      		Abstraktor: Prädikations-/Bridi-Abstraktor; x_1 ist die Prädikation [das Bridi], die in Satz x_2 ausgedrückt wird
+fau'u	experimental cmavo			   	COI      	Verzeihung!/Verzeihen Sie bitte!/Verzeih mir bitte!	Vgl. {fraxu}, {u'u}.
+fo'a	cmavo   	-fo'a-		      		pro-sumti: er/sie/es #6 (durch goi spezifiziert)
+fo'e	cmavo   	-fo'e-		      		pro-sumti: er/sie/es #7 (durch goi spezifiziert)
+fo'i	cmavo   	-fo'i-		      		pro-sumti: er/sie/es #8 (durch goi spezifiziert)
+ja	cmavo   	-jav-		      		logische Verknüpfung: Tanru-internes nachgestelltes 'oder'
+je	cmavo   	-jev-   	-jve-	      		logische Verknüpfung: Tanru-internes nachgestelltes 'und'
+jei	cmavo   	-jez-		      		Abstraktion: Wahrheitswert; x_1 ist der Wahrheitswert von [bridi] gemäß Metaphysik x_2
+jo	cmavo   	-jov-		      		logische Verknüpfung: Tanru-internes nachgestelltes wenn-und-nur-wenn [genau-dann-wenn]
+jo'e	cmavo   	-jom-		      		nicht-logische Verknüpfung: Vereinigung von Mengen
+jo'u	cmavo   	-jo'u-		      		nicht-logische Verknüpfung: gemeinsam mit; zusammen mit (unvermischt)
+joi	cmavo   	-jol-   	-joi-	      		nicht-logische Verknüpfung: vermischte Verbindung; „und“ mit der Bedeutung „zusammengemischt“, eine Masse formend
+ju	cmavo   	-juv-		      		logische Verknüpfung: Tanru-internes nachgestelltes ob-oder-ob-nicht/gleichgültig ob
+ka	cmavo   	-kam-		      		Abstraktion: Eigenschaft/Qualität Abstraktor (-heit/keit); x_1 ist eine Eigenschaft aufgewiesen von [bridi]
+ke	cmavo   	-kem-		      		Gruppierung von tanru, etc. beginnen; ...-Typ von ...; Überschreibt normale Tanru-Linksgruppierung
+ke'e	cmavo   	-kep-   	-ke'e-	      		auslassbares Endzeichen: Ende der Linksgruppierungs-Aufhebung von Tanru (normalerweise auslassbar)
+ke'o	cmavo			   	COI      	Vokativ: bitte wiederhole.
+kei	cmavo   	-kez-		      		auslassbares Endzeichen: Ende der Abstraktion (meist auslassbar)
+ku'a	cmavo   	-kuz-		      		nicht-logische Verknüpfung: Durchschnitt zweier Mengen
+le'e	cmavo   	-lem-		      		nicht-wahrheitsgetreuer Artikel: Der Stereotyp von denen beschrieben als ...
+li'i	cmavo   	-liz-		      		Abstraktion: Erfahrungs-Abstraktion; x_1 ist die Erfahrung von x_2 von [bridi] (Teilnehmer oder Betrachter)
+lo'e	cmavo   	-lom-		      		wahrheitsgetreuer Artikel: Der/Die Typische(n), der/die wirklich ist/sind ...
+mei	cmavo   	-mem-   	-mei-	      		wandelt eine Zahl in eine Mächtigkeitsbeziehung; x_1 ist die Masse von den Elementen aus Menge x_2 mit Mitglied(ern) x_3
+mi	cmavo   	-mib-		   	KOhA3      	prosumti: Ich/wir die/der Sprecher/Autor(en); Definiert durch mi'e.	Siehe auch {mi'e}, {mi'o}, {mi'a}, {ma'a}.
+mo	cmavo			   	GOhA      	pro-bridi: Frage nach bridi/selbri/brivla.
+mo'a	cmavo   	-mob-		      		Ziffer/Zahl: zu wenige; subjektiv
+mo'i	cmavo   	-mov-		      		markiert Bewegungen in der Raumzeit
+moi	cmavo   	-mom-   	-moi-	      		wandelt Zahl in eine Ordnungsbeziehung; x_1 ist das (n).te Element von Menge x_2 geordnet nach Vorschrift x_3
+mu	cmavo   	-mum-		   	PA1      	Zahl/Ziffer: 5 [Fünf]
+mu'e	cmavo   	-muf-		      		Abstraktion: Ausführung (Ereignis) Abstraktion; x_1 ist ein Punktereignis/Ausführung von [bridi]
+na	cmavo   	-nar-		      		widersprechender Bridi-Negator; Wirkungsbereich ist eine gesamte Prädikatsbeziehung; negiert logisch in manchen cmavo-Komposita
+na'e	cmavo   	-nal-		      		Komplement-Negator (skalar); anders als ...; nicht ...; eine Skala oder Menge ist impliziert
+ni	cmavo   	-nil-		      		Abstraktion: Menge/Betrag Abstraktion; x_1 ist die Menge/Höhe/Betrag von [bridi] gemessen auf Skala x_2
+ni'o	cmavo			   	NIhO      	Diskursiv: Absatz; beginnt ein neues Thema.
+no	cmavo   	-non-		   	PA1      	Zahl/Ziffer: 0 [Null].
+no'e	cmavo   	-nor-   	-no'e-	      		mittelwertiger skalarer Negator: neutraler Punkt zwischen je'a und to'e; „eigentlich nicht“
+nu	cmavo   	-nun-		      		Abstraktion: allgemeines Ereignis Abstraktion; x_1 ist der Zustand/Prozess/Vollendung/Handlung von [bridi]
+nu'o	cmavo   	-nu'o-		      		modaler Aspekt: kann aber hat/ist nicht; unverwirklichtes Potenzial
+pa	cmavo   	-pav-		   	PA1      	Zahl/Ziffer: 1 [Eins]
+pi	cmavo   	-piz-		      		Ziffer/Zahl: Basispunkt; Default: Dezimal
+pi'u	cmavo   	-piv-		      		nicht-logische Verknüpfung: Kreuzprodukt; Kartesisches Produkt von Mengen
+pu'i	cmavo   	-pus-		      		modaler Aspekt: kann und hat; demonstriertes Potenzial
+pu'u	cmavo   	-puv-		      		Abstraktion: Prozess-(Ereignis-)Abstraktion; x_1 ist ein Prozess von [bridi] bestehend aus Phasen x_2
+re	cmavo   	-rel-		   	PA1      	Zahl/Ziffer: 2 [Zwei]
+ro	cmavo   	-rol-		      		Ziffer/Zahl: jeder/alle von
+roi	cmavo   	-rom-   	-roi-	      		wandelt Zahl in ein objektiv quantifiziertes (Intervall-Bestimmungswort) um; default: Zeitliche Vorkommen
+se	cmavo   	-sel-		      		zweiter Tausch; tauscht den ersten und zweiten Platz
+si'o	cmavo   	-siz-		      		Abstraktion: Idee/Konzept-Abstraktion; x_1 ist x_2s Konzept von [bridi]
+so	cmavo   	-soz-		   	PA1      	Zahl/Ziffer: 9 [Neun].
+so'a	cmavo   	-soj-		      		Ziffer/Zahl: fast alle (Ziffer/Zahl)
+so'e	cmavo   	-sop-		      		Ziffer/Zahl: die meisten
+so'i	cmavo   	-sor-   	-so'i-	      		Ziffer/Zahl: viele
+so'o	cmavo   	-sos-		      		Ziffer/Zahl: einige
+so'u	cmavo   	-sot-		      		Ziffer/Zahl: wenige
+su'e	cmavo   	-sup-   	-su'e-	      		Ziffer/Zahl: höchstens (alle); nicht mehr als
+su'o	cmavo   	-suz-   	-su'o-	      		Ziffer/Zahl: mindestens (wenige); nicht weniger als
+su'u	cmavo   	-suv-		      		Abstraktion: allgemeine Abstraktion (wie); x_1 ist [bridi] als unspezifische Abstraktion von Typ x_2
+ta	cmavo   	-taz-		      		pro-sumti: das dort; nahe gelegenes demonstratives es; bezeichnet ein Ding/Ort in der Nähe des Zuhörers
+te	cmavo   	-ter-		      		dritter Tausch; tauscht den ersten und dritten Platz
+ti	cmavo   	-tif-		      		pro-sumti: dies hier; direktes demonstratives es; bezeichnet ein Ding/Ort in der Nähe des Sprechers
+to'e	cmavo   	-tol-   	-to'e-	      		polares Gegenteil Negator (skalar)
+tu	cmavo   	-tuf-		      		pro-sumti: jenes; entferntes demonstratives es; bezeichnet eine Sache entfernt von Sprecher und Zuhörer
+ui	cmavo			   	UI1      	Attitudinal: Freude - Trauer.	Siehe auch {gleki}.
+uinai	cmavo-compound			   	UI*1      	Attitudinal: Fröhlichkeit – Traurigkeit.	Siehe auch {badri}.
+va	cmavo   	-vaz-		      		räumliche Entfernung: nahe bei ...; dort bei ...; eine mittlere/kleine Entfernung von ...
+ve	cmavo   	-vel-		      		vierter Tausch; tauscht den ersten und vierten Platz
+vi	cmavo   	-viz-		      		räumliche Entfernung: hier bei ...; bei, nahe oder eine sehr kleine Entfernung von ...
+vo	cmavo   	-von-		   	PA1      	Zahl/Ziffer: 4 [Vier]
+vu	cmavo   	-vuz-		      		räumliche Entfernung: weit von ...; eine weite Entfernung von ...
+xa	cmavo   	-xav-		   	PA1      	Zahl/Ziffer: 6 [Sechs].
+xe	cmavo   	-xel-		      		Fünfter Tausch; tauscht den ersten und fünften Platz
+za'i	cmavo   	-zaz-		      		Abstraktion: Zustand (Ereignis) Abstraktion; x_1 ist der andauernde Zustand, dass [bridi] wahr ist
+za'o	cmavo   	-za'o-		      		Intervall-Ereignisumriss: setzt zu lang fort nach dem natürlichen Ende von ...; ... |     ----&gt;
+ze	cmavo   	-zel-		   	PA1      	Zahl/Ziffer: 7 [Sieben].
+ze'o	cmavo   	-zev-   	-ze'o-	      		räumliche Beziehung/Richtung; über ... hinaus/nach außen/entfernend von ...
+zi'o	cmavo   	-zil-		      		pro-sumti: füllt einen sumti-Platz und entfernt diesen von der selbri-Platzstruktur; verändert die selbri-Semantik
+zo'a	cmavo   	-zon-   	-zo'a-	      		räumliche Beziehung/Richtung; tangential zu .../an ... vorbeigehend
+zo'i	cmavo   	-zor-   	-zo'i-	      		räumliche Beziehung/Richtung; nach innen/sich annähernd
+zu'o	cmavo   	-zum-		      		Abstraktion: Aktivität (Ereignis) Abstraktion; x_1 ist eine abstrakte Aktivität/Handlung von [bridi] zusammengesetzt aus x_2

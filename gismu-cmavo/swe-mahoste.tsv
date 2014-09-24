@@ -1,0 +1,218 @@
+a	cmavo			   	A      	Ett logiskt definierande konjunktiv: sumti eftertänkt eller. 	inklusiv disjunktion (p eller q eller båda), kallas inom datavetenskap ofta för OR. Ibland kallas detta för och/eller i dagligt tal.
+a'a	cmavo			   	UI1      	definition attitydmarkör: uppmärksam - ouppmärksam - undvikande.
+a'acu'i	cmavo-compound			   	UI*1      	definition attitydmarkör: uppmärksam - ouppmärksam - undvikande.
+a'anai	cmavo-compound			   	UI*1      	definition attitydmarkör: uppmärksam - ouppmärksam - undvikande.
+a'e	cmavo			   	UI1      	attitydmarkör: pigghet - utmattning.	Se även {sanji}, {cikna}, {tatpi}.
+a'enai	cmavo-compound			   	UI*1      	attitydmarkör: pigghet - utmattning.
+a'i	cmavo			   	UI1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
+a'icu'i	cmavo-compound			   	UI*1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
+a'inai	cmavo-compound			   	UI*1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
+a'o	cmavo			   	UI1      	attitydmarkör: hopp - desperation.
+a'onai	cmavo-compound			   	UI*1      	attitydmarkör: hopp - desperation.
+a'u	cmavo			   	UI1      	attitydmarkör: intresse - ointresse - bortstötande.
+a'ucu'i	cmavo-compound			   	UI*1      	attitydmarkör: intresse - ointresse - bortstötande.
+a'unai	cmavo-compound			   	UI*1      	attitydmarkör: intresse - ointresse - bortstötande.
+abu	bu-letteral			   	BY*      	bokstaven a.
+ai	cmavo			   	UI1      	attitudinal: avsikt - obeslutsamhet - avslag/vägran.
+aicu'i	cmavo-compound			   	UI*1      	attitudinal: avsikt - obeslutsamhet - avslag/vägran.
+au	cmavo			   	UI1      	attitudinal: begär - likgiltighet - olust/motvilja.
+aucu'i	cmavo-compound			   	UI*1      	attitudinal: begär - likgiltighet - olust/motvilja.
+aunai	cmavo-compound			   	UI*1      	attitudinal: begär - likgiltighet - olust/motvilja.
+ba	cmavo			   	PU      	tidstempus förhållande/riktning: ska [selbri]; efter [sumti]; futurum.
+ba'a	cmavo			   	UI2      	evidential: jag förväntar mig - jag erfar - jag kommer ihåg.
+ba'acu'i	cmavo-compound			   	UI2      	evidential: jag förväntar mig - jag erfar - jag kommer ihåg.
+ba'anai	cmavo-compound			   	UI2      	evidential: jag förväntar mig - jag erfar - jag kommer ihåg.
+ba'e	cmavo			   	BAhE      	förtänkt betoningsindikator; indikerar att nästa ord är särskilt betonat
+ba'i	cmavo			   	BAI      	basti modal, 1st place ersatt av
+ba'o	cmavo			   	ZAhO      	intervall händelsekontur: i efterverkningarna av...; sedan ...; perfekt
+ba'u	cmavo			   	UI3      	diskursiv: överdrift - riktighet - understatement.
+ba'ucu'i	cmavo-compound			   	UI3      	diskursiv: överdrift - riktighet - understatement.
+ba'unai	cmavo-compound			   	UI3      	diskursiv: överdrift - riktighet - understatement.
+bapu	cmavo-compound			   	PU*      	tids tempus: kommer att ha varit; (tempus/modal).
+bau	cmavo			   	BAI      	bangu modal, 1st place i språk ... 
+be	cmavo			   	BE      	sumti länk för att förbinda sumti (som standard x2) med ett selbri; används i beskrivningar.
+be'a	cmavo			   	FAhA1      	platstempus förhållande/riktning: norr om. 
+be'e	cmavo			   	COI      	vokative: anhåller om att få sända/tala.
+be'o	cmavo			   	BEhO      	valbar avslutare: avslutar länkad sumti i en specifik beskrivning. 
+be'u	cmavo			   	UI5      	attityd modifierare: saknad/i behov av - i sig själv/tillfredställelse - mättnad.
+be'ucu'i	cmavo-compound			   	UI*5      	attityd modifierare: saknad/i behov av - i sig själv/tillfredställelse - mättnad.
+be'unai	cmavo-compound			   	UI*5      	attityd modifierare: saknad/i behov av - i sig själv/tillfredställelse - mättnad.
+bei	cmavo			   	BEI      	separerar multipla länkade sumti inom ett selbri; används i beskrivningar.    
+bi	cmavo   	-biv-		   	PA1      	siffra/nummer: 8 (siffra) [åtta].
+bi'e	cmavo			   	BIhE      	prefix till en mex operator för att indikera hög prioritet. 
+bi'u	cmavo			   	UI3a      	diskursiv: nyligen introducerad information - tidigare introducerad information.
+bi'unai	cmavo-compound			   	UI*3      	diskursiv: nyligen introducerad information - tidigare introducerad information.
+bimei	cmavo-compound			   	MOI*      	kvantifierings selbri: konverterar 8 till kardinal selbri; x_1 är ett set med oktett av medlemmar x_2.
+bimoi	cmavo-compound			   	MOI*      	kvantifierad selbri: konverterar 8 till ordinal selbri; x_1 är åttonde bland x_2 i ordningsföljd enligt regel x_3.
+bino	cmavo-compound			   	PA*      	nummer/kvantitet: 80 [åttio].
+binono	cmavo-compound			   	PA*      	nummer/kvantitet: 800 [åttahundra].
+bo	cmavo   	-bor-		   	BO      	sammanlänkare med kort räckvidd; binder ihop varierande konstruktioner med kortaste räckvidd i grupper från höger till vänster. 	jfr {ke}, {ke'e}.
+boi	cmavo			      		valbar avslutare: avslutar numerisk eller text sträng. 
+bu	cmavo   	-bus-   	-bu'i-	   	BU      	konverterar ett enstaka ord till BY [lerfu/tecken].
+bu'a	cmavo   	-bul-		   	GOhA      	logiskt kvantifierad predikatvariabel: något selbri 1.
+bu'e	cmavo			   	GOhA      	logiskt kvantifierad predikatvariabel: något selbri 2.
+bu'i	cmavo			   	GOhA      	logiskt kvantifierad predikatvariabel: något selbri 3.
+bu'o	cmavo			   	UI7      	attitudinalkontur: starta emotion - fortsätt emotion - avsluta emotion.
+bu'ocu'i	cmavo-compound			   	UI*7      	attitudinalkontur: starta emotion - fortsätt emotion - avsluta emotion.
+bu'onai	cmavo-compound			   	UI*7      	attitudinalkontur: starta emotion - fortsätt emotion - avsluta emotion.
+by	cmavo			   	BY2      	bokstaven (tecknet/fonemet) b.
+ca	cmavo			   	PU      	tidstempus relation/riktning: är [selbri]; under tiden/medan/samtidigt som [sumti]; presens.
+ca ma	cmavo-compound			   	PU*      	sumti fråga om tid/datum/händelse; samtidigt som vad?
+ca'a	cmavo   	-caz-		   	CAhA      	modal aspekt: aktualitet/pågående händelse.
+ca'e	cmavo			   	UI2      	evidential: Jag definierar.
+caba'o	cmavo-compound			   	ZAhO*      	tidstempus: har varit, är nu i efterverkningarna av; (tempus/modal).
+caca'a	cmavo-compound			   	PU*      	tidstempus: närvarande aktualitet; modal aspekt.
+caca'o	cmavo-compound			   	ZAhO*      	tidstempus: är nu/samtidigt, är nu mitt uppe i; (tempus/modal).
+cai	cmavo			   	CAI      	attitudinal: stark intensitetsattityd modifierare.
+cajeba	cmavo-compound			   	PU*      	tidstempus: under tiden och efteråt; (tempus/modal).
+capu'o	cmavo-compound			   	ZAhO*      	tidstempus: kommer nu att göra, är just på väg att göra, är på väg att föregripa/förekomma; (tempus/modal).
+cau	cmavo			   	BAI      	claxu modal, 1st place saknad av ... 
+ce	cmavo   	-cec-		   	JOI      	icke-logisk konjunktion: set länk, utan inbördes ordning; 
+ce'a	cmavo			   	LAU      	2-ords ändrat teckenläge: ordet som följer anger ett nytt typsnitt (t.ex. kursiv, handskrift).
+ce'e	cmavo			   	CEhE      	 definition 	länkar termer ihop i ett eftertänkt set av termer.
+ce'i	cmavo   	-cez-		   	PA3      	siffra/nummer: % procentsymbol, hundradel.
+ce'o	cmavo   	-ce'o-		   	JOI      	icke-logisk konjunktion: ordnad sekvenslänk; 
+ci	cmavo   	-cib-		   	PA1      	siffra/nummer: 3 (siffra) [tre].
+ci'i	cmavo			   	PA5      	siffra/nummer: oändlighet; följt av nummer =&gt; alef-kardinalitet . 
+ci'iroi	cmavo-compound			   	ROI*      	tempus intervall modifierare: inträffar oändligt antal gånger, för evigt; målsättningstempus; tid om inget annat anges.
+ci'o	cmavo			   	BAI      	cinmo modal, 1st place emotionellt förnummen av ... 
+ci'u	cmavo			   	BAI      	ckilu modal, 1st place på en skala...
+cimei	cmavo-compound			   	MOI*      	kvantifierings selbri: konverterar 3 till kardinal selbri x_1 är ett set med trio av medlemmar x_2.
+cimoi	cmavo-compound			   	MOI*      	kvantifierings selbri: konverterar 3 till ordinal selbri; x_1 är tredje bland x_2 i ordningsföljd enligt regel x_3.
+cino	cmavo-compound			   	PA*      	nummer/kvantitet: 30 [trettio].
+cinono	cmavo-compound			   	PA*      	nummer/kvantitet: 300 [trehundra].
+ciroi	cmavo-compound			   	ROI*      	tempus intervall modifierare: tre gånger; objektivt kvantifierat tempus; tidstempus om inget annat anges.
+co	cmavo   	-col-		   	CO      	tanru inversion operator; 
+co'e	cmavo   	-com-   	-co'e-	   	GOhA      	elliptisk/ospecificerad bridi förhållande.
+co'o	cmavo			   	COI      	vokativ: avsked/farväl/hej då.
+coi	cmavo			   	COI      	vokativ: hälsningsfras/hallå/hej/tjena/goddag
+coico'o	cmavo-compound			   	COI*      	vokativ: hälsningsfras i förbigående.
+cu	cmavo			   	CU      	valbar markör: separerar selbri från föregående sumti, tillåter att välja bort föregående avslutare.
+cu'a	cmavo			   	VUhU3      	unär matematisk operator: absolutvärde/norm |a|. 
+cu'e	cmavo			   	CUhE      	tempus/modal fråga.
+cu'i	cmavo			   	CAI      	attitudinal: neutral skalär attitydmodifierare.
+cu'o	cmavo			   	MOI      	konverterar nummer till sannolikhets selbri; händelse x_1 har sannolikhet (n) av de som förekommer under omständigheter x2. 
+cu'u	cmavo			   	BAI      	cusku modal, 1st place (tillskrivet/citat) som sades av källa/enligt ...; används för citat.
+cy	cmavo			   	BY2      	bokstaven (tecknet/fonemet) c.
+da	cmavo   	-dav-   	-dza-	   	KOhA1      	logiskt kvantifierad existentiell pro-sumti: det existerar något 1 (vanligtvis begränsad).
+da'a	cmavo   	-daz-		   	PA4      	siffra/nummer: alla förutom n; alla utom n; n är 1 om inget annat anges. gloss words 	      * all except     * but ; except     * except ; excluding
+da'amoi	cmavo-compound			   	MOI*      	kvantifierad selbri: konverterar alla-utom-(1) till ordinal selbri; x_1 är näst sist bland x_2 i ordningsföljd enligt regel x_3.
+da'aremoi	cmavo-compound			   	MOI*      	kvantifierad selbri: konverterar alla-utom-(2) till ordinal selbri; x_1 är nästnäst sist bland x_2 i ordningsföljd enligt regel x_3.
+da'e	cmavo			   	KOhA2      	pro-sumti: avlägset framtida påstående; 
+da'i	cmavo			   	UI3      	diskursiv: antagligen/förmodligen - i själva verket/de facto.	Se även {sruma}.
+da'inai	cmavo-compound			   	UI3*      	diskursiv: antagligen/förmodligen - i själva verket/de facto.
+da'o	cmavo			   	DAhO      	diskursiv: upphäver pro-sumti/pro-bridi tilldelningar.
+da'u	cmavo			   	KOhA2      	pro-sumti: ett avlägset tidigare yttrande; 
+dau	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra A (decimal 10) [tio]. 
+de	cmavo			   	KOhA1      	logiskt kvantifierad existentiell pro-sumti: det existerar något 1 (vanligtvis begränsad).
+de'a	cmavo			   	ZAhO      	händelsekontur: för ett tillfälligt uppehåll och den paus i processen som blir följden.
+de'e	cmavo			   	KOhA2      	pro-sumti: ett nära förestående yttrande.
+de'i	cmavo			   	BAI      	detri modal, 1st place (för brev) daterad ... ; datumstämplar.
+de'o	cmavo			   	VUhU3      	binär matematisk operator: logaritm; [log/ln a med bas b];  bas 10 eller e om inget annat anges.
+de'u	cmavo			   	KOhA2      	pro-sumti: ett tidigare yttrande.
+dei	cmavo			   	KOhA2      	pro-sumti: detta yttrande.
+denpa bu	bu-letteral			   	BY*      	bokstav: Lojban 
+di	cmavo			   	KOhA1      	logiskt kvantifierad existentiell pro-sumti: det existerar något 3 (vanligtvis begränsad).
+di'a	cmavo			   	ZAhO      	händelsekontur för återupptagande av en pausad process.
+di'e	cmavo			   	KOhA2      	pro-sumti: nästa yttrande.
+di'i	cmavo			   	TAhE      	tempus intervall modifierare: regelbundet; subjektivt tempus/modal; tidstempus om inget annat anges.
+di'inai	cmavo-compound			   	TAhE*      	tempus intervall modifierare: oregelbunden/aperiodiskt; tempus/modal; tidstempus om inget annat anges.
+di'u	cmavo			   	KOhA2      	pro-sumti: det sista påståendet.
+do	cmavo   	-don-   	-doi-	   	KOhA3       	pro-sumti: du/ni lyssnare; identifierad genom vokativ.
+do'a	cmavo			   	UI3      	diskursiv: generöst - snålt.	Se även {dunda}.
+do'anai	cmavo-compound			      		diskursiv: generöst - snålt.
+do'e	cmavo			   	BAI      	elliptisk/ospecificerad modal.
+do'i	cmavo			   	KOhA2      	pro-sumti: elliptisk/ospecificerat påstående variabel.
+do'o	cmavo			   	KOhA3      	pro-sumti: ni (du lyssnaren &amp; andra ospecificerade).
+do'u	cmavo			   	DOhU      	valbar avslutare: avslutar vokativ (ofta valbar).
+doi	cmavo			   	DOI      	generisk vokativmarkör; identifierar den avsedda lyssnaren; valbar efter COI.
+doido'u	cmavo-compound			   	DOI*      	generisk vokativ addresserar avsedd lyssnare.
+du	cmavo   	-dub-   	-du'o-	   	GOhA       	identitets selbri; = tecken; x_1 är identisk med x_2, x_3, etc.; tillhörande sumti refererar till samma sak.
+du'a	cmavo			   	FAhA1      	platstempus förhållande/riktning; öst om.
+du'e	cmavo			   	PA4      	siffra/nummer: för många; subjektivt.
+du'emei	cmavo-compound			   	MOI*      	 definition 	kvantifierar selbri: konverterar för många till kardinal selbri; x_1 är ett set med för många medlemmar x_2.
+du'eroi	cmavo-compound			   	ROI*      	tempus intervall modifierare: för många gånger objektivt tempus, tidstempus om inget annat anges.
+du'i	cmavo			   	BAI      	dunli modal, 1st place (likvärdig med) lika; lika mycket som...
+du'o	cmavo			   	BAI      	djuno modal, 1st place (info källa) med auktoritet; enligt ...; känd av ... 
+du'u	cmavo   	-dum-		   	NU      	abstraktor: predikat/bridi abstraktor; x_1 är predikat [bridi] som ges uttryck för i sats x2.
+dy	cmavo			   	BY2      	bokstaven (tecknet/fonemet) d.
+e	cmavo			   	A      	logiskt konjunktiv: sumti eftertänkt och.
+e'a	cmavo			   	UI1      	attitudinal: ger tillåtelse - förbjuder. 
+e'anai	cmavo-compound			   	UI*1      	attitudinal: ger tillåtelse - förbjuder.
+e'e	cmavo			   	UI1      	attitudinal: kompetens - inkompetens/oförmåga. 
+e'enai	cmavo-compound			   	UI*1      	attitudinal: kompetens - inkompetens/oförmåga.
+e'i	cmavo			   	UI1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende. 
+e'icu'i	cmavo-compound			   	UI*1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende.
+e'inai	cmavo-compound			   	UI*1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende.
+e'o	cmavo			   	UI1      	attitudinal: efterfråga - negativ efterfråga.	Kan du ta och ..., är du snäll!?
+e'onai	cmavo-compound			   	UI*1      	attitudinal: efterfråga - negativ efterfråga.
+e'u	cmavo			   	UI1      	attitudinal: förslag - överge förslag - varning.
+e'ucu'i	cmavo-compound			   	UI*1      	attitudinal: förslag - överge förslag - varning.
+e'unai	cmavo-compound			   	UI*1      	attitudinal: förslag - överge förslag - varning.
+ebu	bu-letteral			      		bokstaven e.
+ei	cmavo			   	UI1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
+einai	cmavo-compound			   	UI*1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
+enai	cmavo-compound			   	A*       	logiskt konjunktion: sumti eftertänkt x men inte y.
+fa	cmavo			   	FA      	sumti place tag: taggar 1:a sumti placering.
+fa'a	cmavo			   	FAhA4      	platstempus förhållande/riktning; kommer fram inför/direkt mot ... 
+fa'e	cmavo			   	BAI      	fatne modal, 1st place baklänges; motsatt/omvänt/tvärtom/ut och in av... 
+fa'i	cmavo			   	VUhU2      	unär matematisk operator: reciprok/multiplikativt inverterat tal; 1/a.	{pavdalcu}
+fa'o	cmavo			   	FAhO      	villkorslös slut på text; utanför gängse grammatik; används för slut i skrivna verk o datorinmatning.
+fa'u	cmavo			   	JOI      	icke-logisk konjunktion: respektive; oblandad i ordning fördelad association.
+fai	cmavo			   	FA      	sumti place tag: markerar ett sumti som har flyttats utanför numrerad platsstruktur; används i modala konversioner. 
+fau	cmavo			   	BAI      	fasnu modal, 1st place (icke-kausal) i den händelse att ... 
+fe	cmavo			   	FA      	sumti place tag: taggar 2:a sumti placering.  
+fe'a	cmavo			   	VUhU3      	binär matematisk operator: n roten ur; inverterad exponent.
+fe'eba'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: perfektiv i rummet; bortom platsen ...
+fe'eca'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: kontinuativ i rummet; genom platsen ... 
+fe'eco'a	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: initiativ i rummet; på randen till...
+fe'eco'i	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: uppnått i rummet; på självaste platsen av ... 
+fe'emo'u	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: genomfört i rummet; vid den bortre ändan av ... 
+fe'enoroi	cmavo-compound			   	ROI*      	plats tempus intervall modifierare: aldrig i rummet; objekt kvantifierat tempus.
+fe'epu'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: anticipativ i rummet; ända till kanten av...
+fe'eroroi	cmavo-compound			   	ROI*      	plats tempus intervall modifiererare: alltid i rummet; objekt kvantifierbart tempus.
+fe'eza'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: superfektiv i rummet; fortsätter för långt bortom ... 
+fe'i	cmavo			   	VUhU1      	unär matematisk operator: dividerat med/delat med; divisionsoperator; [(((a / b) / c) / ...)].
+fe'o	cmavo			   	COI      	vokativ: klart slut (slut på diskussionen).
+fe'u	cmavo			   	FEhU      	valbar avslutare: avslutar tillfällig konversion av selbri till modal; går vanligtvis att välja bort.
+fei	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra B (decimal 11) [eleven].
+fi	cmavo			   	FA      	sumti place tag: tag 3rd sumti place.
+fi'a	cmavo			   	FA      	sumti place tag: platsstruktur nummer/tag fråga.
+fi'e	cmavo			   	BAI      	finti modal, 1st place (skapare) skapad av ... 
+fi'i	cmavo			   	COI      	vokativ: gästfrihet - ogästvänlighet; du är välkommen/känn dig som hemma.
+fi'inai	cmavo-compound			   	COI*      	vokativ: gästfrihet - ogästvänlighet; du är inte välkommen. 
+fi'o	cmavo			   	FIhO      	omvandlar selbri till tillfällig modal/sumti tag.
+fi'u	cmavo			   	PA3      	siffra/nummer: solidus/bråkstreck; om inte annat anges:1/n, &quot;n/&quot; &gt; n/1, eller &quot;/&quot; ensam &gt; gyllene snittet.&quot; 	En solidus, ╱,är ett diagonalt streck (Unicode FF0F) som liknar snedstreck, /, men som lutar lite mer och är något längre. Tecknet används för sättning av &quot;riktiga&quot; bråk (eng. vulgar fractions), så som ½ eller ¼, istället för 1/2 eller 1/4.
+fi'ure	cmavo-compound			   	PA*      	hälften.	synonym {pimu}; se även {xadba}.
+fo	cmavo			   	FA      	sumti place tag: tag 4th sumti place.
+fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: han/hon/det/de #6 (specificerad av goi).
+fo'e	cmavo   	-fo'e-		   	KOhA4      	pro-sumti: han/hon/det/de #7 (specificerad av goi).
+fo'i	cmavo   	-fo'i-		      		pro-sumti: han/hon/det/de #8 (specificerad av goi).
+fo'o	cmavo			   	KOhA4      	pro-sumti: han/hon/det/de #9 (specificerad av goi).
+fo'u	cmavo			   	KOhA4      	pro-sumti: han/hon/det/de #10 (specificerad av goi).
+foi	cmavo			   	FOI      	avslutare: avslutar sammansatt lerfu; aldrig valbar.
+fu	cmavo			   	FA      	sumti place tag: tag 5th sumti place.
+fu'e	cmavo			   	FUhE      	börjar indikator långt omfång.
+fu'i	cmavo			   	UI5      	attitudinal modifierare: lätt - svårt.
+fu'inai	cmavo-compound			   	UI*5      	attitudinal modifierare: lätt - svårt.
+fu'o	cmavo			   	FUhO      	avslutar indikator långt omfång; avslutar omfång av alla aktiva indikatorer.
+fu'u	cmavo			   	VUhU0      	unär matematisk operator: elliptisk/ospecificerad matematiskt uttryck (mex) operator.
+fy	cmavo			      		bokstaven f.
+ga'a	cmavo			   	BAI      	zgana modal, 1st place för betraktare ... ; bevittnat av ... 
+ga'e	cmavo			   	BY1      	skifte till versal/stor bokstav.
+ga'i	cmavo			   	UI5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de av lägre rang. 	Se även {gapru}, {cnita}.
+ga'icu'i	cmavo-compound			   	UI*5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de av lika rang. 
+ga'inai	cmavo-compound			   	UI*5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de högre rang.
+gai	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra C (decimal 12) [tolv].
+gau	cmavo			   	BAI      	gasnu modal, 1st place agent/aktör fall tag med aktiv agent.
+gi'enai	cmavo-compound			   	GIhA*      	logisk konjunktion: bridi-svans eftertänkt x men inte y.
+gi'onai	cmavo-compound			   	GIhA*      	logisk konjunktion: bridi-svans eftertänkt exklusivt eller (XOR); Latin 'aut'.
+mu	cmavo   	-mum-		   	PA1      	siffra/nummer: 5 (siffra) [fem].
+no	cmavo   	-non-		   	PA1      	siffra/nummer: 0 (siffra) [noll].
+pa	cmavo   	-pav-		   	PA1      	siffra/nummer: 1 (siffra) [ett].
+pano	cmavo-compound			   	PA*      	nummer: 10 (siffra) [tio].
+re	cmavo   	-rel-		   	PA1      	siffra/nummer: 2 (siffra) [två].
+so	cmavo   	-soz-		   	PA1      	siffra/nummer: 9 (siffra) [nio].
+vo	cmavo   	-von-		   	PA1      	siffra/nummer: 4 (siffra) [fyra].
+xa	cmavo   	-xav-		   	PA1      	siffra/nummer: 6 (siffra) [sex].
+ze	cmavo   	-zel-		   	PA1      	siffra/nummer: 7 (siffra) [sju].
