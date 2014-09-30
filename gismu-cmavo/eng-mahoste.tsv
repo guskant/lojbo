@@ -104,7 +104,7 @@ ce'u	cmavo			   	KOhA8      	pseudo-quantifier binding a variable within an abst
 cei	cmavo			   	CEI      	selbri variable assignment; assigns broda series pro-bridi to a selbri.
 cei'i	experimental cmavo			   	GOhA      	pro-bridi: the universal predicate	See also: {zai'o} (pro-sumti; empty), {gai'o} (pro-bridi; empty), {mai'i} (pro-sumti; universal), {ctaipe}.
 ci	cmavo   	-cib-		   	PA1      	digit/number: 3 (digit) [three].
-ci'ai'u	experimental cmavo			   	VUhU      	unary mex operator: n-set; maps a nonnegative integer a to the set \\1,…,a\\} (the intersection of the set of all natural numbers with the closed interval [1,a] such that a≥1) 	0 maps to the empty set.
+ci'ai'u	experimental cmavo			   	VUhU      	unary mex operator: n-set; maps a nonnegative integer 'a' to the set \\1,…,a\\} (the intersection of the set of all natural numbers with the closed interval [1,a] such that 'a≥1')	0 maps to the empty set.
 ci'e	cmavo			   	BAI      	ciste modal, 1st place used in scalar negation    in system/context ...
 ci'i	cmavo			   	PA5      	digit/number: infinity; followed by digits =&gt; aleph cardinality.
 ci'iroi	cmavo-compound			   	ROI*      	tense interval modifier: occurs infinite times, eternally; objective tense; defaults as time.
