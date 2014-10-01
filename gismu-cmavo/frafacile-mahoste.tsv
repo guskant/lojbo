@@ -93,11 +93,11 @@ coi	cmavo			      		salut (bonjour)
 coico'o	cmavo-compound			      		bonjour en passant
 cu	cmavo			      		marqueur de début d'un selbri
 cu'a	cmavo			      		valeur absolue (norme)
-cu'e	cmavo			      		question &quot; modal? &quot;
+cu'e	cmavo			      		question " modal? "
 cu'i	cmavo			      		émotion neutre
 cu'u	cmavo			      		comme dit par
 cu'u ko'a	cmavo-compound			      		comme dit par ko'a
-cy	cmavo			      		lettre &quot; c &quot;
+cy	cmavo			      		lettre " c "
 da	cmavo   	-dav-   	-dza-	      		quelquechose 1
 da'a	cmavo   	-daz-		      		tout sauf
 da'amoi	cmavo-compound			      		avant dernier
@@ -277,7 +277,7 @@ jo'i	cmavo			      		tableau
 jo'o	cmavo			      		passe à l'alphabet arabe
 jo'u	cmavo   	-jo'u-		      		en commun avec
 joi	cmavo   	-jol-   	-joi-	      		en masse avec
-joibu	bu-letteral			      		&amp;
+joibu	bu-letteral			      		&
 jonai	cmavo-compound			      		x XOR y (intérieur d'un tanru)
 ju	cmavo   	-juv-		      		x quelque soit y (intérieur d'un tanru)
 ju'e	cmavo			      		connecteur vague
@@ -537,7 +537,7 @@ pe'u	cmavo			      		svp
 pei	cmavo			      		question: « émotion ? »
 pi	cmavo   	-piz-		      		virgule décimale
 pi'a	cmavo			      		matrice de ligne
-pi'e	cmavo			      		séparateur de chiffre (1h12'12''-&gt;1pi'e12pi'e12)
+pi'e	cmavo			      		séparateur de chiffre (1h12'12''->1pi'e12pi'e12)
 pi'i	cmavo			      		multiplication
 pi'o	cmavo			      		utilisé par
 pi'u	cmavo   	-piv-		      		produit cartésien

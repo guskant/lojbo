@@ -18,7 +18,7 @@ co	cmavo   	-col-		      		Tanruumstellungsoperator; „... vom Typ ...“; erla
 co'a	cmavo   	-co'a-		      		Intervall-Ereignisumriss: am Anfang von ...; anfänglich
 co'e	cmavo   	-com-   	-co'e-	      		unspezifizierte Bridi-Beziehung
 co'o	cmavo			   	COI      	Vokativ: Tschüss
-co'u	cmavo   	-co'u-		      		Intervall-Ereignisumriss: am Schlusspunkt von … selbst, wenn noch nicht fertig; beendend | &gt;&lt; |
+co'u	cmavo   	-co'u-		      		Intervall-Ereignisumriss: am Schlusspunkt von … selbst, wenn noch nicht fertig; beendend | >< |
 coi	cmavo			   	COI      	Vokativ: Hallo
 da	cmavo   	-dav-   	-dza-	      		logisch quantifiziertes existenzielles Prosumti: es gibt etwas 1 (normalerweise eingeschränkt)
 da'a	cmavo   	-daz-		      		Ziffer/Zahl: alle außer n; alle bis auf n; (Default 1)
@@ -96,7 +96,7 @@ vu	cmavo   	-vuz-		      		räumliche Entfernung: weit von ...; eine weite Entfe
 xa	cmavo   	-xav-		   	PA1      	Zahl/Ziffer: 6 [Sechs].
 xe	cmavo   	-xel-		      		Fünfter Tausch; tauscht den ersten und fünften Platz
 za'i	cmavo   	-zaz-		      		Abstraktion: Zustand (Ereignis) Abstraktion; x_1 ist der andauernde Zustand, dass [bridi] wahr ist
-za'o	cmavo   	-za'o-		      		Intervall-Ereignisumriss: setzt zu lang fort nach dem natürlichen Ende von ...; ... |     ----&gt;
+za'o	cmavo   	-za'o-		      		Intervall-Ereignisumriss: setzt zu lang fort nach dem natürlichen Ende von ...; ... |     ---->
 ze	cmavo   	-zel-		   	PA1      	Zahl/Ziffer: 7 [Sieben].
 ze'o	cmavo   	-zev-   	-ze'o-	      		räumliche Beziehung/Richtung; über ... hinaus/nach außen/entfernend von ...
 zi'o	cmavo   	-zil-		      		pro-sumti: füllt einen sumti-Platz und entfernt diesen von der selbri-Platzstruktur; verändert die selbri-Semantik

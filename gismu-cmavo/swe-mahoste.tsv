@@ -73,7 +73,7 @@ ce'e	cmavo			   	CEhE      	 definition 	länkar termer ihop i ett eftertänkt s
 ce'i	cmavo   	-cez-		   	PA3      	siffra/nummer: % procentsymbol, hundradel.
 ce'o	cmavo   	-ce'o-		   	JOI      	icke-logisk konjunktion: ordnad sekvenslänk; 
 ci	cmavo   	-cib-		   	PA1      	siffra/nummer: 3 (siffra) [tre].
-ci'i	cmavo			   	PA5      	siffra/nummer: oändlighet; följt av nummer =&gt; alef-kardinalitet . 
+ci'i	cmavo			   	PA5      	siffra/nummer: oändlighet; följt av nummer => alef-kardinalitet . 
 ci'iroi	cmavo-compound			   	ROI*      	tempus intervall modifierare: inträffar oändligt antal gånger, för evigt; målsättningstempus; tid om inget annat anges.
 ci'o	cmavo			   	BAI      	cinmo modal, 1st place emotionellt förnummen av ... 
 ci'u	cmavo			   	BAI      	ckilu modal, 1st place på en skala...
@@ -123,7 +123,7 @@ do'a	cmavo			   	UI3      	diskursiv: generöst - snålt.	Se även {dunda}.
 do'anai	cmavo-compound			      		diskursiv: generöst - snålt.
 do'e	cmavo			   	BAI      	elliptisk/ospecificerad modal.
 do'i	cmavo			   	KOhA2      	pro-sumti: elliptisk/ospecificerat påstående variabel.
-do'o	cmavo			   	KOhA3      	pro-sumti: ni (du lyssnaren &amp; andra ospecificerade).
+do'o	cmavo			   	KOhA3      	pro-sumti: ni (du lyssnaren & andra ospecificerade).
 do'u	cmavo			   	DOhU      	valbar avslutare: avslutar vokativ (ofta valbar).
 doi	cmavo			   	DOI      	generisk vokativmarkör; identifierar den avsedda lyssnaren; valbar efter COI.
 doido'u	cmavo-compound			   	DOI*      	generisk vokativ addresserar avsedd lyssnare.
@@ -182,7 +182,7 @@ fi'e	cmavo			   	BAI      	finti modal, 1st place (skapare) skapad av ...
 fi'i	cmavo			   	COI      	vokativ: gästfrihet - ogästvänlighet; du är välkommen/känn dig som hemma.
 fi'inai	cmavo-compound			   	COI*      	vokativ: gästfrihet - ogästvänlighet; du är inte välkommen. 
 fi'o	cmavo			   	FIhO      	omvandlar selbri till tillfällig modal/sumti tag.
-fi'u	cmavo			   	PA3      	siffra/nummer: solidus/bråkstreck; om inte annat anges:1/n, &quot;n/&quot; &gt; n/1, eller &quot;/&quot; ensam &gt; gyllene snittet.&quot; 	En solidus, ╱,är ett diagonalt streck (Unicode FF0F) som liknar snedstreck, /, men som lutar lite mer och är något längre. Tecknet används för sättning av &quot;riktiga&quot; bråk (eng. vulgar fractions), så som ½ eller ¼, istället för 1/2 eller 1/4.
+fi'u	cmavo			   	PA3      	siffra/nummer: solidus/bråkstreck; om inte annat anges:1/n, "n/" > n/1, eller "/" ensam > gyllene snittet." 	En solidus, ╱,är ett diagonalt streck (Unicode FF0F) som liknar snedstreck, /, men som lutar lite mer och är något längre. Tecknet används för sättning av "riktiga" bråk (eng. vulgar fractions), så som ½ eller ¼, istället för 1/2 eller 1/4.
 fi'ure	cmavo-compound			   	PA*      	hälften.	synonym {pimu}; se även {xadba}.
 fo	cmavo			   	FA      	sumti place tag: tag 4th sumti place.
 fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: han/hon/det/de #6 (specificerad av goi).

@@ -10,9 +10,9 @@ ce'i	cmavo   	-cez-		      		cifero/nombro: % simbolo de elcento, centonoj	Vidu 
 ce'o	cmavo   	-ce'o-		      		nelogika kunigilo: konjunkcio; kaj, sinsekve kun, formanta sinsekvon	Vidu ankaŭ {porsi}, cmavo {ce}.
 ci	cmavo   	-cib-		      		cifero/nombro: 3 (cifero)
 co	cmavo   	-col-		      		renversilo de tanru; permesas modifanton kun sekvantaj sumti sen sumti-ligiloj                                                                  -
-co'a	cmavo   	-co'a-		      		intervala konturo de okazo: komenciĝante                                      &gt;|&lt;    |	Ek- (= co'a(r)-).  Vidu ankaŭ {cfari}, {krasi}, {clira}.
+co'a	cmavo   	-co'a-		      		intervala konturo de okazo: komenciĝante                                      >|<    |	Ek- (= co'a(r)-).  Vidu ankaŭ {cfari}, {krasi}, {clira}.
 co'e	cmavo   	-com-   	-co'e-	      		elipsa/nespecifa rilato
-co'u	cmavo   	-co'u-		      		intervala konturo de okazo: finiĝante (eĉ se ne kompleta)                     |  &gt;&lt; |	Finiĝante (= co'u(r)-).  Vidu ankaŭ {sisti}, {fanmo}.
+co'u	cmavo   	-co'u-		      		intervala konturo de okazo: finiĝante (eĉ se ne kompleta)                     |  >< |	Finiĝante (= co'u(r)-).  Vidu ankaŭ {sisti}, {fanmo}.
 coi	cmavo			   	COI      	Viiĝo: Salutoj
 da	cmavo   	-dav-   	-dza-	      		pro-sumti: logike kvantigebla varianto; io 1 (ĝenerale limigita)
 da'a	cmavo   	-daz-		      		cifero/nombro: ĉiu/ĉiuj krom n; ĉiuj escepte de n; (defaŭlto 1)
@@ -40,7 +40,7 @@ le'e	cmavo   	-lem-		      		nevereca priskribilo: la stereotipo de tiuj priskri
 li'i	cmavo   	-liz-		      		abstraktilo de sperto: x_1 estas la sperto de partoprenanto/observanto x_2 de [bridi]	Vidu ankaŭ {lifri}.
 lo'e	cmavo   	-lom-		      		vereca priskribilo: la tipo de tiuj, kiuj vere estas ...
 medomoi	cmavo-compound			      		x_1 estas via x_2 laux regulo/rilato x_3
-mei	cmavo   	-mem-   	-mei-	      		ŝanĝas nombron en selbri; x_1 estas &lt;n&gt;-opo formita el aro x_2 kun membroj x_3	(x_1 estas kolektivaĵo kun N eroj x_3 konsistiganta aron x_2; x_3 (ne nepre kompleta nombrado) estas Inter la. membroj de x_2); Vidu ankaŭ {cmima}, {gunma}, cmavo {moi}.
+mei	cmavo   	-mem-   	-mei-	      		ŝanĝas nombron en selbri; x_1 estas <n>-opo formita el aro x_2 kun membroj x_3	(x_1 estas kolektivaĵo kun N eroj x_3 konsistiganta aron x_2; x_3 (ne nepre kompleta nombrado) estas Inter la. membroj de x_2); Vidu ankaŭ {cmima}, {gunma}, cmavo {moi}.
 memimoi	cmavo-compound			      		x_1 estas mia x_2 laux regulo/rilato x_3
 mi	cmavo   	-mib-		      		pro-sumti: mi/ni la parolanto(j)/aŭtoro(j); identigita(j) per mem-vokativo	Vidu ankaŭ {sevzi}.
 mo'a	cmavo   	-mob-		      		cifero/nombro: tro malmultaj; subjektiva
@@ -89,7 +89,7 @@ vu	cmavo   	-vuz-		      		loka distanco: longa distanco; tie for	Vidu ankaŭ {d
 xa	cmavo   	-xav-		      		cifero/nombro: 6 (cifero)
 xe	cmavo   	-xel-		      		5-a revicigo; interŝanĝas 1-an/5-an lokojn
 za'i	cmavo   	-zaz-		      		abstraktilo de stato: x_1 estas kontinua stato de [bridi]	Vidu ankaŭ {zasni}, {zasti}, {tcini}.
-za'o	cmavo   	-za'o-		      		intervala konturo de okazo: kontinuante post la kompleto; superfektivo            |    ----&gt;	Vidu ankaŭ {dukse}.
+za'o	cmavo   	-za'o-		      		intervala konturo de okazo: kontinuante post la kompleto; superfektivo            |    ---->	Vidu ankaŭ {dukse}.
 ze	cmavo   	-zel-		      		      cifero/nombro: 7 (cifero)
 ze'e	cmavo   	-ze'e-		      		tempa intervalo: ĉiam, la tuta tempo (rafsi reprezentas ian ajn tempan intervalon)
 ze'o	cmavo   	-zev-   	-ze'o-	      		loka rilato/direkto; trans/pli malproksime ol...

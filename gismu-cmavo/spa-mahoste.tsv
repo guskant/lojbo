@@ -90,7 +90,7 @@ ce'u	cmavo			   	KOhA8      	indica la posición del poseedor de una propiedad
 cei	cmavo			   	CEI      	asignación de selbri variable; asigna pro-bridi de serie broda a un selbri
 ci	cmavo   	-cib-		      		dígito/número: 3 (dígito) (tres)
 ci'e	cmavo			   	BAI      	ciste modal, 1er argumento usado en negación escalar  en sistema/contexto ...
-ci'i	cmavo			   	PA5      	dígito/número: infinito; seguido por dígitos =&gt; cardinalidad álef
+ci'i	cmavo			   	PA5      	dígito/número: infinito; seguido por dígitos => cardinalidad álef
 ci'iroi	cmavo-compound			   	ROI*      	modificador de intervalo: infinitas veces, eternamente
 ci'o	cmavo			   	BAI      	cinmo modal, 1er argumento                            emocionalmente sentido por ...
 ci'u	cmavo			   	BAI      	ckilu modal, 1er argumento                            en la escala ...
@@ -101,11 +101,11 @@ cino	cmavo-compound			   	PA*      	número/cantidad: 30 (treinta)
 cinono	cmavo-compound			   	PA*      	número/cantidad: 300 (trescientos)
 ciroi	cmavo-compound			   	ROI*      	modificador de intervalo: tres veces
 co	cmavo   	-col-		   	CO      	inversion de tanru; permite sumti pospuestos del modificador sin acople de sumti
-co'a	cmavo   	-co'a-		   	ZAhO      	aspecto verbal: comienzo de la acción; ingresivo                   &gt;|&lt;    |
+co'a	cmavo   	-co'a-		   	ZAhO      	aspecto verbal: comienzo de la acción; ingresivo                   >|<    |
 co'e	cmavo   	-com-   	-co'e-	   	GOhA      	relación elíptica/no especificada
-co'i	cmavo			   	ZAhO      	aspecto verbal: acción puntual; logrativo;   &gt;|&lt;
+co'i	cmavo			   	ZAhO      	aspecto verbal: acción puntual; logrativo;   >|<
 co'o	cmavo			   	COI      	vocativo: adios
-co'u	cmavo   	-co'u-		   	ZAhO      	aspecto verbal: fin de la acción, incluso sin completar; egresivo      |  &gt;&lt; |
+co'u	cmavo   	-co'u-		   	ZAhO      	aspecto verbal: fin de la acción, incluso sin completar; egresivo      |  >< |
 coi	cmavo			   	COI      	vocativo: saludo/hola
 coico'o	cmavo-compound			   	COI*      	vocativo: saludo al pasar
 cu	cmavo			   	CU      	marcador elisible: separa selbri del sumti precedente, permite la elisión de terminadores precedentes
@@ -114,17 +114,17 @@ cu'e	cmavo			   	CUhE      	pregunta modal/tiempo verbal
 cu'i	cmavo			   	CAI      	actitudinal: neutral
 cu'o	cmavo			   	MOI      	convierte número en selbri de probabilidad; evento x_1 tiene probabilidad (n) de ocurrir bajo condiciones x_2
 cu'u	cmavo			   	BAI      	cusku modal, 1er argumento (atribución/cita)          dicho por fuente ...; usado con citas
-cu'u ko'a	cmavo-compound			   	BAI*      	sumti preposicionado: puede ser usado con inserción editorial: ello-1 dijo, &quot;...&quot;,
+cu'u ko'a	cmavo-compound			   	BAI*      	sumti preposicionado: puede ser usado con inserción editorial: ello-1 dijo, "...",
 cy	cmavo			   	BY2      	letra c
 da	cmavo   	-dav-   	-dza-	   	KOhA1      	pro-sumti con cuantificación existencial: existe algo 1 (generalmente restringido)
 da'a	cmavo   	-daz-		   	PA4      	dígito/número: todos excepto n; todos menos n; por defecto 1
 da'amoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte todos-menos-1 en selbri ordinal; x_1 es penúltimo entre x_2 según regla x_3
 da'aremoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte todos-menos-2 en selbri ordinal; x_1 es antepenúltimo entre x_2 según regla x_3
-da'e	cmavo			   	KOhA2      	pro-sumti: expresión futura; &quot;Te lo dirá mañana. ESO va a estar bueno.&quot;
+da'e	cmavo			   	KOhA2      	pro-sumti: expresión futura; "Te lo dirá mañana. ESO va a estar bueno."
 da'i	cmavo			   	UI3      	discursivo: suposición - de hecho	Ver también {sruma}.
 da'inai	cmavo-compound			   	UI*3      	discursivo: suponiendo - de hecho
 da'o	cmavo			   	DAhO      	discursivo: cancela asignaciones de pro-sumti/pro-bridi
-da'u	cmavo			   	KOhA2      	pro-sumti: una expresión pasada; &quot;Ella no podía saber que ESO sería cierto.&quot;
+da'u	cmavo			   	KOhA2      	pro-sumti: una expresión pasada; "Ella no podía saber que ESO sería cierto."
 dai	cmavo			   	UI5      	modificador de actitudinal: empatía; muestra los sentimientos de otro	Ver también {cnijmi}.
 dau	cmavo			   	PA2      	dígito/número: dígito hexadecimal A (decimal 10) (diez)
 de	cmavo			   	KOhA1      	pro-sumti con cuantificación existencial: existe algo 2 (generalmente restringido)
@@ -134,7 +134,7 @@ de'i	cmavo			   	BAI      	detri modal, 1er argumento (para cartas)             
 de'o	cmavo			   	VUhU3      	operador matemático binario: logaritmo; (log/ln a en base b); por defecto base 10 or e
 de'u	cmavo			   	KOhA2      	pro-sumti: una expresión reciente
 dei	cmavo			   	KOhA2      	pro-sumti: esta expresión
-denpa bu	bu-letteral			   	BY*      	letra: carácter &quot;.&quot; de lojban
+denpa bu	bu-letteral			   	BY*      	letra: carácter "." de lojban
 di	cmavo			   	KOhA1      	pro-sumti con cuantificación existencial: existe algo 3 (generalmente restringido)
 di'a	cmavo			   	ZAhO      	aspecto verbal: punto en que se retoma la acción; retomativo
 di'e	cmavo			   	KOhA2      	pro-sumti: la próxima expresión
@@ -147,7 +147,7 @@ do'a	cmavo			   	UI3      	discursivo: generosidad - parsimonia	Ver también {du
 do'anai	cmavo-compound			   	UI*3      	discursivo: generosamente - parsimoniosamente
 do'e	cmavo			   	BAI      	modal elíptico/no específico
 do'i	cmavo			   	KOhA2      	pro-sumti: expresión elíptica/no especificada
-do'o	cmavo			   	KOhA3      	pro-sumti: tú/usted(es) \\&amp; otros no especificados
+do'o	cmavo			   	KOhA3      	pro-sumti: tú/usted(es) \\& otros no especificados
 do'u	cmavo			   	DOhU      	terminador elisible: fin de vocativo (a menudo elisible)
 doi	cmavo			   	DOI      	vocativo genérico; identifica al interlocutor de quien habla; elisible después de COI
 doido'u	cmavo-compound			   	DOI*      	vocativo genérico para dirigirse a alguien;
@@ -208,7 +208,7 @@ fi'e	cmavo			   	BAI      	finti modal, 1er argumento (creador)                 
 fi'i	cmavo			   	COI      	vocativo: hospitalidad - inhospitalidad; bienvenido
 fi'inai	cmavo-compound			   	COI*      	vocativo: hospitalidad - inhospitalidad
 fi'o	cmavo			   	FIhO      	convierte selbri a modal
-fi'u	cmavo			   	PA3      	dígito/número: barra de fracción; por defecto &quot;/n&quot; =&gt; 1/n, &quot;n/&quot; =&gt; n/1, o &quot;/&quot; solo =&gt; razón dorada
+fi'u	cmavo			   	PA3      	dígito/número: barra de fracción; por defecto "/n" => 1/n, "n/" => n/1, o "/" solo => razón dorada
 fo	cmavo			   	FA      	indicador de posición de sumti: indica 4ta posición de sumti
 fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #6 (especificado por goi)
 fo'e	cmavo   	-fo'e-		   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #7 (especificado por goi)
@@ -342,7 +342,7 @@ joibu	bu-letteral			   	BY*      	letra: ampersand character; especially used in
 jonai	cmavo-compound			   	JA*      	conector lógico entre componentes de tanru: o exclusivo
 ju	cmavo   	-juv-		   	JA      	conector lógico entre componentes de tanru: sea o no que
 ju'a	cmavo			   	UI2      	evidencial: declaración - (por defecto) base elíptica/no específica	Ver también {xusra}.
-ju'e	cmavo			   	JOI      	conector vago no lógico: análogo a &quot;.i&quot;
+ju'e	cmavo			   	JOI      	conector vago no lógico: análogo a ".i"
 ju'i	cmavo			   	COI      	vocativo: atención - descanso - ignorame
 ju'icu'i	cmavo-compound			   	COI*      	vocativo: atención - descanso - ignorame
 ju'inai	cmavo-compound			   	COI*      	vocativo: atención - descanso - ignorame
@@ -360,7 +360,7 @@ ka'i	cmavo			   	BAI      	krati modal, 1er argumento                           
 ka'o	cmavo			   	PA5      	dígito/número: imaginario i; raíz cuadrada de -1
 ka'u	cmavo			   	UI2      	evidencial: sé culturalmente (mito o costumbre)	Ver también {kluju'o}.
 kai	cmavo			   	BAI      	ckaji modal, 1er argumento                            caracterizando a ...
-kau	cmavo			   	UI3a      	discursivo: marca el foco de una pregunta indirecta: &quot;sé QUIÉN fue al mercado&quot;
+kau	cmavo			   	UI3a      	discursivo: marca el foco de una pregunta indirecta: "sé QUIÉN fue al mercado"
 ke	cmavo   	-kem-		   	KE      	comienza grupo en tanru, etc; anula agrupmiento normal de tanru por izquierda
 ke'a	cmavo			   	KOhA7      	pro-sumti: sumti relativizado (objeto de cláusula relativa)
 ke'e	cmavo   	-kep-   	-ke'e-	   	KEhE      	terminador elisible: fin de grupo en tanru (generalmente elisible)
@@ -397,7 +397,7 @@ la	cmavo			   	LA      	descriptor de nombre: el/cada uno de los llamado(s) ... 
 la'a	cmavo			   	UI3      	discursivo: probablemente - improbablemente	Ver también {lakne}.
 la'anai	cmavo-compound			   	UI*3      	discursivo: probabilidad - improbabilidad
 la'e	cmavo			   	LAhE      	el referente de (señalador indirecto); usa el referente de un sumti como sumti
-la'edi'u	cmavo-compound			   	KOhA*      	pro-sumti: el referente de la expresión anterior; el estado descripto: &quot;ESO fué divertido&quot;
+la'edi'u	cmavo-compound			   	KOhA*      	pro-sumti: el referente de la expresión anterior; el estado descripto: "ESO fué divertido"
 la'i	cmavo			   	LA      	descriptor de nombre: el conjunto de los llamados ... ; acepta nombre o descripción de selbri
 la'o	cmavo			   	ZOI      	nombre no lojbánico; el sumti resultante es tratado como un nombre
 la'u	cmavo			   	BAI      	klani modal, 1er argumento (cantidad)                 cuantificando ...; siendo una cantidad de ...
@@ -452,7 +452,7 @@ lu'o	cmavo			   	LAhE      	el grupo compuesto por ...; convierte otro tipo de d
 lu'u	cmavo			   	LUhU      	terminador elisible: fin de calificadores de sumti; generalmente elisible excepto antes de un sumti
 ly	cmavo			   	BY2      	letra l
 ma	cmavo			   	KOhA7      	pro-sumti: pregunta de sumti (qué/quién/cómo/por qué/dónde/etc.); llenar apropiadamente el espacio de sumti
-ma'a	cmavo			   	KOhA3      	pro-sumti: yo/nosotros &amp; tú/usted(es) &amp; otros no especificados
+ma'a	cmavo			   	KOhA3      	pro-sumti: yo/nosotros & tú/usted(es) & otros no especificados
 ma'e	cmavo			   	BAI      	marji modal, 1er argumento                            material en objeto/sustancia ...
 ma'i	cmavo			   	BAI      	manri modal, 1er argumento (según estándar 2)         en marco de referencia ...
 ma'o	cmavo			   	MAhO      	convierte operando de cadena de letras u otra expresión matemática en operador
@@ -469,13 +469,13 @@ me'u	cmavo			   	MEhU      	terminador elisible: fin de sumti convertido en selb
 medomoi	cmavo-compound			      		x_1 es tuyo entre x_3 por regla/relación x_3; x_1 es tu x_3 por regla/relación x_3; 
 mei	cmavo   	-mem-   	-mei-	   	MOI      	convierte número en selbri cardinal; x_1 es un grupo de (n) miembros de x_2, uno de los cuales es x_3
 memimoi	cmavo-compound			      		x_1 es mío entre x_2 por regla/relación x_3; x_1 es mi x_2 por regla/relación x_3
-mi	cmavo   	-mib-		   	KOhA3      	pro-sumti: yo/nosotros; identificado por autovocativo &quot;mi'e&quot;
-mi'a	cmavo			   	KOhA3      	pro-sumti: yo/nosotros &amp; otros no especificados, pero no tú/usted(es)
+mi	cmavo   	-mib-		   	KOhA3      	pro-sumti: yo/nosotros; identificado por autovocativo "mi'e"
+mi'a	cmavo			   	KOhA3      	pro-sumti: yo/nosotros & otros no especificados, pero no tú/usted(es)
 mi'ai	experimental cmavo			   	KOhA3      	nosotros/nosotras
 mi'e	cmavo			   	COI      	autovocativo: autointroducción - negación de identidad; identifica a quien habla
 mi'enai	cmavo-compound			   	COI*      	autovocativo: autointroducción - negación de identidad; niega la identidad de quien habla
 mi'i	cmavo			   	BIhI      	conector de intervalos no lógico: componentes ordenados: ... centro, ... rango alrededor del centro
-mi'o	cmavo			   	KOhA3      	pro-sumti: yo/nosotros &amp; tú/usted(es)
+mi'o	cmavo			   	KOhA3      	pro-sumti: yo/nosotros & tú/usted(es)
 mi'u	cmavo			   	UI3b      	discursivo: lo dicho	Ver también {mintu}.
 mo	cmavo			   	GOhA      	pro-bridi: pregunta de bridi/selbri/brivla
 mo'a	cmavo   	-mob-		   	PA4      	dígito/número: demasiado pocos; subjetivo
@@ -505,7 +505,7 @@ mo'izo'a	cmavo-compound			   	FAhA*      	movimiento espacial: pasando por
 mo'izo'i	cmavo-compound			   	FAhA*      	movimiento espacial: acercandose
 mo'izu'a	cmavo-compound			   	FAhA*      	movimiento espacial: hacia la izquierda
 mo'o	cmavo			   	MAI      	sufijo ordinal de expresión de orden superior; convierte número en ordinal, generalmente para una sección/cap	ítulo
-mo'u	cmavo			   	ZAhO      	aspecto verbal: punto de perfección de la acción; completivo              |    &gt;|&lt;
+mo'u	cmavo			   	ZAhO      	aspecto verbal: punto de perfección de la acción; completivo              |    >|<
 moi	cmavo   	-mom-   	-moi-	   	MOI      	convierte número en selbri ordinal; x_1 es el (n)-ésimo miembro de x_2 ordenado según regla x_3
 mu	cmavo   	-mum-		   	PA1      	dígito/número: 5 (dígito) (cinco)
 mu'a	cmavo			   	UI3      	discursivo: ejemplo - omitiendo - fin de ejemplos	Ver también {mupli}.
@@ -547,7 +547,7 @@ ne'u	cmavo			   	FAhA1      	locación/dirección; al sur de
 nei	cmavo			   	GOhA      	pro-bridi: repite bridi actual
 ni	cmavo   	-nil-		   	NU      	abstractor: abstractor de cantidad; x_1 es una cantidad de (bridi) medida en escala x_2
 ni'a	cmavo			   	FAhA2      	locación/dirección; debajo de
-ni'e	cmavo			   	NIhE      	convierte selbri a operando; usado para crear nuevos cuantificadores no numericos; ej. &quot;manada&quot; de bueyes
+ni'e	cmavo			   	NIhE      	convierte selbri a operando; usado para crear nuevos cuantificadores no numericos; ej. "manada" de bueyes
 ni'i	cmavo			   	BAI      	nibli modal, 1er argumento                            lógicamente; lógicamente porque ...
 ni'i ma	cmavo-compound			   	BAI*      	pregunta por una demostración lógica; ¿por qué?
 ni'inai	cmavo-compound			   	BAI*      	nibli modal, 1er argumento                            a pesar de lógica ...
@@ -555,7 +555,7 @@ ni'o	cmavo			   	NIhO      	discursivo: párrafo nuevo; introduce nuevo tópico
 ni'u	cmavo			   	PA3      	dígito/número: signo menos; número negativo
 no	cmavo   	-non-		      		dígito/número: 0 (dígito) (cero)
 no'a	cmavo			   	GOhA      	pro-bridi: repite el bridi en el cual está incluído
-no'e	cmavo   	-nor-   	-no'e-	   	NAhE      	negador escalar medio: punto neutral entre je'a y to'e; &quot;no realmente&quot;
+no'e	cmavo   	-nor-   	-no'e-	   	NAhE      	negador escalar medio: punto neutral entre je'a y to'e; "no realmente"
 no'i	cmavo			   	NIhO      	discursivo: párrafo nuevo; resume tópico previo
 no'o	cmavo			   	PA5      	dígito/número: valor típico/promedio
 no'u	cmavo			   	GOI      	marcador de frase relativa apositiva no restrictiva: que por cierto es lo mismo que ...
@@ -598,7 +598,7 @@ oiro'u	cmavo-compound			   	UI*1      	actitudinal: queja sexual
 onai	cmavo-compound			   	A*      	conector lógico entre sumti: o exclusivo
 pa	cmavo   	-pav-		      		dígito/número: 1 (dígito) (uno)
 pa'a	cmavo			   	BAI      	panra modal, 1er argumento (paralelo; propiedad compartida) similarmente; además de ...
-pa'aku	cmavo-compound			   	BAI*      	sumti: marca explicitamente uso respectivo como en &quot;ELLOS leen SUS (respectivos) libros&quot;
+pa'aku	cmavo-compound			   	BAI*      	sumti: marca explicitamente uso respectivo como en "ELLOS leen SUS (respectivos) libros"
 pa'e	cmavo			   	UI3      	discursivo: justicia - prejuicio	Ver también {tcinydracu'a},  {tcinydrapai},  {vudypai}.
 pa'enai	cmavo-compound			   	UI*3      	discursivo: justicia - prejuicio
 pa'i	cmavo			   	VUhU2      	operador matemático binario: razón; (la razón entre a y b)
@@ -637,7 +637,7 @@ pe'u	cmavo			   	COI      	vocativo: por favor
 pei	cmavo			   	CAI      	actitudinal: pregunta actitudinal;
 pi	cmavo   	-piz-		   	PA3      	dígito/número: punto de raíz (base numerica); por defecto decimal
 pi'a	cmavo			   	VUhU4      	operador matemático n-ario: operandos son vectores a tratar como matrices fila
-pi'e	cmavo			   	PA3      	dígito/número: separador de dígitos base &gt;16 o variable (ej: hora, fecha)
+pi'e	cmavo			   	PA3      	dígito/número: separador de dígitos base >16 o variable (ej: hora, fecha)
 pi'i	cmavo			   	VUhU1      	operador matemático n-ario: por; operador de multiplicación; ((((a * b) * c) * ...))
 pi'o	cmavo			   	BAI      	pilno modal, 1er argumento                            usado por ...
 pi'u	cmavo   	-piv-		   	JOI      	conector no lógico: producto cruzado; producto cartesiano de conjuntos
@@ -837,7 +837,7 @@ si'e	cmavo			   	MOI      	convierte número en selbri fraccional; x_1 es una fr
 si'i	cmavo			   	VUhU4      	operador matemático trinario: (sumatoria sigma de a con variable b sobre rango c)
 si'o	cmavo   	-siz-		   	NU      	abstractor: abstractor de idea/concepto; x_1 es el concepto que tiene x_2 de (bridi)
 si'u	cmavo			   	BAI      	sidju modal, 1er argumento (aiding agent)             ayudado por ...
-slaka bu	bu-letteral			   	BY*      	letra: carácter &quot;,&quot; de lojban
+slaka bu	bu-letteral			   	BY*      	letra: carácter "," de lojban
 so	cmavo   	-soz-		   	PA1      	dígito/número: 9 (dígito) (nueve)
 so'a	cmavo   	-soj-		   	PA4      	dígito/número: casi todos (dígito/número)
 so'e	cmavo   	-sop-		   	PA4      	dígito/número: la mayoría
@@ -1020,7 +1020,7 @@ vo'e	cmavo			   	KOhA4      	pro-sumti: repite 2do argumento del bridi principal
 vo'i	cmavo			   	KOhA4      	pro-sumti: repite 3er argumento del bridi principal de esta oración
 vo'o	cmavo			   	KOhA4      	pro-sumti: repite 4to argumento del bridi principal de esta oración
 vo'u	cmavo			   	KOhA4      	pro-sumti: repite 5to argumento del bridi principal de esta oración
-voi	cmavo			   	NOI      	cláusula restrictiva no verídica usada para formar descripciones tipo &quot;le&quot; usando &quot;ke'a&quot;
+voi	cmavo			   	NOI      	cláusula restrictiva no verídica usada para formar descripciones tipo "le" usando "ke'a"
 voki'o	cmavo-compound			   	PA*      	número/cantidad: 4,000
 vomoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte 4 en selbri ordinal; x_1 es cuarto entre x_2 ordenado según regla x_3
 vono	cmavo-compound			   	PA*      	número/cantidad: 40 (cuarenta)
@@ -1054,7 +1054,7 @@ za	cmavo			   	ZI      	distancia temporal: a un tiempo medio
 za'a	cmavo			   	UI2      	evidencial: observación	Ver también {zgana},  {lanli}.
 za'e	cmavo			   	BAhE      	indicador de palabra efímera; indica que la siguiente palabra es una creación del momento y puede no ser estándar
 za'i	cmavo   	-zaz-		   	NU1      	abstractor: abstractor de estado (evento); x_1 es un estado continuo de (bridi) siendo verdad
-za'o	cmavo   	-za'o-		   	ZAhO      	aspecto verbal: continuando mas allá del final natural de la acción; superfective  |     ----&gt;
+za'o	cmavo   	-za'o-		   	ZAhO      	aspecto verbal: continuando mas allá del final natural de la acción; superfective  |     ---->
 za'u	cmavo			   	PA3      	dígito/número: mayor que
 zai	cmavo			   	LAU      	cambio de letra: sigue selector de alfabeto alternativo
 zau	cmavo			   	BAI      	zanru modal, 1er argumento                            aprobado por ...
@@ -1080,7 +1080,7 @@ zo'a	cmavo   	-zon-   	-zo'a-	   	FAhA4      	locación/dirección; tangente a
 zo'e	cmavo			   	KOhA7      	pro-sumti: un valor elíptico/no especificado; valor dado por el contexto
 zo'i	cmavo   	-zor-   	-zo'i-	   	FAhA4      	locación/dirección; mas cerca que ... /hacia adentro/acercandose desde ...
 zo'o	cmavo			   	UI5      	modificador de actitudinal: humor - seriedad	Ver también {xajmi},  {junri}.
-zo'obu	bu-letteral			   	BY*      	letra: símbolo de humor, &quot;:-)&quot; y formas relacionadas que expresan humor (letra)
+zo'obu	bu-letteral			   	BY*      	letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)
 zo'ocu'i	cmavo-compound			   	UI*5      	modificador de actitudinal: humor - aburrido - seriedad
 zo'onai	cmavo-compound			   	UI*5      	modificador de actitudinal: humor - aburrido - seriedad
 zo'u	cmavo			   	ZOhU      	marca el fin de cuantificadores lógicos/topicalización y el comienzo del bridi
