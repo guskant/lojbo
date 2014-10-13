@@ -1,12 +1,107 @@
 a	cmavo			   	A      	逻辑连词：或 （置于sumti之后）
 a'a	cmavo			   	UI1      	态度词：刻意-不刻意-避免	也可指“专心”。相关{jundi},{rivbi}
 a'e	cmavo			   	UI1      	态度词：警惕-精疲力尽	相关{sanji},{cikna},{tatpi}
+ai	cmavo			   	UI1      	态度词：打算-无决定-拒绝	相关{termu'i},{terzu'e},{seljdi}
 a'i	cmavo			   	UI1      	态度词：努力-没有特别努力-停止/休息	相关{gunka},{troci}
 a'o	cmavo			   	UI1      	态度词：希望-绝望	相关{pacna}
-a'u	cmavo			   	UI1      	态度词：兴趣-无兴趣-反感	相关{cinri},{selcni}
-ai	cmavo			   	UI1      	态度词：打算-无决定-拒绝	相关{termu'i},{terzu'e},{seljdi}
+arktik	cmevla			      		北冰洋
+asycy'i'is	cmevla			      		ASCII码	美国信息交换标准码
 au	cmavo			   	UI1      	态度词：渴望-无所谓-勉强/不情愿	相关{djica}
+a'u	cmavo			   	UI1      	态度词：兴趣-无兴趣-反感	相关{cinri},{selcni}
+auskalerik	cmevla			      		巴斯克	和西班牙紧密相关的一个自治地区
+babilon	cmevla			      		巴比伦
+barselonas	cmevla			      		巴塞罗那
+beiDJIN	cmevla			      		北京
+bidgug	cmevla			      		印度尼西亚	简称“印尼”
+blabruk	cmevla			      		白俄罗斯
+bosnan	cmevla			      		波斯尼亚	前南斯拉夫成员
+brazilias	cmevla			      		巴西
+bruNAIS	cmevla			      		文莱
+byLIN	cmevla			      		柏林
+cangan	cmevla			      		香港	普通话Xianggang的Lojban化
+canxais	cmevla			      		上海
+carpacib	cmevla			      		ROT-13	回转13位，指一种对26个英文字母进行简单变换加密的办法，不妨译为13位转字法。
+cev	cmevla			      		神	专名，另参见{jegvon}。两者均不同于泛指神仙的{cevni}。
+cinJIAN	cmevla			      		新疆
+ckiipyris	cmevla			      		阿尔巴尼亚
+cmeclax	cmevla			      		Nameless	意思是无名，一款匿名邮件软件的名字
+danmark	cmevla			      		丹麦
+djaZAIR	cmevla			      		阿尔及利亚	来自国名的阿拉伯语读法“贾扎伊尔”，意为岛屿。参见：{jerxo}（关于阿尔及利亚的gismu）。
+djiotis	cmevla			      		吉奥提	一个意为光线的印度常见名字
+djunguos	cmevla			      		中国
+dunav	cmevla			      		多瑙河
+dzip	cmevla			      		南冰洋	注意不是“北”冰洋。
 fau'u	experimental cmavo			   	COI      	对不起, 请原谅我, 抱歉	{fraxu}, {u'u}.
+gliban	cmevla			      		英语	专名。参见：{glico}（英格兰）、{bangu}（语言）、{glibau}（英语，属gismu）。
+gugl	cmevla			      		Google（谷歌）
+guonJAUS	cmevla			      		广州	粤语发音
+iaves	cmevla			      		雅威（即耶和华，又有译永为）	犹太教-基督教-伊斯兰教的神名，本是自有永有、成事者的意思。参见：{jegvon}（耶和华，专名）、{cev}（神，专名）、{cevni}（神袛）、{jegvo}（三教共尊的圣经）、{xebro}（希伯来）、{xriso}（基督教）、{muslo}（伊斯兰）。
+ieRUcaly'im	cmevla			      		耶路撒冷
+island	cmevla			      		冰岛
+italian	cmevla			      		意大利	又译“义大利”等。
+jan	cmevla			      		Jean（名）、张（姓氏）	Jean常译为“让”。
+jegvon	cmevla			      		耶和华（又译雅威、永为）	称呼犹太教、基督教、伊斯兰教等亚伯拉罕诸教共尊的那个神的说法，常译为专名“耶和华”，又译为“耶威”、“雅威”、“耶胡”、“爷火华”，但其实是自有永有、成事者的意思，所以又有意译为“永恒主”或者直接换称“神”、“主”的，新近有意音兼译为“永为”。参见：{iaves}（雅威，专名）、{cev}（神，专名）、{cevni}（神袛）、{jegvo}（三教共尊的圣经）、{xebro}（希伯来）、{xriso}（基督教）、{muslo}（伊斯兰）。
+jycybyb	cmevla			      		JCB（人名缩写）	即James Cooke Brown
 ka	cmavo   	-kam-		   	NU      	特性/性质指示; x_1 是[bridi]表现出的性质/特性 .
+kenton	cmevla			      		广州	旧译Canton的英语读法
+kokaKOlys	cmevla			      		可口可乐
+lauDZIS	cmevla			      		老子	中国古代哲学家“李耳”，不同于表示自称的“老子”
+laus	cmevla			      		老挝	又译“寮国”
+LIEtuvas	cmevla			      		立陶宛
+lietuvos	cmevla			      		立陶宛
+loglytuan	cmevla			      		逻辑语工作者	这里的“逻辑语”指Loglan，非Lojban。一份早期刊物的名字。又试译为“逻各斯志工”，试以“逻各斯语”对译Loglan，以区分于Lojban惯译的“逻辑语”。
+lojbab	cmevla			      		逻辑鲍勃	专指Bob LeChevalier君
+lojban	cmevla			      		逻辑语（又译理语）	不完全同于其前身Loglan（同样是逻辑语的意思）
+losanjylys	cmevla			      		洛杉矶
+lyndyn	cmevla			      		伦敦
+madRID	cmevla			      		马德里
 mi'ai	experimental cmavo			   	KOhA3      	我們
 mi'o	cmavo			   	KOhA3      	咱們
+mors	cmevla			      		莫尔斯、莫尔斯代码、电报、电码	“莫尔斯”又译“摩斯”，因此又有“摩斯密码”等说法。
+mumbais	cmevla			      		孟买
+nederland	cmevla			      		尼德兰	意为“低地”，即常说的“荷兰”。
+nipon	cmevla			      		日本	参加：{ponjo}、{pongu'e}
+noreg	cmevla			      		挪威
+nu,IORK	cmevla			      		纽约
+osteraix	cmevla			      		奥地利
+otan	cmevla			      		北约	即北大西洋公约组织
+OTa,uas	cmevla			      		渥太华
+paludizm	cmevla			      		疟疾
+pasifik	cmevla			      		太平洋
+pekin	cmevla			      		北京	威妥玛拼音Peking的Lojban化
+pelglar	cmevla			      		黄热病
+peRUV	cmevla			      		秘鲁	注意“秘”不读mì而读bì
+piton	cmevla			      		Python语言	一门编程语言，得名自英国喜剧《巨蟒与圣杯》。
+plank	cmevla			      		普朗克
+polskas	cmevla			      		波兰	参见：{gugdrpolska}（波兰）
+pyd	cmevla			      		西藏	旧称“吐蕃”（有读tùfān，有读tùbó）
+robin	cmevla			      		罗宾
+romas	cmevla			      		罗马
+sakartulos	cmevla			      		格鲁吉亚	美国乔治亚州的英文跟格鲁吉亚的英文相同，但是在Lojban里词源词形都完全不同。参见：{kartuli}（格鲁吉亚，属gismu）
+saupaulos	cmevla			      		圣保罗
+sferies	cmevla			      		瑞典
+SINgapur	cmevla			      		新加坡	简称“新”；又译“星加坡”，简称“星”。
+sol	cmevla			      		首尔
+suomen	cmevla			      		芬兰
+suomis	cmevla			      		芬兰
+suzyn	cmevla			      		苏珊	音译人名，又译“苏姗”
+taibeis	cmevla			      		台北
+tcunCIN	cmevla			      		重庆
+tienjin	cmevla			      		天津
+tolvut	cmevla			      		狂犬病	参见：{tolvutu}（狂犬病，属gismu）
+troneim	cmevla			      		特隆赫姆（又译特伦汗）	挪威第三大城市，教育、科技、医药研究中心。
+tyrontos	cmevla			      		多伦多
+uacintyn	cmevla			      		华盛顿
+UAcintyn	cmevla			      		华盛顿
+ueb	cmevla			      		网络（台湾惯译作网路）	不同于“网页”
+uikipedias	cmevla			      		维基百科	“维基”是一种技术，单用并不专指“维基百科”
+uikis	cmevla			      		维基（又意译为“共笔”等）	一种网页技术
+varcavas	cmevla			      		华沙	波兰首都
+VLANDeren	cmevla			      		佛兰德斯	中世纪欧洲一伯爵领地, 包括现比利时的东佛兰德省和西佛兰德省以及法国北部部分地区
+xelvet	cmevla			      		瑞士	参见：{gugdrxelvo}（瑞士，属gismu）
+xin	cmevla			      		印度洋	参见：{xingu'e}（印度）
+xonkon	cmevla			      		香港	港英拼法Hong Kong的Lojban化。参见：同样是表示香港但是语源不同的专名{cangan}。
+xrison	cmevla			      		基督
+xrvatsk	cmevla			      		克罗地亚
+xyngon	cmevla			      		香港	按照“香港”的粤语发音造的词。Lojban的专名命名非常语音主义，选择不同的发音可能意味着对概念理解的不同。参见：{cangan}、{xonkon}。
+zimbabues	cmevla			      		津巴布韦

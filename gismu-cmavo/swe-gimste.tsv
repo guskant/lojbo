@@ -1,9 +1,15 @@
+arktik	cmevla			      	Norra Ishavet
+asycy'i'is	cmevla			      	ASCII
+atinas	cmevla			      	Aten
+auskalerik	cmevla			      	Baskien
+babilon	cmevla			      	Babylon
 bacru	gismu   	-ba'u-		      	x_1 uttalar muntligt/säger/talar [producerar språkliga ljud/foner] x_2	Även röster; förutsätter inte nödvändigtvis kommunikation eller lyssnare ("säger" är oftast {cusku}. Se även {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
-badna	gismu			      	x_1 är en banan/kokbanan/dessertbanan [frukt/växt] av arten/sorten x_2.	Banan är ett bär, en ört, eller en frukt tillhörande banansläktet (Musa).  Se även {jupybadna}. 
+badna	gismu			      	x_1 är en banan/kokbanan/dessertbanan [frukt/växt] av arten/sorten x_2.	Banan är ett bär, en ört, eller en frukt tillhörande banansläktet (Musa). Se även {jupybadna}. 
 badri	gismu   	-dri-		      	x_1 är ledsen/dyster/betryckt/bedrövad/nedstämd/[olycklig/känner sorg] över x_2 (abstraktion).	Se även {klaku}, {gleki}, {betri}, {cinmo}, {junri}, {uinai}.
 bajra	gismu   	-baj-		      	x_1 springer/löper på underlag x_2 med lemmar x_3 med löpstil x_4.	Se även {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
 bakfu	gismu   	-baf-		      	x_1 är en bunt/lunta/knippe/packe/knyte/[bylte/kärve/bal/kolli/paket/klase] [form] innehållande x_2, sammanhållen av x_3                                                                            	En enhet av flera sammanbundna saker. Se även {daski}, {dakli}, {tanxe}.
 bakni	gismu   	-bak-		      	x_1 är en kossa/oxe/oxdjur/nötkreatur/boskapsdjur/nötboskap/[ko/tjur/stut/kviga/kalv] av art/sort x_2	Syftar på underfamiljen Oxdjur (bovinae) där det ingår 24 arter, fördelade på 9 släkten. I vardagligt tal syftar det på nötboskap, närmare bestämt kossor.
+baknis	cmevla			      	x_1 är Oxen (stjärnbild/stjärntecken).	Från {bakni} (lojban); Taurus (latin; =tjur, stut).
 bakri	gismu			      	x_1 är kalk/krita från källa x_2 i form x_3	Se även {pinsi}, {blabi}, {jilka}.
 baktu	gismu			      	x_1 är en spann/hink/ämbar/pyts/bytta/[skål]/dunk]/burk/tunna/djup behållare med vid öppning med innehåll x_2, tillverkad av material x_3	Se även {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
 balji	gismu			      	x_1 är en blomlök av växt/art x_2; [metafor: rund, svullen, utputande]	Se även {punli}, {batke}.
@@ -15,7 +21,7 @@ bandu	gismu   	-bad-		      	x_1 (tilldragelse) försvarar/skyddar/fredar x_2 (o
 banfi	gismu			      	x_1 är en amfibie (djur) av art/sort x_2	Se även {danlu}, {respa}.
 bangu	gismu   	-ban-   	-bau-	      	x_1 är ett språk/dialekt som används av x_2 för att uttrycka/kommunicera x_3 (si'o/du'u, ej citat).	Även tungomål.
 banli	gismu   	-bal-   	-ba'i-	      	x_1 är storslagen i egenskap x_2 (ka) enligt kriterium x_3	Indikerar en subjektiv storslagenhet, i jämförelse med de objektiva kriterier som {barda} implicerar; synonymer som möjligen kräver tanru: enastående, lysande, magnifik, imponerande, grandios, upphöjd, speciell, majestätisk,  eminent (alla generellt {zabna}); fruktansvärd ({mabla}). Se även {barda}, {nobli}, {se sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se manci}.
-banro	gismu   	-ba'o-		      	x_1 växer/expanderar [en ökande utveckling] till storlek/form x_2 från x_3.	Även öka i storlek,växa,bli större,förstoras,utöka,expandera,  [utvidga],ta sig (vard.), utvecklas. Se även {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
+banro	gismu   	-ba'o-		      	x_1 växer/expanderar [en ökande utveckling] till storlek/form x_2 från x_3.	Även öka i storlek,växa,bli större,förstoras,utöka,expandera, [utvidga],ta sig (vard.), utvecklas. Se även {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
 banxa	gismu   	-bax-		      	x_1 är en bank som ägs av/i banksystem x_2 för bankfunktioner x_3 (event).	Se även {sorcu}, {zarci}, {canja}, {kagni}, {zivle}, {jdini}, {jbera}.
 banzu	gismu   	-baz-		      	x_1 (objekt) räcker/förslår/är nog/tillräcklig/lagom/tillfyllest för ändamål x_2 under villkor x_3	Se även {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}, {mansa}, {rau}, {raumei}, {raumoi}.
 bapli	gismu   	-bap-   	-bai-	      	x_1 (ka) tvingar (händelse) x_2 att ske.	Förutsätter framgång, till skillnad från {danre}. Se även {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {nibli}, {zukte}, {randa}, {bai}.
@@ -23,6 +29,7 @@ barda	gismu   	-bra-		      	x_1 är stor i egenskap/dimension x_2 (ka) jämför
 bargu	gismu   	-bag-		      	x_1 kröker sig/välver sig/formar en båge över/runt x_2 och är gjord av x_3; x_1 är en båge över/runt x_2 av material x_3	Även kurva, båge [form]; x2 behöver inte vara ett objekt, utan kan också vara en punkt, yta eller volym. Se även {cripu}, {kruvi}, {korcu}, {condi}.
 barja	gismu			      	x_1 är en taverna/bar/pub som serverar x_2 till gäster/kunder x_3	Se även {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, se {pinxe}.
 barna	gismu   	-ba'a-		      	x_1 är ett märke/fläck på x_2 av material/substans x_3.	Föreslår {ba'armo'a} för ett mönster av märken. Se även {sinxa}, {pixra}, se {ciska}, se {prina}, {xinmo}.
+barselonas	cmevla			      	Barcelona
 bartu	gismu   	-bar-		      	x_1 är på utsidan av x_2; x_1 är det yttre av x_2.	Se även {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}, {cmima}, {gubni}, {bancu}, {ze'o}.
 basna	gismu			      	x_1 betonar/accentuerar/lägger tonvikt på x_2 genom (handling) x_3.	Även: säger kraftfullt/ säger med eftertryck. Se även {pandi}, {ba'e}.
 basti	gismu   	-bas-		      	x_1 ersätter/är substitut/istället för x_2 under omständighet x_3; x_1 byter plats med x_2.	Se även  {ba'i}, {binra}, {canja}.
@@ -31,16 +38,19 @@ batke	gismu			      	x_1 är en knapp/knopp/handtag på/för föremål x_2, med 
 bavmi	gismu			      	x_1 är [en kvantitet av] korn (sädesslag) av sort x_2	Se även {gurni}.
 baxso	gismu			      	x_1 reflekterar malay-indonesiskt språk/kultur i aspekt x_2.	Se även {meljo}, {bindo}.
 bebna	gismu   	-beb-		      	x_1 är dåraktig/stupid/dum/löjlig vad gäller händelse/handling/egenskap (ka) x_2; x_1 är en dåre/dumbom.	Se även {fenki}, {xalbo}, motsatsord {prije}.
+beiDJIN	cmevla			      	Beijing
 bemro	gismu   	-bem-   	-be'o-	      	x_1 reflekterar nordamerikansk kultur/nationalitet/geografi i aspekt x_2.	Se även {merko}, {kadno}, {xispo}, {mexno}.
 bende	gismu   	-bed-   	-be'e-	      	x_1 (massa) är ett gäng/grupp/team/lag/trupp av personer (set) x_2 ledd av x_3 organiserad i syfte x_4.	Även orkester (={balzgibe'e}, x3 dirigent); även affärsverksamhet (firma etc). Se även {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
 bengo	gismu   	-beg-		      	x_1 reflekterar bengalisk/bangladeshisk kultur/nationalitet/geografi i aspekt x_2	Se även {xindo}.
 benji	gismu   	-bej-   	-be'i-	      	x_1 överför/sänder/skickar/sänder ut/transmitterar x_2 till mottagare x_3 från sändare/ursprung x_4 via medel/medium x_5.	Även möjligen "delning"; förutsätter inte ett (fullständigt) fjärmande från ursprunget. Se även {muvdu}, {dunda}, {vecnu}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {bevri}, {mrilu}, {tcana}, {fukpi}, {cusku}, {be'i}.
 bersa	gismu   	-bes-   	-be'a-	      	x_1 är son till moder/fader/förälder x_2 (inte nödvändigtvis biologisk).	Även sonlig. Se även {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
 berti	gismu   	-ber-		      	x_1 är norr om/norrpå/på norra sidan av x_2 enligt referensram x_3.	Se även {snanu}, {stici}, {stuna}, {farna}, {be'a}, {mo'ibe'a}. 
+bes	cmevla			      	Son	vid tilltal
 besna	gismu   	-ben-		      	x_1 är en hjärna av kropp x_2	Se även {menli}, {stedu}, {rango}, {pensi}.
 betfu	gismu   	-bef-   	-be'u-	      	x_1 är mage/buk/abdomen/nedre del av bål av kropp x_2.	Magsäck/matsmältningsorgan(= {djaruntyrango}). Se även {cutne}, {livga}, {canti}, {gutra}, {balji}, {midju}.
 betri	gismu   	-bet-		      	x_1 är tragiskt/en katastrof/tragedi/tragik för x_2.	Se även {badri}, {xlali}, {morsi}, {binra}.
 bevri	gismu   	-bev-   	-bei-	      	x_1 bär/forslar/fraktar/transporterar/skjutsar x_2 till x_3 från x_4 via rutt x_5.	Förutsätter att x2 är fjärmad från x3. Se även {marce}, {muvdu}, {benji}, {klama}.
+bidgug	cmevla			      	Indonesien
 bidju	gismu			      	x_1 är ett korn/pärla/droppe (form) av material x_2.	Se även {bolci}, canre, lakse, dirgo.
 bifce	gismu   	-bic-		      	x_1 är en geting/bi/bålgeting/gaddförsedd flygande insekt av art/sort x_2.
 bikla	gismu   	-bik-		      	x_1 rycker (till)/piskar/snärtar (en plötslig häftig rörelse).	Se även {skori}, {darxi}.
@@ -55,29 +65,39 @@ birka	gismu   	-bir-		      	x_1 är en arm av kropp x_2.	Även {bircidni} för 
 birti	gismu   	-bit-		      	x_1 är säker/förvissad/övertygad om att x_2 är sant.	Se även {jetnu}, {jinvi}, {krici}, {djuno}, {sruma}, {cilre}, {darlu}, {zgana}, {lifri}, {lacri}, {sitna}, na {smadi}, na {rivbi}, na {senpi}.
 bisli	gismu   	-bis-		      	x_1 är en kvantitet av/är gjord av/innehåller is [fryst krisall] av sammansättning/material x_2.	Sammansättning inkluderat x2, vilket inte behöver vara en fullständig sammansättning. Se även {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}. Glass= {bisyladru}.
 bitmu	gismu   	-bim-   	-bi'u-	      	x_1 är en vägg/mur/staket/stängsel/inhägnad som separerar x_2 från x_3, och underindelar x_4.	I vilken ordning x2 och x3 sätts i är oviktigt.Se även {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+bivmast	cmevla			      	åttonde månaden på året (augusti i typisk kontext).	åttonde månaden på året. kan skilja sig vid användandet av andra kalendrar.
+bivyplin	cmevla			      	åttonde planeten från sol (Neptunus i typisk kontext).
 blabi	gismu   	-lab-		      	x_1 är vit/ljusfärgad.	Färgblandningar med vit såsom {labyxu'e} som betyder rosa, är blekare former av andra färger. Se även {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+blabruk	cmevla			      	Vitryssland
 blaci	gismu			      	x_1 är glas av sammansättning/material/sort x_2.	Se även {kabri}
 blanu	gismu   	-bla-		      	x_1 är (färgad) blå.	Se även {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
 bliku	gismu   	-bli-		      	x_1 är ett block [tredimensionell form] av material x_2 med (framförallt plana) ytor/sidor x_3.	x_3 sidor/ytor bör inkludera antal, storlek and form.
 bloti	gismu   	-lot-   	-blo-   	-lo'i-      	x_1 är en båt/fartyg/skepp/vattenburet fordon som transporterar x_2, som drivs med x_3.
 bolci	gismu   	-bol-   	-boi-	      	x_1 är en boll/sfär/glob/kula/klot av material x_2.
 bongu	gismu   	-bog-   	-bo'u-	      	x_1 är ben (skelett) som utför (abstrakt) funktion x_2 i organism x_3.
+bosnan	cmevla			      	Bosnien
 botpi	gismu   	-bot-   	-bo'i-	      	x_1 är en flaska/butelj/urna/stängbart kärl för x_2, gjord av material x_3, med lock/försegling x_4.	kork (=korka xelbotpi).
 boxfo	gismu   	-bof-   	-bo'o-	      	x_1 är ett lakan/täcke/filt/skynke/pläd/folie/hölje av material x_2; x_1 är ett brett och flexibelt tunt stycke av x_2.
 boxna	gismu   	-bon-   	-bo'a-	      	x_1 är en våg/periodiskt mönster i medium x_2, med vågform x_3,våglängd x_4 och frekvens x_5.
 bradi	gismu			      	x_1 är en fiende/motståndare/motspelare/motpart/antagonist till x_2 i strid/kamp x_3.
 bratu	gismu			      	x_1 är hagel/snöblandat regn/underkylt regn/fast nederbörd av material/sammansättning inkluderat x_2.	Detta är substansen, inte själva processen av nederbörd som faller, vilket är {carvi}.
+braxas	cmevla			      	Oceanen
+brazilias	cmevla			      	Brasilien
 brazo	gismu   	-raz-		      	x_1 är brasiliansk kultur/nationalitet/språk i aspekt x_2.
 bredi	gismu   	-red-   	-bre-	      	x_1 är redo/beredd/förberedd inför x_2 (händelse).
-bridi	gismu   	-bri-		      	x_1 (text) är ett predikatförhållande med relation x_2 mellan argument x_3 (uppsättning i ordning).	Även: x_3 är relaterade genom relation x_2 (x_3 är en fullständigt ordnad uppsättning).
+bridi	gismu   	-bri-		      	x_1 (du'u) är ett predikatförhållande med relation x_2 mellan argument x_3 (uppsättning i ordning).	Även: x_3 är relaterade genom relation x_2 (x_3 är en fullständigt ordnad uppsättning).
 brife	gismu   	-bif-   	-bi'e-	      	x_1 är en bris/vind/kuling/blåst från riktning x_2 med hastighet x_3.
 briju	gismu   	-bij-		      	x_1 är ett kontor/byrå/tjänsterum/expedition/arbetsplats med arbetare x_2 på plats x_3.
 brito	gismu   	-rit-		      	x_1 reflekterar brittisk kultur/nationalitet/språk med aspekt x_2.
 bruna	gismu   	-bun-   	-bu'a-	      	x_1 är bror/broderlig till x_2 genom band/standard/förälder x_3.	x_3 är inte nödvändigtvis biologisk.
+bruNAIS	cmevla			      	Brunei
+bryklyn	cmevla			      	Brooklyn	Brooklyn, New York: en förort till New York City, vid västra udden av Long Island.
 budjo	gismu   	-buj-   	-bu'o-	      	x_1 tillhör buddhistisk kultur/religion/ethos med aspekt x_2.
+buenosaires	cmevla			      	Buenos Aires
 bukpu	gismu   	-buk-   	-bu'u-	      	x_1 är tyg/textil av typ/material x_2.
 bumru	gismu   	-bum-		      	x_1 är dimmig/immig/täckt av dimma/imma/ånga/kondens/små droppar av vätska x_2.
-bunda	gismu   	-bud-		      	x_1 är x_2 (antal) lokala viktenheter, enligt måttstandard x_3, med underenheter x_4.	x_1 är inte en agent. Värdet på x_2 är 1 om inte annat anges.x_3 är typiskt skålpund (i en svensk kontext), vilket motsvarar 425,1 g. I en engelsk kontext är x_3 typiskt the Avoirdupois pound. Många andra möjligheter finns såsom lod, qvintin,lispund,centner, skeppund, nyläst och säck (se http://sv.wikipedia.org/wiki/Viktmått#Gamla_svenska_viktenheter).  
+bun	cmevla			      	Broder
+bunda	gismu   	-bud-		      	x_1 är x_2 (antal) lokala viktenheter, enligt måttstandard x_3, med underenheter x_4.	x_1 är inte en agent. Värdet på x_2 är 1 om inte annat anges.x_3 är typiskt skålpund (i en svensk kontext), vilket motsvarar 425,1 g. I en engelsk kontext är x_3 typiskt the Avoirdupois pound. Många andra möjligheter finns såsom lod, qvintin,lispund,centner, skeppund, nyläst och säck (se http://sv.wikipedia.org/wiki/Viktmått#Gamla_svenska_viktenheter).
 bunre	gismu   	-bur-   	-bu'e-	      	x_1 är brun/en omättad färg mellan röd och gul färgnyans.
 burcu	gismu   	-bru-		      	x_1 är en pensel/borste för ändamål x_2 (händelse) med borst x_3.
 burna	gismu			      	x_1 är generad/ställd/förlägen/illa till mods över/under omständigheter x_2 (abstraktion).
@@ -90,19 +110,21 @@ cakla	gismu			      	x_1 är en kvantitet/gjord av/innehåller kakao/choklad.
 calku	gismu   	-cak-		      	x_1 är ett skal/snäcka/mantel/[ryggsköld]/[agn]/[hårt skyddande hölje] omgärdar x_2 sammansatt av x_3.
 canci	gismu			      	x_1 försvinner från plats x_2; x_1 upphör att kunna observeras av vid plats x_2 med sinnen/sensorer x_3.	Även lämnar/går sin väg.
 cando	gismu   	-cad-		      	x_1 är i vila/overksam/inaktiv/stillastående.	Motsatsen till att vara i rörelse. 
+cangan	cmevla			      	Hong Kong	Från mandarin uttal.
 cange	gismu   	-cag-		      	x_1 är ett lantbruk/jordbruk/lantgård/bondgård/farm/ranch på plats x_2 sköts av x_3 producerar x_4;x_1 är agrar.	Lantbruk är vilken som helst form av organiserad agrar aktivitet, inte enbart odling av grödor.
-canja	gismu   	-caj-		      	x_1 byter/utbyter/växlar/handlar vara x_2 för x_3 med x_4; x_1, x_4 är en handlare/köpman/affärsman.	x2/x3 kan vara ett specifikt objekt, en vara (massa), en händelse (möjligen en tjänst), eller en egenskap;   för att vara pedantisk så vad gäller objekt/varor, så är detta sumti-höjande från ägandet av objektet/varan.
+canja	gismu   	-caj-		      	x_1 byter/utbyter/växlar/handlar vara x_2 för x_3 med x_4; x_1, x_4 är en handlare/köpman/affärsman.	x2/x3 kan vara ett specifikt objekt, en vara (massa), en händelse (möjligen en tjänst), eller en egenskap; för att vara pedantisk så vad gäller objekt/varor, så är detta sumti-höjande från ägandet av objektet/varan.
 canko	gismu   	-ca'o-		      	x_1 är ett fönster/portal/öppning [portal] i vägg/byggnad/struktur x_2.
 canlu	gismu   	-cal-   	-ca'u-	      	x_1 är rymd/volym/region/rum [area med (åtminstone) tre dimensioner] som upptas av x_2.
 canpa	gismu   	-cna-		      	x_1 är en spade/skyffel/skovel/skopa/[grävredskap med vassa kanter] för att gräva x_2.
 canre	gismu   	-can-		      	x_1 är en kvantitet/gjord av/innehåller sand från källa x_2 av sammansättning x_3.
 canti	gismu			      	x_1 är inälvor/tarm/viscera/matsmältningssystem i organism x_2.
+canxais	cmevla			      	Shanghai
 carce	gismu			      	x_1 är en vagn/kärra/skrinda [fordon med hjul] för transport av x_2 som drivs med x_3.
 carmi	gismu   	-cam-   	-cai-	      	x_1 är intensiv/(ljus)stark/klar/livlig/mättad/[briljant] i egenskap (ka) x_2 såsom den tas emot/uppmäts/värderas enligt observatör x_3.	Även skinande, gnistrande, glimmande, strålande i kombination med {gusni}. När det gäller färg så avser det ökad mättnad.
 carna	gismu   	-car-		      	x_1 roterar/svänger/snurrar/vrider sig runt axel x_2 i riktning x_3.
 cartu	gismu   	-cat-		      	x_1 är ett diagram/tabell/karta/planritning/[sjökort] över x_2 som visar formation/staplar/linjer/cirkelsegment/datapunkter x_3.
 carvi	gismu   	-cav-		      	x_1 regnar/duschar/[sprayar] [ger nederbörd] till x_2 från x_3.	x1 är nederbörd (inte enbart regn).
-casnu	gismu   	-snu-		      	x_1 diskuterar/pratar om ämne x_2.	x1 är normalt en massa, men 1 individ/jo'u är möjligt.  Även chatta, konversera, samtala, småprata,tjôta.
+casnu	gismu   	-snu-		      	x_1 diskuterar/pratar om ämne x_2.	x1 är normalt en massa, men 1 individ/jo'u är möjligt. Även chatta, konversera, samtala, småprata,tjôta.
 catke	gismu   	-ca'e-		      	x_1 puffar/knuffar/stöter/trycker/pressar x_2 på ställe x_3.
 catlu	gismu   	-cta-		      	x_1 ser/tittar på/undersöker/synar/inspekterar/iakttager/betraktar/skådar/blickar över x_2.
 catni	gismu   	-ca'i-		      	x_1 är en ämbetsman/har auktoritet över/vad gäller ärende/område/personer x_2 på grundval av x_3.
@@ -111,20 +133,24 @@ caxno	gismu   	-cax-		      	x_1 är grund i utsträckning i riktning/egenskap x
 cecla	gismu   	-cel-   	-ce'a-	      	x_1 skjuter (iväg)/avfyrar projektil/missil x_2, vilken drivs med  x_3 [drivkraft/drivmedel].	x1 är ett eldvapen/avfyrningsanordning/kanon; x1 slungar iväg/kastar (mer generellt än {renro} på så sätt att drivkraften inte måste komma från x1).
 cecmu	gismu   	-cem-   	-ce'u-	      	x_1 är ett samhälle/koloni med organismer x_2.
 cedra	gismu			      	x_1 är en era/epok/tidsålder/tidsperiod som kännetecknas av x_2 (händelse/egenskap/intervall/idé).	x2 bör vara de gränser som skiljer ut tidsperioden från andra perioder; om det endast rör sig om en kännetecknande period, så bör detta intervalls natur uttryckas genom ett abstrakt bridi eller så bör intervallet markeras med tu'a; x2 kan också vara kännetecknande objekt eller praktiker från denna era, om markerad med tu'a.
+celguntas	cmevla			      	x_1 är Skytten (stjärnbild/stjärntecken).	Från {celgunta}. För babylonierna var Skytten samma som guden Pabilsaĝ, en märklig kentaurliknande varelse som sköt pil med båge.Det sumeriska namnet kan översättas som 'Huvudförfader' (=barda dzena?). I grekisk mytologi är Skytten en kentaur: hälften människa, hälften häst.
 cenba	gismu   	-cne-		      	x_1 varierar/ändrar sig i proportion/kvantitet x_2 (ka/ni) i omfång/grad x_3 under omständigheter x_4.	Icke-resultativ, ej nödvändigtvis kausal ändring. (jfr {cenba} vilken är icke-resultativ, {galfi} vilken resultativ och kausal, {stika} vilken är icke-resultativ och kausal; {stodi}, {zasni}, {binxo})
 censa	gismu   	-ces-		      	x_1 är helgad/helig för person/folk/religion/kult/grupp x_2.
-centi	gismu   	-cen-		      	x_1 är en hundradel [10^{-2] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+centi	gismu   	-cen-		      	x_1 är en hundradel [10^{-2}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 cerda	gismu   	-ced-		      	x_1 är en arvinge/arvtagare/kommer att ärva x_2 (objekt/kvalitet) från x_3 enligt regel x_4.
 cerni	gismu   	-cer-		      	x_1 är morgon [från gryning till dess arbete vanligen börjar lokalt] av dag x_2 på plats x_3.
 certu	gismu   	-cre-		      	x_1 är en expert/pro/är skicklig/kompetent i x_2 (händelse/aktivitet) enligt standard x_3.
+cev	cmevla			      	Gud
 cevni	gismu   	-cev-   	-cei-	      	x_1 är en gud/gudom som tillbedjs av folk/religion x_2 som dominerar över x_3 [sfär].	Även gudomlig; x2 syftar på den religiösa gemenskapen som en massa.
 cfari	gismu   	-cfa-		      	x_1 tar sin början/inleds/påbörjas/startar/börjar att inträffa; [intransitivt verb].
 cfila	gismu   	-cfi-		      	x_1 är ett fel/brist/defekt hos x_2 som leder till/orsakar x_3.
 cfine	gismu			      	x_1 är en kil [form/verktyg] av material x_2.
 cfipu	gismu   	-fi'u-		      	x_1 (händelse/tillstånd) förvirrar/förbryllar x_2 [observatör] på grund av förvirrande egenskap x_3 (ka).
 ciblu	gismu   	-blu-		      	x_1 är blod/vital vätska av organism x_2.
+cibmast	cmevla			      	tredje månaden på året (mars i typisk kontext).	tredje månaden på året kan variera beroende på vilken kalender som används, men betyder mars om inget annat anges.
 cicna	gismu			      	x_1 är cyan/turkosblå/grönaktigt blå [färgnyans].
 cidja	gismu   	-dja-		      	x_1 är mat/föda/näring/kost/[foder] för x_2; x_1 är ätbar/närande för x_2.
+cidjrfalyfil	cmevla			      	x_1 är en kvantitet/är gjord av/innehåller falafel [friterade kikärtsbollar] serverad i bröd/på tallrik x_2 gjord på/tillsammans med ingredienser x_3.
 cidni	gismu   	-cid-		      	x_1 är ett knä/armbåge/knoge/[gångjärnsled eller kondylärled] i kroppsdel x_2 av organism/kropp x_3.
 cidro	gismu   	-dro-		      	x_1 är en kvantitet/gjord av/innehåller väte (H).
 cifnu	gismu   	-cif-		      	x_1 är en baby/bäbis/spädbarn/[unge] [hjälplös genom dess ringa ålder/ofullständig utveckling] av art x_2.	Även infantil/barnslig/omogen.
@@ -141,7 +167,9 @@ cimni	gismu			      	x_1 tar aldrig slut/är oändlig/evig i egenskap/dimension 
 cinba	gismu			      	x_1 kysser/pussar x_2 på ställe x_3.
 cindu	gismu			      	x_1 är en ek av art/sort x_2.
 cinfo	gismu			      	x_1 är ett lejon/[lejoninna] av art/sort x_2.
+cinfos	cmevla			      	x_1 är Lejonet (stjärnbild/stjärntecken).	Från cinfo (=lejon; lojban); leo (=lejon; latin). I tusentals år har många kulturer avbildat denna stjärnbild som ett lejon.
 cinje	gismu   	-cij-		      	x_1 är ett veck/rynka/[fåra] [form] i x_2.
+cinJIAN	cmevla			      	Xianjiang	Uygur självständig region av Kina
 cinki	gismu			      	x_1 är en insekt/kryp/leddjur av art x_2.
 cinla	gismu			      	x_1 är tunn/smal i riktning/dimension x_2 enligt standard x_3; [relativt kort i dess minsta dimension].
 cinmo	gismu   	-cni-		      	x_1 känner/upplever känsla x_2 (ka) om x_3.
@@ -157,7 +185,7 @@ ciska	gismu   	-ci'a-		      	x_1 skriver/ristar/graverar/sätter på pränt x_2
 cisma	gismu			      	x_1 ler/flinar/grinar [ansiktsuttryck].	Le/flina åt något (= {cismyfra}).
 ciste	gismu   	-ci'e-		      	x_1 (massa) är ett system sammanhållet av struktur x_2 bland delar/komponent x_3 (set) som visar x_4 (ka).	x1 (eller x3) är synergistisk i x4; även nätverk; x2 relationer/regler.
 citka	gismu   	-cti-		      	x_1 äter/intar/konsumerar [transitivt verb] x_2.
-citno	gismu   	-cit-   	-ci'o-	      	x_1 är ung/ungdomlig enligt standard x_2.	[av relativt ringa ålder].  fast visst kan en vara av relativt hög ålder och ändå betraktas som ungdomlig, så om det är biologisk, psykologisk eller social ålder som avses beror nog på x2.
+citno	gismu   	-cit-   	-ci'o-	      	x_1 är ung/ungdomlig enligt standard x_2.	[av relativt ringa ålder]. fast visst kan en vara av relativt hög ålder och ändå betraktas som ungdomlig, så om det är biologisk, psykologisk eller social ålder som avses beror nog på x2.
 citri	gismu   	-cir-		      	x_1 är en historia om x_2 enligt x_3/sett ur perspektiv x_3.
 citsi	gismu			      	x_1 är en säsong/säsongsbetonad [cykliskt intervall] definierad av intervall/egenskap x_2 år x_3.
 civla	gismu   	-civ-		      	x_1 är en lus/loppa [blodsugande leddjur] av art/sort x_2 som parasiterar på x_3.
@@ -167,15 +195,17 @@ ckafi	gismu   	-kaf-		      	x_1 är en kvantitet/innehåller/är gjord av kaffe
 ckaji	gismu   	-kai-		      	x_1 har kännetecken/kännetecknas av egenskap/drag/aspekt/dimension x_2 (ka).
 ckana	gismu   	-cka-		      	x_1 är en säng/bädd av material x_2 för att hålla uppe/bära upp x_3 (person/objekt/händelse).
 ckape	gismu   	-cap-		      	x_1 är farlig/riskfylld/potentiellt skadlig för x_2 under omständigheter x_3.
-ckasu	gismu   	-cas-		      	x_1 hånar/förlöjligar/retar/driver med/hånskrattar åt x_2 för x_3 (egenskap/händelse) genom aktivitet x_4 (händelse).	Även säger nedsättande kommentarer.    ckasu i sig självt är inte synonymt med kränkning, då kränkning utgår från hur den drabbade känner sig, eller hur stor skada på den personliga integriteten den andras handling har åstadkommit.
+ckasu	gismu   	-cas-		      	x_1 hånar/förlöjligar/retar/driver med/hånskrattar åt x_2 för x_3 (egenskap/händelse) genom aktivitet x_4 (händelse).	Även säger nedsättande kommentarer. ckasu i sig självt är inte synonymt med kränkning, då kränkning utgår från hur den drabbade känner sig, eller hur stor skada på den personliga integriteten den andras handling har åstadkommit.
 ckeji	gismu   	-kej-   	-cke-	      	x_1 skäms/känner sig förödmjukad/kränkt under omständigheter x_2 inför gemenskap/publik x_3.
+ckiipyris	cmevla			      	Albanien
 ckiku	gismu   	-kik-		      	x_1 är en nyckel som passar/frigör/öppnar/låser upp lås x_2, och har relevanta egenskaper x_3.
 ckilu	gismu   	-ci'u-		      	x_1 är en skala med enheter för bestämning/observation/mätning av x_2 (state).
+ckilus	cmevla			      	x_1 är Vågen (stjärnbild/stjärntecken).	Symbolen för denna stjärnbild är vågen. Sedan babylonsk tid, så har Vågen varit nära förbundet med lag, rättvisa och hövlighet, då vågen har varit ett vanligt inslag i folks dagliga liv genom tiderna.
 ckini	gismu   	-ki'i-		      	x_1 är förbunden med/släkt med/har relation till/med x_2 genom relationsförhållande x_3.
 ckire	gismu   	-kir-		      	x_1 uppskattar/är tacksam mot x_2 (person) för x_3 (händelse/egenskap).
 ckule	gismu   	-kul-   	-cu'e-	      	x_1 är en skola/institut/akademi belägen i x_2 som lär ut ämne(n) x_3 till elever/audiens/gemenskap x_4 styrd/ledd av x_5.	Även högskola/universitet/college.
 ckunu	gismu   	-ku'u-		      	x_1 är en barrväxt/tall/gran av art/sort x_2 med kottar x_3.
-cladu	gismu   	-lau-		      	x_1 är högljudd/bullrig [hög ljudstyrka] vid observationspunkt x_2 enligt standard x_3.	ljud med hög styrka är synonymt med buller om inte annat anges, men kan också vara mildare former av ljud såsom att någon talar högt eller spelar hög musik.  
+cladu	gismu   	-lau-		      	x_1 är högljudd/bullrig [hög ljudstyrka] vid observationspunkt x_2 enligt standard x_3.	ljud med hög styrka är synonymt med buller om inte annat anges, men kan också vara mildare former av ljud såsom att någon talar högt eller spelar hög musik.
 clani	gismu   	-cla-		      	x_1 är lång i dimension/riktning x_2 (dess längsta dimension om inte annat anges) enligt mätstandard x_3.
 claxu	gismu   	-cau-		      	x_1 är utan/saknar x_2; x_1 är x_2-lös.
 clika	gismu			      	x_1 är en mossa av art/sort x_2 som växer på x_3.	clika är inte lav (jfr engelsk definition). Lav är nämligen en symbios mellan svamp och alg.
@@ -187,6 +217,7 @@ cmaci	gismu			      	x_1 är en matematik av typ/som beskriver x_2.
 cmalu	gismu   	-cma-		      	x_1 är liten/små i egenskap/dimension(er) x_2 jämfört med standard/norm x_3.
 cmana	gismu   	-ma'a-		      	x_1 är ett berg/kulle/[höjd]/[topp]/[högland] som reser sig från landmassa x_2.	Se även kulle (={cmama'a}).
 cmavo	gismu   	-ma'o-		      	x_1 är ett strukturord av grammatisk klass x_2, med betydelse/funktion x_3 används i (språk) x_4.	x4 kan vara en specifik användning (med en inbäddad språkplats) eller en massifierad språkbeskrivning; x3 och x4 kan vara endast ett exempel av användning av cmavo eller syfta på ett aktuellt uttryck; cmavo-lista, om det är ett fysiskt objekt (= (loi) ma'oste); med hänsyftning till den mentala konstruktionen (eg. föreslår att lägga till ett nytt cmavo till cmavo-listan = ma'orpoi, ma'orselcmi, ma'orselste). Se även {gismu}, {lujvo}, {gerna}, {smuni}, {valsi}.
+cmeclax	cmevla			      	Namnlös	Bl.a. anonymt mailsvar mjukvara.
 cmene	gismu   	-cme-   	-me'e-	      	x_1 är ett namn/titel på/beteckning för x_2 som igenkänns/används av namngivare/namnanvändare x_3.
 cmila	gismu   	-mi'a-		      	x_1 skrattar (emotionellt uttryck).	x1 laughs at x2 (= {mi'afra}). 
 cmima	gismu   	-mim-   	-cmi-	      	x_1 är en medlem/element av set x_2; x_1 är bland/mitt ibland grupp x_2.	x1 kan vara en fullständig eller ofullständig lista över medlemmar; x2 markeras normalt med la'i/le'i/lo'i, definierande setet i termer av dess gemensamma egenskap(er), även om det kan röra sig om en fullständig though it may be a complete uppräkning av medlemskapet.
@@ -210,7 +241,7 @@ crane	gismu   	-cra-		      	x_1 är framsidan av/främre av/fram/framför/fram�
 creka	gismu   	-cek-		      	x_1 är en skjorta/t-shirt/blus/linne/topp [klädesplagg för överkroppen; inte nödvändigtvis med ärmar eller knappar] av material x_2.
 crepu	gismu   	-rep-		      	x_1 (agent) skördar/bärgar/inhöstar/samlar grödor/produkter/föremål x_2 från ursprungskälla/area x_3.
 cribe	gismu   	-rib-		      	x_1 är en björn/[art i familjen Ursidae] av art/sort x_2.	Ursidae är bl.a. grizzlybjörn, isbjörn, jättepanda; dock inte koala och liknande. Även nalle/teddy/leksaksbjörn (=kelci cribe).
-crida	gismu   	-rid-		      	x_1 är ett naturväsen/tomte/älva/skogsrå/troll/vätte/vittra [mytologisk humanoid] av myt/religion x_2.	Även orch, jätte, demon, djävul (när myt/religion skildrar denne med humanoid form); även engelskans bogeyman.  Vissa menar att naturväsen existerar på riktigt, varför det vore fel att begränsa definitionen till endast sagoväsen.
+crida	gismu   	-rid-		      	x_1 är ett naturväsen/tomte/älva/skogsrå/troll/vätte/vittra [mytologisk humanoid] av myt/religion x_2.	Även orch, jätte, demon, djävul (när myt/religion skildrar denne med humanoid form); även engelskans bogeyman. Vissa menar att naturväsen existerar på riktigt, varför det vore fel att begränsa definitionen till endast sagoväsen.
 crino	gismu   	-ri'o-		      	x_1 är grön [färgadjektiv].
 cripu	gismu   	-rip-		      	x_1 är en bro/spann över/tvärsöver x_2 mellan x_3 och x_4 [ingen speciell ordning, typisk destination först].
 crisa	gismu   	-cis-		      	x_1 är sommar/sommartid [varm årstid] av år x_2 på plats x_3.
@@ -246,6 +277,7 @@ damri	gismu			      	x_1 är en trumma/xylofon/cymbal/gong [slaginstrument] som 
 dandu	gismu   	-dad-		      	x_1 hänger/dinglar/är upphängd i/från x_2 med fog/led x_3.	x1 är ett hänge [något som hänger] (eng pendant; vilket kan betyda exv hängsmycke, örhänge, ljuskrona mm). Även avhängig (ursprunglig betydelse).
 danfu	gismu   	-daf-		      	x_1 är svaret/lösningen/responsen på fråga/problem x_2.	För agentiv respons/svara någon (={spuda}). Se även {ciksi}, {frati}, {preti}, {nabmi}, {cpedu}.
 danlu	gismu   	-dal-   	-da'u-	      	x_1 är ett djur/varelse av art x_2; x_1 är biologiskt levande.
+danmark	cmevla			      	Danmark
 danmo	gismu   	-dam-		      	x_1 är en kvantitet av/gjord av/innehåller rök/smog/luftförorening från källa x_2.	x2 kan vara en eldsvåda.
 danre	gismu   	-da'e-		      	x_1 (kraft) applicerar tryck på/pressar på x_2.	Agentiv pressa (={da'ergau}, {da'erzu'e}).
 dansu	gismu			      	x_1 (individ/massa) dansar till ackompanjemang/musik/rytm x_2.
@@ -256,12 +288,14 @@ dargu	gismu   	-dag-		      	x_1 är en väg till x_2 från x_3 med rutt x_4. 	E
 darlu	gismu   	-dau-		      	x_1 argumenterar/talar för ståndpunkt x_2 mot ståndpunkt x_3; [meningsmotståndare är ej nödvändig].
 darno	gismu   	-dar-   	-da'o-	      	x_1 är långt borta/avlägset/fjärran från x_2 i egenskap x_3 (ka).
 darsi	gismu			      	x_1 är oförskämd/fräck/tyken/uppstudsig i beteende x_2 (händelse/aktivitet); x_1 (har fräckheten/har mage att) våga göra/vara x_2 (händelse/ka).	x1 är fräck/vågad.
+darusLAM	cmevla			      	Darussalam	Alternativt namn för Brunei (se {bruNAIS}). Darussalam betyder "fredens boning" på malajiska.
 darxi	gismu   	-dax-   	-da'i-	      	x_1 slår/stöter/pryglar/klipper till x_2 med instrument [eller kroppsdel] x_3 på ställe [på kroppen] x_4.
 dasni	gismu   	-das-		      	x_1 är (ut)klädd i/bär/har på sig/utstyrd i x_2 som är en utstyrsel av typ x_3.
 daspo	gismu   	-spo-		      	x_1 (händelse) förstör/fördärvar/ödelägger/våldför sig på x_2; x_1 är destruktiv.
 dasri	gismu   	-sri-		      	x_1 är ett band/remsa/linjer/rand/strimma av material x_2.	Även strip (= ; remsa m tecknad serie).
 datka	gismu			      	x_1 är en and/anka [Anatinae] av art/sort x_2.	tillhör Anatinae, underfamilj i ordningen andfåglar med bl.a. gräsand, anka, myskanka. Med anka avses oftast tama varianter av and (={tolcilce datka}). Se även {cipni}.
 datni	gismu			      	x_1 (du'u) [fakta/mätning] är data/information/statistik om x_2 insamlad med metod x_3.
+daumast	cmevla			      	tionde månaden på året (oktober i typisk kontext).	tionde månaden på året kan variera beroende på vilken kalender som används (om inte annat anges så menas oktober).
 decti	gismu   	-dec-		      	x_1 är en tiondel [1/10; 1*10-1] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 degji	gismu   	-deg-		      	x_1 är ett finger/tå [kroppsdel] på lem/ställe på kroppen x_2 av kropp x_3.	Finger (= {xandegji}), toe (= {jmadegji}).
 dejni	gismu   	-dej-		      	x_1 är skyldig x_2 i skuld/förpliktelse till fordringsägare/borgenär x_3 i utbyte mot x_4 [tjänst/lån].
@@ -281,36 +315,46 @@ dikca	gismu   	-dic-		      	x_1 är elektricitet [elektrisk spänning eller str
 diklo	gismu   	-klo-		      	x_1 har lokal anknytning till x_2; x_1 är begränsad till ställe [lokus] x_2 inom räckvidd/utbredningsområde x_3;  x_1 är regional/lokal.
 dikni	gismu   	-dik-		      	x_1 är regelbunden/cyklisk/periodisk i egenskap (ka)/aktivitet x_2 i period/intervall x_3.
 dilcu	gismu			      	x_1 är en kvot av 'x_2/x_3' [dividend x_2 dividerat med divisor x_3], med rest x_4.
+dilis	cmevla			      	Delhi
 dilnu	gismu   	-dil-		      	x_1 är ett moln/massa av moln av material x_2 i luftmassa x_3 med höjd till molnbas x_4.
 dimna	gismu   	-dim-		      	x_1 är ett öde/lott/bestämmelse för x_2; [dom, förbannelse är mabla-former]; x_2 är ödesbestämd/predestinerad/dömd till x_1. 	Ödesbestämd/ämnad/dömd (={seldimna}). Se även {dapma}.
 dinju	gismu   	-dij-   	-di'u-	      	x_1 är en byggnad/anläggning för ändamål x_2.	Se även {ginka}, {zdani}, {zarci}.
 dinko	gismu   	-di'o-		      	x_1 är spik/nubb/(häft)stift [spetsig friktionsbaserad fästanordning] av typ/storlek x_2 (ka), gjord av material x_3.
-dirba	gismu   	-dib-		      	x_1 är omtyckt/älskad/dyrbar av/för x_2; x_1 har affektionsvärde/är emotionellt värdefull för x_2.	x1 kan vara ett specifikt objekt, en entitet (massa), en händelse, eller en egenskap; för att vara pedantisk så är objekt/entitet sumti-höjande från ägarskap av objektet(= {posydirba} för otvetydigt ord).  
+dirba	gismu   	-dib-		      	x_1 är omtyckt/älskad/dyrbar av/för x_2; x_1 har affektionsvärde/är emotionellt värdefull för x_2.	x1 kan vara ett specifikt objekt, en entitet (massa), en händelse, eller en egenskap; för att vara pedantisk så är objekt/entitet sumti-höjande från ägarskap av objektet(= {posydirba} för otvetydigt ord).
 dirce	gismu   	-di'e-		      	x_1 strålar/utsänder/(avger energi)/(skiner)/utstrålar x_2 under villkor/omständigheter x_3.
 dirgo	gismu   	-dig-		      	x_1 är en droppe [liten, kohesivt sammanhållen form] av material x_2 [vätska/ånga] i omgivande material x_3.
 dizlo	gismu   	-diz-   	-dzi-	      	x_1 är låg/nere/nedåt i referensram x_2 jämfört med baslinjen/standardhöjd x_3.	Även längre ner; x3 är generellt någon definierad distans över en nollpunkt/baslinje, eller är i sig självt denna baslinje.
 djacu	gismu   	-jac-   	-jau-	      	x_1 är en kvantitet av/gjord av/innehåller/är en vidd av vatten; x_1 är vattnig/vattenartad.
+djakartas	cmevla			      	Jakarta
+djaZAIR	cmevla			      	Algeriet
 djedi	gismu   	-dje-   	-dei-	      	x_1 är x_2 dygn/hela dagar (1 om inget annat anges) enligt standard x_3. x_1 är dags-/daglig.	Idag (= {cabdei}); imorgon (= {bavlamdei}); igår (= {prulamdei}). Se även {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
 djica	gismu   	-dji-		      	x_1 begär/åtrår/åstundar/vill ha/önskar x_2 (händelse/tillstånd) för ändamål x_3.
 djine	gismu   	-jin-		      	x_1 är en ring/ögla/torus/cirkel [form] av material x_2, med innerdiameter x_3, ytterdiameter x_4.	Betonar den runda omkretsen hos en cirkel, till skillnad från {cukla} som betonar en cirkelformad yta. Även ellips, oval (={jincla}); kan även användas om former som är snarlika cirklar såsom täta spiraler (även om de inte är slutna). Även band, bälte, omringa (forma en cirkel runt;= {jinsru}). 
+djunguos	cmevla			      	Kina
 djuno	gismu   	-jun-   	-ju'o-	      	x_1 vet/känner till fakta x_2 (du'u) om kunskapsområde x_3 genom epistemologi x_4.
 donri	gismu   	-dor-   	-do'i-	      	x_1 är på dagtid av dag x_2 på plats x_3; x_1 dags-/daglig (i motsats till nattlig).
 dotco	gismu   	-dot-   	-do'o-	      	x_1 reflekterar tysk/germansk kultur/nationalitet/språk i aspekt x_2.
 draci	gismu			      	x_1 är ett drama/pjäs/teater/skådespel om x_2 [handling/tema/ämne] av dramatiker x_3 för publik x_4 med skådespelare x_5.
 drani	gismu   	-dra-		      	x_1 är korrekt/proper/rätt/precis som det ska vara/(beter sig riktigt) i egenskap/aspekt x_2 (ka) i situation x_3 enligt standard x_4.	Även perfekt (inget att korrigera).
 drata	gismu   	-dat-		      	x_1 är inte samma sak som/skiljer sig från/är något annat än x_2 enligt standard x_3; x_1 är någonting annat.
+drezdn	cmevla			      	Dresden
 drudi	gismu   	-rud-   	-dru-	      	x_1 är ett tak/[övertäckande skydd/lock] för x_2.	en drudi är designad för att vara över/ovanför något och skydda det från det som är ovanför (kyla, regn etc). Även innertak.
 dugri	gismu   	-dug-		      	x_1 är logaritmen av exponent x_2 med basen x_3.
 dukse	gismu   	-dus-   	-du'e-	      	x_1 är ett överskott/för mycket av x_2 enligt standard x_3.
+dunav	cmevla			      	Donau	Europas näst längsta flod. Bulgariska and serbokroatiska Дунав, Dunav.
 dunda	gismu   	-dud-   	-du'a-	      	x_1 [donator] ger/skänker/donerar gåva/present x_2 till gåvomottagare/förmånstagare x_3 [utan betalning/utbyte].
 dunja	gismu   	-duj-		      	x_1 fryser/blir gelé/stelnar vid temperatur x_2 och tryck x_3.
 dunku	gismu   	-duk-   	-du'u-	      	x_1 våndas/har ångest/lider kval/är plågad/oroad/ängslig/emotionellt anspänd/stressad över x_2.
 dunli	gismu   	-dun-   	-du'i-	      	x_1 är lika/kongruent med/lika mycket som x_2 i egenskap/kvantitet/dimension x_3.	Samma i kvantitet/kvalitet (inte nödvändigtvis i identitet); 'analogi' kan uttryckas som ekvivalensen av två likartade  (ka x1 simsa x2) och (ka x3 simsa x4).
 dunra	gismu   	-dur-		      	x_1 är vinter/vintertid [kall säsong] av år x_2 på plats x_3.
 dzena	gismu   	-dze-		      	x_1 är en far-/morförälder/åldrig person/stamfader/anfader/förfader till x_2 genom band/relation/grad x_3.
+dzip	cmevla			      	Antarktiska oceanen	Antarktiska oceanen, även känd som Södra oceanen, Södra ishavet eller Sydpolshavet, är ett samlingsnamn för alla de havsområden som ligger söder om sextionde breddgraden på Södra halvklotet (60° S). Namnet "Antarktiska oceanen" fastställdes år 2000 av International Hydrographic Organisation (IHO) och omfattar allt hav som omger kontinenten Antarktis.
 dzipo	gismu   	-zip-   	-zi'o-	      	x_1 reflekterar antarktisk kultur/nationalitet/geografi i aspekt x_2.
+eris	cmevla			      	Eris
+esperanton	cmevla			      	Esperanto
 facki	gismu   	-fak-   	-fa'i-	      	x_1 upptäcker/får reda på/kommer på x_2 (du'u) om ämne/objekt x_3; x_1 upptäcker/hittar (fi) objekt x_3.
 fagri	gismu   	-fag-		      	x_1 är en eld/flamma i brännbart ämne/bränsle x_2 med oxidationsmedel x_3 (luft/syre om inget annat anges).
+faidon	cmevla			      	Fido
 falnu	gismu   	-fan-		      	x_1 är ett segel för att samla ihop material x_2 som driver motor/fordon x_3.
 famti	gismu			      	x_1 är en tant/farbor till x_2 genom band/släktskap x_3; x_1 är en medlem som associeras till x_2s föräldrageneration.
 fancu	gismu			      	x_1 är en funktion/graf från domän x_2 till räckvidd x_3 definierad genom uttryck/formel x_4.
@@ -329,7 +373,8 @@ fatci	gismu   	-fac-		      	x_1 är ett faktum/fakta/sant/verkligt, i absolut m
 fatne	gismu   	-fat-   	-fa'e-	      	x_1 [sekvens] är i omvänd ordning från x_2 [sekvens]; x_1 (objekt) är inverterad från x_2 (objekt).
 fatri	gismu   	-fai-		      	x_1 distribueras/anslås [ekonomi]/fördelas/allokeras/placeras/delas bland x_2 med delar/andelar/portioner x_3.
 febvi	gismu   	-feb-		      	x_1 kokar vid temperatur x_2 och tryck x_3.
-femti	gismu   	-fem-		      	x_1 är en biljardedel [10^{-15] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+feimast	cmevla			      	elfte månaden på året (november i typisk kontext).	elfte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt november om inget annat anges.
+femti	gismu   	-fem-		      	x_1 är en biljardedel [10^{-15}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 fendi	gismu   	-fed-		      	x_1 (agent) delar (in/upp)/avsöndra [juridik]/partitionera [dator]/särar/åtskiljer x_2 i sektioner/delar/individer x_3 genom metod/delning/(skiljevägg) x_4.
 fengu	gismu   	-feg-   	-fe'u-	      	x_1 är arg/rasande/vred/ilsken/förbannad på x_2 för x_3 (handling/tillstånd/egenskap).
 fenki	gismu   	-fek-		      	x_1 (gärning/händelse) är galet/tokigt/vansinnig/(sinnes)sjuk/(sinnes)rubbad/vanvettig enligt standard x_2.
@@ -338,6 +383,7 @@ fenso	gismu   	-fen-   	-fe'o-	      	x_1 syr/sömmar/nästar/tråcklar/suturera
 fepni	gismu   	-fep-   	-fei-	      	x_1 mäts i ören/cent [valuta underenhet] såsom x_2 (kvantitet) i penningsystem x_3.	Även kopeck, pfennig, paisa, sen, fen, dinar, etc.; x1 är generellt ett pris/kostnad/värde. (ytterligare underenhetsplatser kan läggas till såsom x4, x5, x6, ...).
 fepri	gismu			      	x_1 är en lunga/lungan [kroppsdel] av x_2.	x1 är lung-.
 ferti	gismu   	-fre-		      	x_1 är fertil/fruktsam/fruktbar/bördig/befrämjande/tjänlig för att stödja växandet/utvecklingen av x_2; x_1 är fruktbar/fruktsam/avelsamx_2.	Även kapabel att producera avkomma/vegetation (lägg märke till att Lojbanordet täcker både potentiell och faktisk/förverkligad fertilitet).
+fertis	cmevla			      	x_1 är Jungfrun (stjärnbild/stjärntecken).	Från {ferti}. Grekerna och romarna associerade Jungfrun med deras vetegudinna, Demeter-Ceres som är moder till Proserpina-Persephone. Därför blev stjärnbilden associerad med fruktbarhet (i både Babylonien, Grekland och Rom). Alternativt så var hon ibland känd som jungfrugudinnan Iustitia eller Astraea, som håller rättvisans våg i sin hand. Eftersom ferti på lojban täcker såväl potentiell som faktisk/förverkligad fertilitet, så har den ursprungliga betydelsen blivit vald, men kan förmodligen ändå tolka namnet på båda sätten (som en fruktbarhetsgudom eller som en fertil jungfru).
 festi	gismu   	-fes-		      	x_1 är avfallsprodukter/skräp/(slaggprodukter) från x_2 (händelse/aktivitet).	Även skit, skräp; material som inte längre kommer till användning och som utdöms som värdelöst eller inget att ha.
 fetsi	gismu   	-fet-   	-fe'i-	      	x_1 är en hona av art x_2 uppvisande feminin(a) drag x_3 (ka); x_1 är feminin/kvinnlig.
 figre	gismu   	-fig-		      	x_1 är fikon [frukt/träd] av art/stam x_2.
@@ -369,6 +415,7 @@ fusra	gismu   	-fur-		      	x_1 (för)ruttnar/murknar/förmultnar/jäser med f�
 fuzme	gismu   	-fuz-   	-fu'e-	      	x_1 är ansvarig/ansvarsskyldig för x_2 (handling/resulterande tillstånd) inför domare/bedömare/auktoritet x_3.
 gacri	gismu   	-gai-		      	x_1 är ett skydd/(hölje)/(omslag)/(lock) för att skydda/dölja/ge skydd åt x_2.
 gadri	gismu   	-gad-		      	x_1 är en beskrivare (deskriptor)/artikel som anger beskrivning av/bestämdhet till x_2 (text) i språk x_3 med semantik x_4.	x2 är substantivfrasen/sumti utan artikel/beskrivare; beskrivning ((x1 med x2) = gadysu'i); notera: 'bestämmare' har blivit den accepterade allmänna lingvistiska termen, vilket ersätter 'artikel'; emellertid inkluderar 'bestämmare' alla ord som kan inleda en substantivfras/sumti, oavsett om det är en beskrivning eller inte, exv possessiva pronomen såsom lemi, kvantifierare (speciellt i obestämd form) såsom ci och su'o, samt demonstrativa pronomen såsom ti, ta och tu; termen 'beskrivare' i Lojban, är dock begränsad till ord som inleder beskrivningar (vilket utesluter obestämda), såsom de i selma'o LA och LE, deras vanliga sammansättningar såsom lemi, och möjligen lenu. 'Artikel' refererar vanligtvis endast till ett enstaka ord; Lojban antar den bredare meningen. Se även {valsi}, {cmavo}.
+gaimast	cmevla			      	tolfte månaden på året (december i typisk kontext).	tolfte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt december om inget annat anges.
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 (händelse) modifierar/(för)ändrar/transformerar/förvandlar/omvandlar x_2 till x_3.	Kausal, resultativ förändring; agentiv modififiering (= {gafygau}). jfr {stika} för icke-resultativ, {binxo} för icke-nödvändigtvis kausal förändring, {cenba} för icke-resultativ förändring; {zasni})
 galtu	gismu   	-gal-   	-ga'u-	      	x_1 är hög/upp/uppåt i referensram x_2 jämfört med baslinje/standardhöjde x_3.	Även övre; x3 definieras generellt som sträckan ovanför en nollpunkt/baslinje, eller är själva baslinjen.
 galxe	gismu			      	x_1 är en strupe [luft-/matstrupe] av x_2.
@@ -395,9 +442,10 @@ gismu	gismu   	-gim-   	-gi'u-	      	x_1 är ett (Lojban) rotord som uttrycker 
 glare	gismu   	-gla-		      	x_1 är het/(mycket) varm enligt standard x_2.	Behagligt (milt) varm (= {mligla}), febrig (= {bi'agla}).
 gleki	gismu   	-gek-   	-gei-	      	x_1 är glad/lycklig/förtjust/munter över x_2 (händelse/tillstånd).
 gletu	gismu   	-let-   	-gle-	      	x_1 parar sig/kopulerar/knullar/häckar/ligger/har sex/samlag med x_2.	x1 och x2 är symmetriska. Sätter på/rider (={cpanygle}).
+gliban	cmevla			      	engelska språket
 glico	gismu   	-gic-   	-gli-	      	x_1 är engelsk/tillhör engelsktalande kultur i aspekt x_2.	Generellt antas "engelsk" i dess vidaste mening; tillhör landet/folket/kulturen av England (kräver normalt begränsning =gligu'e eller reducerad form gligli-); Brittisk engelska, språknormen i UK (={gliglibau}). (jfr {brito} vilket refererar till Storbritannien;  {merko}, {sralo}, {kadno}, {skoto}).
 gluta	gismu   	-glu-		      	x_1 är en handske/vante/mits [hand-/underarmsklädsel] av material x_2.	Tumvante (= {degycauglu}). Se även {taxfu}.
-gocti	gismu   	-goc-		      	x_1 är en kvadriljontedel [10^{-24] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+gocti	gismu   	-goc-		      	x_1 är en kvadriljontedel [10^{-24}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 gotro	gismu   	-got-		      	x_1 är en kvadriljon [10^24] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 gradu	gismu   	-rau-		      	x_1 [magnitude] är en enhet/grad av/på skala/referensstandard x_2 (si'o) för uppmätt egenskap x_3.	Även grad, nivå, poäng; x3 dimension.
 grake	gismu   	-gra-		      	x_1 är x_2 gram [metrisk enhet] i massa (1 om inget annat anges) enligt standard x_3.
@@ -408,14 +456,30 @@ grusi	gismu   	-rus-		      	x_1 är grå [färg, adjektiv].
 grute	gismu   	-rut-		      	x_1 är en frukt [kroppsdel] av art x_2.
 gubni	gismu   	-gub-		      	x_1 är offentlig/allmän/icke-gömd/öppen/gemensamt tillgänglig för/ägd av alla inom samhälle x_2 (mass).
 gugde	gismu   	-gug-   	-gu'e-	      	x_1 är landet av folken x_2 med land/territorium x_3; (folk/territoriellt förhållande).	Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte refererar till ethnos).
+gugl	cmevla			      	Google
+guglbon	cmevla			      	Google wave
 gundi	gismu   	-gud-		      	x_1 är industri/industriell/systematisk tillverkande aktivitet producerande x_2 genom process/medel x_3.
 gunka	gismu   	-gun-   	-gu'a-	      	x_1 [person] arbetar/sliter med/på x_2 [aktivitet] med målsättning x_3.	Även: x1 är en arbetare. (jfr {sazri}, {gasnu}, se {jibri}; {zukte} - vilket inte behöver vara arbete; begreppet 'arbete' inom fysik (= ni {muvyselbai}).
 gunma	gismu   	-gum-		      	x_1 är en massa/lag/hop/ansamling/helhet, tillsammans sammansatt av komponenter x_2, vilka anses hänger ihop.	En beskrivning i x1 indikerar massegenskap(er) som massan visar upp; massor kan avslöja egenskaper vilka inte kan återfinnas hos enskilda medlemmar i setet, vilka har blivit massifierade.
 gunro	gismu   	-gur-   	-gu'o-	      	x_1 rullar på/mot underlag x_2 roterande runt axel x_3; x_1 är en roller/vält/kavel.	Se även {bolci}, {carna}, {jendu}, {slanu}.
+guonJAUS	cmevla			      	Kanton	Guangzhou, även känd som Kanton, ibland även Kwangchou, är en stad på subprovinsiell nivå i södra Kina och huvudstad i provinsen Guangdong. guanJAUS är baserad på mandarinuttal.För namnet baserat på mandarin uttal se {guanJOUS}.
+iagis	cmevla			      	Yagi	En av uppfinnarna av Yagi-Uda antennen; eller namnet på själva antennen.
+iaves	cmevla			      	Jahve
+ieRUcaly'im	cmevla			      	Jerusalem
+Indias	cmevla			      	Indien
+internet	cmevla			      	Internet	jfr {mujysamseltcana}.
+intranet	cmevla			      	intranet
+i,ov	cmevla			      	Job
+irk	cmevla			      	IRC (Internet Relay Chat)	Ett internetbaserat textkommunikationssystem i realtid. Se {irci}.
+island	cmevla			      	Island
+italian	cmevla			      	Italien
+jan	cmevla			      	Jean/Zhang
 jaspu	gismu   	-jap-		      	x_1 är ett pass/tillstånd utfärdad till x_2 (person) av auktoritet x_3 vilket ger tillåtelse till x_4 (activity).
 jatna	gismu   	-ja'a-		      	x_1 är en befäl(havare)/kapten/ledare/har befälet/bossen för fordon/område x_2.
+jaurbarflegaus	cmevla			      	x_1 är Vattumannen (stjärnbild/stjärntecken).	Från {djacu}, {barfle}, {gasnu}. I Babylonien ansågs Vattumannen vara samma som "Den Stora" och representerade guden Ea själv, som ofta avbildas hållandes en överflödande vas. I grekisk tradition blev stjärnbilden helt enkelt representerad av en vas från vilken ett vattenflöde strömmade ur.
+ja'urjuknis	cmevla			      	x_1 är Skorpionen (stjärnbild/stjärntecken).	Babylonierna kallade denna stjärnbild för 'Skorpionen'. I grekisk mytologi finns det flera myter som är knutna till Skorpionen.
 jbama	gismu   	-bam-		      	x_1 är en bomb/explosiv anordning med explosivt material/princip x_2.
-jbari	gismu   	-jba-		      	x_1 är ett bär (frukt/växt) av växt/art x_2.	Bär är i botanisk mening mångfröiga äkta frukter inom 	undergruppen saftiga frukter. I dagligt tal ges ordet "bär" normalt en betydelse som samlar allehanda små ätbara växtdelar, även om de botaniskt sett inte är bär.  Se även {grute}.
+jbari	gismu   	-jba-		      	x_1 är ett bär (frukt/växt) av växt/art x_2.	Bär är i botanisk mening mångfröiga äkta frukter inom 	undergruppen saftiga frukter. I dagligt tal ges ordet "bär" normalt en betydelse som samlar allehanda små ätbara växtdelar, även om de botaniskt sett inte är bär. Se även {grute}.
 jbena	gismu   	-jbe-		      	x_1 är född av x_2 på tid x_3 [födelsedag] och plats x_4 [födelseort]; x_1 är en inföding/infödd till (fo) x_4.	x2 ger börd åt/föder x1.
 jbera	gismu   	-jer-		      	x_1 (agent) lånar/tillfälligt tar (kontroll över)/intar x_2 (objekt) från källa x_3 inom intervall x_4.	Kredit (= {jernu'e}); lånar/intar en egenskap eller kvalitet som en kameleont gör (={zaskai}, {zasysmitra}, {zasysmitai}).
 jbini	gismu   	-bin-   	-bi'i-	      	x_1 är emellan/bland set av punkter/gränser x_2 (set)/mitt ibland massa x_2 i egenskap x_3 (ka).	x2 (ett fullständigt set, i allmänhet i ordning) definierar gränser/omfång för x1.
@@ -428,6 +492,7 @@ jduli	gismu   	-dul-   	-jdu-	      	x_1 är en kvantitet av  gelé/halvfast [ko
 jecta	gismu   	-jec-   	-je'a-	      	x_1 är ett statsskick/stat som styr över territorium/domän x_2; [styre/territoriellt förhållande].	(adjektiv:) x1 är medborgerlig/politisk.
 jeftu	gismu   	-jef-		      	x_1 är x_2 veckor i omfattning (1 vecka om inget annat anges) enligt standard x_3.	Vad gäller x3 så kan en vecka vara mer eller mindre än 7 dagar, t.ex. på vissa platser förr som tiden mellan besöken till marknaden. Denna vecka (={cabjeftu}); nästa vecka (={bavlamjeftu}), förra veckan (={prulamjeftu}).
 jegvo	gismu   	-jeg-   	-je'o-	      	x_1 tillhör den gemensamma Judisk-Kristna-Muslimska kulturen/religionen/nationaliteten enligt aspekt x_2.
+jegvon	cmevla			      	Den judisk-kristna-muslimska guden
 jelca	gismu   	-jel-		      	x_1 brinner/[antänds/är lättantändlig/brandfarlig] vid temperatur x_2 i atmosfär x_3.	x2/x3 rumstemperatur i luft om inget annat anges; antändas (={jelcfa}), lättantändlig/eldfängd/brandfarlig (vanligtvis = {jelka'e} eller {jelfrili}).
 jemna	gismu   	-jme-		      	x_1 är en ädelsten [juvel/infattning etc]/polerad sten/pärla av sorten x_2 från ädelstensmineral/material/källa x_3.	Även juvel (= {jmeja'i}); ädelsten (= x2, x3, eller {jmero'i}, {jmekunra}); pärla (= {selcakyjme} - en "ädelsten" funnen inuti en mussla, {tercakyjme} - en ädelsten gjord av material av skal, {boijme} - vilken som helst klotformad ädelsten), pärlemor (= {cakyjme}). 
 jenca	gismu   	-jen-		      	x_1 (event) chockar/chockera/bedövar x_2.
@@ -478,17 +543,107 @@ jmifa	gismu			      	x_1 är ett grund/rev av material x_2 i vattenområde x_3.
 jmina	gismu   	-min-		      	x_1 lägger till/kombinerar x_2 till/med x_3, med resultatet x_4; x_1 förstorar x_2 med värdet x_3.
 jmive	gismu   	-miv-   	-ji'e-	      	x_1 lever/är levande enligt standard x_2; x_1 är en organism/levande sak.	x1 är vital, organisk.
 jordo	gismu   	-jor-   	-jo'o-	      	x_1 reflekterar den jordanska kulturen/nationaliteten i aspekt x_2.
+JYTeborj	cmevla			      	Göteborg
+kanbas	cmevla			      	x_1 är Stenbocken (stjärnbild/stjärntecken).	Från {kanba} (=get; lojban). Capricornus är latin för "bock med horn" eller "bockhorn". Hursomhelst så har både hanar and honor av släktet Capra horn.
+KEnydys	cmevla			      	Kanada
 kilto	gismu   	-ki'o-		      	x_1 är tusen [10^3] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+kokaKOlys	cmevla			      	Coca-Cola
+KOLkatas	cmevla			      	Calcutta
+kuadragesim	cmevla			      	Påskfastan	Från latin quadragesima, 'den fyrtionde dagen'. Påskfastan eller bara fastan är perioden för de kristnas fastetid till minne av Jesu frestelse. Påskfastan löper om 40 dagar före påsk; med andra ord pågår påskfastan under sju veckor, söndagar undantagna.
+lauDZIS	cmevla			      	Lao zi	Lao Zi (老子 (pinyin: Lǎo Zǐ), även stavat Laozi, Lao Tzu och Lao Tse, ordagrant "den gamla mästaren", enligt tradition kallad Li Er (李耳, pinyin: Lǐ Ěr), född och död någonstans runt 600-talet f.Kr., även om hans existens kan betvivlas, brukar betraktas som taoismens grundare samt dess förste filosof och anges som författare till Daodejing (Boken om vägen)
+laus	cmevla			      	Laos
+LIEtuvas	cmevla			      	Litauen
+loglytuan	cmevla			      	Loglan arbetare
+lojban	cmevla			      	Lojban
 lojbo	gismu   	-lob-   	-jbo-	      	x_1 reflekterar lojbanisk kultur/gemenskap/språk med aspekt x_2.
+losanjylys	cmevla			      	Los Angeles
+lunmes	cmevla			      	x_1 är Väduren (stjärnbild/stjärntecken).	Från {lanme} (=får/[lamm/bagge];lojban) och lu (=får;sumerogram). Denna stjärnbild har varit känd som bagge/får sedan babylonsk tid, och blev senare det första tecknet i djurkretsen (600-talet fkr). I hellenistisk astrologi associeras Väduren med det gyllene får i grekisk mytologi som räddade Phrixos.
+lyndyn	cmevla			      	London
+madRID	cmevla			      	Madrid
+malmys	cmevla			      	Malmö	Sveriges tredje största stad efter antal invånare.
+mam	cmevla			      	Mamma
 megdo	gismu   	-meg-		      	x_1 är en miljon [10^6] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-mikri	gismu   	-mik-		      	x_1 är en miljontedel [10^{-6] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-milti	gismu   	-mil-		      	x_1 är en tusendel [10^{-3] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-nanvi	gismu   	-nav-		      	x_1 är en miljardedel [10^{-9] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+mes	cmevla			      	Syster
+mic	cmevla			      	Doktor
+mikri	gismu   	-mik-		      	x_1 är en miljontedel [10^{-6}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+milti	gismu   	-mil-		      	x_1 är en tusendel [10^{-3}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+mors	cmevla			      	Morse; morsekod.
+mumbais	cmevla			      	Mumbai	Bombay (marathi: मुंबई ['mumbəi]; av de portugisiska orden Bom och Bahía, som betyder ”god hamn”) är en storstad på Indiens västkust. Det officiella namn som används av kommun och delstat sedan 1996 är Mumbai.
+mumplin	cmevla			      	femte planeten från sol (Jupiter).	femte planeten från sol i normal kontext, dvs vårt solsystem, är Jupiter.
+mumymast	cmevla			      	femte månaden på året (maj i normal kontext).	femte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt maj om inget annat anges.
+nanl	cmevla			      	Unge herrn
+nanvi	gismu   	-nav-		      	x_1 är en miljardedel [10^{-9}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+naun	cmevla			      	Herr
+nederland	cmevla			      	Nederländerna
+nim	cmevla			      	Fru/Dam
+nipon	cmevla			      	Japan
+nix	cmevla			      	Fröken
+nol	cmevla			      	genusneutral hederstitel (vid tilltal).
+nolnaum	cmevla			      	Herr/Sir
+nolnim	cmevla			      	Madam/Fru
+noreg	cmevla			      	Norge
+nu,IORK	cmevla			      	New York
+osakas	cmevla			      	Osaka
+osteraix	cmevla			      	Österrike
+otan	cmevla			      	Nato	Nato eller Nordatlantiska fördragsorganisationen (engelska: North Atlantic Treaty Organization, förkortat NATO; franska: Organisation du traité de l’Atlantique Nord, förkortat OTAN) är en militär allians som fastställdes genom undertecknandet av det nordatlantiska fördraget den 4 april 1949.
+OTa,uas	cmevla			      	Ottawa
+paf	cmevla			      	Pappa
+paRIZ	cmevla			      	Paris
+pavmast	cmevla			      	första månaden på året (januari i normal kontext).
+pavyplin	cmevla			      	första planeten från sol i normal kontext, dvs vårt solsystem, är Merkurius.
+pelglar	cmevla			      	gula febern
+peRUV	cmevla			      	Peru
 petso	gismu   	-pet-		      	x_1 är en biljard [10^15] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-picti	gismu   	-pic-		      	x_1 är en biljontedel [10^{-12] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+picti	gismu   	-pic-		      	x_1 är en biljontedel [10^{-12}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+piton	cmevla			      	Python/Pyton	Orm i grekisk mytologi; programmeringsspråk; en tecknad serie av Jan Romare, som publicerats i bland annat Dagens Nyheter.
+plank	cmevla			      	Planck
+pluton	cmevla			      	Pluto
+polskas	cmevla			      	Polen
+pyd	cmevla			      	Tibet
+ramadan	cmevla			      	Ramadan
+relmast	cmevla			      	andra månaden på året (februari i normal kontext).	andra månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt februari om inget annat anges.
+relplin	cmevla			      	andra planeten från sol i normal kontext, dvs vårt solsystem, är Venus.
+relyfi'es	cmevla			      	x_1 är Fiskarna (stjärnbild/stjärntecken).	Från {re}, {finpe}. Stjärnbilden representeras ofta av två fiskar, som är sammanbundna i deras svansar av ett långt rep.
+robin	cmevla			      	Robin
+romas	cmevla			      	Rom
+saupaulos	cmevla			      	x_1 är São Paulo.
+sferies	cmevla			      	Sverige
+SINgapur	cmevla			      	Singapor
+siudadeMExikos	cmevla			      	Mexico city
+slovensk	cmevla			      	Slovakien
+sol	cmevla			      	Seoul	Seoul (koreanska: 서울; IPA: [sʌ.ul]), alternativ stavning Söul, är huvudstaden i Sydkorea.
+soviet	cmevla			      	Sovjetunionen
+sozmast	cmevla			      	nionde månaden på året (september i normal kontext).	nionde månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt september om inget annat anges.
+stakolm	cmevla			      	Stockholm
+suomis	cmevla			      	Finland
+tcesk	cmevla			      	Tjeckien
+terd	cmevla			      	Jorden
 terto	gismu   	-tet-		      	x_1 är en biljon [10^12] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-xatsi	gismu   	-xat-		      	x_1 är en triljontedel [10^{-18] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+tix	cmevla			      	Dotter
+tokios	cmevla			      	Tokyo
+troneim	cmevla			      	Trondheim
+tuityr	cmevla			      	Twitter
+tyrontos	cmevla			      	Toronto
+UAcintyn	cmevla			      	Washington
+uaransis	cmevla			      	Varanasi
+ueb	cmevla			      	Nätet/World Wide Web
+uikipedias	cmevla			      	Wikipedia
+uikis	cmevla			      	Wiki/WikiWikiWeb
+varcavas	cmevla			      	Warszawa
+vonmast	cmevla			      	femte månaden på året (maj i normal kontext).	fjärde månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt april om inget annat anges.
+vonplin	cmevla			      	femte planeten från sol i normal kontext, dvs vårt solsystem, är Mars.
+xas	cmevla			      	Havet
+xatsi	gismu   	-xat-		      	x_1 är en triljontedel [10^{-18}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+xavmast	cmevla			      	sjätte månaden på året (juni i normal kontext).	sjätte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt juni om inget annat anges.
 xecto	gismu   	-xet-   	-cto-	      	x_1 är hundra [10^2] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+xelvet	cmevla			      	Schweiz
+xelvetik	cmevla			      	Schweiz
 xexso	gismu   	-xex-		      	x_1 är en triljon [10^18] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
-zepti	gismu   	-zep-		      	x_1 är en triljardedel [10^{-21] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+xin	cmevla			      	Indiska Oceanen
+xrison	cmevla			      	Kristus
+xrvatsk	cmevla			      	Kroatien
+zelmast	cmevla			      	sjunde månaden på året (juli i normal kontext).	sjunde månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt juli om inget annat anges.
+zelplin	cmevla			      	sjunde planeten från sol i normal kontext, dvs vårt solsystem, är Uranus.
+zepti	gismu   	-zep-		      	x_1 är en triljardedel [10^{-21}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 zetro	gismu   	-zet-		      	x_1 är en triljard [10^21] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+zimbabues	cmevla			      	Zimbabwe	officiellt (engelska:) Republic of Zimbabwe), tidigare Sydrhodesia, är en kustlös stat i södra Afrika. Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona betyder "stenhus". Detta landsnamn, som använts sedan 1980, är en hyllning till stenstaden Stora Zimbabwe, där Monomotaparikets huvudstad var belägen.

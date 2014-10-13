@@ -69,7 +69,7 @@ bradi	gismu			      	x_1 estas malamiko/oponanto/kontraŭulo de x_2 en barakto x
 bratu	gismu			      	x_1 estas hajlo/neĝpluvo/solida precipitaĵo de materialo/konsisto enhavanta x_2-on	ĉi tio estas la substanco, ne la ago aŭ maniero de ĝia falo, kiu estas carvi.  Vidu ankaŭ {carvi}, {snime}, {bisli}, {tcima}.
 brazo	gismu   	-raz-		      	x_1 montras brazilan kulturon/naciecon/lingvon laŭ aspekto x_2	Vidu ankaŭ {porto}, {ketco}.
 bredi	gismu   	-red-   	-bre-	      	x_1 estas preta por x_2 (okazo)	Vidu ankaŭ {spaji}, {jukpa}.
-bridi	gismu   	-bri-		      	x_1 (teksto) estas predikato kun rilato x_2 inter argumentoj (sinsekvo/aro) x_3	Ankaŭ: x_3 estas rilataj per rilato x_2 (= terbri por reordigitaj {lokoj}).  (x_3 estas aro komplete specifita); Vidu ankaŭ {sumti}, {fancu}.
+bridi	gismu   	-bri-		      	x_1 (du'u) estas predikato kun rilato x_2 inter argumentoj (sinsekvo/aro) x_3	Ankaŭ: x_3 estas rilataj per rilato x_2 (= terbri por reordigitaj lokoj).  (x_3 estas aro komplete specifita); Vidu ankaŭ {sumti}, {fancu}.
 brife	gismu   	-bif-   	-bi'e-	      	x_1 estas brizo/zefiro/vento el direkto x_2 kun rapido x_3; x_1 blovas el x_2	Vidu ankaŭ {tcima}.
 briju	gismu   	-bij-		      	x_1 estas oficejo/laborejo de laboristo x_2 en loko x_3	Vidu ankaŭ {jibri}, {gunka}.
 brito	gismu   	-rit-		      	x_1 montras britan kulturon/naciecon laŭ aspekto x_2	Vidu ankaŭ {glico}, {skoto}, {merko}, {ropno}.
@@ -382,7 +382,7 @@ gadri	gismu   	-gad-		      	x_1 estas artikolo/priskribilo etikedanta priskribo
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 (okazo) modifas/ŝanĝas/variigas/transformas x_2-on en x_3	Kaŭza, rezulta ŝanĝo; agenta modifo (= {gafygau}, {gafyzu'e}).  (kp. stika por nerezulta ŝanĝo, binxo por ne nepre kaŭza ŝanĝiĝo, cenba por nerezulta ŝanĝiĝo; zasni)
 galtu	gismu   	-gal-   	-ga'u-	      	x_1 estas alta/supra/suprena en referenckadro x_2 kompare kun bazo/norma alto x_3	x_3 estas ĝenerale iu difinita distanco super baznivelo, aŭ estas tiu baznivelo mem.  Vidu ankaŭ {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
 galxe	gismu			      	x_1 estas (la) gorĝo/ezofago [korpoparto] de x_2; [metafore: mallarĝa aperturo de profunda truo]	Vidu ankaŭ {cnebo}, {kevna}, {tunlo}.
-ganlo	gismu   	-ga'o-		      	x_1 (pordo/pasejo/koridoro/trairejo/enirejo) estas fermita/malebligas pason/aliron al x_2 far x_3	Kiel enirejo, sed ankaŭ eble kiel duonpenetrebla membrano.  Vidu ankaŭ {kalri}, {pagre}, {canko}, {vorme}, {zunti}.
+ganlo	gismu   	-ga'o-		      	x_1 (pordo/pasejo/koridoro/trairejo/enirejo) estas fermita/malebligas pason/aliron al x_2 kontraŭ pasanto x_3	Kiel enirejo, sed ankaŭ eble kiel duonpenetrebla membrano.  Vidu ankaŭ {kalri}, {pagre}, {canko}, {vorme}, {zunti}.
 ganra	gismu   	-gan-		      	x_1 estas larĝa laŭ dimensio x_2 [2a plej signifa dimensio] laŭ normo x_3	Vidu ankaŭ {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
 ganse	gismu   	-gas-   	-ga'e-	      	x_1 [observanto] sensas/rimarkas stimulan econ x_2 (ka) per rimedoj x_3 sub kondiĉoj x_4	x_1 estas sensema al x_2; ankaŭ sentas, rimarkas, perceptas, distingas, diferencigas, rekonas (sed implicas nur reagon sen necese ia ajn signifa mensa pritrakto); rimarku ke la emfazo estas sur eco kiu stimulas x_1-on kaj estas detektata (sanji estas pasiva pri la sensado, kaj ne estas limigita al sensa enigo, krom supozanta ian distingon/rekonon, dum ĝin ne koncernas la rimedoj de detekto); x_3 senso/sensa kanalo.  Vidu ankaŭ {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
 ganti	gismu			      	x_1 estas testiko/ovujo/skroto/stameno/pistilo [korpoparto] de x_2, sekso x_3	Ovo/spermo/poleno/gameto produktanta/naskanta organo.  Vidu ankaŭ {plibu}, {sovda}, {pinji}, {gutra}, {mabla}.
@@ -543,7 +543,7 @@ kajna	gismu			      	x_1 estas breto/tabulo/bufedo ĉe/sur/alfiksita al subtenan
 kakne	gismu   	-ka'e-		      	x_1 povas/kapablas fari/esti x_2 (okazo/stato) sub kondiĉoj x_3 (okazo/stato)	Ankaŭ: havi talenton; scipovi; scii kiel uzi (= {plika'e}).  (kp. stati, certu, gasnu (en sentempa potenciala senco), cmavo ka'e, cmavo nu'o, cmavo pu'i, djuno, zifre)
 kakpa	gismu			      	x_1 (aganto) fosas x_2-on [materialo] el x_3 [fonto/truo] per membroj/ilo x_4	Ankaŭ: x_1 tranĉas en x_3 (kun forigo de materialo).  Vidu ankaŭ {katna}, {plixa}, {sraku}, {canpa}, {sraku}.
 kalci	gismu			      	x_1 estas fekaĵo/ekskremento/merdo de x_2 (besto/homo); (adjektivo:) x_1 estas feka	Vidu ankaŭ {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
-kalri	gismu   	-kar-		      	x_1 (pordo/pasejo/koridoro/trairejo/enirejo) estas malfermita/ebligas pason/aliron al x_2 far x_3	Kiel enirejo.  Vidu ankaŭ {ganlo}, {pagre}, {canko}, {vorme}.
+kalri	gismu   	-kar-		      	x_1 (pordo/pasejo/koridoro/trairejo/enirejo) estas malfermita/ebligas pason/aliron al x_2 por pasanto x_3	Kiel enirejo.  Vidu ankaŭ {ganlo}, {pagre}, {canko}, {vorme}.
 kalsa	gismu   	-kas-		      	x_1 estas kaosa/senorda en eco/aspekto x_2 (ka)	Vidu ankaŭ {cunso}, {cnici}.
 kalte	gismu   	-kat-		      	x_1 chasas viktimon/ĉasaĵon x_2 por celo x_3	Fiŝkapti (= {fipkalte}).  Vidu ankaŭ {jersi}, {kavbu}, {sisku}, {rivbi}.
 kamju	gismu			      	x_1 estas kolono el materialo x_2	Spino (= {bogykamju}), vertebro (= {kamjybo'u}).  Vidu ankaŭ {ckana}, {garna}, {sanli}, {slanu}.
@@ -829,6 +829,7 @@ pastu	gismu   	-pas-		      	x_1 estas robo/tuniko/talaro/mantelo [longa/tutkorp
 patfu	gismu   	-paf-   	-pa'u-	      	x_1 estas patro de x_2; x_1 naskigas x_2-on; x_1 agas patre al x_2; [ne nepre biologia]	Vidu ankaŭ {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}.
 patlu	gismu			      	x_1 estas terpomo [manĝebla tubero] de variaĵo/kultivo x_2	(uzu je samcu por amelaj/tuberaj radikoj kiuj ne reproduktiĝas per tubereroj); Vidu ankaŭ {genja}, {jalna}, {samcu}.
 patxu	gismu   	-pax-		      	x_1 estas poto/kaldrono/urno/kuvo/tino, profunda ujo por enhavo x_2, el materialo/ecoj x_3	(kp. tansi, palne por profundo; baktu, botpi por malferma/kovrilhava)
+pekin	cmevla			      	Pekino
 pelji	gismu   	-ple-		      	x_1 estas papero el fonto x_2	Paperfolio (= plekarda se formo {gravas}, {plebo'o}).  Vidu ankaŭ {karni}, {papri}, {prina}.
 pelxu	gismu   	-pel-		      	x_1 estas flava/ora [koloradjektivo]	Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
 pemci	gismu   	-pem-		      	x_1 estas poemo/verso/poeziaĵo pri intrigo/temo/modelo x_2 de aŭtoro x_3 por celita publiko x_4	x_2 povas esti konvencio anstataŭ temo.  Vidu ankaŭ {prosa}, {rimni}, {rilti}, {finti}, {lisri}, {sanga}.
@@ -995,6 +996,7 @@ setca	gismu   	-se'a-		      	x_1 (aganto) enmetas/enigas/intermetas/insertas x_
 sevzi	gismu   	-sez-   	-se'i-	      	x_1 estas memo de x_2	Vidu ankaŭ cmavo {mi}, {prenu}, {menli}, {jgira}.
 sfani	gismu			      	x_1 estas muŝo [malgranda nepikanta fluganta insekto] de speco/raso x_2	Vidu ankaŭ {cinki}, {bifce}.
 sfasa	gismu   	-sfa-		      	x_1 (aganto) punas x_2-on pro rompo/malrespekto x_3 (okazo/stato/ago) per puno x_4 (okazo/stato)	Ankaŭ: skurĝi, korekti (unu senco).  Vidu ankaŭ {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima}, {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.
+sferies	cmevla			      	Svedujo
 sfofa	gismu   	-sfo-		      	x_1 estas sofo/kanapo (substantivo)	Vidu ankaŭ {nilce}.
 sfubu	gismu   	-sub-   	-su'u-	      	x_1 plonĝas [maniero de regata falado] al x_2 de x_3	Vidu ankaŭ {farlu}, {farlu}.
 siclu	gismu   	-sil-		      	x_1 [sonfonto] siblas/fajfas/faras siblan sonon/noton/tonon/melodion x_2	Vidu ankaŭ {sance}, {tonga}, {sanga}, {zgike}, {savru}.

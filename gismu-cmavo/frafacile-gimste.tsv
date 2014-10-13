@@ -61,7 +61,7 @@ blanu	gismu   	-bla-		      	x_1 est bleu adjectif de couleur
 bliku	gismu   	-bli-		      	x_1 est un bloc de matériau x_2, ayant pour côtés x_3 forme tridimensionnelle
 bloti	gismu   	-lot-   	-blo-   	-lo'i-      	x_1 est un bateau transportant x_2, propulsé par x_3 véhicule
 bolci	gismu   	-bol-   	-boi-	      	x_1 est une balle de matériau x_2 objet sphérique
-bongu	gismu   	-bog-   	-bo'u-	      	x_1 est un os ayant la fonction x_2 dans le corps x_3 partie du corps métaphore: calcium
+bongu	gismu   	-bog-   	-bo'u-	      	x_1 est un os ayant la fonction x_2 dans le corps x_3 partie du corps	métaphore: calcium
 botpi	gismu   	-bot-   	-bo'i-	      	x_1 est une bouteille de x_2, fait de matériau x_3 ayant pour couvercle x_4 récipient refermable	x2: contenu
 boxfo	gismu   	-bof-   	-bo'o-	      	x_1 est une feuille de matériau x_2 forme bidimensionnelle flexible dans 3 dimensions
 boxna	gismu   	-bon-   	-bo'a-	      	x_1 est une ondulation dans le médium x_2, avec la forme x_3, la longueur x_4, la fréquence x_5 schéma périodique
@@ -69,7 +69,7 @@ bradi	gismu			      	x_1 est un adversaire de x_2 dans le combat x_3
 bratu	gismu			      	x_1 est de la grêle de type x_2 précipitation solide
 brazo	gismu   	-raz-		      	x_1 tient est brésilien dans l'aspect x_2
 bredi	gismu   	-red-   	-bre-	      	x_1 est prêt pour x_2	x2: évènement
-bridi	gismu   	-bri-		      	x_1 est un prédicat exprimant la relation x_2 entre les arguments x_3	x1: texte. x3: séquence/ensemble
+bridi	gismu   	-bri-		      	x_1 est un prédicat exprimant la relation x_2 entre les arguments x_3	x1: {du'u}. x3: séquence/ensemble
 brife	gismu   	-bif-   	-bi'e-	      	x_1 est du vent venant de la direction x_2, de vitesse x_3; x_1 souffle venant de x_2
 briju	gismu   	-bij-		      	x_1 est le lieu de travail de x_2 à l'endroit x_3	x2: personne
 brito	gismu   	-rit-		      	x_1 est britannique dans l'aspect x_2
@@ -82,10 +82,10 @@ bruna	gismu   	-bun-   	-bu'a-	      	x_1 est le frère de x_2 par le lien x_3 n
 budjo	gismu   	-buj-   	-bu'o-	      	x_1 est bouddhiste dans l'aspect x_2
 bukpu	gismu   	-buk-   	-bu'u-	      	x_1 est du tissu de type x_2
 bumru	gismu   	-bum-		      	x_1 est recouvert par la brume x_2
-bunda	gismu   	-bud-		      	x_1 mesure x_2 unités de poids local, selon standard x_3, ayant pour sous-unités x_4 non métrique	x_2: par défaut 1. x_4: ex: onces
-bunre	gismu   	-bur-   	-bu'e-	      	x_1 est brun adjectif de couleur	x_2: par défaut 1. x_4: ex: onces
-burcu	gismu   	-bru-		      	x_1 est une brosse ayant pour but x_2 et pour poils x_3	x_2: évènement
-burna	gismu			      	x_1 est embarrassé sous les conditions x_2 x_2: abstraction	x_2: évènement
+bunda	gismu   	-bud-		      	x_1 mesure x_2 unités de poids local, selon standard x_3, ayant pour sous-unités x_4 non métrique	x2: par défaut 1. x4: ex: onces
+bunre	gismu   	-bur-   	-bu'e-	      	x_1 est brun adjectif de couleur	x2: par défaut 1. x4: ex: onces
+burcu	gismu   	-bru-		      	x_1 est une brosse ayant pour but x_2 et pour poils x_3	x2: évènement
+burna	gismu			      	x_1 est embarrassé sous les conditions x_2 x_2: abstraction	x2: évènement
 cabna	gismu   	-cab-		      	x_1 est simultané avec x_2 présent dans le temps	x_2: évènement
 cabra	gismu   	-ca'a-		      	x_1 est un appareil ayant pour fonction x_2 contrôlé par x_3 mécanisme	x_3: agent
 cacra	gismu			      	x_1 dure x_2 heures en durée selon le standard x_3	x_2: 1 heure par défaut
@@ -118,7 +118,7 @@ cecmu	gismu   	-cem-   	-ce'u-	      	x_1 est une communauté de l'organisme x_2
 cedra	gismu			      	x_1 est une époque caractérisée par x_2	x_2: direction/propriété
 cenba	gismu   	-cne-		      	x_1 varie selon x_2 en x_3 sous les conditions x_4	x_2: propriété/quantité. x_3: quantité/degré
 censa	gismu   	-ces-		      	x_1 est sacré pour x_2	x_2: personnes/culture/religion/culte/groupe
-centi	gismu   	-cen-		      	x_1 est un centième de x_2 en x_3 10^{-2	x_3: unité par défaut dimension/aspect
+centi	gismu   	-cen-		      	x_1 est un centième de x_2 en x_3 10^{-2}	x_3: unité par défaut dimension/aspect
 cerda	gismu   	-ced-		      	x_1 hérite x_2 de x_3 selon les règles x_4	x_2: objet/qualité
 cerni	gismu   	-cer-		      	x_1 est le matin du jour x_2 à l'endroit x_3 crépuscule jusqu'au début du travail	x_2: objet/qualité
 certu	gismu   	-cre-		      	x_1 est un expert en x_2 selon la norme x_3	x_2: évènement/activité
@@ -152,6 +152,7 @@ cinki	gismu			      	x_1 est un insecte de l'espèce x_2 insecte/cafard/arthropo
 cinla	gismu			      	x_1 est fin en x_2 selon le standard x_3 relativement court dans la plus petite dimension	x_2: direction/dimension
 cinmo	gismu   	-cni-		      	x_1 ressent l'émotion x_2 à propos de x_3	x_2: direction/dimension
 cinri	gismu   	-ci'i-		      	x_1 intéresse x_2; x_2 est intéressé par x_1	x_1: abstraction
+cinse	gismu   	-cin-		      	x_1 fait x_2 exhibant la sexualité x_3 selon la norme x_4	Voir aussi {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}.
 cinta	gismu			      	x_1 est de la peinture de pigment x_2 dans une base de x_3	x_1: matériau
 cinza	gismu			      	x_1 sont des pinces pour que x_2 pince x_3 outil/partie du corps pinces/tenailles/pincettes
 cipni	gismu   	-cpi-		      	x_1 est un oiseau de l'espèce x_2
@@ -270,7 +271,7 @@ daspo	gismu   	-spo-		      	x_1 détruit x_2 x_1 est destructeur x_1 : évènem
 dasri	gismu   	-sri-		      	x_1 est une bande de matériau x_2
 datka	gismu			      	x_1 est un canard de type x_2
 datni	gismu			      	x_1 est une donnée sur x_2 obtenue par la méthode x_3 x_1 : fait/mesure
-decti	gismu   	-dec-		      	x_1 est un dixième de x_2 en x_3 10^{-1	x_3: unité par défaut dimension/aspect
+decti	gismu   	-dec-		      	x_1 est un dixième de x_2 en x_3 10^{-1}	x_3: unité par défaut dimension/aspect
 degji	gismu   	-deg-		      	x_1 est un doigt du membre x_2 du corps x_3 partie du corps métaphore: péninsule
 dejni	gismu   	-dej-		      	x_1 doit x_2 par dette au créditeur x_3 en retour de x_4 x_1 est débiteur x_4 : service, emprunt
 dekpu	gismu			      	x_1 est x_2 unités de volume local, de standard x_3, de sous-unité x_4 non métrique; par exemple : demi boisseau x_2 : 1 par défaut
@@ -339,7 +340,7 @@ fatci	gismu   	-fac-		      	x_1 est un fait, dans l'absolu x_1 : énoncé
 fatne	gismu   	-fat-   	-fa'e-	      	x_1 est dans l'ordre inverse de x_2 x_1 est inversé à partir de x_2 x_1 : objet/séquence x_2 : objet/séquence
 fatri	gismu   	-fai-		      	x_1 est réparti parmi x_2 en portions x_3
 febvi	gismu   	-feb-		      	x_1 bout à la température x_2 et à la pression x_3
-femti	gismu   	-fem-		      	x_1 est 10^{-15 de x_2 en x_3	x_3: unité par défaut dimension/aspect
+femti	gismu   	-fem-		      	x_1 est 10^{-15} de x_2 en x_3	x_3: unité par défaut dimension/aspect
 fendi	gismu   	-fed-		      	x_1 divise x_2 en x_3 par la méthode x_4 x_1 : agent x_3 : sections/parties
 fengu	gismu   	-feg-   	-fe'u-	      	x_1 est en colère contre x_2 pour x_3 x_3 : action/état/propriété
 fenki	gismu   	-fek-		      	x_1 est délirant selon le standard x_2 x_1 : action/évènement
@@ -382,7 +383,7 @@ gadri	gismu   	-gad-		      	x_1 est un gadri
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 modifie x_2 en x_3 x_1 : évènement
 galtu	gismu   	-gal-   	-ga'u-	      	x_1 est haut dans le référentiel x_2 selon le standard de hauteur x_3
 galxe	gismu			      	x_1 est la gorge de x_2 partie du corps métaphore: étroite ouverture d'un trou profond
-ganlo	gismu   	-ga'o-		      	x_1 est fermé,empêchant le passage de x_2 par x_3 x_1 : porte/passage/entrée
+ganlo	gismu   	-ga'o-		      	x_1 est fermé,empêchant le passage vers x_2 à un passant x_3	x_1 : porte/passage/entrée
 ganra	gismu   	-gan-		      	x_1 est large en dimension x_2 selon le standard x_3 x_2 : 2ème dimension la plus significative
 ganse	gismu   	-gas-   	-ga'e-	      	x_1 perçoit x_2 par les moyens x_3 sous les conditions x_4 x_1 : observateur x_2 : stimulus/propriété
 ganti	gismu			      	x_1 est un producteur de gamète de x_2, de sexe x_3 partie du corps
@@ -408,7 +409,7 @@ gleki	gismu   	-gek-   	-gei-	      	x_1 est content à propos de x_2 x_2 : év�
 gletu	gismu   	-let-   	-gle-	      	x_1 a des relations sexuelles avec x_2
 glico	gismu   	-gic-   	-gli-	      	x_1 est anglais dans l'aspect x_2
 gluta	gismu   	-glu-		      	x_1 est un gant de matériau x_2 vêtement de la main et de l'avant-bras
-gocti	gismu   	-goc-		      	x_1 est 10^{-24 de x_2 en x_3	x_3: unité par défaut dimension/aspect
+gocti	gismu   	-goc-		      	x_1 est 10^{-24} de x_2 en x_3	x_3: unité par défaut dimension/aspect
 gotro	gismu   	-got-		      	x_1 est 10^24 de x_2 en x_3	x_3: unité par défaut dimension/aspect
 gradu	gismu   	-rau-		      	x_1 est une unité sur l'échelle x_2 mesurant la propriété x_3 x_2 : concept
 grake	gismu   	-gra-		      	x_1 pèse x_2 gramme selon le standard x_3 x_2 : 1 par défaut
@@ -544,7 +545,7 @@ kajna	gismu			      	x_1 est un rayon sur l'objet x_2, ayant pour but x_3
 kakne	gismu   	-ka'e-		      	x_1 est capable de x_2 sous les conditions x_3 x_2 : évènement/état x_3 : évènement/état
 kakpa	gismu			      	x_1 creuse x_2 depuis x_3 avec x_4 x_1 : agent x_2 : matériau x_3 : source/trou x_4 : membres/outil
 kalci	gismu			      	x_1 est un excrément de x_2 adjectif : x_1 est de la matière fécal x_2 : animal/personne
-kalri	gismu   	-kar-		      	x_1 est ouvert, permettant le passage de x_2 par x_3 x_1 : porte/passage/entrée
+kalri	gismu   	-kar-		      	x_1 est ouvert, permettant le passage vers x_2 à un passant x_3	x_1 : porte/passage/entrée
 kalsa	gismu   	-kas-		      	x_1 est chaotique selon x_2 x_2 : propriété/aspect
 kalte	gismu   	-kat-		      	x_1 chasse x_2 pour la raison x_3 x_2 : proie/gibier
 kamju	gismu			      	x_1 est un pilier de matériau x_2
@@ -670,6 +671,7 @@ litru	gismu   	-li'u-		      	x_1 voyage via la route x_2 utilisant les moyens x
 livga	gismu			      	x_1 est le foie de x_2 partie du corps
 livla	gismu   	-lil-		      	x_1 est le combustible source de puissance de x_2
 logji	gismu   	-loj-		      	x_1 décrit une logique permettant de raisonner sur x_2. x_1: règles / méthodes. x_2: énoncé
+lojban	cmevla			      	Lojban cmene
 lojbo	gismu   	-lob-   	-jbo-	      	x_1 est lojbanien dans l'aspect x_2
 loldi	gismu   	-lol-   	-loi-	      	x_1 est le sol de x_2
 lorxu	gismu   	-lor-   	-lo'u-	      	x_1 est un renard de type x_2 canin à queue touffue
@@ -725,8 +727,8 @@ mexno	gismu   	-mex-		      	x_1 est mexicain dans l'aspect x_2
 midju	gismu   	-mij-		      	x_1 est le milieu de x_2 adjectif: x_1 est central
 mifra	gismu   	-mif-		      	x_1 est le texte codé correspondant au texte clair x_2 par le système x_3 x_1 est chiffré x_3 est un code
 mikce	gismu   	-mic-		      	x_1 soigne x_2 pour la maladie x_3 par le traitement x_4
-mikri	gismu   	-mik-		      	x_1 est un millionième de x_2 en x_3 10^{-6	x_3: dimension / aspect unité par défaut
-milti	gismu   	-mil-		      	x_1 est un millième de x_2 en x_3 10^{-3	x_3: dimension / aspect unité par défaut
+mikri	gismu   	-mik-		      	x_1 est un millionième de x_2 en x_3 10^{-6}	x_3: dimension / aspect unité par défaut
+milti	gismu   	-mil-		      	x_1 est un millième de x_2 en x_3 10^{-3}	x_3: dimension / aspect unité par défaut
 milxe	gismu   	-mli-		      	x_1 est moyen selon la propriété x_2 x_1 n'est pas trop x_2
 minde	gismu   	-mid-   	-mi'e-	      	x_1 donne des ordres à x_2 en vue du résultat x_3 x_3 est commandé. x_3: évènement / état
 minji	gismu   	-mi'i-		      	x_1 est une machine remplissant la fonction x_2 appareil automatique, sans contrôle direct
@@ -777,7 +779,7 @@ nanca	gismu   	-na'a-		      	x_1 dure x_2 années selon la norme x_3 adjectif: 
 nandu	gismu   	-nad-		      	x_1 est difficile pour x_2 sous les conditions x_3 x_1 représente un défi pour x_2. x_1: non agentif
 nanla	gismu			      	x_1 est un garçon d'âge x_2 immature selon la norme x_3 jeune personne mâle
 nanmu	gismu   	-nau-		      	x_1 est un homme x_1 est une personne humanoïde mâle pas nécessairement adulte
-nanvi	gismu   	-nav-		      	x_1 est un milliardième de x_2 en x_3 10^{-9	x_3: dimension / aspect
+nanvi	gismu   	-nav-		      	x_1 est un milliardième de x_2 en x_3 10^{-9}	x_3: dimension / aspect
 narge	gismu   	-nag-		      	x_1 est une noix de x_2 avec coquille x_3 et noyau x_4 fruit à coquille dure. x_2: plante / espèce
 narju	gismu   	-naj-		      	x_1 est orange adjectif de couleur
 natfe	gismu   	-naf-   	-na'e-	      	x_1 réfute x_2 selon x_3. x_1: énoncé. x_3: règles / logique
@@ -841,7 +843,7 @@ perli	gismu   	-per-		      	x_1 est une poire de type x_2 fruit
 pesxu	gismu   	-pex-		      	x_1 est de la pâte de x_2 solide mou,lisse,moite
 petso	gismu   	-pet-		      	x_1 est 10^15 de x_2 en x_3	x_3: dimension / aspect défaut: unités
 pezli	gismu   	-pez-		      	x_1 est une feuille de la plante x_2 x_1 est le feuillage de x_2
-picti	gismu   	-pic-		      	x_1 est un millième de milliardième de x_2 en x_3 10^{-12	x_3: dimension / aspect défaut: unités
+picti	gismu   	-pic-		      	x_1 est un millième de milliardième de x_2 en x_3 10^{-12}	x_3: dimension / aspect défaut: unités
 pijne	gismu			      	x_1 transperçant x_2, est fait de x_3. x_1: épingle / cheville / piquet. x_3: matériau / propriétés
 pikci	gismu			      	x_1 supplie x_2 de faire x_3
 pikta	gismu			      	x_1 est un ticket donnant droit à x_2 de faire x_3 sous les conditions x_4. x_3: évènement / état
@@ -1275,7 +1277,7 @@ xarnu	gismu			      	x_1 est obstiné, s'opposant à x_2 à propos de x_3. x_3: 
 xasli	gismu			      	x_1 est un âne de type x_2
 xasne	gismu			      	x_1 est la transpiration du corps x_2, sécrétée par l'organe x_3
 xatra	gismu   	-xa'a-		      	x_1 est un courrier pour x_2 de l'expéditeur x_3 ayant pour contenu x_4
-xatsi	gismu   	-xat-		      	x_1 est 10^{-18 de x_2 en x_3	x_3: unité par défaut dimension / aspect
+xatsi	gismu   	-xat-		      	x_1 est 10^{-18} de x_2 en x_3	x_3: unité par défaut dimension / aspect
 xazdo	gismu   	-xaz-   	-zdo-	      	x_1 est asien dans l'aspect x_2
 xebni	gismu   	-xen-   	-xei-	      	x_1 hait x_2 x_2 est détestable pour x_1. x_2: objet / abstraction
 xebro	gismu   	-xeb-   	-bro-	      	x_1 est hébraïque dans l'aspect x_2
@@ -1322,7 +1324,7 @@ zdani	gismu   	-zda-		      	x_1 est une habitation de x_2
 zdile	gismu   	-zdi-		      	x_1 est divertissant pour x_2 selon la propriété x_3 fi est ce qui amuse x_2 à propos de x_1. x_1: abstraction
 zekri	gismu   	-zer-   	-zei-	      	x_1 est criminel pour les personnes x_2. x_1: évènement / état
 zenba	gismu   	-zen-   	-ze'a-	      	x_1 est incrémenté selon la propriété x_2 par la quantité x_3. x_1: expérimentateur
-zepti	gismu   	-zep-		      	x_1 est 10^{-21 de x_2 en x_3	x_3: unité par défaut dimension / aspect
+zepti	gismu   	-zep-		      	x_1 est 10^{-21} de x_2 en x_3	x_3: unité par défaut dimension / aspect
 zetro	gismu   	-zet-		      	x_1 est 10^21 de x_2 en x_3	x_3: unité par défaut dimension / aspect
 zgana	gismu   	-zga-		      	x_1 observe x_2 en utilisant les moyens x_3 sous les conditions x_4
 zgike	gismu   	-zgi-   	-gi'e-	      	x_1 est une musique produite par x_2. x_2: évènement

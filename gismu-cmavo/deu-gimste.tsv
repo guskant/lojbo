@@ -69,7 +69,7 @@ bradi	gismu			      	x_1 ist Gegner/Kontrahent/Widersacher von x_2 im Kampf/in d
 bratu	gismu			      	x_1 ist Hagel/Schneeregen/Graupel/fester Niederschlag aus Material/mit Zusammensetzung unter anderem x_2
 brazo	gismu   	-raz-		      	x_1 repräsentiert brasilianische Kultur/Nationalität/Sprache in Aspekt x_2
 bredi	gismu   	-red-   	-bre-	      	x_1 ist vorbereitet/fertig für x_2 (Ereignis)	Siehe auch {spaji}, {jukpa}.
-bridi	gismu   	-bri-		      	x_1 (Text) ist eine Prädikat-Beziehung mit Beziehung x_2 zwischen Argumenten (Folge/Menge) x_3
+bridi	gismu   	-bri-		      	x_1 (du'u) ist eine Prädikat-Beziehung mit Beziehung x_2 zwischen Argumenten (Folge/Menge) x_3
 brife	gismu   	-bif-   	-bi'e-	      	x_1 ist eine Brise/ein Wind/ein Sturm aus der Richtung x_2 mit der Geschwindigkeit x_3; x_1 bläst von x_2.	Siehe auch {tcima}.
 briju	gismu   	-bij-		      	x_1 ist das Büro/Arbeitszimmer von x_2 am Ort x_3	Siehe auch {jibri}, {gunka}.
 brito	gismu   	-rit-		      	x_1 spiegelt die britische/nordirländische Kultur/Nationalität in Aspekt x_2 wieder.	Siehe auch {glico}, {skoto}, {merko}, {ropno}.
@@ -118,7 +118,7 @@ cecmu	gismu   	-cem-   	-ce'u-	      	x_1 ist eine Gemeinschaft/Kolonie/Gesellsc
 cedra	gismu			      	x_1 ist eine Ära/Epoche/ein Zeitalter charakterisiert durch x_2 (Ereignis/Eigenschaft/Intervall/Idee)
 cenba	gismu   	-cne-		      	x_1 schwankt/variiert/ändert sich/weicht in Eigenschaft/Menge x_2 (ka/ni) in Betrag/Umfang/Ausmaß x_3 unter Umständen x_4 (ab)
 censa	gismu   	-ces-		      	x_1 ist Person/Gruppe/Kultur/Religion/Kult x_2 heilig
-centi	gismu   	-cen-		      	x_1 ist ein Hundertstel [1/100; 1×10^{-2] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
+centi	gismu   	-cen-		      	x_1 ist ein Hundertstel [1/100; 1×10^{-2}] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 cerda	gismu   	-ced-		      	x_1 ist ein Erbe von/Anwärter auf/soll x_2 (Objekt/Qualität) von x_3 (ererben) gemäß Regel/Gesetz x_4
 cerni	gismu   	-cer-		      	x_1 ist der Morgen [von Morgendämmerung bis kurz nach der üblichen Arbeitsanfangszeit für den Ort] von Tag x_2 in Ort x_3
 certu	gismu   	-cre-		      	x_1 ist ein Experte/Profi/hat Fähigkeiten in/ist begabt in x_2 (Ereignis/Aktivität) nach Standard x_3.	Auch kompetent, talentiert.  Siehe auch {djuno}, {stati}, {kakne}.
@@ -271,7 +271,7 @@ daspo	gismu   	-spo-		      	x_1 (Ereignis) zerstört/ruiniert x_2; x_1 ist dest
 dasri	gismu   	-sri-		      	x_1 ist ein Band/Streifen aus Material x_2
 datka	gismu			      	x_1 ist eine Ente/[ein Erpel] der Art/Gattung x_2.	Siehe auch {cipni}.
 datni	gismu			      	x_1 (du'u) [Tatsache/Messwert] stellt Daten/Information/Statistik über x_2 gesammelt durch Verfahren x_3 dar
-decti	gismu   	-dec-		      	x_1 ist ein Zehntel [1/10; 1×10^{-1] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
+decti	gismu   	-dec-		      	x_1 ist ein Zehntel [1/10; 1×10^{-1}] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 degji	gismu   	-deg-		      	x_1 ist ein/der Finger/Zeh [Körperteil] an Gliedmaß/Körperstelle x_2 von Körper x_3; [im übertragenen Sinne: Halbinsel]
 dejni	gismu   	-dej-		      	x_1 schuldet x_2 (Schuld/Verbindlichkeit) Gläubiger x_3 als Gegenleistung für x_4 [Dienstleistung, Darlehen]; x_1 ist ein Schuldner; x_3 ist ein Gläubiger
 dekpu	gismu			      	x_1 ist x_2 (Default: 1) örtliche Volumeneinheit(en) [nichtmetrisch; z.B. Scheffel, Gallone], Standard x_3, Untereinheit(en) x_4 (, x_5, x_6, ...)
@@ -340,7 +340,7 @@ fatci	gismu   	-fac-		      	x_1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (ab
 fatne	gismu   	-fat-   	-fa'e-	      	x_1 [Folge] ist in umgekehrter Reihenfolge vergleichen mit x_2 [Folge]; x_1 (Objekt) ist umgekehrt in Bezug auf x_2 (Objekt)
 fatri	gismu   	-fai-		      	x_1 wird verteilt/zugemessen/zugewiesen unter x_2 mit Anteilen/Portionen/Teilen x_3; (x_2/x_3 fa'u)
 febvi	gismu   	-feb-		      	x_1 kocht/siedet/verdampft bei Temperatur x_2 und Druck x_3
-femti	gismu   	-fem-		      	x_1 ist 10^{-15 von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
+femti	gismu   	-fem-		      	x_1 ist 10^{-15} von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 fendi	gismu   	-fed-		      	x_1 (Handelnder) teilt x_2 in Teile/Abschnitte x_3 mit Methode/Aufteilung x_4
 fengu	gismu   	-feg-   	-fe'u-	      	x_1 ist ärgerlich auf/verärgert über x_2 wegen x_3 (Aktion/Zustand/Eigenschaft)
 fenki	gismu   	-fek-		      	x_1 (Aktion/Ereignis) ist verrückt/wahnsinnig/geisteskrank/rasend gemäß Standard x_2
@@ -383,7 +383,7 @@ gadri	gismu   	-gad-		      	x_1 ist ein Artikel/Deskriptor und kennzeichnet Bes
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 (Ereignis) verändert/ändert/modifiziert/wandelt x_2 in/nach x_3
 galtu	gismu   	-gal-   	-ga'u-	      	x_1 ist hoch/oben in Bezugssystem x_2 vergleichen mit Grundlinie/Bezugspunkt/Standardhöhe x_3
 galxe	gismu			      	x_1 ist ein/der Hals/Rachen [Körperteil] von x_2; [im übertragenen Sinne: schmale Öffnung eines tiefen Loches]
-ganlo	gismu   	-ga'o-		      	x_1 (Portal/Durchgang/Eingang) ist geschlossen/zu/nicht offen und versperrt den Zugang zu x_2 durch x_3
+ganlo	gismu   	-ga'o-		      	x_1 (Portal/Durchgang/Eingang) ist geschlossen/zu/nicht offen und versperrt den Zugang zu x_2 für x_3 (Hinübergehenden)
 ganra	gismu   	-gan-		      	x_1 ist breit/weit in Dimension x_2 [zweitwichtigste Dimension] gemäß Standard x_3
 ganse	gismu   	-gas-   	-ga'e-	      	x_1 [Erfahrender] nimmt wahr/erfasst/bemerkt Reiz-Eigenschaft x_2 (ka) mit Mitteln x_3 unter Umständen x_4
 ganti	gismu			      	x_1 ist/sind Hoden/Eierstock/Staubblatt/Stempel [Körperteil] von x_2, Geschlecht x_3
@@ -409,7 +409,7 @@ gleki	gismu   	-gek-   	-gei-	      	x_1 ist glücklich/fröhlich/froh/freut sic
 gletu	gismu   	-let-   	-gle-	      	x_1 kopuliert mit/paart sich mit/verkehrt sexuell mit/fickt x_2
 glico	gismu   	-gic-   	-gli-	      	x_1 ist englisch/gehört zur englischsprachigen Kultur in Aspekt x_2
 gluta	gismu   	-glu-		      	x_1 ist ein Handschuh/Fäustling [Bekleidung für Hand und Unterarm] aus Material x_2
-gocti	gismu   	-goc-		      	x_1 ist 10^{-24 von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
+gocti	gismu   	-goc-		      	x_1 ist 10^{-24} von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 gotro	gismu   	-got-		      	x_1 ist 10^24 von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 gradu	gismu   	-rau-		      	x_1 [Größenordnung] ist eine Einheit/ein Grad auf Skala/gemäß Referenzstandard x_2 (si'o) und misst Eigenschaft x_3
 grake	gismu   	-gra-		      	x_1 ist x_2 Gramm [metrische Einheit] an Masse (Default: 1) gemäß Standard x_3
@@ -545,7 +545,7 @@ kajna	gismu			      	x_1 ist ein Gestell/Regal/eine Ablage/Theke in/auf/verbunde
 kakne	gismu   	-ka'e-		      	x_1 ist fähig/im Stande x_2 (Ereignis/Zustand) zu tun/sein, unter Bedingungen x_3 (Ereignis/Zustand)
 kakpa	gismu			      	x_1 (Handelnder) gräbt x_2 [Material] aus Loch/Ursprung x_3 mit Gliedmaßen/Werkzeug x_4
 kalci	gismu			      	x_1 ist der Kot/sind die Fäkalien/Exkremente von x_2 (Tier/Person); (Adjektiv:) x_1 ist fäkal
-kalri	gismu   	-kar-		      	(Portal/Durchgang/Eingang) ist offen/geöffnet und lässt einen Durchgang zu x_2 für x_3
+kalri	gismu   	-kar-		      	(Portal/Durchgang/Eingang) ist offen/geöffnet und lässt einen Durchgang zu x_2 für x_3 (Hinübergehenden)
 kalsa	gismu   	-kas-		      	x_1 ist chaotisch/ungeordnet in Eigenschaft/Aspekt x_2 (ka)
 kalte	gismu   	-kat-		      	x_1 jagt/pirscht sich Beute/Opfer/Wild x_2 an, für Zweck x_3
 kamju	gismu			      	x_1 ist eine Säule/Stütze/ein Pfeiler aus Material x_2
@@ -726,8 +726,8 @@ mexno	gismu   	-mex-		      	x_1 repräsentiert mexikanische Kultur/Nationalitä
 midju	gismu   	-mij-		      	x_1 ist in der Mitte/im Zentrum/Mittelpunkt/[Fokus] von x_2; (Adjektiv:) x_1 ist mittig
 mifra	gismu   	-mif-		      	x_1 ist verschlüsselter/codierter Text/Chiffre von Klartext x_2 mit Code/Verschlüsselung x_3; x_1 ist verschlüsselt/kodiert; x_3 ist ein Code
 mikce	gismu   	-mic-		      	x_1 ist ein Arzt/Doktor/Mediziner/Krankenpfleger/eine Krankenschwester/Hebamme von x_2 gegen Krankheit/Beschwerden x_3 mit Behandlung x_4
-mikri	gismu   	-mik-		      	x_1 ist ein Millionstel [10^{-6] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
-milti	gismu   	-mil-		      	x_1 ist ein Tausendstel [1/1000; 10^{-3] von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
+mikri	gismu   	-mik-		      	x_1 ist ein Millionstel [10^{-6}] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
+milti	gismu   	-mil-		      	x_1 ist ein Tausendstel [1/1000; 10^{-3}] von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
 milxe	gismu   	-mli-		      	x_1 ist milde/sanft/mittelmäßig in Eigenschaft x_2 (ka); x_1 ist nicht sehr x_2/einigermaßen x_2
 minde	gismu   	-mid-   	-mi'e-	      	x_1 befiehlt/gibt Befehle/Anordnungen an x_2 damit Ergebnis x_3 (Ereignis/Zustand) eintrifft; x_3 ist angeordnet
 minji	gismu   	-mi'i-		      	x_1 ist eine Maschine für Verwendung/mit Funktion x_2; [automatisch laufendes Gerät, ohne direkte Funktionskontrolle]
@@ -777,7 +777,7 @@ nanca	gismu   	-na'a-		      	x_1 dauert x_2 Jahre (Default: 1) gemäß Standard
 nandu	gismu   	-nad-		      	x_1 ist schwierig/kompliziert/herausfordernd für x_2 unter Bedingungen x_3; x_1 fordert (nicht-handelnd) x_2
 nanla	gismu			      	x_1 ist ein Junge/Bub/Bursche/Knabe [junge männliche Person] in Alter x_2 und unreif gemäß Standard x_3
 nanmu	gismu   	-nau-		      	x_1 ist ein Mann/sind Männer; x_1 ist eine männliche menschenähnliche Person [nicht notwendigerweise erwachsen].	Wort in Metapher/Beispiel als sexistisch nicht bevorzugt (Benutz stattdessen {remna} oder {prenu}!). Siehe auch {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
-nanvi	gismu   	-nav-		      	x_1 ist ein Milliardstel [10^{-9] von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
+nanvi	gismu   	-nav-		      	x_1 ist ein Milliardstel [10^{-9}] von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
 narge	gismu   	-nag-		      	x_1 ist eine Nuss [Körperteil: Frucht mit harter Schale] von Pflanze/Art x_2 mit Schale x_3 und Kern x_4
 narju	gismu   	-naj-		      	x_1 ist orange (Farb-Adjektiv).	Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
 natfe	gismu   	-naf-   	-na'e-	      	x_1 (du'u) widerspricht/negiert/steht im Widerspruch zu/ist unvereinbar mit x_2 (du'u) unter Regeln/Logik x_3
@@ -841,7 +841,7 @@ perli	gismu   	-per-		      	x_1 ist eine Birne [Frucht] von Art/Sorte x_2
 pesxu	gismu   	-pex-		      	x_1 ist eine Paste/ein Teig/Fruchtfleich/Brei/Mark/Matsch/Schlamm [weicher, feuchter Feststoff mit glatter Oberfläche] mit Zusammensetzung unter anderem x_2
 petso	gismu   	-pet-		      	x_1 ist 10^15 von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 pezli	gismu   	-pez-		      	x_1 ist ein Blatt von Pflanze x_2; x_1 ist das Laub von x_2
-picti	gismu   	-pic-		      	x_1 ist ein Billionstel [10^{-12] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten]
+picti	gismu   	-pic-		      	x_1 ist ein Billionstel [10^{-12}] von x_2 in Dimension/Aspekt x_3 (Default: Einheiten]
 pijne	gismu			      	x_1 ist ein Pin/Stift/Dübel/eine Reißzwecke (nadelförmiges Werkzeug) um x_2 zu befestigen/zu durchbohren auf Material/mit Eigenschaften x_3
 pikci	gismu			      	x_1 bettelt/fleht/bittet demütig/ersucht [fragt mit Demut] x_2 um/für x_3
 pikta	gismu			      	x_1 ist ein Ticket/Schein/eine Eintritts-/Fahrkarte und berechtigt x_2 für Privileg/Berechtigung x_3 (Ereignis/Zustand) unter Bedingungen x_4
@@ -1274,7 +1274,7 @@ xarnu	gismu			      	x_1 ist eigensinnig/unbeugsam/stur gegen x_2 über x_3 (Ere
 xasli	gismu			      	x_1 ist eine Esel/ein Grautier von Art/Gattung x_2
 xasne	gismu			      	x_1 ist der Schweiß/die Ausdünstung/Transpiration von Körper x_2, ausgesondert durch Drüse(n)/Organ(e) x_3
 xatra	gismu   	-xa'a-		      	x_1 ist ein Brief/(Send-)Schreiben/[Mitteilung] an beabsichtigtes Publikum x_2 von Autor/Absender x_3 mit Inhalt x_4
-xatsi	gismu   	-xat-		      	x_1 ist 10^{-18 von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
+xatsi	gismu   	-xat-		      	x_1 ist 10^{-18} von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
 xazdo	gismu   	-xaz-   	-zdo-	      	x_1 repräsentiert die asiatische Kultur/Nationalität/Geographie in Aspekt x_2
 xebni	gismu   	-xen-   	-xei-	      	x_1 hasst/verachtet x_2 (Objekt/Abstraktion); x_1 ist voll an Hass für x_2; x_2 ist x_1 verhasst
 xebro	gismu   	-xeb-   	-bro-	      	x_1 repräsentiert hebräische/jüdische/israelische Kultur/Nationalität/Sprache in Aspekt x_2
@@ -1321,7 +1321,7 @@ zdani	gismu   	-zda-		      	x_1 ist ein Nest/ein Haus/ein Bau/[ein Zuhause] von
 zdile	gismu   	-zdi-		      	x_1 (Abstraktion) ist amüsant/unterhaltsam für x_2 in Eigenschaft/Aspekt x_3; x_3 ist die Eigenschaft, die x_2 an x_1 amüsiert
 zekri	gismu   	-zer-   	-zei-	      	x_1 (Ereignis/Zustand) ist ein strafbares Verbrechen/Delikt/[Tabu/Sünde] für Personen/Kultur/Richter/Geschworene x_2
 zenba	gismu   	-zen-   	-ze'a-	      	x_1 (Opfer) wächst an/steigt/nimmt zu/wird erhöht/erweitert in Eigenschaft/Quantität x_2 um Menge x_3
-zepti	gismu   	-zep-		      	x_1 ist 10^{-21 von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
+zepti	gismu   	-zep-		      	x_1 ist 10^{-21} von x_2 in Dimension/Aspekt x_3 (Standard: Einheiten)
 zetro	gismu   	-zet-		      	x_1 ist 10^21 von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 zgana	gismu   	-zga-		      	x_1 beobachtet/[bemerkt]/schaut/sieht/guckt/erblickt x_2 mit den Sinnen/Mitteln x_3 unter den Bedingungen x_4.	Siehe auch {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
 zgike	gismu   	-zgi-   	-gi'e-	      	x_1 ist Musik gespielt/aufgeführt/produziert von x_2 (Ereignis)

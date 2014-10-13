@@ -12,8 +12,8 @@ ci	cmavo   	-cib-		      		cifero/nombro: 3 (cifero)
 co	cmavo   	-col-		      		renversilo de tanru; permesas modifanton kun sekvantaj sumti sen sumti-ligiloj                                                                  -
 co'a	cmavo   	-co'a-		      		intervala konturo de okazo: komenciĝante                                      >|<    |	Ek- (= co'a(r)-).  Vidu ankaŭ {cfari}, {krasi}, {clira}.
 co'e	cmavo   	-com-   	-co'e-	      		elipsa/nespecifa rilato
-co'u	cmavo   	-co'u-		      		intervala konturo de okazo: finiĝante (eĉ se ne kompleta)                     |  >< |	Finiĝante (= co'u(r)-).  Vidu ankaŭ {sisti}, {fanmo}.
 coi	cmavo			   	COI      	Viiĝo: Salutoj
+co'u	cmavo   	-co'u-		      		intervala konturo de okazo: finiĝante (eĉ se ne kompleta)                     |  >< |	Finiĝante (= co'u(r)-).  Vidu ankaŭ {sisti}, {fanmo}.
 da	cmavo   	-dav-   	-dza-	      		pro-sumti: logike kvantigebla varianto; io 1 (ĝenerale limigita)
 da'a	cmavo   	-daz-		      		cifero/nombro: ĉiu/ĉiuj krom n; ĉiuj escepte de n; (defaŭlto 1)
 do	cmavo   	-don-   	-doi-	      		pro-sumti: vi la alparolato(j); identigita(j) per vokativo
@@ -28,8 +28,8 @@ je	cmavo   	-jev-   	-jve-	      		logika kunigilo: tanru-intermeza 'kaj'
 jei	cmavo   	-jez-		      		abstraktilo de vereco-valoro: x_1 estas vereco-valoro de [bridi] laŭ metafiziko x_2	Vortoj uzeblaj por epistemologio tipe havas du'u-argumenton.
 jo	cmavo   	-jov-		      		logika kunigilo: tanru-intermeza 'se kaj nur se'
 jo'e	cmavo   	-jom-		      		nelogika kunigilo: unio de aroj
-jo'u	cmavo   	-jo'u-		      		nelogika kunigilo: konjunkcio; kaj, komune kun
 joi	cmavo   	-jol-   	-joi-	      		nelogika kunigilo: konjunkcio; kaj, kune kun
+jo'u	cmavo   	-jo'u-		      		nelogika kunigilo: konjunkcio; kaj, komune kun
 ju	cmavo   	-juv-		      		logika kunigilo: tanru-intermeza 'egale ĉu aŭ ne'
 ka	cmavo   	-kam-		      		abstraktilo de eco/kvalito: x_1 estas kvalito/eco esprimita per [bridi]	Vidu ankaŭ {ckaji}.
 ke	cmavo   	-kem-		      		komencas grupigon de tanru, (kaj aliaj); nuligas normalan maldekstran grupigon de tanru	Vidu ankaŭ cmavo {ke'e}.
@@ -44,8 +44,8 @@ mei	cmavo   	-mem-   	-mei-	      		ŝanĝas nombron en selbri; x_1 estas <n>-op
 memimoi	cmavo-compound			      		x_1 estas mia x_2 laux regulo/rilato x_3
 mi	cmavo   	-mib-		      		pro-sumti: mi/ni la parolanto(j)/aŭtoro(j); identigita(j) per mem-vokativo	Vidu ankaŭ {sevzi}.
 mo'a	cmavo   	-mob-		      		cifero/nombro: tro malmultaj; subjektiva
-mo'i	cmavo   	-mov-		      		indikas movojn en la spaco-tempo
 moi	cmavo   	-mom-   	-moi-	      		ŝanĝas nombron en vican selbri; x_1 estas (n)-a membro de aro x_2 vicigita laŭ regulo x_3	(x_2 estas komplete specifita aro)
+mo'i	cmavo   	-mov-		      		indikas movojn en la spaco-tempo
 mu	cmavo   	-mum-		      		cifero/nombro: 5 (cifero)
 mu'e	cmavo   	-muf-		      		abstraktilo de punkt-okazo: x_1 estas la okazo-kiel-punkto de [bridi]
 na	cmavo   	-nar-		      		kontraŭdira negilo de bridi; ampleksas tutan bridi; logika neo en certaj cmavo-kunmetaĵoj
@@ -57,6 +57,7 @@ nu	cmavo   	-nun-		      		abstraktilo de ĝenerala okazo: x_1 estas stato/proce
 nu'o	cmavo   	-nu'o-		      		modala aspekto: nerealigita potenciala okazo	Vidu ankaŭ {kakne}.
 pa	cmavo   	-pav-		      		cifero/nombro: 1 (cifero)
 pe'a	cmavo   	-pev-		      		markas figuran/nelaŭliteran uzon de parolo/teksto	En figura parolo, metaforoj povas arbitre ignori ellasitaj argumentolokoj.
+pekin	cmevla			      		Pekino
 pi	cmavo   	-piz-		      		cifero/nombro: nombrobaza punkto/komo; defaŭlte decimala
 pi'u	cmavo   	-piv-		      		nelogika kunigilo: krucproduto; kartezia produto de aroj
 pu'i	cmavo   	-pus-		      		modala aspekto: realigita potencialo	Vidu ankaŭ {kakne}.
@@ -65,6 +66,7 @@ re	cmavo   	-rel-		      		cifero/nombro: 2 (cifero)
 ro	cmavo   	-rol-		      		cifero/nombro: ĉiu, ĉiuj
 roi	cmavo   	-rom-   	-roi-	      		ŝanĝas nombron en kvantigitan modifilon de tempa intervalo; defaŭlte tempa	Vidu ankaŭ {rapli}.
 se	cmavo   	-sel-		      		2-a revicigo; interŝanĝas 1-an/2-an lokojn
+sferies	cmevla			      		Svedujo
 si'o	cmavo   	-siz-		      		abstraktilo de ideo/koncepto: x_1 estas la koncepto de x_2 de [bridi]	Vidu ankaŭ {sidbo}.
 so	cmavo   	-soz-		      		cifero/nombro: 9 (cifero)
 so'a	cmavo   	-soj-		      		cifero/nombro: preskaŭ ĉiu (cifero/nombro)
