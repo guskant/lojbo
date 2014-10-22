@@ -495,7 +495,7 @@ jicmu	gismu   	-cmu-		      	x_1 は x_2 の基礎／基盤／根本／原理	�
 jijnu	gismu   	-jij-		      	x_1 は x_2 （命題）を x_3 （題目）について直感する／勘づく	「虫の知らせ」も。 ・大意： 直感 ・読み方： ジジヌ  ・関連語： {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}
 jikca	gismu   	-jik-		      	x_1 は x_2 と社交／交際する；  x_1 は x_2 にたいして社会的に振舞う；  x_1 は社会人	・大意： 社交 ・読み方： ジクシャ  ・語呂合わせ： 社会の軸、社交 ・関連語： {tarti}, {penmi}
 jikru	gismu			      	x_1 は x_2 （原料）の蒸留から出来た酒／アルコール飲料	・大意： 蒸留酒 ・読み方： ジクル  ・関連語： {barja}, {vanju}, {birje}, {xalka}
-jilka	gismu   	-jil-		      	x_1 は x_2 （成分）のアルカリ	・大意： アルカリ ・読み方： ジルゥカ  ・語呂合わせ： アルカリ ・関連語： {sodna}, {bakri}, {sodva}
+jilka	gismu   	-jil-		      	x_1 は x_2 （成分）のアルカリ／塩基	・大意： アルカリ ・読み方： ジルゥカ  ・語呂合わせ： アルカリ ・関連語： {sodna}, {bakri}, {sodva}
 jilra	gismu			      	x_1 （者）は x_2 （者）に x_3 （性質）に関して嫉妬する／妬む／そねむ；  x_2 はうらやましい	・大意： 嫉妬 ・読み方： ジルゥラ  ・語呂合わせ： ji（忌）, jealous ・関連語： {cinmo}
 jimca	gismu   	-jic-		      	x_1 は x_2 （本体）の枝／肢	「分岐」「分家」「選択肢」なども。 ・大意： 枝 ・読み方： ジムシャ  ・関連語： {birka}, {rebla}, {tuple}
 jimpe	gismu   	-jmi-		      	x_1 は x_2 （命題）を x_3 （題目）について理解する； x_1 は x_3 がわかる	・大意： 理解 ・読み方： ジムペ  ・関連語： {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}
@@ -686,7 +686,7 @@ lujvo	gismu   	-luv-   	-jvo-	      	x_1 （文字列）は x_2 （意味）・ 
 lumci	gismu   	-lum-   	-lu'i-	      	x_1 は x_2 の汚れ x_3 を洗浄剤／用具 x_4 で洗う	・大意： 洗う ・読み方： ルゥムシ  ・語呂合わせ： 洗い汚れる無視 ・関連語： {djacu}, {jinru}, {litki}, {zbabu}, {jinsa}, {curve}
 lunbe	gismu   	-lub-		      	x_1 は裸／服無し	・大意： 裸 ・読み方： ルゥンベ  ・関連語： {taxfu}, {bandu}
 lunra	gismu   	-lur-		      	x_1 は地球の月；  x_1 は x_2 の主要衛星	「mluni」の狭義。 ・大意： 月 ・読み方： ルゥンラ  ・関連語： {plini}, {solri}, {terdi}, {mluni}
-lunsa	gismu   	-lus-		      	x_1 は x_2 （結果）に、 x_3 （温度）・ x_4 （圧力）によって凝結／凝固／液化する	・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
+lunsa	gismu   	-lus-		      	x_1 は x_2 の表面／中で、 x_3 （温度）・ x_4 （圧力）の条件下で凝結／凝固／液化する	・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
 mabla	gismu   	-mal-		      	x_1 は x_2 （対象）に関する x_3 （者）による中傷／悪口	「zabna」の対義。 x2 は人に限らず物や事も。「クソ英語／malglico」などのように、複合語の修飾要素としてよく用いられる。 ・大意： 中傷 ・読み方： マブルァ  ・関連語： {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}
 mabru	gismu   	-mab-		      	x_1 は x_2 （種類）の哺乳綱動物	・大意： 哺乳類 ・読み方： マブル ・語呂合わせ： マーブル哺乳類 ・関連語： {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}
 macnu	gismu   	-cnu-		      	x_1 （事）は x_2 （機能）に関して手動／マニュアル	・大意： 手動 ・読み方： マシヌ  ・語呂合わせ： マニュアル　手動 ・関連語： {zmiku}, {jitro}
@@ -930,7 +930,7 @@ ranxi	gismu   	-rax-		      	x_1 （事）は x_2 （予想／期待）に x_3 �
 rapli	gismu   	-rap-		      	x_1 （動作）は x_2 （回数）にわたって繰り返す／循環／反復する	・大意： 繰り返す ・読み方： ラプルィ  ・語呂合わせ： repeat,liu(屢) ・関連語： {roi}, {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}
 rarna	gismu   	-rar-		      	x_1 は自然／天然／本能的／自発的	・大意： 自然 ・読み方： ラルナ  ・語呂合わせ： ziran(自然), natural ・関連語： {rutni}, {jinzi}, {nurma}, {stati}
 ratcu	gismu			      	x_1 は x_2 （種類）のクマネズミ属	「smacu／マウス」よりも大きなげっ歯類。 ・大意： 鼠 ・読み方： ラチュ ・語呂合わせ： チュウチュウ ・関連語： {smacu}
-ratni	gismu   	-rat-		      	x_1 は x_2 （原子番号）・ x_3 （原子量）の元素	・大意： 元素 ・読み方： ラトニ  ・語呂合わせ： 元素、ラットに ・関連語： {kantu}; {selci}
+ratni	gismu   	-rat-		      	x_1 は x_2 （元素／原子番号）・ x_3 （原子量）の原子	「lo ratni be li pa bei li re ／ 重水素原子（D）」　・大意： 原子 ・読み方： ラトニ  ・語呂合わせ： 元素、ラットに ・関連語： {kantu}; {selci}
 rebla	gismu   	-reb-		      	x_1 は x_2 （本体）の尾／しっぽ	比喩的に「おまけ」も。 ・大意： 尾 ・読み方： レブルァ  ・関連語： {nalci}, {pimlu}, {se} {lidne}, {trixe}, {birka}, {jimca}
 rectu	gismu   	-rec-   	-re'u-	      	x_1 は x_2 （生体）の肉	・大意： 肉 ・読み方： レシトゥ  ・関連語： {sluji}
 remna	gismu   	-rem-   	-re'a-	      	x_1 は生物学的ヒト／ホモサピエンス	・大意： ヒト ・読み方： レムナ  ・関連語： {nanmu}, {ninmu}, {prenu}
@@ -1203,7 +1203,7 @@ trene	gismu   	-ren-   	-re'e-	      	x_1 は車両 x_2 （群れ）・線路網
 tricu	gismu   	-ric-		      	x_1 は x_2 （種類）の木／樹木／立ち木	生えている木。「lo vi jubme genai tricu gi mudri／ここにある机は、樹木ではないが木材でできている。」 ・大意： 樹木 ・読み方： トリシュ  ・関連語： {cindu}, {ckunu}, {pezli}, {mudri}, {spati}
 trina	gismu   	-tri-		      	x_1 は x_2 を x_3 （性質）で誘惑する；  x_1 は x_2 にとって魅力的	「lo'e te melbi cu trina lo prenu／美というものには人を魅了する力がある」 ・大意： 誘惑 ・読み方： トリナ  ・語呂合わせ： toriko とりこ ・関連語： {djica}, {nelci}, {rigni}, {xlura}, {maksi}
 trixe	gismu   	-rix-   	-ti'e-	      	x_1 は x_2 に対して x_3 （照合枠）における後ろ／後方／後側／裏側／背後／リア	「背中」も。x3は顔の向きなど。 ・大意： 後ろ ・読み方： トリクェ  ・関連語： {crane}, {rebla}, {mlana}, {pritu}, {zunle}
-troci	gismu   	-toc-   	-toi-	      	x_1 は x_2 （事／情態／性質）を x_3 （手段／方法）で達成／獲得しようと努める／努力する；  x_1 は x_2 をやってみる	・大意： 努める ・読み方： トロシ  ・語呂合わせ： 努力がトロし ・関連語： {fliba}, {snada}, {cipra}
+troci	gismu   	-toc-   	-toi-	      	x_1 は x_2 （事／状態／性質）を x_3 （手段／方法）で達成／獲得しようと努める／努力する；  x_1 は x_2 をやってみる	・大意： 努める ・読み方： トロシ  ・語呂合わせ： 努力がトロし ・関連語： {fliba}, {snada}, {cipra}
 tsali	gismu   	-tsa-		      	x_1 は x_2 （性質）に関して x_3 （観点）で強い	・大意： 強い ・読み方： ツァルィ  ・関連語： {ralci}, {ruble}, {carmi}, {vlipa}
 tsani	gismu   	-tan-		      	x_1 は x_2 （所）の空／天空	・大意： 空（そら） ・読み方： ツァニ  ・関連語： {gapru}, {kensa}, {tarci}, {terdi}
 tsapi	gismu			      	x_1 は x_2 （性質）の調味料／香辛料／薬味／味付／スパイス	「カラシ」「ケチャップ」「コショウ」など。 ・大意： 調味料 ・読み方： ツァピ  ・関連語： {vrusi}

@@ -66,7 +66,6 @@ klama	gismu   	-kla-		      	lo ka klama cu ka ce'u goi x_1 zukte lo ka ce'u muv
 klani	gismu   	-lai-		      	x_1 se parbi x_2 noi namcu ku'o lo gradu be x_3	{parbi}, {namcu}, {gradu}
 korcu	gismu   	-kro-		      	x_1 na'e sirji	{sirji}
 krixa	gismu   	-kix-   	-ki'a-	      	x_1 bacru x_2 noi cladu	{cladu}; {bacru}
-kucycuk	cmevla			      	lo terjvi poi lo jivna joi lo seljvi cu slilu fi lo nu ciska lo kuctai fa'u lo cukla lo vei ci pi'i ci ve'o mei kurfa mo'u lo nu ga ci mitsi'u sinxa cu zvati lo linji gi lo kurfa cu culno
 lebna	gismu   	-leb-   	-le'a-	      	x_1 gasnu lo nu x_2 sisti lo nu x_2 zvati x_3 i x_1 gasnu lo nu ge x_1 co'a ponse x_2  gi x_3 co'u ponse x_2	{vimcu}, {cpacu}
 lerfu	gismu   	-ler-   	-le'u-	      	x_1 selci lo'e sinxa gi'e cmima x_2 gi'e sinxa x_3	{sinxa} {selci}; {abu}, {by}, {cy}, {dy}, {ebu}, {fy}, {gy}, {ibu}, {jy}, {ky}, {ly}, {my}, {ny}, {obu}, {py}, {ry}, {sy}, {ty}, {ubu}, {vy}, {xy}, {ybu}, {zy}, {y'y}; {ga'e}, {to'a}, {lo'a}, {ge'o}, {je'o}, {jo'o}, {ru'o}, {se'e}, {na'a}; {tau}, {zai}, {ce'a}, {lau}; {tei}, {foi}
 linji	gismu   	-lij-   	-li'i-	      	x_1 se cimde pa da gi'e se cmima x_2 noi mokca
@@ -106,9 +105,8 @@ sance	gismu   	-sna-		      	x_1 se krasi x_2 gi'e ka'e se tirna	{tirna}; {jvinu
 satre	gismu   	-sa'e-		      	x_1 pencu x_2 boi x_3 lo kuspe noi x_3 muvdu fo ke'a
 senpi	gismu   	-sen-		      	x_1 no'e krici x_2 .i x_1 na'e birti x_2	{krici}; {birti}; {iacu'i}
 setca	gismu   	-se'a-		      	x_1 gasnu lo nu x_2 nenri x_3
-sferies	cmevla			      	gugde lo sfero lo stuna be lo plusmi be lo berti be lo ropno	{sfero}
 sfofa	gismu   	-sfo-		      	x_1 barda nilce fi lo ka zutse ce'u
-sicpi	experimental gismu			      	x_1 litki x_2 gi'e ba'o lunba lo vacri gi'e carvi fi lo varsenta	{bratu}, {snime}, {carvi}
+sicpi	experimental gismu			      	x_1 litki x_2 gi'e ba'o lunsa lo vacri gi'e carvi fi lo varsenta	{bratu}, {snime}, {carvi}
 sirji	gismu   	-sir-		      	x_1 toryrai lo linji be x_2 e x_3 	{linji}
 skapi	gismu   	-kap-		      	x_1 marji lo pilka be x_2 noi danlu	{marji}, {pilka}, {danlu}
 smaji	gismu   	-sma-		      	x_1 seltinynalka'e lo'e zvati be x_2 ma'i x_3 .i x_1 se sance no da	{seltinynalka'e}, {sance}
@@ -132,7 +130,6 @@ traji	gismu   	-rai-		      	x_1 na mleca fi x_2 fe su'o pa cmima be x_3
 tsuku	experimental gismu			      	x_1 tolyli'a x_2 x_3	ko catlu fe ji'a zo {cliva} fa'u zo {klama} fa'u zo {tolyli'a}
 tunba	gismu   	-tub-		      	x_1 dunli x_2 boi x_3 noi ka makau rirni ce'u kei gi'a ka ce'u panzi makau kei gi'a simsa
 tunta	gismu   	-tun-		      	lo jipno be x_1 cu danre x_2
-uuZIT	cmevla			      	zo uuZIT cmene la'o gy.Wuzzy.gy bau la lojban
 vecnu	gismu   	-ven-   	-ve'u-	      	x_1 canja x_2 fo x_3 fi x_4 noi jdini
 vimcu	gismu   	-vic-   	-vi'u-	      	x_1 lebna x_2 boi x_3 ja'e x_4 i x_1 gasnu lo nu x_3 jdika fi x_2 ja'e x_4
 viska	gismu   	-vis-   	-vi'a-	      	x_1 ganse x_2 lo'e kanla be x_1 boi x_3 	{kanla} {ganse}

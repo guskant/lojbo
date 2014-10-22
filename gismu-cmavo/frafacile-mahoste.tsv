@@ -60,65 +60,65 @@ bu'ocu'i	cmavo-compound			      		continue une émotion
 bu'onai	cmavo-compound			      		fini une émotion
 bu'u	cmavo			      		au même endroit que
 by	cmavo			      		lettre « b »
-ca	cmavo			      		pendant	x_2: évènement
+ca	cmavo			      		pendant
 ca'a	cmavo   	-caz-		      		est en cours à l'instant
-caca'a	cmavo-compound			      		est à l'instant	x_3: agent
-caca'o	cmavo-compound			      		est actuellement de façon continue	x_3: agent
+caca'a	cmavo-compound			      		est à l'instant
+caca'o	cmavo-compound			      		est actuellement de façon continue
 ca'e	cmavo			      		je définis
-cai	cmavo			      		émotion intense	x_1: évènement
+cai	cmavo			      		émotion intense
 ca'i	cmavo			      		par autorité de
-cajeba	cmavo-compound			      		pendant et ensuite	x1: évènement
-ca ma	cmavo-compound			      		question ' quand? '
-capu'o	cmavo-compound			      		va bientôt	x_2: mur/construction/structure
-cau	cmavo			      		vide de	x_1: agent
+cajeba	cmavo-compound			      		pendant et ensuite
+ca ma	cmavo-compound			      		question « quand? »
+capu'o	cmavo-compound			      		va bientôt
+cau	cmavo			      		vide de
 ca'u	cmavo			      		en face de
-ce	cmavo   	-cec-		      		avec … dans un ensemble	x_2: direction/propriété
-ce'i	cmavo   	-cez-		      		pourcent	x_2: direction/propriété
-ce'o	cmavo   	-ce'o-		      		avec … dans une séquence	x_2: direction/propriété
+ce	cmavo   	-cec-		      		avec … dans un ensemble
+ce'i	cmavo   	-cez-		      		pourcent
+ce'o	cmavo   	-ce'o-		      		avec … dans une séquence
 ci	cmavo   	-cib-		      		3
-ci'e	cmavo			      		dans le système	x_1: évènement/état. x_2: observateur
-ci'i	cmavo			      		infini (nombre)	x_1: évènement/état. x_2: observateur
-ci'iroi	cmavo-compound			      		temps infini	x_1: évènement/état. x_2: observateur
-ciki'o	cmavo-compound			      		3000	x_2 est une sécrétion de x_1 partie du corps
-cimei	cmavo-compound			      		est un trio	x_1: propriété. x_2: espace/objet. x_3: règles/modèle
-cimoi	cmavo-compound			      		3ème	x_2: propriété/dimension
-cino	cmavo-compound			      		30	x_2: direction/dimension
-cinono	cmavo-compound			      		300	x_2: direction/dimension
-ci'o	cmavo			      		émotionnellement ressenti par	x_1: évènement/état. x_2: observateur
+ci'e	cmavo			      		dans le système
+ci'i	cmavo			      		infini (nombre)
+ci'iroi	cmavo-compound			      		temps infini
+ciki'o	cmavo-compound			      		3000
+cimei	cmavo-compound			      		est un trio
+cimoi	cmavo-compound			      		3ème
+cino	cmavo-compound			      		30
+cinono	cmavo-compound			      		300
+ci'o	cmavo			      		émotionnellement ressenti par
 co	cmavo   	-col-		      		inversion de tanru
 co'a	cmavo   	-co'a-		      		au début de (un événement)
 co'e	cmavo   	-com-   	-co'e-	      		bridi non spécifié
-coi	cmavo			      		salut (bonjour)
+coi	cmavo			      		bonjour
 coico'o	cmavo-compound			      		bonjour en passant
-co'o	cmavo			      		salut (au revoir)
+co'o	cmavo			      		au revoir
 cu	cmavo			      		marqueur de début d'un selbri
-cu'a	cmavo			      		valeur absolue (norme)
-cu'e	cmavo			      		question " modal? "
+cu'a	cmavo			      		valeur absolue	norme
+cu'e	cmavo			      		question « modal? »
 cu'i	cmavo			      		émotion neutre
-cu'u	cmavo			      		comme dit par
-cu'u ko'a	cmavo-compound			      		comme dit par ko'a
-cy	cmavo			      		lettre " c "
+cu'u	cmavo			      		exprimé par
+cu'u ko'a	cmavo-compound			      		exprimé par ko'a
+cy	cmavo			      		lettre « c »
 da	cmavo   	-dav-   	-dza-	      		quelquechose 1
 da'a	cmavo   	-daz-		      		tout sauf
 da'amoi	cmavo-compound			      		avant dernier
 da'aremoi	cmavo-compound			      		antépénultième
-dai	cmavo			      		attitudinal: empathie
+dai	cmavo			      		applique un cnima'o à {do}
 da'i	cmavo			      		je suppose
 da'inai	cmavo-compound			      		en fait
 da'o	cmavo			      		annule les assignations
 dau	cmavo			      		10 (A en hexadécimal)
 de	cmavo			      		quelquechose 2
 de'i	cmavo			      		daté de
-denpa bu	bu-letteral			      		symbole de pause: ' . '
+denpa bu	bu-letteral			      		symbole de pause : « . »
 de'o	cmavo			      		logarithme
-de'u	cmavo			      		pro-sumti : parole récente
+de'u	cmavo			      		parole récente	pro-sumti
 di	cmavo			      		quelquechose 3
 di'i	cmavo			      		régulièrement
 di'inai	cmavo-compound			      		irrégulièrement
 di'o	cmavo			      		à l'endroit de
 do	cmavo   	-don-   	-doi-	      		toi/vous
-do'a	cmavo			      		attitudinal : généreusement
-do'anai	cmavo-compound			      		attitudinal : parcimonieusement
+do'a	cmavo			      		généreusement	attitudinal
+do'anai	cmavo-compound			      		parcimonieusement	attitudinal
 do'e	cmavo			      		sumtcita non spécifié
 doi	cmavo			      		identifie l'auditeur
 doido'u	cmavo-compound			      		eh toi !
@@ -130,7 +130,7 @@ du'emei	cmavo-compound			      		est trop
 du'eroi	cmavo-compound			      		trop souvent
 du'i	cmavo			      		autant que
 du'o	cmavo			      		selon
-du'u	cmavo   	-dum-		      		x_1 est le bridi exprimé par x_2
+du'u	cmavo   	-dum-		      		transforme BRIDI en le selbri : x_1 est BRIDI exprimé par x_2
 dy	cmavo			      		lettre « d »
 e	cmavo			      		x et y (sumti)
 e'a	cmavo			      		permission
@@ -152,7 +152,7 @@ fa'i	cmavo			      		opérateur inverse (pour*)
 fa'o	cmavo			      		fin du texte
 fau	cmavo			      		dans l'événement
 fa'u	cmavo			      		et respectivement
-fau'u	experimental cmavo			   	COI      	Désolé(e)!	cf. {fraxu}, {u'u}.
+fau'u	experimental cmavo			      		Désolé(e)! : vocatif
 fe	cmavo			      		marqueur 2 ème place (sumti)
 fe'a	cmavo			      		racine nième de
 fe'e	cmavo			      		aspects spatiaux
@@ -232,7 +232,7 @@ i'inai	cmavo-compound			      		vie privée
 ija	cmavo-compound			      		x ou y (phrase)
 ijanai	cmavo-compound			      		x ou non y (phrase)
 ije	cmavo-compound			      		x et y (phrase)
-ije'i	cmavo-compound			      		question phrase connecteur ?
+ije'i	cmavo-compound			      		question phrase connecteur « ? »
 ijenai	cmavo-compound			      		x et non y (phrase)
 ijo	cmavo-compound			      		x ssi y (phrase)
 ijonai	cmavo-compound			      		x XOR y (phrase)
@@ -263,7 +263,7 @@ jenai	cmavo-compound			      		x et non y (intérieur d'un tanru)
 je'o	cmavo			      		passe à l'alphabet hébreux
 je'u	cmavo			      		vérité
 je'unai	cmavo-compound			      		non vérité
-ji	cmavo			      		question sumti connecteur ?
+ji	cmavo			      		question sumti connecteur « ? »
 ji'a	cmavo			      		de plus
 ji'e	cmavo			      		jusqu'à la limite
 ji'i	cmavo			      		approximativement
@@ -308,7 +308,7 @@ ke'i	cmavo			      		intervalle ouvert
 ke'o	cmavo			      		répetez svp
 ke'u	cmavo			      		je répète
 ke'unai	cmavo-compound			      		je continue
-ki	cmavo			      		« temps » par défaut
+ki	cmavo			      		null
 ki'a	cmavo			      		confusion sur le texte
 ki'anai	cmavo-compound			      		compréhension textuelle
 ki'e	cmavo			      		merci
@@ -323,7 +323,7 @@ ko'e	cmavo			      		ça 2
 koi	cmavo			      		borné par
 ko'i	cmavo			      		ça 3
 ko'o	cmavo			      		ça 4
-ko'oi	experimental cmavo			   	UI6      	impératif d'attitude	``{ko}'' est une abréviation de ''{do} {ko'oi}''; sens large que les mots {au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei}; {minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}
+ko'oi	experimental cmavo			      		impératif d'attitude
 ko'u	cmavo			      		ça 5
 ku	cmavo			      		termine un sumti
 ku'a	cmavo   	-kuz-		      		intersection
@@ -344,19 +344,19 @@ la'u	cmavo			      		quantifiant
 la'u ma	cmavo-compound			      		en quelle quantité ?
 le	cmavo			      		artcile décrivant
 le'a	cmavo			      		dans la catégorie
-ledo	cmavo-compound			      		le tien / votre décrit
+ledo	cmavo-compound			      		le tien/votre décrit
 le'e	cmavo   	-lem-		      		le stéréotypique
 le go'i	cmavo-compound			      		x_1 du dernier bridi
-lei	cmavo			      		article décrivant une masse
+lei	cmavo			      		artcile décrivant une masse
 le'i	cmavo			      		l'ensemble décrit
 le jaica	cmavo-compound			      		le temps de
 le jaigau	cmavo-compound			      		l'agent dans
 le jaivi	cmavo-compound			      		le lieu de
 leko'a	cmavo-compound			      		le sien (de ça 1) décrit
 lemi	cmavo-compound			      		le mien décrit
-le'o	cmavo			      		attitudinal: agressive
-le'ocu'i	cmavo-compound			      		attitudinal: passif
-le'onai	cmavo-compound			      		attitudinal: defensive
+le'o	cmavo			      		attitudinal : agressive
+le'ocu'i	cmavo-compound			      		attitudinal : passif
+le'onai	cmavo-compound			      		attitudinal : defensive
 le sego'i	cmavo-compound			      		x_2 du dernier bridi
 le tego'i	cmavo-compound			      		x_3 du dernier bridi
 le'u	cmavo			      		fini une citation grammaticalement incorrecte
@@ -377,7 +377,6 @@ lo'a	cmavo			      		passe à l'alphabet lojban (romain)
 lo'e	cmavo   	-lom-		      		le typique
 loi	cmavo			      		la masse qui est vraiment
 lo'i	cmavo			      		l'ensemble qui est vraiment
-lojban	cmevla			      		Lojban cmene
 lo'u	cmavo			      		commence une citation grammaticalement incorrecte
 lu	cmavo			      		marqueur de début d'une citation grammaticalement correcte
 lu'a	cmavo			      		les individus de
@@ -393,11 +392,11 @@ ma'i	cmavo			      		dans le référentiel
 ma'u	cmavo			      		nombre positif
 me	cmavo			      		transforme un sumti en selbri
 me'e	cmavo			      		avec le nom
-me'e ma	cmavo-compound			      		question: ' nom ? '
+me'e ma	cmavo-compound			      		question : « nom ? »
 mei	cmavo   	-mem-   	-mei-	      		converti un nombre en selbri cardinal
 me'i	cmavo			      		moins que
 me'o	cmavo			      		converti une expression mathématique en sumti
-mi	cmavo   	-mib-		      		moi / nous
+mi	cmavo   	-mib-		      		moi/nous
 mi'a	cmavo			      		nous mais pas toi
 mi'e	cmavo			      		introduction de « moi »
 mi'enai	cmavo-compound			      		je ne suis pas
@@ -434,7 +433,7 @@ mu'a	cmavo			      		par exemple
 mu'acu'i	cmavo-compound			      		omettant l'exemple
 mu'anai	cmavo-compound			      		finissant les exemples
 mu'i	cmavo			      		à cause de la motivation
-mu'i ma	cmavo-compound			      		question: ' motivation ? '
+mu'i ma	cmavo-compound			      		question : « motivation ? »
 mu'inai	cmavo-compound			      		malgré la motivation
 muki'o	cmavo-compound			      		5000
 mumei	cmavo-compound			      		est un quintette
@@ -466,7 +465,7 @@ ne'u	cmavo			      		au sud de
 ni	cmavo   	-nil-		      		abstracteur de quantité
 ni'a	cmavo			      		en dessous de
 ni'i	cmavo			      		à cause de la logique
-ni'i ma	cmavo-compound			      		question: ' logique ? '
+ni'i ma	cmavo-compound			      		question : « logique ? »
 ni'inai	cmavo-compound			      		malgré la logique
 ni'o	cmavo			      		marqueur de nouveau sujet
 ni'u	cmavo			      		signe moins des nombre négatifs
@@ -528,14 +527,14 @@ pare	cmavo-compound			      		12
 paremei	cmavo-compound			      		est une douzaine
 paso	cmavo-compound			      		19
 pau	cmavo			      		marque le début d'une question
-pa'u	cmavo			      		ayant la / les parties
+pa'u	cmavo			      		ayant la/les parties
 paunai	cmavo-compound			      		question rhétorique
 pavo	cmavo-compound			      		14
 paxa	cmavo-compound			      		16
 paze	cmavo-compound			      		17
 pe	cmavo			      		est associé à
 pe'a	cmavo   	-pev-		      		au sens figuré
-pei	cmavo			      		question: « émotion ? »
+pei	cmavo			      		question : « émotion ? »
 pe'i	cmavo			      		j'émets l'avis
 pe'u	cmavo			      		svp
 pi	cmavo   	-piz-		      		virgule décimale
@@ -592,7 +591,7 @@ raumei	cmavo-compound			      		est assez
 raumoi	cmavo-compound			      		est le assez-ième parmi
 re	cmavo   	-rel-		      		2
 re'a	cmavo			      		transposition mathématique
-re'e	cmavo			      		spirituel (sacré ?)
+re'e	cmavo			      		spirituel/religieux
 re'enai	cmavo-compound			      		sacrilège
 rei	cmavo			      		14 (E en hexadécimal)
 re'i	cmavo			      		prêt à recevoir
@@ -608,14 +607,14 @@ re'o	cmavo			      		adjacent à
 reroi	cmavo-compound			      		2 fois autant
 ri	cmavo			      		le dernier sumti
 ri'a	cmavo			      		à cause de
-ri'a ma	cmavo-compound			      		question: ' cause ? '
+ri'a ma	cmavo-compound			      		question : « cause ? »
 ri'anai	cmavo-compound			      		malgré la cause
 ri'e	cmavo			      		relachement émotionnel
 ri'enai	cmavo-compound			      		contriction émotionnelle
 ri'i	cmavo			      		expérimenté par
 ri'o	cmavo			      		intégrale (opérateur mathématique)
 ri'u	cmavo			      		à la droite de
-ro	cmavo   	-rol-		      		tout / chaque
+ro	cmavo   	-rol-		      		tout/chaque
 ro'a	cmavo			      		social
 ro'anai	cmavo-compound			      		antisocial
 roda	cmavo-compound			      		chaque chose
@@ -633,7 +632,7 @@ ro'u	cmavo			      		sexuel
 ro'unai	cmavo-compound			      		abstinence sexuelle
 ru	cmavo			      		un sumti précédent (lointain)
 ru'a	cmavo			      		je postule
-ru'e	cmavo			      		Modificateur d'attitudinal, indique que l'intensité est faible.
+ru'e	cmavo			      		Modificateur d'attitudinal, indique que l'intensité est faible
 ru'i	cmavo			      		continuellement
 ru'inai	cmavo-compound			      		occasionnellement
 ru'o	cmavo			      		passe à l'alphabet cyrillique
@@ -642,7 +641,7 @@ ry	cmavo			      		lettre « r »
 sa'a	cmavo			      		note de l'éditeur
 sa'e	cmavo			      		précisément
 sa'enai	cmavo-compound			      		en gros
-sai	cmavo			      		Modificateur d'attitudinal, indique que l'intensité est forte.
+sai	cmavo			      		Modificateur d'attitudinal, indique que l'intensité est forte
 sa'i	cmavo			      		matrice de colonne
 sa'o	cmavo			      		dérivation
 sau	cmavo			      		requérant
@@ -716,7 +715,7 @@ seti'i	cmavo-compound			      		suggérant
 seti'u	cmavo-compound			      		en même temps que
 setu'i	cmavo-compound			      		comme lieu de
 se'u	cmavo			      		fini un passage métalinguistique
-seva'o	cmavo-compound			      		comme conditions / environnement de
+seva'o	cmavo-compound			      		comme conditions/environnement de
 seva'u	cmavo-compound			      		avec bénéficiaire
 sezau	cmavo-compound			      		approuvant
 sezu'e	cmavo-compound			      		employant les moyens
@@ -726,9 +725,9 @@ si'e	cmavo			      		proportion
 si'i	cmavo			      		sommation (sigma)
 si'o	cmavo   	-siz-		      		abstracteur de concept
 si'u	cmavo			      		aidé par
-slaka bu	bu-letteral			      		Lettre ' , '
+slaka bu	bu-letteral			      		Lettre « , »
 so	cmavo   	-soz-		      		9
-so'a	cmavo   	-soj-		      		presque tous / tout
+so'a	cmavo   	-soj-		      		presque tous/tout
 so'e	cmavo   	-sop-		      		la plupart
 so'eroi	cmavo-compound			      		habituellement
 soi	cmavo			      		réciproquement (sumti)
@@ -759,7 +758,7 @@ ta'a	cmavo			      		coupe la parole
 ta'e	cmavo			      		habituellement
 ta'enai	cmavo-compound			      		inhabituellement
 ta'i	cmavo			      		par la méthode
-ta'i ma	cmavo-compound			      		question ' méthode ? '
+ta'i ma	cmavo-compound			      		question « méthode ? »
 ta'o	cmavo			      		digression
 ta'onai	cmavo-compound			      		fin de la digression
 tau	cmavo			      		change la casse pour la prochaine lettre
@@ -832,7 +831,7 @@ ty	cmavo			      		lettre « t »
 u	cmavo			      		x quelque soit y (sumti)
 ua	cmavo			      		eureka
 u'a	cmavo			      		gain
-uanai	cmavo-compound			      		attitudinal : confusion
+uanai	cmavo-compound			      		confusion
 u'anai	cmavo-compound			      		perte
 ubu	bu-letteral			      		lettre « u »
 ue	cmavo			      		surprise
@@ -843,7 +842,7 @@ u'enai	cmavo-compound			      		banalité
 uepei	cmavo-compound			      		surprise ?
 ui	cmavo			      		joie
 u'i	cmavo			      		amusement
-uibu	bu-letteral			      		Lettre « :) »
+uibu	bu-letteral			      		Symbole de bonheur
 uinai	cmavo-compound			      		tristesse
 uo	cmavo			      		complétude
 u'o	cmavo			      		courage
@@ -858,8 +857,8 @@ u'unai	cmavo-compound			      		innocence
 va	cmavo   	-vaz-		      		près de (espace)
 va'a	cmavo			      		transforme en l'opposé (pour l'addition)
 vai	cmavo			      		15 (F en hexadécimal)
-va'i	cmavo			      		attitudinal: en d'autres mots
-va'inai	cmavo-compound			      		attitudinal: dans les mêmes termes
+va'i	cmavo			      		attitudinal : en d'autres mots
+va'inai	cmavo-compound			      		attitudinal : dans les mêmes termes
 va'o	cmavo			      		dans l'environnement
 vau	cmavo			      		fini un bridi simple
 va'u	cmavo			      		bénéficiant de
@@ -889,7 +888,7 @@ vi	cmavo   	-viz-		      		ici
 vi'a	cmavo			      		intervalle spatial bidimensionnel
 vi'e	cmavo			      		intervalle spatial quadridimensionnel
 vi'i	cmavo			      		intervalle spatial unidimensionnel
-vi ma	cmavo-compound			      		question ' où ' ?
+vi ma	cmavo-compound			      		question où ?
 vi'u	cmavo			      		intervalle spatial tridimensionnel
 vo	cmavo   	-von-		      		4
 vo'a	cmavo			      		répète le 1er sumti du bridi principale de cette phrase
@@ -903,8 +902,8 @@ vo'o	cmavo			      		répète le 4ème sumti du bridi principale de cette phrase
 vo'u	cmavo			      		répète le 5ème sumti du bridi principale de cette phrase
 vu	cmavo   	-vuz-		      		loin de
 vu'a	cmavo			      		à l'ouest de
-vu'e	cmavo			      		attitudinal: vertu
-vu'enai	cmavo-compound			      		attitudinal: péché
+vu'e	cmavo			      		attitudinal : vertu
+vu'enai	cmavo-compound			      		attitudinal : péché
 vu'i	cmavo			      		la suite composée de
 vu'u	cmavo			      		moins (maths)
 vy	cmavo			      		lettre « v »
@@ -951,7 +950,7 @@ zo'a	cmavo   	-zon-   	-zo'a-	      		tangent à
 zo'e	cmavo			      		sumti non spécifié
 zoi	cmavo			      		citation non lojban
 zo'o	cmavo			      		pour rire
-zo'obu	bu-letteral			      		:-)
+zo'obu	bu-letteral			      		Symbole d'humour
 zo'onai	cmavo-compound			      		sérieusement
 zo'u	cmavo			      		marque la fin du quantificateur logique ou de l'identification du sujet et le début du bridi
 zu	cmavo			      		loin dans le temps
