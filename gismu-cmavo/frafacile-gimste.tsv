@@ -73,6 +73,11 @@ bridi	gismu   	-bri-		      	x_1 est un prédicat exprimant la relation x_2 entr
 brife	gismu   	-bif-   	-bi'e-	      	x_1 est du vent venant de la direction x_2, de vitesse x_3 ; x_1 souffle venant de x_2
 briju	gismu   	-bij-		      	x_1 est le lieu de travail de x_2 à l'endroit x_3	x_2 : personne
 brito	gismu   	-rit-		      	x_1 est britannique dans l'aspect x_2
+broda	gismu   	-rod-		      	x_1 est/fait broda (1er prédicat variable assignable)	le contexte détermine la signification et la structure des places
+brode	gismu   	-bo'e-		      	x_1 est/fait brode (2ème prédicat variable assignable)	le contexte détermine la signification et la structure des places
+brodi	gismu			      	x_1 est/fait brodi (3ème prédicat variable assignable)	le contexte détermine la signification et la structure des places
+brodo	gismu			      	x_1 es/fait brodo (4ème prédicat variable assignable)	le contexte détermine la signification et la structure des places
+brodu	gismu			      	x_1 est/fait brodu (5ème prédicat variable assignable)	le contexte détermine la signification et la structure des places
 bruna	gismu   	-bun-   	-bu'a-	      	x_1 est le frère de x_2 par le lien x_3 non nécessairement biologique
 budjo	gismu   	-buj-   	-bu'o-	      	x_1 est bouddhiste dans l'aspect x_2
 bukpu	gismu   	-buk-   	-bu'u-	      	x_1 est du tissu de type x_2
@@ -427,7 +432,7 @@ gusni	gismu   	-gus-   	-gu'i-	      	x_1 est une lumière éclairant x_2 à par
 gusta	gismu			      	x_1 est un restaurant servant la nourriture x_2 au public x_3
 gutci	gismu   	-guc-		      	x_1 est x_2 petite unité locale de distance, selon le standard x_3, ayant pour sous-unités x_4 non métrique	x_2 : 1 par défaut
 gutra	gismu			      	x_1 est l'utérus de x_2	métaphore : nourrissant, protecteur, donnant naissance
-guzme	gismu   	-guz-   	-zme-	      	x_1 est une courge de type x_2 fruit/plant
+guzme	gismu   	-guz-   	-zme-	      	x_1 est un(e) melon/pastèque/courge de variété x_2
 jabre	gismu			      	x_1 freine jusqu'à un mouvement lent x_2 grâce à x_3	x_3 : appareil/mécanisme/principe
 jadni	gismu   	-jad-   	-ja'i-	      	x_1 orne x_2 ; x_1 est un ornement de x_2	x_1 : objet
 jakne	gismu			      	x_1 est une fusée propulsé par x_2 transportant la charge x_3 véhicule
@@ -545,7 +550,7 @@ kalsa	gismu   	-kas-		      	x_1 est chaotique selon x_2	x_2 : propriété/aspec
 kalte	gismu   	-kat-		      	x_1 chasse x_2 pour la raison x_3	x_2 : proie/gibier
 kamju	gismu			      	x_1 est un pilier de matériau x_2
 kamni	gismu			      	x_1 est un comité ayant pour tâche x_2, du corps x_3	x_1 : masse
-kampu	gismu   	-kau-		      	la propriété x_1 est générale parmi les membres de l'ensemble x_2
+kampu	gismu   	-kau-		      	la propriété x_1 est commune à tous les membres de l'ensemble x_2
 kanba	gismu			      	x_1 est un caprin de type x_2
 kancu	gismu   	-kac-		      	x_1 compte le nombre dans l'ensemble x_2 étant x_3 selon l'unité x_4	x_1 : agent. x_3 : nombre/compte
 kandi	gismu   	-kad-		      	x_1 est terne selon la propriété x_2 perçu par l'observateur x_3

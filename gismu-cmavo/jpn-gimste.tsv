@@ -686,7 +686,7 @@ lujvo	gismu   	-luv-   	-jvo-	      	x_1 （文字列）は x_2 （意味）・ 
 lumci	gismu   	-lum-   	-lu'i-	      	x_1 は x_2 の汚れ x_3 を洗浄剤／用具 x_4 で洗う	・大意： 洗う ・読み方： ルゥムシ  ・語呂合わせ： 洗い汚れる無視 ・関連語： {djacu}, {jinru}, {litki}, {zbabu}, {jinsa}, {curve}
 lunbe	gismu   	-lub-		      	x_1 は裸／服無し	・大意： 裸 ・読み方： ルゥンベ  ・関連語： {taxfu}, {bandu}
 lunra	gismu   	-lur-		      	x_1 は地球の月；  x_1 は x_2 の主要衛星	「mluni」の狭義。 ・大意： 月 ・読み方： ルゥンラ  ・関連語： {plini}, {solri}, {terdi}, {mluni}
-lunsa	gismu   	-lus-		      	x_1 は x_2 の表面／中で、 x_3 （温度）・ x_4 （圧力）の条件下で凝結／凝固／液化する	・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
+lunsa	gismu   	-lus-		      	x_1 は x_2 の表面／中で、 x_3 （温度）・ x_4 （圧力）の条件下で凝結／液化する	・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
 mabla	gismu   	-mal-		      	x_1 は x_2 （対象）に関する x_3 （者）による中傷／悪口	「zabna」の対義。 x2 は人に限らず物や事も。「クソ英語／malglico」などのように、複合語の修飾要素としてよく用いられる。 ・大意： 中傷 ・読み方： マブルァ  ・関連語： {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}
 mabru	gismu   	-mab-		      	x_1 は x_2 （種類）の哺乳綱動物	・大意： 哺乳類 ・読み方： マブル ・語呂合わせ： マーブル哺乳類 ・関連語： {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}
 macnu	gismu   	-cnu-		      	x_1 （事）は x_2 （機能）に関して手動／マニュアル	・大意： 手動 ・読み方： マシヌ  ・語呂合わせ： マニュアル　手動 ・関連語： {zmiku}, {jitro}
@@ -749,7 +749,7 @@ mitre	gismu   	-tre-		      	x_1 は x_2 （数量）・ x_3 （方向）・ x_4
 mixre	gismu   	-mix-   	-xre-	      	x_1 は x_2 （成分）を混ぜ合わせたもの／調合したもの	・大意： 混合 ・読み方： ミクゥレ  ・語呂合わせ： mix ・関連語： {salta}, {te} {runta}, {stasu}, {jicla}, {sanso}
 mlana	gismu   	-mla-		      	x_1 は x_2 の脇／側（がわ）（にある／いる）	・大意： 側（がわ） ・読み方： ムルァナ  ・語呂合わせ： 村な側 ・関連語： {crane}, {trixe}, {pritu}, {zunle}, {mlana}, {korbi}
 mlatu	gismu   	-lat-		      	x_1 は x_2 （種類）のネコ科動物（チーター／イエネコ／ヤマネコ／ヒョウ／ピューマ等）	・大意： 猫 ・読み方： ムルァトゥ  ・語呂合わせ： 村とぅ猫 ・関連語： {cinfo}, {tirxu}, {gerku}
-mleca	gismu   	-mec-   	-me'a-	      	x_1 は x_2 よりも、 x_3 （性質）に関して x_4 （数量）ほど少ない	比較が含意される。 ・大意： 少ない ・読み方： ムルェシャ  ・語呂合わせ： 少ない群れ者 ・関連語： {me'a}, {su'o}, {jdika}, {zmadu}, {traji}
+mleca	gismu   	-mec-   	-me'a-	      	x_1 は x_2 よりも、 x_3 （性質）に関して x_4 （数量）ほど劣る／少ない	比較が含意される。 ・大意： 少ない ・読み方： ムルェシャ  ・語呂合わせ： 少ない群れ者 ・関連語： {me'a}, {su'o}, {jdika}, {zmadu}, {traji}
 mledi	gismu   	-led-		      	x_1 は x_2 （種類）の、 x_3 （寄生先）で育つ菌類	「カビ」「キノコ」など。 ・大意： 菌類 ・読み方： ムルェディ  ・語呂合わせ： 群れでぃ育つ菌類 ・関連語： {clika}, {parji}
 mluni	gismu   	-lun-		      	x_1 は x_2 を周回する、 x_3 （衛星特性）・ x_4 （軌道特性）の衛星	「月」や「人工衛星」などの上位概念。 ・大意： 衛星 ・読み方： ムルゥニ  ・関連語： {plini}, {solri}, {lunra} (下位概念)
 mokca	gismu   	-moc-		      	x_1 は x_2 （時間／空間）における点；  x_1 は0次元	「時点」など。 ・大意： 点 ・読み方： モクシャ  ・語呂合わせ： 点を黙写せよ ・関連語： {jipno}, {jganu}, {linji}, {stuzi}, {tcika}
@@ -966,7 +966,7 @@ runta	gismu			      	x_1 は x_2 （溶媒）の中で分解／分散し、 x_3 
 rupnu	gismu   	-rup-   	-ru'u-	      	x_1 は x_2 （数量）の、 x_3 （通貨体系）の上位単位／円／ドル／ユーロ	x1は商品の値段や財布の中身など。 ・大意： 円（えん） ・読み方： ルプヌ  ・関連語： {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}
 rusko	gismu   	-ruk-   	-ru'o-	      	x_1 は x_2 （性質面）に関してロシア系（言語／文化／民族）	・大意： ロシア ・読み方： ルスコ  ・関連語： {softo}, {slovo}
 rutni	gismu   	-run-		      	x_1 は人工物；  x_1 は人為的	・大意： 人工 ・読み方： ルトニ  ・語呂合わせ： 人工ルートに ・関連語： {rarna}, {se} {zbasu}, {gundi}, {slasi}
-sabji	gismu   	-sab-		      	x_1 は x_2 （物）を x_3 （者）に供給／提供する	・大意： 供給 ・読み方： サブジ  ・語呂合わせ： 供給サブジェクト, supply, ji（給） ・関連語： {krasi}, {sorcu}
+sabji	gismu   	-sab-		      	x_1 は x_2 （物）を x_3 （者）に供給／提供する供給源	・大意： 供給 ・読み方： サブジ  ・語呂合わせ： 供給サブジェクト, supply, ji（給） ・関連語： {krasi}, {sorcu}
 sabnu	gismu			      	x_1 は x_2 （乗物）の車両	・大意： 車両 ・読み方： サブヌ  ・語呂合わせ： サブぬ車両 ・関連語： {bloti}, {marce}, {vinji}, {karce}
 sacki	gismu			      	x_1 は x_2 （素材／仕組）による発火装置	マッチ、ライターなど。 ・大意： 発火装置 ・読み方： サシキ  ・語呂合わせ： 発火装置は挿木 ・関連語： {fagri}, {jelca}
 saclu	gismu			      	x_1 （数）は x_2 （分数）・ x_3 （底）の小数	・大意： 小数 ・読み方： サシルゥ  ・語呂合わせ： decimal, ciaucu（小数） ・関連語： {namcu}, {frinu}
@@ -1343,7 +1343,7 @@ zifre	gismu   	-zif-   	-zi'e-	      	x_1 は自由である、 x_2 （事／状
 zinki	gismu   	-zin-   	-zi'i-	      	x_1 は亜鉛（Zn）	・大意： 亜鉛 ・読み方： ズィンキ  ・語呂合わせ： ＜ズィンクは貴重＞ ・関連語： {jinme}
 zirpu	gismu   	-zir-   	-zi'u-	      	x_1 は紫色／パープル	・大意： 紫色 ・読み方： ズィルプ  ・関連語： {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}
 zivle	gismu   	-ziv-   	-vle-	      	x_1 （者）は x_2 （資源）を x_3 （宛先）に、 x_4 （収益）を期待して投資する	・大意： 投資 ・読み方： ズィヴルェ ・関連語： {prali}, {canja}, {jbera}, {dejni}, {ponse}
-zmadu	gismu   	-zma-   	-mau-	      	x_1 は x_2 よりも、 x_3 （性質／数量）の点で、 x_4 （度合）ほど卓越している／ x_3 が x_1 には x_2 よりももっとある	・大意： 卓越 ・読み方： ズマドゥ  ・関連語： {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}
+zmadu	gismu   	-zma-   	-mau-	      	x_1 は x_2 よりも、 x_3 （性質／数量）の点で、 x_4 （度合）ほど優る／ x_3 が x_1 には x_2 よりももっとある	・大意： 卓越 ・読み方： ズマドゥ  ・関連語： {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}
 zmiku	gismu   	-zmi-		      	x_1 は x_2 （機能）に関して x_3 （条件）で自動	・大意： 自動 ・読み方： ズミク  ・語呂合わせ： ＜ずっとミックス＞自動で黒ずみくすむ ・関連語： {macnu}
 zukte	gismu   	-zuk-   	-zu'e-	      	x_1 は x_2 （行動内容）を x_3 （目的／目標）のために行為／実行する	・大意： 行為 ・読み方： ズクテ  ・語呂合わせ： ＜ズックの手入れ＞,力づくって悪い行為 ・関連語： {zu'e}, {bapli}, {gunka}, {jalge}, {krinu}, {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu}, {minji}, {prenu}, {ciksi}, {jibri}, {pilno}, {pluta}, {tadji}, {tutci}
 zumri	gismu   	-zmu-		      	x_1 は x_2 （品種）のトウモロコシ粒	・大意： トウモロコシ ・読み方： ズムリ  ・語呂合わせ： ＜ずんずんレフトに＞ ・関連語： {gurni}

@@ -105,6 +105,7 @@ da'u	cmavo			   	KOhA2      	以前言ったこと ： 代詞（sumti）；	「�
 de	cmavo			   	KOhA1      	量化型 sumti 変数２ ： 代詞（selbri）； 量化可能な sumti 変数の２つ目	・読み方： デ
 de'a	cmavo			   	ZAhO      	休止 ： 相制詞；	・読み方： デハ
 de'e	cmavo			   	KOhA2      	まもなく言うこと ： 代詞（sumti）；	・読み方： デヘ
+de'ei	experimental cmavo			   	ROI      	左の数量詞について基準日（デフォルトは発話時点の日、「今日」）から何番目の日かを表す。	「{ni'u} de'ei／昨日」「{no} de'ei／今日」「{pa} de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。　・関連語：{zu'oi}, {djedi}
 dei	cmavo			   	KOhA2      	ただいま言っていること ： 代詞（sumti）；	・読み方： デイ
 de'i	cmavo			   	BAI      	～日に ： detri 法制詞, x_1	・読み方： デヒ
 de'o	cmavo			   	VUhU3      	対数 ： 数理演算子（2変数）；log a 底 b (デフォルトで 10 あるいは e)	・読み方： デホ
@@ -282,6 +283,8 @@ je'unai	cmavo-compound			   	UI*3      	虚偽 （ je'u 真実 - je'unai 虚偽�
 ji	cmavo			   	A      	sumti 接続詞質問 ： 接続詞（論理）； 前部と後部の論理関係を問う	・読み方： ジ
 ji'a	cmavo			   	UI3b      	追加	心態詞（談話系）「～も」「～だって」「lo smani ji'a sai cu farlu fi lo tricu／猿も木から落ちる」 ・読み方： ジハ  ・関連語： {jmina}
 ji'e	cmavo			   	BAI      	～まで（限界） ： 法制詞； jimte の x_1	・読み方： ジヘ
+ji'ei	experimental cmavo			   	UI5      	有生（ji'ei 有生 - ji'einai 無生）	心態詞；それが生を有しているように感じていることを表す。 照応や指示表現において、特にそれが生き物である（彼／彼女）ことを明示したいときに使う。 「raji'ei／彼・彼女」 ・関連：{ji'einai}, {jmive}
+ji'einai	cmavo-compound			   	UI*5      	無生（ji'ei 有生 - ji'einai 無生）	心態詞；それが生を有していないように感じていることを表す。 照応や指示表現において、特にそれが無機物（それ／it）であることを明示したいときに使う。 「raji'einai／それ」　・関連：{ji'ei}, {jmive}, {nai}
 ji'i	cmavo			   	PA4      	およそ／約 ： 数量詞	・読み方： ジヒ
 ji'ima'u	cmavo-compound			   	PA*      	切り上げ ： 数量詞； プラス方向の約	・読み方： ジヒマウ
 ji'ini'u	cmavo-compound			   	PA*      	切り下げ ： 数量詞； マイナス方向の約	・読み方： ジヒニフ
@@ -413,6 +416,7 @@ mo'a	cmavo   	-mob-		   	PA4      	少なすぎる～ ： 数量詞；	・大意
 mo'e	cmavo			   	MOhE      	sumti → オペランド変換 ： sumti をMEX（数式）のオペランドにする	・読み方： モヘ
 moi	cmavo   	-mom-   	-moi-	   	MOI      	序列 selbri ： 数量詞の右に付いて、「x_1 は x_2 （集合）・ x_3 （原理）の［数量詞］番目の要素」というPSを与える	「ti ci moi mlatu lo'i se kurji be mi／これは私が世話をしてきた猫のうちの３匹目です」 ・大意： 序数 selbri ・読み方： モイ
 mo'i	cmavo   	-mov-		   	MOhI      	時空間遷移 ： selbri や間詞の左に付いて時空間における動きを表す	「mo'i ti'a plipe／後ろへ跳ぶ」、次との違いに注目「ti'a plipe／後ろで跳ぶ」 ・大意： テンス： 遷移 ・読み方： モヒ
+moi'o	experimental cmavo			   	MOI      	x_1 は x_2 （単位）・x_3 （基準）（デフォルトは「今現在」）で x_4 （観点／暦／慣習）における PA 番目の日付／時刻	x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo {masti})は 11月、0番目の夜（lo {nicte}）は 11月14日の夜である。付番は未来を正の方向とする；「lo no moi'o be lo djedi ／ 今日」「lo pa moi'o be lo nanca／来年」「lo ni'u moi'o be lo masti／先月」；「.e'o ko klama lo zdani be mi ca lo no moi'o be lo nicte／今夜、私の家に来てください。」
 mo'o	cmavo			   	MAI      	篇章序列 ： 数量詞の右に付いて、文章の篇や節を表す	「pa mo'o／第一章」 ・読み方： モホ
 mo'u	cmavo			   	ZAhO      	終了 ： 相制詞；	・読み方： モフ
 mu	cmavo   	-mum-		   	PA1      	5 ： 数量詞；	・大意： 5 ・読み方： ム
