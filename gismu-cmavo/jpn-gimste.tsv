@@ -275,7 +275,7 @@ decti	gismu   	-dec-		      	x_1 は x_2 の、 x_3 （性質）におけるデ�
 degji	gismu   	-deg-		      	x_1 は x_2 （本体）・ x_3 （箇所／肢）の指	比喩的に「半島」も。 ・大意： 指 ・読み方： デグジ  ・関連語： {nazbi}, {tamji}, {tance}, {xance}
 dejni	gismu   	-dej-		      	x_1 （者）は x_2 （物／事）を、 x_3 （者）に x_4 （事）をしてもらった借りとして負っている；  x_1 は x_3 に恩義がある	x2 は「借金」なども。 ・大意： 恩義 ・読み方： デジニ  ・語呂合わせ： 恩義は地デジに ・関連語： {jbera}, {janta}, {zivle}
 dekpu	gismu			      	x_1 は x_2 （数）・ x_3 （基準）・ x_4 （下位単位）のガロン度	液量単位 ・大意： ガロン ・読み方： デクプ  ・関連語： {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}
-dekto	gismu   	-dek-		      	x_1 は x_2 ・ x_3 （性質）の［10; 1*10**1］	・大意： デカ／十 ・読み方： デクト  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+dekto	gismu   	-dek-		      	x_1 は x_2 の、 x_3 （性質）におけるデカ／十 ［1 x1 0**1］	・大意： デカ／十 ・読み方： デクト  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 delno	gismu   	-del-   	-de'o-	      	x_1 は x_2 （数）・ x_3 （基準）のカンデラ／光度	・大意： カンデラ ・読み方： デルゥノ  ・関連語： {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 dembi	gismu   	-deb-		      	x_1 は x_2 （種類）のマメ科植物（ラッカセイ／ハギ／ゲンゲ／インゲンマメ／アズキ／エンドウ／アカシア／オジギソウ等）	通常は果実／種子を指す。 ・大意： 豆 ・読み方： デムビ  ・関連語： {grute}, {sobde}, {tsiju}
 denci	gismu   	-den-   	-de'i-	      	x_1 は x_2 （本体）の歯	・大意： 歯 ・読み方： デンシ  ・語呂合わせ： デンタル歯（し） ・関連語： {moklu}, {dakfu}, {pagre}, {jgalu}, {batci}, {bongu}
@@ -329,7 +329,7 @@ famti	gismu			      	x_1 （者）は x_2 （者）・ x_3 （血縁関係）の
 fancu	gismu			      	x_1 は x_2 （変域／定義域）・ x_3 （値域）・ x_4 （式／表現）の関数	・大意： 関数 ・読み方： ファンシュ  ・語呂合わせ： ＜ファン集合＞, function ・関連語： {mekso}, {bridi}
 fange	gismu			      	x_1 は x_2 にたいして x_3 （性質）の点で異質／外来／別世界的／風変わり	・大意： 異質 ・読み方： ファンゲ  ・語呂合わせ： ＜ファンの元気＞ ・関連語： {cizra}, {jbena}, {ckini}
 fanmo	gismu   	-fam-   	-fa'o-	      	x_1 は x_2 （物／過程）の終わり	終了状態全般。達成／完了しているとはかぎらない。 ・大意： 終わり ・読み方： ファンモ  ・語呂合わせ： ＜ファン燃え尽きて＞ ・関連語： {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}
-fanri	gismu			      	x_1 は x_2 を x_3 （材料）から製造する	・大意： 工場 ・読み方： ファンリ  ・語呂合わせ： ＜ファンをリクルート＞factory ・関連語： {molki} (下位概念), {gundi}
+fanri	gismu			      	x_1 は x_2 を x_3 （材料）から製造する工場／鋳造工場／工業プラント／製作所	・大意： 工場 ・読み方： ファンリ  ・語呂合わせ： ＜ファンをリクルート＞factory ・関連語： {molki} (下位概念), {gundi}
 fanta	gismu			      	x_1 は x_2 （事）の発生を防ぐ／抑える	・大意： 防ぐ ・読み方： ファンタ  ・語呂合わせ： ＜ファンたくさん＞ ・関連語： {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}
 fanva	gismu			      	x_1 は x_2 （文字列）を x_3 （言語）に x_4 （言語）から翻訳し、 x_5 （文字列）を生む	・大意： 翻訳 ・読み方： ファンヴァ  ・語呂合わせ： ＜ファン、バラエティ＞ ・関連語： {cusku}, {bangu}
 fanza	gismu   	-faz-		      	x_1 （事）は x_2 の気に障る／をいらいらさせる；  x_2 は x_1 でを苛つく；  x_1 は邪魔	・大意： 気に障る ・読み方： ファンザ  ・語呂合わせ： ＜ファンをざっくり＞ ・関連語： {fengu}, {raktu}, {dicra}, {tunta}, {zunti}, {jicla}
@@ -576,6 +576,7 @@ kavbu	gismu   	-kav-		      	x_1 は x_2 を x_3 （罠／拘束力）で捕ら�
 kecti	gismu   	-kec-   	-ke'i-	      	x_1 は x_2 を x_3 （事）について哀れむ／慈しむ／かわいそうだと思う；  x_1 は慈悲的	・大意： 哀れむ ・読み方： ケシティ  ・語呂合わせ： 決してぃ哀れんではいませんよ。 ・関連語： {cinmo}, {xendo}
 kelci	gismu   	-kel-   	-kei-	      	x_1 は x_2 （道具／方法）で遊ぶ	・大意： 遊ぶ ・読み方： ケルゥシ  ・語呂合わせ： 遊びで蹴るし ・関連語： {jivna}, {jinga}, {zdile}
 kelvo	gismu   	-ke'o-		      	x_1 は x_2 （数）・ x_3 （基準）のケルビン度	熱力学温度の単位。 ・大意： ケルビン ・読み方： ケルゥヴォ  ・語呂合わせ：   ・関連語： {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+kenka	experimental gismu			      	k_1 は k_2 （材料）・k_3 （作り方）のケーキ／トルテ／タルト／パイ／フラン	・大意：ケーキ　・語呂合わせ：ケーキでケンカする　・関連語：{titnanba}, {jupypesxu}, {rutytisna}
 kenra	gismu   	-ken-		      	x_1 は x_2 （箇所）の癌	・大意： 癌 ・読み方： ケンラ  ・関連語： {bilma}, {mikce}, {spita}
 kensa	gismu   	-kes-		      	x_1 は x_2 （天体／領域）の宇宙空間	・大意： 宇宙 ・読み方： ケンサ  ・語呂合わせ： 宇宙を検査 ・関連語： {canlu}, {munje}, {terdi}, {tsani}
 kerfa	gismu   	-kre-		      	x_1 は x_2 （本体）・ x_3 （箇所）の毛／髪	・大意： 毛 ・読み方： ケルファ  ・語呂合わせ： 毛る ・関連語： {skapi}, {sunla}, {pimlu}
@@ -604,7 +605,7 @@ kolme	gismu   	-kol-   	-ko'e-	      	x_1 は x_2 （起源）の石炭／泥炭
 komcu	gismu   	-kom-		      	x_1 は x_2 （素材）・ x_3 （針状物）からなる櫛／梳き具	・大意： 櫛 ・読み方： コムシュ  ・関連語： {julne}, {forca}, {burcu}
 konju	gismu   	-kon-   	-ko'u-	      	x_1 は x_2 を頂点とする錐／円錐	・大意： 錐（すい） ・読み方： コンジュ  ・関連語： {jesni}, {djine}, {sovda}, {kojna}, {jganu}
 korbi	gismu   	-kor-   	-koi-	      	x_1 は x_2 の、 x_3 に接する端／へり／縁／境界	・大意： 端 ・読み方： コルビ  ・関連語： {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}
-korcu	gismu   	-kro-		      	x_1 は歪んでいる／ねじれている	・大意： 歪む ・読み方： コルシュ  ・関連語： {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}
+korcu	gismu   	-kro-		      	x_1 は曲がっている／歪んでいる／ねじれている	・大意： 歪む ・読み方： コルシュ  ・関連語： {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}
 korka	gismu   	-kok-		      	x_1 は x_2 （木材／種類）のコルク	・大意： コルク ・読み方： コルカ  ・語呂合わせ： コルク ・関連語： {tricu}, {calku}, {skapi}, {stagi}
 kosta	gismu   	-kos-		      	x_1 は x_2 （素材）のコート／ジャケット／マント	屋外向けに追加的に着る上着全般。 ・大意： コート ・読み方： コスタ  ・語呂合わせ： コートこすった ・関連語： {pastu}, {sunla}, {taxfu}
 kramu	gismu			      	x_1 は x_2 （数）・ x_3 （基準）・ x_4 （下位単位）の土着的測量単位	下位単位としてx5・６…の追加も。 ・大意： エーカー ・読み方： クラム  ・関連語： {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}
@@ -835,7 +836,7 @@ panzi	gismu   	-paz-		      	x_1 は x_2 （親）の生物学的子孫	いわ�
 papri	gismu			      	x_1 は x_2 （本／書類）のページ	・大意： ページ ・読み方： パプリ  ・関連語： {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}
 parbi	gismu   	-pab-		      	x_1 は x_2 （数量／被除数）の、 x_3 （数量／除数）にたいする比／比率	・大意： 比率 ・読み方： パルビ  ・関連語： {frinu}, {dilcu}, {mekso}
 parji	experimental gismu			      	x_1 は x_2 に寄生している／にたいして寄生的；  x_1 は寄生生物	「居候」「食客」も。 ・大意： 寄生 ・読み方： パルジ ・関連語： {mledi}, {civla}, {vidru}
-pastu	gismu   	-pas-		      	x_1 は（素材）のローブ／チュニック／ガウン	・大意： ローブ ・読み方： パストゥ  ・関連語： {kosta}, {taxfu}, {palku}
+pastu	gismu   	-pas-		      	x_1 は（素材）のローブ／チュニック／ガウン／ドレス	長い、もしくは全身を覆う衣服。 ・大意： ローブ ・読み方： パストゥ  ・関連語： {kosta}, {taxfu}, {palku}
 patfu	gismu   	-paf-   	-pa'u-	      	x_1 は x_2 の父親	肉親に限らない。 ・大意： 父 ・読み方： パトフゥ  ・語呂合わせ： パパと父（ふ） ・関連語： {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}
 patlu	gismu			      	x_1 は x_2 （種類）のジャガイモ／サトイモ	食用のデンプン質球根のうち、芽から栽培できるもの。 ・大意： ジャガイモ ・読み方： パトルゥ  ・語呂合わせ： potato, malincu (馬鈴薯) ・関連語： {genja}, {jalna}, {samcu}
 patxu	gismu   	-pax-		      	x_1 は x_2 （内容）・ x_3 （素材）の壷／鉢／かめ／やかん／ポット	・大意： 壷 ・読み方： パトクゥ  ・語呂合わせ： ポット, pot,  xu(壷) ・関連語： {tansi}, {palne}; {baktu}, {botpi}
@@ -912,7 +913,7 @@ purdi	gismu   	-pud-		      	x_1 は x_2 （家族／共同体／農耕者）・
 purmo	gismu   	-pum-   	-pu'o-	      	x_1 は x_2 （物質）の粉	食用の粉も。 ・大意： 粉 ・読み方： プルモ  ・関連語： {pulce}, {zalvi}
 racli	gismu			      	x_1 （行動）は x_2 （基準）において理性的／正気／穏健	・大意： 理性的 ・読み方： ラシルィ  ・語呂合わせ： 理性的なら尻 ・関連語： {fenki}
 ractu	gismu			      	x_1 は x_2 （種類）のウサギ目（もく）動物	・大意： 兎 ・読み方： ラシトゥ ・関連語： {mabru}, {kerlo}
-radno	gismu   	-ra'o-		      	x_1 は x_2 （単位）・ x_3 （基準）のラジアン／弧度	・大意： ラジアン ・読み方： ラドノ  ・関連語： {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+radno	gismu   	-ra'o-		      	x_1 は x_2 （数）・ x_3 （基準）のラジアン／弧度	・大意： ラジアン ・読み方： ラドノ  ・関連語： {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 rafsi	gismu   	-raf-		      	x_1 （文字列）は x_2 （語）の x_3 （部位／性質）に由来する、 x_4 （言語）の形態素／語基／語幹／接辞	・大意： 形態素 ・読み方： ラフゥスィ  ・関連語： {valsi}, {lujvo}, {pagbu}
 ragve	gismu   	-rav-		      	x_1 は x_2 （境界）を x_3 （側）に対して横断する／またいでいる；  x_1 は x_3 の反対側	・大意： 横断 ・読み方： ラグヴェ  ・関連語： {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}
 rakso	gismu			      	x_1 は x_2 （性質面）に関してイラク系（言語／文化／民族）	・大意： イラク ・読み方： ラクソ  ・関連語： {xrabo}
@@ -1033,7 +1034,7 @@ sisku	gismu   	-sis-		      	x_1 は x_2 （性質）を x_3 （集合）の中�
 sisti	gismu   	-sti-		      	x_1 （者）は x_2 （動作／過程／状態）をやめる／中止／終了する	x2 は完了しているとは限らない。 ・大意： 終了 ・読み方： スィスティ  ・関連語： {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}
 sitna	gismu   	-sit-		      	x_1 は x_2 を x_3 （情報／発言）のために引用／参照する	x3 は 命題（{du'u}）。　・大意： 引用 ・読み方： スィトナ ・語呂合わせ： 引用すいすいっとな, cite, citar ・関連語： {krasi}
 sivni	gismu   	-siv-		      	x_1 （物／事）は x_2 （者）にとって内密／私的／プライベート	・大意： 私的 ・読み方： スィヴニ  ・語呂合わせ： siteki ・関連語： {gubni}, {mipri}
-skaci	gismu			      	x_1 は x_2 （素材）のスカート／キルト	・大意： スカート ・読み方： スカシ  ・語呂合わせ： スカートすかして見る ・関連語： {taxfu}, {palku}
+skaci	gismu			      	x_1 は x_2 （素材）のスカート／キルト	下側の開いている、脚のない衣服。 ・大意： スカート ・読み方： スカシ  ・語呂合わせ： スカートすかして見る ・関連語： {taxfu}, {palku}
 skami	gismu   	-sam-		      	x_1 は x_2 （目的／機能）のコンピュータ	・大意： コンピュータ ・読み方： スカミ  ・関連語： {kanji}, {minji}, {pensi}
 skapi	gismu   	-kap-		      	x_1 は x_2 （起源）の（特に動物性の）革／皮膚／肌	x2 はx1の元／現の持ち主 ・大意： 肌 ・読み方： スカピ  ・語呂合わせ： スキン、革、皮（ぴ） ・関連語： {pilka} (上位概念), {calku}, {kerfa}
 skari	gismu   	-ska-		      	x_1 は x_2 （色相）の、 x_3 （視覚者）にたいする、 x_4 （条件）における色	x4は周囲の光など。 ・大意： 色 ・読み方： スカリ  ・語呂合わせ： 色々助かります ・関連語： {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}
@@ -1043,7 +1044,7 @@ skina	gismu   	-kin-		      	x_1 は x_2 （内容）・ x_3 （制作者）・ 
 skori	gismu   	-sko-		      	x_1 は x_2 （素材）の縄／コード／ケーブル／ロープ／より糸	・大意： 縄 ・読み方： スコリ  ・語呂合わせ： koodo コード ・関連語： {cilta}, {jgena}, {marna}, {bikla}, {linsi}
 skoto	gismu   	-kot-   	-ko'o-	      	x_1 は x_2 （性質面）に関してスコットランド／ゲール系（言語／文化／民族）	・大意： スコットランド ・読み方： スコト
 skuro	gismu   	-ku'o-		      	x_1 は x_2 （物／表面）における溝／窪み／うね	・大意： 溝 ・読み方： スクロ  ・語呂合わせ： kubomi 窪み ・関連語： {plixa}
-slabu	gismu   	-sau-		      	x_1 は x_2 （者）にとって x_3 （性質）に関して懐かしい／久しい	「若い」の対義でなく「新しい」の対義。 ・大意： 懐かしい ・読み方： スルァブ  ・語呂合わせ： 懐かしのスラブ ・関連語： {clani}, {citno}, {cnino}, {se} {djuno}
+slabu	gismu   	-sau-		      	x_1 は x_2 （者）にとって x_3 （性質）の点で x_4 （観点）から判断してなじみがある	{tolni'o}
 slaka	gismu			      	x_1 は x_2 （言語）における音節	・大意： 音節 ・読み方： スルァカ  ・関連語： {sance}, {valsi}, {bangu}
 slami	gismu			      	x_1 は x_2 （成分）の酸；  x_1 は酸性	・大意： 酸 ・読み方： スルァミ  ・関連語： {slari}, {nimre}
 slanu	gismu			      	x_1 は x_2 （素材）の円柱（形状）	シリンダー. ・大意： 円柱 ・読み方： スルァヌ ・関連語： {kamju}, {gunro}; {tubnu}（管／中空の筒）
@@ -1110,7 +1111,7 @@ stapa	gismu   	-tap-		      	x_1 は x_2 を x_3 で踏む	・大意： 踏む �
 stasu	gismu			      	x_1 は x_2 （食材）のスープ／シチュー／煮物	料理としての「鍋」も。 ・大意： スープ ・読み方： スタス  ・関連語： {sanmi}, {mixre}, {salta}, {sanso}
 stati	gismu			      	x_1 には x_2 （事／行為）の才能／素質がある	・大意： 才能 ・読み方： スタティ  ・関連語： {jinzi}, {certu}, {rarna}, {larcu}, {kakne}
 steba	gismu   	-seb-		      	x_1 は x_2 （事）について挫折／ストレスを感じる	望むとおりに事が運ばないときに感じる煩わしさ。 ・大意： 挫折 ・読み方： ステバ  ・語呂合わせ： 捨てバイクで挫折 ・関連語： {cinmo}
-steci	gismu   	-tec-   	-te'i-	      	x_1 （性質）は x_2 （個）の x_3 （集合）における特質／個性	・大意： 特質 ・読み方： ステシ  ・関連語： {srana}, {se} {ponse}, {ckini}, {tcila}, {tutra}
+steci	gismu   	-tec-   	-te'i-	      	x_1 （性質）は x_2 （個）の x_3 （集合）における特質／個性； x_2 （個）は x_1 （性質）の点で x_3 （集合）において特別／特有だ	ある集合においてその個がもつ、他の要素にはみられない性質。 ・大意： 特質 ・読み方： ステシ  ・関連語： {srana}, {se} {ponse}, {ckini}, {tcila}, {tutra}
 stedu	gismu   	-sed-		      	x_1 は x_2 （本体）の頭／頭部	・大意： 頭 ・読み方： ステドゥ  ・関連語： {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku}
 stela	gismu   	-tel-		      	x_1 は x_2 を x_3 （仕組）で封じる錠／ロック	・大意： 錠 ・読み方： ステルァ  ・関連語： {ckiku}
 stero	gismu   	-te'o-		      	x_1 は x_2 （数）・ x_3 （基準）のステラジアン度	立体角の単位。 ・大意： ステラジアン ・読み方： ステロ  ・関連語： {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
@@ -1153,7 +1154,7 @@ tapla	gismu			      	x_1 は x_2 （素材）・ x_3 （形状）・ x_4 （厚�
 tarbi	gismu			      	x_1 は x_2 （母）・ x_3 （父）による胎芽／胎児／胚芽／接合体	ヒトの場合、受精後８週未満の生体。 ・大意： 胎芽 ・読み方： タルビ  ・関連語： {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}
 tarci	gismu   	-tar-		      	x_1 は x_2 （特性）の星／恒星	「plini」と違い、自ら光り輝く星。「太陽」の類。 ・大意： 星 ・読み方： タルシ  ・語呂合わせ： hoci 星 ・関連語： {solri}, {tsani}
 tarla	gismu			      	x_1 は x_2 （起源）のタール／アスファルト	道路舗装／木材防腐剤／染料に含まれる。 ・大意： タール ・読み方： タルルァ  ・関連語： {kolme}, {pesxu}, {snipa}
-tarmi	gismu   	-tam-   	-tai-	      	x_1 （観念／性質）は x_2 の形状／形態／形式／仕様； x_2の形状／形態／形式／仕様はx_1 （観念／性質）を具現している。	x1は観念的で、その性質を具現しているのが x2 。「キラキラの（x1）の指輪（ x2 ）」。 ・大意： 形 ・読み方： タルミ  ・語呂合わせ： tai(態), form, たるみのある形 ・関連語： {nejni}, {morna}; {te} {marji}, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}
+tarmi	gismu   	-tam-   	-tai-	      	x_1 （観念／性質）は x_2 の形状／形態／形式／仕様； x_2の形状／形態／形式／仕様はx_1 （観念／性質）を具現している。	x1は観念的で、その性質を具現しているのが x2 。「キラキラの（x1）の指輪（ x2 ）」。「lo vi plise cu se tarmi lo si'o xunre／このリンゴは赤を具現化している。；このリンゴは『赤い』。」 ・大意： 形 ・読み方： タルミ  ・語呂合わせ： tai(態), form, たるみのある形 ・関連語： {nejni}, {morna}; {te} {marji}, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}
 tarti	gismu   	-tra-		      	x_1 は x_2 （事／性質）を x_3 （条件）で振舞う	「式典（ x3 ）で行儀よく（ x2 ）振舞う」。 ・大意： 振舞う ・読み方： タルティ  ・関連語： {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde}
 taske	gismu			      	x_1 は（喉の）渇きを感じる；  x_1 は渇きで x_2 を求める	・大意： 渇（かつ） ・読み方： タスケ  ・語呂合わせ： 渇く、タスケテ！ ・関連語： {nitcu}, {djica}, {xagji}, {pinxe}
 tatpi	gismu   	-ta'i-		      	x_1 は x_2 （事）によって疲労／疲弊している／疲れている	・大意： 疲弊 ・読み方： タトピ  ・関連語： {cikna}, {sipna}, {surla}

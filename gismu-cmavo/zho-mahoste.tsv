@@ -7,6 +7,7 @@ a'o	cmavo			   	UI1      	态度词：希望-绝望	相关{pacna}
 au	cmavo			   	UI1      	态度词：渴望-无所谓-勉强/不情愿	相关{djica}
 a'u	cmavo			   	UI1      	态度词：兴趣-无兴趣-反感	相关{cinri},{selcni}
 fau'u	experimental cmavo			   	COI      	对不起, 请原谅我, 抱歉	{fraxu}, {u'u}.
+jo'au	experimental cmavo			   	MAI      	转换语法分析器的版本/方言.	在前{jo'au}的数字的词法和文法, 包括"单语"-{bu}在内, 应该适合lojban.org网站的 "BPFK Section: PEG Morphology Algorithm" 的第134版本及数字cmavo的官方文法, 正是为了{jo'au}构成的自由修饰词组是相容语法分析器的所有版本. 比如说, "jie bu jo'au" 和 "xei jo'au" 不是有意义的词组. 在标准使用上, 全文章开头使用{jo'au}词组, 和{fa'o}的用法相反. {jo'au}词组的意义涉及后续部分, 到下一个{jo'au}词组为止. 第一个{jo'au}词组可以出现在文章中途, 意义涉及从开头到下一个{jo'au}词组为止. 有意义的例子: cylylypapi'epa jo'au (官方yacc和jbofi'e http://www.lojban.org/jboski/ ) ; camxes.bu jo'au (现行的peg http://camxes.lojban.org/ ) ; iocixes.bu jo'au (xorxes的zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; ilmentufa burenopavopi'epapapi'erevo jo'au (ilmentufa的2014-11-24版本 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; fancylojban.bu jo'au (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau - 还没有语法分析器.)
 ka	cmavo   	-kam-		   	NU      	特性/性质指示; x_1 是[bridi]表现出的性质/特性 .
 mi'ai	experimental cmavo			   	KOhA3      	我們
 mi'o	cmavo			   	KOhA3      	咱們

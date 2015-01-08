@@ -292,6 +292,7 @@ ji'o	cmavo			   	BAI      	～の管轄下で ： 法制詞； jitro の x_1	・
 ji'u	cmavo			   	BAI      	～を基盤として ： 法制詞； jicmu の x_1	・読み方： ジフ
 jo	cmavo   	-jov-		   	JA      	tanru 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・tanru）； 前部と後部は共に真あるいは共に偽	・大意： ～のときだけ ・読み方： ジョ
 jo'a	cmavo			   	UI3a      	メタ言語肯定	心態詞（談話系）； 命題に影響を与えずに肯定を表す「ti se citka e'a pei --- e'a jo'a／これ食べていいですか？--- いいですとも。」「ti kukte jo'a／これはたしかにおいしい。」 ・読み方： ジョハ  ・関連語： {drani}
+jo'au	experimental cmavo			   	MAI      	パーサのバージョン／方言を変更する	{jo'au} に先立つ数字の語形と文法は、「単語」-{bu} を含め、 lojban.org サイト内のページ "BPFK Section: PEG Morphology Algorithm" のバージョン 134 と、 数字 cmavo の公式文法に従っていなければならない。 例えば "jie bu jo'au" や "xei jo'au" は意味のある句ではない。 標準的な用法では全文章の最初に {jo'au} 句を使う。 {fa'o} の使い方と反対である。 {jo'au} 句の意味は後ろに係り、その範囲は次の {jo'au} 句が現れるまでの部分である。 最初の {jo'au} 句が文章の途中に出てくる場合は、 その意味は文章の最初から次の {jo'au} 句が現れるまでの部分である。 意味のある例: cylylypapi'epa jo'au (公式yaccとjbofi'e http://www.lojban.org/jboski/ ) ; camxes.bu jo'au (現行 peg http://camxes.lojban.org/ ) ; iocixes.bu jo'au (xorxes の zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; ilmentufa burenopavopi'epapapi'erevo jo'au (ilmentufa の 2014-11-24 版 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; fancylojban.bu jo'au (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau - パーサはまだない)
 jo'e	cmavo   	-jom-		   	JOI      	和集合 ： 接続詞（非論理・sumti/selbri）； 左右の集合の和を表す	・大意： 和集合 ・読み方： ジョヘ
 joi	cmavo   	-jol-   	-joi-	   	JOI      	一緒（混合） ： 接続詞（非論理・sumti/selbri）； 事物や性質が混合的に一緒であることを表す； 数学的群を形成する	「mi joi ko'o bevri lo pipno／私と彼女が一緒にピアノを運ぶ」 ・大意： 一緒に（混合） ・読み方： ジョイ
 jo'i	cmavo			   	JOhI      	配列 ： MEX（数式）の演算子を結合して配列にする	・読み方： ジョヒ
@@ -327,6 +328,7 @@ ke'u	cmavo			   	UI3      	反復 （ ke'u 反復 - ke'unai 展開）	心態詞�
 ke'unai	cmavo-compound			   	UI*3      	展開 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出さずに話をそのまま展開させ続ける ・読み方： ケフナイ
 ki	cmavo			   	KI      	制詞設定／初期化 ： 間制詞／相制詞／法制詞の右に付いてそれらを以降の文にも効くように設定する、あるいは単独で置いて全ての制詞をリセットする；	「pu ki ku mi klama lo zarci .i penmi ko'o／私は店に行った。彼女に会った」 ・読み方： キ
 ki'a	cmavo			   	UI6      	逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；「{ mi penmi ko'a } { ko'a ki'a }／｛彼女に会った。｝｛“彼女”って誰のこと？｝」 ・読み方： キハ  ・関連語： {cfipu}, {kucli}
+ki'ai	experimental cmavo			   	COI2      	臨時の間投詞／心態詞。 cmevlaやzoi 引用句を後ろにとり、それを間投／心態詞化する。	関連語： {sa'ei}, {ci'oi}, {tai'i}
 ki'anai	cmavo-compound			   	UI*6      	逐語的理解 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句が何を意味しているのかを理解している ・読み方： キハナイ
 ki'e	cmavo			   	COI      	感謝 ：心態詞（呼応系）	・読み方： キヘ
 ki'enai	cmavo-compound			   	COI*      	不感謝 ：心態詞（呼応系）	相手の好意を受け付けないことを表明する。「mi ba'o facki ki'e nai／自分で見つけたから、もういいよ」 ・読み方： キヘナイ

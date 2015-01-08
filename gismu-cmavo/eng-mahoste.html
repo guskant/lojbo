@@ -4,9 +4,9 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <title>
-ma'oste bau la'o by English by ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li 2014-11-28
+ma'oste bau la'o by English by ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li 2015-01-08
 </title></head><body><h3>
-ma'oste bau la'o by English by ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li 2014-11-28
+ma'oste bau la'o by English by ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li 2015-01-08
 </h3><p>
 a<br />A<br />logical connective: sumti afterthought or.
 </p><p>
@@ -56,6 +56,8 @@ a'unai<br />UI*1<br />attitudinal: interest - disinterest - repulsion.
 </p><p>
 au'u [experimental]<br />UI<br />attitudinal: cute (attractive in an innocent way) - lack of cuteness - repulsively uncute
 </p><p>
+a'y [experimental]<br />BY<br />letteral for a.<br />[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{abu}.]
+</p><p>
 ba<br />PU<br />time tense relation/direction: will [selbri]; after [sumti]; default future tense.
 </p><p>
 ba'a<br />UI2<br />evidential: I expect - I experience - I remember.<br />See also {bavykri}, {lifri}, {morji}.
@@ -82,6 +84,8 @@ ba'i<br />BAI<br />basti modal, 1st place                            replaced by
 </p><p>
 bai'ei [experimental]<br />VUhU3<br />unary mathematical operator: successor/augment/increment (by one), succ(a) = a++ = a+1<br />See also: {su'i} {pa}, {balvi}, {jersi}, {selyli'e}, {rebla}, {lamji}
 </p><p>
+bai'i [experimental]<br />VUhU<br />mekso string operator (ternary): find-and-replace; in string/text/word/sequence X1 formally replace X2 (ordered tuple of terms to be replaced) with X3 (ordered tuple of terms to be respectively substituted)<br />X2 and X3 are ordered tuples of substrings/letters/characters/letterals/digits/numerals. The ith term in tuple X2 is replaced with the ith term in tuple X3; the replacements are executed simultaneously (thus, no overlap/contradiction can be allowed to arise in the substitution- in particular, in X2)  - alternatively, if there is overlap/conflict in/between the terms of X2, the replacements are performed in order of presentation (the ith term in X2 is replaced by the ith term in X3, and then the (i+1)th term in X2 is replaced with the (i+1)th term in X3, starting with the 1st term in each). X2 and X3 must have the same length/number of terms - alternatively, X3 cannot be longer/have more terms than X2; in this situation, the ith term of X2 is replaced with the ith term of X3 until and including when the last term of X3 is reached, after which point the remaining terms in X2 are not replaced at all. Use a permutation acting on X2 as the argument for X3 in order to rearrange the substrings of X1; if the alphabet is ordered, then operators can be applied to the letters in order to rotate through the alphabet. In particular, if X1 is a binary string (a word over an alphabet of two letters) and X2 is the 2-tuple of the letters of that binary alphabet (length-1 substrings), then without specification of X3, this operator defaults to bitwise binary negation (bit conjugation) wherein each letter in X1 is replaced by the unique other letter in the binary alphabet (otherwise, the replacement would be the identity/trivial replacement or just a formal substitution letter-by-letter which does not really change the nature of the word). X1 and each entry in X2 and X3 should be quoted, match a necessary type (such as being a character), or be abstracted a level by symbolics. In general, the replacement is formal and the strings in X3 need not be over the same alphabet as the one over which X1 is written. This operator is useful for combinatorial lines and for expanding digits (such as, in a binary string, replacing each occurrence of &quot;0&quot; with &quot;01&quot; and each occurrence of &quot;1&quot; with &quot;10&quot;; note that the replacement is instantaneous and simultaneous for all terms of X2 and every occurrence of such terms in X1, thus this substitution is perfectly acceptable).
+</p><p>
 ba'o<br />ZAhO<br />interval event contour: in the aftermath of ...; since ...; retrospective/perfect              |     |----.
 </p><p>
 ba'oi [experimental]<br />ROI<br />Converts PA into tense; in [number (usually nonspecific)] possible futures where [sumti (du'u)] is true<br />Possible futures, given the actual past and present; what might happen. Cf. {mu'ei}.
@@ -101,6 +105,8 @@ be<br />BE<br />sumti link to attach sumti (default x_2) to a selbri; used in de
 be'a<br />FAhA1<br />location tense relation/direction; north of.
 </p><p>
 be'e<br />COI<br />vocative: request to send/speak.
+</p><p>
+be'ei'oi [experimental]<br />VUhU<br />ternary mekso operator: x_1th Bergelson multiplicative interval with exponents bounded from above by function x_2 and with sequence of shifts x_3, where exponents belong to set x_4<br />x1 must be a positive integer. x2 must be a strictly monotonic increasing function mapping from all of the positive integers to a subset (not necessarily proper) thereof. x3 must be a sequence of natural numbers. x2 without context will default to the same value as x1 (it is simple linear on the set of positive integers), x3 without context will be a sequence all and only of 1's, x4 without context defaults to the set of all non-negative integers. Let p_i be a prime for all i, with p_1 = 2 and the ith prime (in the normal monotonic increasing order) being p_i. Let all other symbols match the aforementioned conditions. Represent the nth term of the sequence x3 by x3_n; represent the function in x2 being applied to the number m by x2(m).  Then x1 be'ei'oi x2 boi x3 boi x4 produces the set of all numbers of the form x3_(x1) * (p_1)^(e_1)  *...* (p_(x1))^(e_(x1)), where e_j belongs to the intersection of the interval [0, x2(x1)] with x4.
 </p><p>
 bei<br />BEI<br />separates multiple linked sumti within a selbri; used in descriptions.
 </p><p>
@@ -200,6 +206,10 @@ cau<br />BAI<br />claxu modal, 1st place                            lacked by ..
 </p><p>
 ca'u<br />FAhA2<br />location tense relation/direction; forwards/to the front of ...
 </p><p>
+cazi<br />PU*<br />right now<br />Narrows the scope/meaning of &quot;now&quot; to be relatively more immediate (but it still may encompass a small interval that extends into the objective/physical past and/or future).
+</p><p>
+cazu<br />PU*<br />nowadays, wide sense of &quot;now&quot;<br />The interval that is considered to be &quot;now&quot; by the speaker is relatively large(r).
+</p><p>
 ce<br />-cec-<br />JOI<br />non-logical connective: set link, unordered; &quot;and also&quot;, but forming a set.
 </p><p>
 ce'a<br />LAU<br />2-word letteral/shift: the word following indicates a new font (e.g. italics, manuscript).
@@ -225,6 +235,8 @@ ci<br />-cib-<br />PA1<br />digit/number: 3 (digit) [three].
 ci'ai'u [experimental]<br />VUhU<br />unary mex operator: n-set; maps a nonnegative integer 'a' to the set \\{1,…,a\\} (the intersection of the set of all natural numbers with the closed interval [1,a] such that 'a≥1')<br />0 maps to the empty set.
 </p><p>
 cia'o'e [experimental]<br />VUhU<br />mekso 4-nary operator: spherical harmonics on colatitudinal/polar angle a and azimuthal/longitudinal angle b of unassociated order c and associated order d.<br />Usually denoted Y^m_l (\\theta, \\phi). The Condon-Shortley phase must be prepended to the definition. The normalization is chosen so that the integral over all (solid) angles of Y^m_l(\\Omega) conj(Y^n_k(\\Omega)  = \\delta(m,n) \\delta(l,k).
+</p><p>
+ci'au'u'au'i [experimental]<br />UI1<br />attitudinal: pride about having just invented a new attitudinal - shame about having just invented a new attitudinal
 </p><p>
 ci'e<br />BAI<br />ciste modal, 1st place used in scalar negation    in system/context ...
 </p><p>
@@ -271,6 +283,8 @@ co'u<br />-co'u-<br />ZAhO<br />interval event contour: at the ending point of .
 cu<br />CU<br />elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.
 </p><p>
 cu'a<br />VUhU3<br />unary mathematical operator: absolute value/norm  |a|.
+</p><p>
+cu'ai [experimental]<br />VUhU3<br />binary mathematical operator: vector norm/magnitude of vector a in structure (normed vector space) b<br />Contextless default for b: Euclidean normed vector space over the reals or complexes; in relativity, without context, the default interpretation for a four-vector is the Minkoski magnitude. b determines the meaning of the norm. Accompanies and clarifies {cu'a}.
 </p><p>
 cu'e<br />CUhE<br />tense/modal question.
 </p><p>
@@ -357,6 +371,10 @@ dei<br />KOhA2<br />pro-sumti: this utterance.
 de'i<br />BAI<br />detri modal, 1st place (for letters)              dated ... ; attaches date stamp.
 </p><p>
 dei'au'o [experimental]<br />VUhU<br />mekso binary operator: Lambert product-log W function; W(a, b)<br />Default: b=0. a can be any complex number (for which W is defined) and b is any integer denoting the branch (where b=0 implies the principal branch). See also: {vau'au'o}.
+</p><p>
+dei'e [experimental]<br />KOhA<br />pro-sumti: the next word
+</p><p>
+dei'o [experimental]<br />KOhA<br />pro-sumti: this word<br />mnemonic: dei + zo -&gt; dei'o
 </p><p>
 dei'u [experimental]<br />KOhA<br />pro-sumti: the previous word
 </p><p>
@@ -470,6 +488,8 @@ e'ucu'i<br />UI*1<br />attitudinal: suggestion - abandon suggest - warning.
 </p><p>
 e'unai<br />UI*1<br />attitudinal: suggestion - abandon suggest - warning.
 </p><p>
+e'y [experimental]<br />BY<br />letteral for e.<br />[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ebu}.]
+</p><p>
 fa<br />FA<br />sumti place tag: tag 1st sumti place.
 </p><p>
 fa'a<br />FAhA4<br />location tense relation/direction; arriving at/directly towards ...
@@ -497,6 +517,8 @@ fa'o<br />FAhO<br />unconditional end of text; outside regular grammar; used for
 fau<br />BAI<br />fasnu modal, 1st place (non-causal)               in the event of ...
 </p><p>
 fa'u<br />JOI<br />non-logical connective: respectively; unmixed ordered distributed association.
+</p><p>
+fau'au [experimental]<br />JAhOI<br />two-tier function map/assignment writer notation: X1 (ordered list, no repetitious terms) maps termwise-respectively to X2 (ordered list; may be repetitious but must have exactly as many terms as X1)<br />So named because, in mathematical notation, the domain set of the function is written down in some order in its entirety and then, below it, the range of the function is written so that each image and preimage line up vertically with their appropriate/respective partner. Really useful when mapping from a countable set/object that is either human-small or in which the pattern is clear. Occasionally used for a more explicit form of notation for permutations (in which cycle decomposition is not necessarily as evident, but the structure as a how is, at least, explicit). The ith term of X1 is mapped to the ith term of X2; there is no knowledge of what happens to any value that is not term of list X1.  Useful for lambda calculus.
 </p><p>
 fauroda<br />any way, under any events
 </p><p>
@@ -561,6 +583,8 @@ fo'e<br />-fo'e-<br />KOhA4<br />pro-sumti: he/she/it/they #7 (specified by goi)
 foi<br />FOI<br />terminator: end composite lerfu; never elidable.
 </p><p>
 fo'i<br />-fo'i-<br />KOhA4<br />pro-sumti: he/she/it/they #8 (specified by goi).
+</p><p>
+foi'e [experimental]<br />FOIhE<br />GOI attachment modifier: allows a cmavo of selma'o GOI (which must follow immediately) to be attached to a selbri<br />This word must (ignoring quotes, etc.) be preceded by a selbri (to which it immediately attaches, even in sumti) and must be followed by a member of selma'o GOI (ignoring erasure, etc.). All other semantics and syntax of the GOI construct remains the same, it just applies to the selbri immediately prior to this word, rather than a sumti. See also: {po'oi}.
 </p><p>
 fo'o<br />KOhA4<br />pro-sumti: he/she/it/they #9 (specified by goi).
 </p><p>
@@ -642,6 +666,8 @@ ge'o<br />BY1<br />shift letterals to Greek alphabet.
 </p><p>
 ge'u<br />GEhU<br />elidable terminator: end GOI relative phrases; usually elidable in non-complex phrases.
 </p><p>
+ge'u'i [experimental]<br />GEhUhI<br />elidable terminator for connective modifiers<br />Terminates {noi'i}.
+</p><p>
 gi<br />GI<br />logical connective: all but tanru-internal forethought connective medial marker.
 </p><p>
 gi'a<br />GIhA<br />logical connective: bridi-tail afterthought or.
@@ -689,6 +715,8 @@ gu'ai [experimental]<br />VUhU2<br />binary operator: left group action g.x<br /
 gu'anai<br />GUhA*<br />logical connective: tanru-internal forethought conditional/only if (with gi).
 </p><p>
 gu'au [experimental]<br />BAI<br />non-distributivity tag: as a mass<br />equivalent to {fi'o} {gunma}. {gu'au} {je} {fa} {lo} {tadni} {cu} {sruri} {lo} {dinju} is the same as {loi} {tadni} {cu} {sruri} {lo} {dinju}.
+</p><p>
+gu'au'i [experimental]<br />VUhU<br />mekso operator, variable arity - algebraic structure order of X1; OR: order  of/(size of) period of element X1 in algebraic structure X2 under operator/of type X3<br />If applied to an algebraic structure (such as a group) it gives the order thereof (which, for a group, is the cardinality of the underlying set).  If applied to an element of an algebraic structure, one has the options to specify the structure in which its order is being considered and/or the operator with respect to which its order is being considered (for example, in a given ring, an elements additive order is usually not its multiplicative order), although either of these made remain vague and be inferred from context; order is the smallest non-negative number of applications of the operator needed to be applied (in composition) to the original element in order for it to result in the identity element of the structure (thus, order is not always finite or even defined).  See also: {mau'au}, {cu'a}.
 </p><p>
 gu'e<br />GUhA<br />logical connective: tanru-internal forethought and (with gi).
 </p><p>
@@ -770,11 +798,17 @@ iunai<br />UI*1<br />attitudinal: love - no love lost - hatred.
 </p><p>
 i'unai<br />UI*1<br />attitudinal: familiarity - mystery.
 </p><p>
+iy [experimental]<br />BY<br />letteral for the i semi-vowel
+</p><p>
+i'y [experimental]<br />BY<br />letteral for i.<br />[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ibu}.]
+</p><p>
 ja<br />-jav-<br />JA<br />logical connective: tanru-internal afterthought or.
 </p><p>
 ja'a<br />NA<br />bridi logical affirmer; scope is an entire bridi.
 </p><p>
 ja'ai [experimental]<br />NAI<br />affirm last word: attached to cmavo to affirm them; denies negation by nai whenever it is applicable.<br />Suggested by Mark Shoulson in 1999 as an affirmative of {nai}. By analogy with the pairs {na}/{ja'a}, {na'e}/{je'a}, and {na'i}/{jo'a}.
+</p><p>
+ja'aku<br />NAKU<br />(adverbial) bridi logical affirmer; &quot;it is true that....&quot;; affirms the bridi as well as any other adverbial or quantifier located on its right.<br />See also {naku}.
 </p><p>
 ja'aru'e<br />NA*<br />weak bridi affirmation; barely; almost not at all.
 </p><p>
@@ -798,19 +832,21 @@ jaivi<br />SE*<br />convert location tense (tagged) place to 1st place; 1st plac
 </p><p>
 ja'o<br />UI2<br />evidential: I conclude.<br />See also {selni'i}, {ni'ikri}.
 </p><p>
+ja'oi [experimental]<br />JAhOI<br />permutation cycle writer notation start<br />Basically like {jo'i}, but for cycles. Use {boi} in order to separate terms.  Terminated by {tei'u}. In this notation, each term maps to the the subsequent term as read from left to right or heard in chronological order of utterance; the last term (immediately before {tei'u}) maps to the first term. The objected constructed is a cyclic permutation, a group element. The singleton cycle is identity on that term. It can be applied to a single element among its terms or may left group act upon a set or structure, or an element if the application is not directly upon it (such as when the application is to an index or variable of that element). Permutations are composed when viewed from outside of their group structure and have the group operator act upon them when within that context. The transposition (1  2) is expressed as ' li ja'oi pa boi re tei'u '. See also: {tei'u}, {ma'o'e}, {gu'ai}, {ru'ei}, {fa'ai}.
+</p><p>
 jau<br />PA2<br />digit/number: hex digit D (decimal 13) [thirteen].
 </p><p>
-jau'au [experimental]<br />VUhU3<br />unary mathematical operator: length/components of formal string in some base/basis; number of digits/components/entries<br />For a numerical string, the number of digits are counted. For a tuple/vector/array/matrix/tensor, the number of entries/conponents is counted. Not literally the number of symbols used, but the number of meaningful &quot;spots&quot; occupied; for example &quot;(1,0)&quot; uses five characters, but its length is just 2 (for &quot;1&quot; and then &quot;0&quot;); this is due to the fact that formal representation may vary but the amount of information conveyed must remain constant. Note that digit strings are essentially considered to be vectors in the basis of powers of the base.
+jau'au [experimental]<br />VUhU3<br />unary mathematical operator: length/number of components/terms of/in object/array/formal string/sequence/word/text in some alphabet/base/basis which includes each digit; number of digits/components/entries<br />For a numerical string, the number of digits are counted. For a tuple/vector/array/matrix/tensor, the number of entries/conponents is counted. Not literally the number of symbols used, but the number of meaningful &quot;spots&quot; occupied; for example &quot;(1,0)&quot; uses five characters, but its length is just 2 (for &quot;1&quot; and then &quot;0&quot;); this is due to the fact that formal representation may vary but the amount of information conveyed must remain constant. Note that digit strings are essentially considered to be vectors in the basis of powers of the base.
 </p><p>
 je<br />-jev-<br />-jve-<br />JA<br />logical connective: tanru-internal afterthought and.
 </p><p>
-je'a<br />NAhE<br />scalar affirmer; denies scalar negation: Indeed!.
+je'a<br />NAhE<br />scalar affirmer; denies scalar negation: Indeed!.<br />See also: {ja'a}.
 </p><p>
 je'abo<br />NAhE+BO<br />negation sumti qualifier: that which indeed is.<br />Cf. {je'a}, {bo}, {na'ebo}, {no'ebo}, {to'ebo}.
 </p><p>
 je'ai [experimental]<br />NAhE<br />NAhE question.
 </p><p>
-je'au [experimental]<br />UI3<br />discursive: correcting/corrective/correction - inattentive/uncaring/neutral toward the presence of possible errors - permitting (known/likely/plausible) errordiscursive: correcting/corrective/correction - inattentive/uncaring/neutral toward the presence of possible errors - permitting (known/likely/plausible) error/incompleteness/approximation
+je'au [experimental]<br />UI3<br />discursive: correcting/corrective/correction - inattentive/uncaring/neutral toward the presence of possible errors - permitting (known/likely/plausible) error/incompleteness/approximation
 </p><p>
 je'aucu'i<br />UI3*<br />discursive: correcting/corrective/correction - inattentive/uncaring/neutral toward the presence of possible errors - permitting (known/likely/plausible) errordiscursive: correcting/corrective/correction - inattentive/uncaring/neutral toward the presence of possible errors - permitting (known/likely/plausible) error/incompleteness/approximation<br />Potentially useful for academic/technical honesty.
 </p><p>
@@ -850,19 +886,29 @@ ji'ini'u<br />PA*<br />rounded down (appended after string of digits indicating 
 </p><p>
 ji'o<br />BAI<br />jitro modal, 1st place (control)                  controlledly; under direction of ...
 </p><p>
+ji'o'e [experimental]<br />connective: elliptical/generic/vague<br />Like {zo'e} or {co'e}, but for connectives. The connectives referred to may be logical or non-logical; they take the form proper for the syntax/context (probably is best implemented using post-original CLL connective system modification such as the MAD proposal or the system developed by selpa'i); in standard original CLL usage, this would be the inter-tanru after-thought connective. Synonymous with but morphologically and phonotactically allowed version of .{y'i}.
+</p><p>
 ji'u<br />BAI<br />jicmu modal, 1st place (assumptions);             given that ...; based on ...
 </p><p>
 jo<br />-jov-<br />JA<br />logical connective: tanru-internal afterthought biconditional/iff/if-and-only-if.
 </p><p>
 jo'a<br />UI3a<br />discursive: metalinguistic affirmer.<br />See also {drani}.
 </p><p>
+jo'au [experimental]<br />MAI<br />change version/dialect of parser<br />The morphology and the grammar of numbers preceding to {jo'au}, including ``word''-{bu}, should conform to the version 134 of the page ``BPFK Section: PEG Morphology Algorithm'' on the website lojban.org and the official grammar for number cmavo, so that a {jo'au} cluster forms a free modifier compatible with every version/dialect of lojban parser: for example, ``jie bu jo'au'' and ``xei jo'au'' are not meaningful clusters. As a standard usage, {jo'au} cluster appears at the very beginning of the whole text, just as the inverse of the usage of {fa'o}. The scope of the meaning of {jo'au} cluster spans over the following part until the next {jo'au} cluster appears. Optionally, if the first {jo'au} cluster appears in the middle of a text, the meaning of it spans from the beginning of the text until the next {jo'au} cluster appears. Examples of meaning: cylylypapi'epa jo'au (official yacc and jbofi'e http://www.lojban.org/jboski/ ) ; camxes.bu jo'au (current peg http://camxes.lojban.org/ ) ; iocixes.bu jo'au (zasni gerna of la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; ilmentufa burenopavopi'epapapi'erevo jo'au (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; fancylojban.bu jo'au (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau - no parser yet.)
+</p><p>
 jo'e<br />-jom-<br />JOI<br />non-logical connective: union of sets.
+</p><p>
+jo'ei [experimental]<br />JOI<br />nonlogical connective: disjoint union
+</p><p>
+jo'ei'i [experimental]<br />JOI<br />nonlogical connective (and mekso operator) - symmetric difference of sets<br />'X1 jo'ei'i X2' is equivalent to 'X1 kei'i X2 jo'ei X2 kei'ibo X1'. Analogous to .{onai} (logical XOR).
 </p><p>
 joi<br />-jol-<br />-joi-<br />JOI<br />non-logical connective: mixed conjunction; &quot;and&quot; meaning &quot;mixed together&quot;, forming a mass.
 </p><p>
 jo'i<br />JOhI<br />join mathematical expression (mex) operands into an array.
 </p><p>
 joibu<br />bu-letteral<br />BY*<br />letteral: ampersand character; especially used in standing for a mixed connective.
+</p><p>
+joi'i [experimental]<br />VUhU<br />mekso string operator (n-ary): formal left-concatenation; X_1+X_2+X_3+..., where X_i is a string/word/text<br />Generally noncommutative. The result is a single string written over the alphabet that is the union of each of the alphabets of the X_i's. &quot;ABC&quot;+&quot;DEF&quot;+&quot;GHI&quot;  = &quot;ABCDEFGHI&quot;.
 </p><p>
 jonai<br />JA*<br />logical connective: tanru-internal afterthought exclusive or; Latin 'aut'.
 </p><p>
@@ -876,7 +922,7 @@ ju'a<br />UI2<br />evidential: I state - (default) elliptical/non-specific basis
 </p><p>
 ju'aku'i<br />UI*<br />evidential: although, even though, while, whilst
 </p><p>
-ju'au [experimental]<br />JUhAU<br />semi-mathematical binary operator: named number base operator/interpreter<br />Follows a number and is followed by a sumti (introduced with appropriate gadri); scope terminates with the end of the sumti. The construct as a whole syntactically functions as a parenthetical so that mekso may be resumed immediately thereafter without any difficulty. The preceding number is semantically interpreted according to the description to which the following sumti refers. See also: {ju'u},  {pi'e}.
+ju'au [experimental]<br />JUhAU<br />semi-mathematical binary operator: named number base operator/interpreter<br />Follows a number and is followed by a sumti (introduced with appropriate gadri); scope terminates with the end of the sumti. The construct as a whole syntactically functions as a parenthetical so that mekso may be resumed immediately thereafter without any difficulty. The preceding number is semantically interpreted according to the description to which the following sumti refers. If a sequence is supplied as the following sumti, the preceding number is interpreted so that each digit, starting from the left, is understood as a multiple of the corresponding value in the sequence under the ordering given (which may produce an invalid/ill-formed result).  See also: {ju'u},  {pi'e}.
 </p><p>
 ju'e<br />JOI<br />vague non-logical connective: analogous to plain &quot;.i&quot;.
 </p><p>
@@ -908,6 +954,8 @@ ka'a<br />BAI<br />klama modal, 1st place                            gone to by 
 </p><p>
 ka'ai [experimental]<br />BAI<br />kansa modal, 1 place; with .../with a companion ...<br />See also {kansa}
 </p><p>
+ka'au [experimental]<br />VUhU3<br />mekso unary operator: cardinality (#, | |)<br />Usually should be reserved for use on sets; if applied to group, it is the cardinality of the underlying set (Which is the order of the group)- but it should probably not be applied to an element of a group. Application to a graph is ambiguous: is it the number of vertices or edges, or both, or neither, (if it defined at all)? For a set, each unique heretofore not counted element increments the running subtotal by 1 if the set is countable (small infinite or finite). See: {cu'a}, {zilkancu}, {nilzilcmi}, {gu'au'i}.
+</p><p>
 ka'e<br />CAhA<br />modal aspect: innate capability; possibly unrealized.
 </p><p>
 ka'ei'a [experimental]<br />PA5<br />digit/number: Conway's look-and-say constant λ ≈ 1.303577269…<br />Especially important for Lojban. Assumes decimal counting(?); therefore, not entirely culturally neutral or mathematically important, but it makes sense in the context of typical Lojban.
@@ -916,9 +964,15 @@ kai<br />BAI<br />ckaji modal, 1st place                            characterizi
 </p><p>
 ka'i<br />BAI<br />krati modal, 1st place                            represented by ...
 </p><p>
+kai'o [experimental]<br />PA5<br />quaternion i<br />Works like {ka'o} (as a comma) and is isomorphic to (and might even be considered identical to/equivalent with) it. See also: {ka'o}, {kei'o}, {koi'o}, {kau'o}.
+</p><p>
 kai'u [experimental]<br />NU<br />abstractor: x1 (x2, ...) are such that they satisfy [bridi], binding to the open {ce'u} slots.<br />See also {me'au}, {ka} and {ce'u}.
 </p><p>
-ka'o<br />PA5<br />digit/number: imaginary i; square root of -1.
+ka'o<br />PA5<br />digit/number: imaginary i; square root of -1.<br />See also: {kau'o}, {ka'o'ai}, {ka'o'ei}.
+</p><p>
+ka'o'ai [experimental]<br />PA5<br />imaginary i (non-comma)<br />This is literally a unit, a pure number that is treated as a scalar; it is what happens when considering C to be a field over C - ordered pairs/tuples for coordinates no longer make much sense. Thus, this number operates exactly as one might think i would/should operate: as a single number, without components. In certain bases, it can be used a pure digit (which simplifies some potential numeric strings, compared to the usage of {ka'o} therein). See also: {ka'o}
+</p><p>
+ka'o'ei [experimental]<br />imaginary i, comma - spherical coordinates: first coordinate gives magnitude (complex modulus/radius) of the number, the second number gives the angle from the positive real axis measured counterclockwise (default: in the primary branch/Arg) as measured in some units (which that number should contain; the contextless default will suppose radians); the angle is not normalized<br />The number (r, x) = r*e^(i x). The angle x is (by default) measured in radians and is not normalized (contains no hidden/inherent multiples of pi). See also: {te'o}, {ka'o}.
 </p><p>
 kau<br />UI3a<br />discursive: marks word serving as focus of indirect question: &quot;I know WHO went to the store&quot;.
 </p><p>
@@ -929,6 +983,8 @@ kau'a [experimental]<br />KOhA1<br />pro-sumti: strong-memory something1/eidetic
 kau'e [experimental]<br />KOhA1<br />pro-sumti: strong-memory something2/eidetic de/elephant thing2 (logically quantified existential, arbitrarily-long-scope pro-sumti)<br />The meaning is the same as {de} and it functions the same way except that any assignment/qualification placed upon it (except for quantification) is semantically retained throughout a discourse until {da'o} is uttered; it acts as though the scope (except for quantification that occurs outside of a POI-clause) of all previous usages are arbitrarily long, terminated only by {da'o} or the end of the discourse. User beware: usage is tricky. See also: {kau'a}, {kau'i}, {da'au}, {de}.
 </p><p>
 kau'i [experimental]<br />KOhA1<br />pro-sumti: strong-memory something3/eidetic di/elephant thing3 (logically quantified existential, arbitrarily-long-scope pro-sumti)<br />The meaning is the same as {di} and it functions the same way except that any assignment/qualification placed upon it (except for quantification) is semantically retained throughout a discourse until {da'o} is uttered; it acts as though the scope (except for quantification that occurs outside of a POI-clause) of all previous usages are arbitrarily long, terminated only by {da'o} or the end of the discourse. User beware: usage is tricky. See also: {kau'a}, {kau'e}, {da'au}, {di}.
+</p><p>
+kau'o [experimental]<br />PA5<br />generic algebra unit e_n<br />The structure/space in which it is being considered should be specified.  Subscripts are expected. Used for octonions, sedenions, etc. Can also be used for R, C, or H. Works like {ka'o} (as a comma) and is isomorphic to it. See also: {ka'o}, {kai'o}, {kei'o}, {koi'o}.
 </p><p>
 ke<br />-kem-<br />KE<br />start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping.<br />Cf. {ke'e}, {bo}.
 </p><p>
@@ -945,6 +1001,14 @@ ke'ei'a [experimental]<br />KEhEIhA<br />Toggles to left grouping of tanru.<br /
 kei<br />-kez-<br />KEI<br />elidable terminator: end abstraction bridi (often elidable).
 </p><p>
 ke'i<br />GAhO<br />open interval bracket marker; modifies intervals in non-logical connectives; exclude boundaries.
+</p><p>
+kei'ai [experimental]<br />PEhO<br />mekso style converter: elementwise application of operator<br />Prefixed to an operator/function that operates on numbers, thereby transforming it to a set operator (thus its arguments must be sets where before they were numbers), as defined in a given structure. Produces the set of all numbers that are given by some ordered pair of elements (the nth term of which belongs to the nth set specified) with the operator acting on them (per the rules of that operator). The set produced may include empty terms and/or infinity. Let &quot;✦&quot; represent the operator; then X_1 kei'ai ✦ X_2 boi X_3 boi X_4 = Set(x_1✦x_2✦x_3✦x_4: x_i in X_i). See also {kei'au} for a similar but different word.
+</p><p>
+kei'au [experimental]<br />KEIhAU<br />mekso operator: finite result set derived from/on set A with/due to operator/function B under ordering C<br />Equivalent to: lo'i li zy du ca'e li pe'o se'au mau'au B zai'ai vei ma'o xy boi ny ve'o boi tau sy boi C ku poi ke'a cmaci xanri zi'e poi ke'a mleca li ci'i zo'u tau sy klesi A. Acts on an operator/function (b) and produces all finite results of that operator being used on any allowable number of elements of the set a without repetition within any given application. The result must be defined (and finite, obviously). Application of the operator on nothing (the elements of the empty set) is generically allowed and follows convention (for example, an empty sum may evaluate to 0). Differs from {kei'ai}. Use {mau'au} and {zai'ai} for quoting B. C will be specified explicitly (possibly elsewhere) and/or via {zoi'ai}.
+</p><p>
+kei'i [experimental]<br />KEIhI<br />non-logical connective/mekso operator - variable arity: X1 \\ X2<br />Ordered: 'x1 kei'i x2' is not generally the same as/equivalent to 'x2 kei'i x1'. If X1 is not explicitly specified, it is taken to be some universal set in the discourse (of which all other mentioned sets are subsets, at the least); in this case, the word operates more as the set (absolute) complement. When X1 is specified, it represents the set relative complement. Somewhat analogous to logical NOT (just as intersection is analogous to logical AND, union is analogous to logical AND-OR). The preferred description/name in English is &quot;set (theoretic) exclusion&quot;.
+</p><p>
+kei'o [experimental]<br />PA5<br />quaternion j<br />Works like {ka'o} (as a comma) and is isomorphic to it. See also: {ka'o}, {kai'o}, {koi'o}, {kau'o}.
 </p><p>
 ke'o<br />COI<br />vocative: please repeat.
 </p><p>
@@ -983,6 +1047,8 @@ ko'e<br />KOhA4<br />pro-sumti: he/she/it/they #2 (specified by goi).
 koi<br />BAI<br />korbi modal, 1st place (bordered by)              bounded by ...
 </p><p>
 ko'i<br />KOhA4<br />pro-sumti: he/she/it/they #3 (specified by goi).
+</p><p>
+koi'o [experimental]<br />PA5<br />quaternion k<br />Works like {ka'o} (as a comma) and is isomorphic to it. See also: {ka'o}, {kai'o}, {kei'o}, {kau'o}.
 </p><p>
 ko'o<br />KOhA4<br />pro-sumti: he/she/it/they #4 (specified by goi).
 </p><p>
@@ -1174,17 +1240,21 @@ mau<br />BAI<br />zmadu modal, 1st place (a greater)                exceeded by 
 </p><p>
 ma'u<br />PA3<br />digit/number: plus sign; positive number; default any positive.
 </p><p>
+mau'au [experimental]<br />MAUhAU<br />mekso: conversion of operator/function to operand<br />Must be followed by a function (meaning &quot;f&quot;, not &quot;f(x)&quot; (which is a number)) or operator (such as &quot;+&quot;). Treats it formally and syntactically as a number so that it can be operated upon, such as by {se'au} or by a functional/operator (technical sense). Terminated by {zai'ai}; the pair essentially act as mathematical quotation marks.  Also works on connectives and {kei'i}.  Expressions may be complicated (such as with SE, NA, NAI, etc. modifying the string); perhaps one may even find a use for quoting relations (such as equality or element-hood) and/or some brivla or other cmavo.  See also: {kei'au}.
+</p><p>
 mau'e [experimental]<br />MAUhE<br />UI conversion start quote; converts grammatical Lojban text to cmavo of selma'o UI<br />Internal text/utterance must be grammatical and Lojbanic; output is some unspecified emotion relating to/specific to/associated with the referent of quoted text. The construct as a whole operates/behaves as UI. See also: {mau'o}.
 </p><p>
 mau'i [experimental]<br />CAI2<br />attitudinal: stronger intensity attitudinal relativizer<br />Specifies a stronger intensity - relative to any previously specified intensity of the same UI/cmavo. CAI2 after CAI specifies an absolute intensity - but the CAI2 specifies the relative shift from the regular value. CAI after CAI2 specifies an relative value - and the CAI denotes the relative amount interval size. See also {me'ai}, {dau'i}, {sai}
 </p><p>
 mau'o [experimental]<br />MAUhO<br />UI conversion end quote (elidable terminator); converts grammatical Lojban text to cmavo of selma'o UI<br />Internal text/utterance must be grammatical and Lojbanic; output is some unspecified emotion relating to/specific to/associated with the referent of quoted text. The construct as a whole operates/behaves as UI. See also: {mau'e}.
 </p><p>
+mau'u [experimental]<br />UI<br />savoring/focusing and attempting to retain feelings of strong satisfaction - trying to escape intense dissatisfaction<br />'Mmm...'
+</p><p>
 me<br />ME<br />convert sumti to selbri/tanru element; x_1 is specific to [sumti] in aspect x_2.
 </p><p>
 me'a<br />BAI<br />mleca modal, 1st place (a lesser)                 undercut by ... ; usually a sumti modifier.
 </p><p>
-me'ai [experimental]<br />CAI2<br />attitudinal: weaker intensity attitudinal relativizer<br />Specifies a stronger intensity - relative to any previously specified intensity of the same UI/cmavo. See also {mau'i}, {dau'i}, {ru'e}
+me'ai [experimental]<br />CAI2<br />attitudinal: weaker intensity attitudinal relativizer<br />Specifies a weaker intensity - relative to any previously specified intensity of the same UI/cmavo. See also {mau'i}, {dau'i}, {ru'e}
 </p><p>
 me'au [experimental]<br />ME<br />Convert abstract predicate sumti back to predicate<br />Has an inverse: {me'ei}
 </p><p>
@@ -1352,6 +1422,8 @@ na'i<br />UI3a<br />discursive: metalinguistic negator.<br />See also {naldra}, 
 </p><p>
 naja<br />JA*<br />logical connective: tanru-internal afterthought conditional/only if.
 </p><p>
+naku<br />NAKU<br />(adverbial) bridi contradictory negator; &quot;it is not true that....&quot;; negates the bridi as well as any other adverbial or quantifier located on its right.
+</p><p>
 na'o<br />TAhE<br />tense interval modifier: characteristically/typically; tense/modal; defaults as time tense.
 </p><p>
 na'onai<br />TAhE*<br />tense interval modifier: atypically; subjective tense/modal; defaults as time tense.
@@ -1375,6 +1447,8 @@ ne'e [experimental]<br />CAI<br />polar opposite scalar negator; equivalent to {
 nei<br />GOhA<br />pro-bridi: repeats the current bridi.
 </p><p>
 ne'i<br />FAhA3<br />location tense relation/direction; within/inside of/into ...
+</p><p>
+nei'o [experimental]<br />KOhA<br />pro-sumti: this paragraph
 </p><p>
 ne'o<br />VUhU3<br />unary mathematical operator: factorial; a!.
 </p><p>
@@ -1419,6 +1493,8 @@ noi<br />NOI<br />non-restrictive relative clause; attaches subordinate bridi wi
 no'i<br />NIhO<br />discursive: paragraph break; resume previous topic.
 </p><p>
 noi'a [experimental]<br />NOIhA<br />PA incidental relative clause; attaches to a PA number/numeral/digit with the ke'a referring to that PA number/numeral/digit.<br />It attaches to the last mentioned PA, which can be only a single digit within a number rather than the entire number itself (if it has digit length greater than one in some base). Thus, beware of grouping. Confer: {poi'a}, {jau'au}.
+</p><p>
+noi'i [experimental]<br />NOIhI<br />connective modifer/limiter<br />Used for {ji} and other connective questions.  It is preceded by such a connective (question) word and is followed by the set of words or the selma'o name to which the answer is expected/required to belong; the former may be literally a list of cmavo (such as 'zo .{e} ce zo .{a}', meaning that only AND or AND-OR are acceptable responses) or the name of a set of them (such as 'non-logical connectives', 'tanru after-thought connectives', 'symmetric connectives', 'all connectives except .{u}'. etc.). Terminated by {ge'u'i}. For example 'do djica tu'a loi ckafi ji noi'i lu .enai li'u ce lu na .e li'u ge'u'i loi tcati' asks 'Do you want: some coffee, some tea - where your answer can be only the former or the latter?'.
 </p><p>
 nomo'o<br />MAI*<br />discursive utterance ordinal: zeroth section/chapter ordinal; foreword.
 </p><p>
@@ -1472,6 +1548,8 @@ oinai<br />UI*1<br />attitudinal: complaint - pleasure.
 </p><p>
 o'inai<br />UI*1<br />attitudinal: caution - rashness.
 </p><p>
+oi'o [experimental]<br />UI1<br />attitudinal: fuck/shit - fuck yeah/hell yeah<br />Vulgar version of {oi} used to express condescending disgust/dismissal/disapproval/pain/complaint (or ecstatic approval/pleasure/excitement with {nai}) all at once.
+</p><p>
 oire'e<br />UI*1<br />attitudinal: spiritual/religious complaint.
 </p><p>
 oiro'a<br />UI*1<br />attitudinal: social complaint.
@@ -1497,6 +1575,8 @@ o'u<br />UI1<br />attitudinal: relaxation - composure - stress.<br />See also {s
 o'ucu'i<br />UI*1<br />attitudinal: relaxation - composure - stress.
 </p><p>
 o'unai<br />UI*1<br />attitudinal: relaxation - composure - stress.
+</p><p>
+o'y [experimental]<br />BY<br />letteral for o.<br />[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{obu}.]
 </p><p>
 pa<br />-pav-<br />PA1<br />digit/number: 1 (digit) [one].
 </p><p>
@@ -1738,6 +1818,8 @@ re<br />-rel-<br />PA1<br />digit/number: 2 (digit) [two].
 </p><p>
 re'a<br />VUhU4<br />unary mathematical operator: matrix transpose/dual; A*.
 </p><p>
+re'au'e [experimental]<br />SE<br />the trivial selbri conversion - identity permutation of terbri<br />Outputs the terbri in the standard/original/trivial order: x1 broda x2 x3 x4 x5. Useful for answering '{se'u'o}' questions.
+</p><p>
 re'e<br />UI4<br />emotion category/modifier: religious/spiritual/worship - sacrilege.<br />See also {lijda}.
 </p><p>
 re'enai<br />UI*4<br />emotion category/modifier: spiritual/worship - sacrilege.
@@ -1783,6 +1865,8 @@ ri'enai<br />UI*5<br />attitudinal modifier: release of emotion - emotion restra
 ri'i<br />BAI<br />lifri modal, 1st place patient/passive case tag; happens to...,experienced by...,with passive...
 </p><p>
 ri'o<br />VUhU4<br />trinary mathematical operator: [integral of a with respect to b over range c].
+</p><p>
+ri'oi [experimental]<br />LE<br />the latest aformentioned...; refers back to the most recently mentioned thing(s) that satisfies the following predicate<br />See also {ri'oirkai}, {ri}, {ra}, {le}, {bi'unai}.
 </p><p>
 ri'u<br />FAhA2<br />location tense relation/direction; rightwards/to the right of ...
 </p><p>
@@ -1862,6 +1946,8 @@ sau<br />BAI<br />sarcu modal, 1st place                            requiring ..
 </p><p>
 sa'u<br />UI3<br />discursive: simply - elaborating.<br />See also {sampu}, {pluja}.
 </p><p>
+sau'ei [experimental]<br />COI<br />vocative: celebratory cheer/hooray
+</p><p>
 sa'unai<br />UI*3<br />discursive: simply - elaborating.
 </p><p>
 se<br />-sel-<br />SE<br />2nd conversion; switch 1st/2nd places.
@@ -1869,8 +1955,6 @@ se<br />-sel-<br />SE<br />2nd conversion; switch 1st/2nd places.
 se'a<br />UI5<br />attitudinal modifier: self-sufficiency - dependency.<br />See also {sezysei}, {kantcu}.
 </p><p>
 se'anai<br />UI*5<br />attitudinal modifier: self-sufficiency - dependency.
-</p><p>
-se'au [experimental]<br />VUhU<br />mathematical quinary operator: left sequence notation/converter<br />Produces the left application of the operation/function a=• on sequence b=b(y(c)), the terms of which are functions evaluated at (possibly dummy) values c (multi-index) belonging to set d (at the values of which the function b is evaluated) taken in order e (rule prescription; note that the application is from the left). The steps at which c's are taken can be specified by d or by taking complicated (evaluated) expressions y of c as arguments of b. Output is in the format (for example: scalar, tensor, function, etc.) that the operation a=• yields. For Sigma/series summation notation, a=+, for Pi multiplication notation a=*, for functional power/iterated composition of functions a=°, for the Cartesian product of sets a=× (preferred to &quot;exponentiation of sets&quot; notation like A^n).
 </p><p>
 sebai<br />BAI*<br />bapli modal, 2nd place (forcing result)           compelling event ...
 </p><p>
@@ -1986,6 +2070,8 @@ seni'inai<br />BAI*<br />nibli modal, 2nd place                            entai
 </p><p>
 se'o<br />UI2<br />evidential: I know by internal experience (dream, vision, or personal revelation).<br />See also {senva}.
 </p><p>
+se'o'e [experimental]<br />SE<br />elliptical/generic/unspecific/vague selbri conversion<br />Basically says 'in some (id est: at least one) ordering/permutation, these arguments and this selbri make sense [and I claim the produced sentence]'. The ordering may be complicated, or it could even be the case that multiple orderings work.  Can be useful for when one does not quite remember or care about the exact definition of a brivla, including in sumti; can also be useful when the conversion is particularly complicated, when a desired terbri has a large index, or when multiple conversions are true; it is an allowed, if unhelpful, response to {se'u'o}.
+</p><p>
 sepa'a<br />BAI*<br />panra modal, 2nd place                            similarly; similar to ...
 </p><p>
 sepa'u<br />BAI*<br />pagbu modal, 2nd place (whole)                    partially; as a part of ...
@@ -2018,6 +2104,8 @@ setai<br />BAI*<br />tamsmi modal, 2nd place                           similarly
 </p><p>
 seta'i<br />BAI*<br />tadji modal, 2nd place                            methodically; as a method for doing ...
 </p><p>
+setese<br />SE*<br />complicated selbri conversion: exchange x2 and x3<br />Equivalent to {tesete}.
+</p><p>
 seti'i<br />BAI*<br />stidi modal, 2nd place                            suggestively; suggesting (idea/action) ...
 </p><p>
 seti'u<br />BAI*<br />tcika modal, 2nd place (for letters)              at the same time as ... ; label with event.
@@ -2025,6 +2113,8 @@ seti'u<br />BAI*<br />tcika modal, 2nd place (for letters)              at the s
 setu'i<br />BAI*<br />stuzi modal, 2nd place                            as a location of ...
 </p><p>
 se'u<br />SEhU<br />elidable terminator: end discursive bridi or mathematical precedence;usually elidable.
+</p><p>
+se'u'o [experimental]<br />SE<br />selbri conversion question<br />Asks for the SE word that is intended (or at least makes the sentence true). Subscript a set of numbers that represent the order of terbri in question; the subscripted set can be a set of ordered or unordered tuples, specifying exactly which terbri may be exchanged. 'la .ralf. se'u'o xi li re ce li ci pi'u li re cebo li ci klama by boi cy' = 'Did Ralph come to B from C or to C from B?' (notably, 'Did B come to Ralph from C?' is not a possible option for answering the question). An answer is a SE string that is allowed by the selbri and by the subscripts; continuing the example, if the response is 'Ralph went to C from B', one would respond with '.i {setese}'.  Any SE word works for the general question possibility (which is the unrestricted/non-subscripted case). Essentially 'se'u'o xi sy' is equivalent to 'se xi li xo poi ke'a cmima sy' (where '{te}' is basically understood as ' se xi li jo'i pa boi ci te'u ', etc.), but the answer can be a complicated ordered sequence/string of SE words; this word complements specifically {fi'a} in the typical/same way that SE complements FA. Typically, leaving the subscripted set vague or not completely free of every possible semantic or syntactic pathology is perfectly fine; syntax and practicality will typically restrict it enough for reasonable responses to be made. See also: {re'au'e} (which alone would be used in answering that 'Ralph goes to B from C' in the previous question).
 </p><p>
 seva'o<br />BAI*<br />vanbi modal, 2nd place (environment)              as conditions/environment of/for ...
 </p><p>
@@ -2048,7 +2138,7 @@ si'o<br />-siz-<br />NU<br />abstractor: idea/concept abstractor; x_1 is x_2's c
 </p><p>
 si'u<br />BAI<br />sidju modal, 1st place (aiding agent)             aided by ...
 </p><p>
-slaka bu<br />bu-letteral<br />BY*<br />letteral: Lojban &quot;,&quot; character.
+slaka bu<br />bu-letteral<br />BY*<br />letteral: Lojban ',' character.
 </p><p>
 so<br />-soz-<br />PA1<br />digit/number: 9 (digit) [nine].
 </p><p>
@@ -2088,13 +2178,15 @@ su<br />SU<br />erase to start of discourse or text; drop subject or start over.
 </p><p>
 su'a<br />UI2<br />evidential: I generalize - I particularize; discursive: abstractly - concretely.<br />See also {sucta}, {sucni'i}.
 </p><p>
+su'ai [experimental]<br />SE<br />replaces first two places with one having reciprocal relation between its members<br />'do ce mi ce abu su'ai damba' = 'You, I and A had a battle royale'
+</p><p>
 su'anai<br />UI*2<br />evidential: I generalize - I particularize; discursive: abstractly - concretely.
 </p><p>
 su'e<br />-sup-<br />-su'e-<br />PA4<br />digit/number: at most (all); no more than.
 </p><p>
-su'i<br />VUhU1<br />n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)].
+su'ei [experimental]<br />SE<br />shows that the first two places have a reciprocal relation<br />'mi do su'ei damba' is the same as 'mi do se xi vei pa .e re damba' and means &quot;We fight with each other&quot;
 </p><p>
-su'i'u [experimental]<br />CAhA<br />modal aspect: members do the reciprocal activity<br />&quot;mi jo'u do jo'u ky. su'i'u sinma&quot; is the same as &quot;mi jo'u do jo'u ky. simxu lo ka ce'u ce'u sinma&quot;
+su'i<br />VUhU1<br />n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)].
 </p><p>
 su'o<br />-suz-<br />-su'o-<br />PA4<br />digit/number: at least (some); no less than.
 </p><p>
@@ -2178,6 +2270,8 @@ tei<br />TEI<br />composite letteral follows; used for multi-character letterals
 </p><p>
 te'i'o [experimental]<br />UI3<br />discursive: specified by the speaker - unspecified by the speaker<br />Used to indicate that a referent(s) of the preceding word/structure (usually sumti) is/are specified by the speaker; See also {steci}, {sanji}
 </p><p>
+tei'u [experimental]<br />TEIhU<br />elidable terminator of a JAhOI construct<br />See also: {ja'oi}
+</p><p>
 teja'i<br />BAI*<br />javni modal, 3rd place                            orderly; by rule within system ...
 </p><p>
 teji'e<br />BAI*<br />jimte modal, 3rd place                            limitedly; limited in property/domain ...
@@ -2232,6 +2326,8 @@ teri'a<br />BAI*<br />rinka modal, 3d place (phys./mental)             causally 
 </p><p>
 tesau<br />BAI*<br />sarcu modal, 3rd place (conditions 2)             necessarily; necessarily under ...
 </p><p>
+tesete<br />SE*<br />complicated selbri conversion: exchange x2 and x3<br />Equivalent to {setese}.
+</p><p>
 tesi'u<br />BAI*<br />sidju modal, 3rd place                            assisting in doing/maintaining/achieving ...
 </p><p>
 tetai<br />BAI*<br />tamsmi modal, 3rd place                           similarly; sharing common ideal form ...<br />{tamsmi} is x_1 resembles x_2 sharing ideal form/shape x_3 in property x_4
@@ -2264,7 +2360,7 @@ to<br />TO<br />left parenthesis; start of parenthetical note which must be gram
 </p><p>
 to'a<br />BY1<br />lower-case letteral shift.
 </p><p>
-to'ai [experimental]<br />SE<br />conversion: move 3rd place to 1st position. Everything else stays in the same order.<br />Before: x1 x2 x3 x4 x5, after: x3 x1 x2 x4 x5. Has the same effect as &quot;te se&quot;. Proposed rafsi: -toz-
+to'ai [experimental]<br />SE<br />conversion: move [['drag-and-drop'] 3rd place to 1st position. Everything else stays in the same order.<br />Before: x1 x2 x3 x4 x5, after: x3 x1 x2 x4 x5. Has the same effect as &quot;te se&quot;. Proposed rafsi: -toz-
 </p><p>
 to'e<br />-tol-<br />-to'e-<br />NAhE<br />polar opposite scalar negator.
 </p><p>
@@ -2306,6 +2402,8 @@ ua<br />UI1<br />attitudinal: discovery - confusion/searching.<br />See also {fa
 </p><p>
 u'a<br />UI1<br />attitudinal: gain - loss.<br />See also {jinga}, {selne'u}, {prali}, {cirko}.
 </p><p>
+uai [experimental]<br />UI1<br />attitudinal: friendly/friendishly/amicably/companionship/compatriotship/comradeship - antagonistically/enemyishly<br />See also: {ai}, {au}, {iu}, {o'e}, {ua}, {ui}, {kansa}, {pendo}, {prami}
+</p><p>
 u'ai [experimental]<br />UI1<br />attitudinal: triumph/victory - draw/tie/inconclusive - defeat/loss<br />Does not imply superiority.  Related to: {io}, {o'a}, {ui}, {oinai}, {uo}, {u'a}.
 </p><p>
 uanai<br />UI*1<br />attitudinal: discovery - confusion/searching.
@@ -2336,6 +2434,8 @@ uinai<br />UI*1<br />attitudinal: happiness - unhappiness.
 </p><p>
 u'inai<br />UI*1<br />attitudinal: amusement - weariness.
 </p><p>
+ui'y [experimental]<br />BY*<br />letteral for :)<br />Synonynous with .{uibu}. [This word is presently not allowed by morphological and phonotactic constraints.  See: .{a'y}, .{y'i}]
+</p><p>
 uo<br />UI1<br />attitudinal: completion - incompleteness.<br />See also {mulno}, {mansa}, {fanmo}, {snada}.
 </p><p>
 u'o<br />UI1<br />attitudinal: courage - timidity - cowardice.<br />See also {virnu}.
@@ -2355,6 +2455,10 @@ u'ucu'i<br />UI*1<br />attitudinal: repentance - lack of regret - innocence.
 uunai<br />UI*1<br />attitudinal: pity - cruelty.
 </p><p>
 u'unai<br />UI*1<br />attitudinal: repentance - lack of regret - innocence.
+</p><p>
+uy [experimental]<br />BY<br />letteral for the u semi-vowel
+</p><p>
+u'y [experimental]<br />BY<br />letteral for u.<br />[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ubu}.]
 </p><p>
 va<br />-vaz-<br />VA<br />location tense distance: near to ... ; there at ...; a medium/small distance from ...
 </p><p>
@@ -2516,6 +2620,8 @@ xe'u [experimental]<br />GOhA<br />Abstraction variable indicator selbrisle.<br 
 </p><p>
 xi<br />XI<br />subscript; attaches a number of letteral string following as a subscript onto grammar structures.
 </p><p>
+xi'i [experimental]<br />XI<br />extent of truth<br />Proposed here: http://balance.wiw.org/~jkominek/lojban/9511/msg00430.html . See {xu'au} for a synonymous word (other than tentatively and temporarily belonging to a different selma'o) that is proposed in order to avoid multiple definitions for &quot;xi'i&quot;.
+</p><p>
 xi'i'ei [experimental]<br />PA5<br />digit/number: Khinchin's constant K_0 = 2.6854520010…<br />See also: {vi'ei'e}, {fi'u}, {te'o}
 </p><p>
 xo<br />PA5<br />digit/number: number/digit/lerfu question.
@@ -2530,11 +2636,15 @@ xoi [experimental]<br />XOI<br />Right-scoping adverbial clause: encloses a brid
 </p><p>
 xo'i [experimental]<br />XOhI<br />Extracts selbri from a tag, inverse of fi'o<br />xo'i bau is equivalent to bangu, xo'i fi'o broda is equivalent to broda
 </p><p>
+xoi'u [experimental]<br />JOI<br />non-logical connective (mekso set operator): regardless<br />Primary motivation is to allow for an analog of .{u} using non-logical connectives of the form of set operators (in the same analogy that related set intersection to logical AND). .krtisfranks. is not sure that this word even fulfills a heretofore unsatisfied logical role, let alone is necessary or practically useful/desirable.
+</p><p>
 xo'o [experimental]<br />UI5<br />attitudinal modifier: sarcastically - sincerely<br />There is no good attitudinal for sarcasm. Chosen for its similarity to {zo'o}.
 </p><p>
 xu<br />UI6<br />discursive: true-false question.
 </p><p>
 xua'ai [experimental]<br />VUhU<br />mekso operator: the bth branch of the (possibly multivalued) function a<br />According to convention or by explicit definition in the discourse. Default is b=1.
+</p><p>
+xu'au [experimental]<br />XUhAU<br />extent of truth<br />As described here: http://balance.wiw.org/~jkominek/lojban/9511/msg00430.html, where the proposed word is {xi'i} and the selma'o is XI
 </p><p>
 xunai<br />UI*6<br />discursive: false-true question.<br />Example: {xunai} {do} {djuno} - 'Don't you know?'
 </p><p>
@@ -2547,6 +2657,8 @@ xy<br />BY2<br />letteral for x.
 y<br />Y<br />hesitation noise; maintains the floor while speaker decides what to say next.
 </p><p>
 ybu<br />bu-letteral<br />BY*<br />letteral for y.
+</p><p>
+y'i [experimental]<br />YhI<br />connective: elliptical/generic/vague<br />Like {zo'e} or {co'e}, but for connectives. The connectives referred to may be logical or non-logical; they take the form proper for the syntax/context (probably is best implemented using post-original CLL connective system modification such as the MAD proposal or the system developed by selpa'i); in standard original CLL usage, this would be the inter-sumti connective. [Presently not allowed by morphology/phonotactic constraints. As such is the case, confer: {ji'o'e}.]
 </p><p>
 y'y<br />BY2<br />letteral for '.
 </p><p>
@@ -2563,6 +2675,8 @@ zai<br />LAU<br />2-word letteral/shift: alternate alphabet selector follows.
 za'i<br />-zaz-<br />NU1<br />abstractor: state (event) abstractor; x_1 is continuous state of [bridi] being true.
 </p><p>
 zai'a [experimental]<br />UI5<br />attitudinal modifier: observed emotion; preceding attitudinal is observed on listener<br />Replaces recent questionable usage of dai, which should be reserved for situations in which the speaker also feels the emotion. ui nai zai'a - I see you are unhappy. (Note that observation is not limited to visual)
+</p><p>
+zai'ai [experimental]<br />ZAIhAI<br />(elidable) terminator of mathematical/formal quote with mau'au<br />See also: {mau'au}.
 </p><p>
 zai'o [experimental]<br />KOhA7<br />pro-sumti: the empty argument/value; syntactically-contextually and type-permitted maximally generic in its typing<br />It is a pro-sumti with an empty reference set.  Probably semantically maximally and generally elliptical/generic. Typing can be restricted by (possibly metalinguistic) restriction. See also: {gai'o} (pro-bridi; empty), {mai'i} (pro-sumti; universal), {cei'i} (pro-bridi; universal), {ctaipe}. Proposed by: lai .az. .e lai .krtisfranks.
 </p><p>
@@ -2610,7 +2724,7 @@ ze'u<br />ZEhA<br />time tense interval: a long amount of time.
 </p><p>
 zi<br />ZI<br />time tense distance: instantaneous-to-short distance in time.
 </p><p>
-zi'a [experimental]<br />UI3a<br />nonce-word indicator; indicates previous word is nonce-creation and may be nonstandard; equivalent to {za'e} but in selma'o UI<br />See also {za'e}
+zi'a [experimental]<br />UI3a<br />nonce-word indicator; indicates previous word is nonce-creation and may be nonstandard<br />Equivalent to {za'e} but in selma'o UI. See also {za'e}
 </p><p>
 zi'a'o [experimental]<br />VUhU<br />mathematical operator: the empty/null [one sense]/trivial [one sense]/blank operator<br />Arity is context-dependent. Induced structure is /probably/ empty/trivial [one sense] as well.
 </p><p>
@@ -2628,11 +2742,13 @@ zo'au [experimental]<br />LA<br />cmene quote; quotes arbitrary number of adjace
 </p><p>
 zo'e<br />KOhA7<br />pro-sumti: an elliptical/unspecified value; has some value which makes bridi true.
 </p><p>
-zo'ei [experimental]<br />LAhE<br />Something associated with; equivalent to ''zo'e pe''.<br />There are a lot of cases where people use &quot;tu'a&quot; where they actually mean zo'ei; once I noticed the usefulness of such a word to elide whole chunks of sentences, I started wanting it all the time.  -camgusmis
+zo'ei [experimental]<br />LAhE<br />Something associated with; equivalent to ''zo'e pe'' or &quot;lo co'e be&quot;.<br />There are a lot of cases where people use &quot;tu'a&quot; where they actually mean zo'ei; once I noticed the usefulness of such a word to elide whole chunks of sentences, I started wanting it all the time.  -camgusmis
 </p><p>
 zoi<br />ZOI<br />delimited non-Lojban quotation; the result treated as a block of text.
 </p><p>
 zo'i<br />-zor-<br />-zo'i-<br />FAhA4<br />location tense relation/direction; nearer than .../inward/approaching from ...
+</p><p>
+zoi'ai [experimental]<br />ZOIhAI<br />non-mekso quote/name substitution for ordered collection of prescriptions, descriptions, definitions, etc.<br />Delimited non-math/non-mekso quote (works like {zoi} in this respect). Treats the quote as a substitute for some formal collection of rules or mathematical description/definitions/notations; the exact meaning of the quote must be inferred as is the case with {la} or any quote; the quote is treated as a single block of text representative a single entity so described in only that case/context by the utterer; can be used to clarify the interpretation of text (convention specification; text need not be mathematical (in which case, it must be used in a meta-linguistic scope)) or as an operand of certain mathematical operators (or, more generally perhaps, bridi).  Might be useful for quoting names as descriptors for arguments of operands. For example: orderings, metrics, bases, densities, analytic properties, conventions, etc. can all be more easily described by a moniker than by a formal mathematical description. See also: {ju'au}, {se'au}, {mau'au}.
 </p><p>
 zo'o<br />UI5<br />attitudinal modifier: humorously - dully - seriously.<br />See also {xajmi}, {junri}.
 </p><p>

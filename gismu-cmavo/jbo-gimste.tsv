@@ -37,6 +37,7 @@ crino	gismu   	-ri'o-		      	x_1 skari lo'e banro je vifne srasu .a lo'e gusni 
 cukla	gismu   	-cuk-		      	x_1 se cimde re da ije lo jimte be x_1 cu manfo lo ka ce'u sepli lo midju be x_1 makau
 darxi	gismu   	-dax-   	-da'i-	      	x_1 gasnu lo nu x_3 noi pagbu x_1 cu janli x_4 noi pagbu x_2
 dilcu	gismu			      	x_1 te fatri x_3 boi x_2 .i x_1 nu'a fe'i x_2 boi x_3	{fatri}; {fe'i}
+djuno	gismu   	-jun-   	-ju'o-	      	x_1 ba'o facki fi zi'o fe lo du'u x_3 zo'u me'au x_2 vau noi jetnu x_4
 drata	gismu   	-dat-		      	x_1 frica x_2 lo ka ce'u du makau ma'i x_3 i x_1 to'e mintu x_2 boi x_3	{frica}, {mintu}
 dugri	gismu   	-dug-		      	x_2 tenfa x_3 boi x_1 .i x_1 nu'a de'o x_2 boi x_3	{tenfa}; {de'o}
 dukse	gismu   	-dus-   	-du'e-	      	x_1 zmadu lo banzu x_2 ma'i x_3 .i x_1 zmadu lo mansa be x_3 bei x_2	{banzu}, {zmadu}; {du'e}
@@ -50,6 +51,7 @@ gacri	gismu   	-gai-		      	x_1 pagbu je bartu je marbi x_2
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 gasnu lo nu x_2 binxo x_3
 ganlo	gismu   	-ga'o-		      	lo nu pagre x_1 boi (to noi vorme toi) x_2 fa x_3 fo zi'o cu se zunti zi'o zi'o	ko catlu fe ji'a zo {kalri} .e zo {pagre} .e zo {canko} .e zo {vorme} .e zo {zunti}
 ganra	gismu   	-gan-		      	x_1 barda x_2 noi remoi cimde x_1 ku'o x_3
+gasnu	gismu   	-gau-		      	lo nu x_1 zukte cu selja'e x_2
 gradu	gismu   	-rau-		      	x_1 pa mei gi'e ckaji x_3 noi se ckilu x_2	{pa}, {mei}, {ckaji}, {ckilu}
 gugde	gismu   	-gug-   	-gu'e-	      	x_1 ciste lo nu turni kei lu'i x_2 noi prenu ra'a x_3 noi tutra lu'u lo ka co'e
 janli	gismu   	-jal-		      	x_1 binxo lo lamji be x_2
@@ -77,6 +79,7 @@ manfo	gismu			      	x_1 ckaji x_2 ije ro pagbu be x_1 cu dunli x_1 boi x_2 i x_
 mensi	gismu   	-mes-   	-me'i-	      	x_1 fetsi gi'e tunba x_2 boi x_3
 merli	gismu   	-mre-		      	x_1 pajni lo du'u x_2 klani x_3 boi x_4 fi'o se satci x_5	{pajni}, {klani}, {satci}
 mintu	gismu   	-mit-   	-mi'u-	      	x_1 dunli x_2 lo ka ce'u du makau ma'i x_3 i x_1 to'e drata x_2 boi x_3 i x_1 joi x_2 simxu lo ka ce'u ce'u basti x_3	{dunli}, {drata}
+mleca	gismu   	-mec-   	-me'a-	      	lo se me'au x_3 be x_1 lo se me'au x_3 be x_2 cu dubme'a gi'e se sumji x_4	srana fa zo {dubme'a} .e zo {zmadu} .e zo {dunli} .e zo {frica}
 mupli	gismu   	-mup-		      	x_1 noi cmima x_3 cu jarco x_2 noi kampu x_3	{mu'u}; {mu'a}
 mutce	gismu   	-tce-		      	x_1 klani lo barda be fi x_3 be'o x_2	{toltce}, {milxe}; {so'i}
 muvdu	gismu   	-muv-   	-mu'u-	      	x_1 cenba lo ka ce'u zvati makau kei fe'e co'u x_2 fe'e co'a x_3 fe'e ca'o x_4
@@ -103,6 +106,7 @@ rirni	gismu   	-rir-		      	x_1 kurji x_2 ze'a lo nu x_2 banro lo makcu lo cifn
 rorci	gismu   	-ror-		      	x_1 kansa x_3 lo nu x_2 co'a panzi x_1 joi x_3
 rotsu	gismu   	-rot-   	-tsu-   	-ro'u-      	x_1 barda x_2 noi cmarai cimde x_1 ku'o x_3
 sance	gismu   	-sna-		      	x_1 se krasi x_2 gi'e ka'e se tirna	{tirna}; {jvinu}; {panci}; {vrusi}; {tengu}
+sarcu	gismu   	-sa'u-		      	lo nu x_1 narfau cu banzu lo nu x_2 narfau	srana fa zo {nitcu}
 satre	gismu   	-sa'e-		      	x_1 pencu x_2 boi x_3 lo kuspe noi x_3 muvdu fo ke'a
 senpi	gismu   	-sen-		      	x_1 no'e krici x_2 .i x_1 na'e birti x_2	{krici}; {birti}; {iacu'i}
 setca	gismu   	-se'a-		      	x_1 gasnu lo nu x_2 nenri x_3
@@ -110,6 +114,7 @@ sfofa	gismu   	-sfo-		      	x_1 barda nilce fi lo ka zutse ce'u
 sicpi	experimental gismu			      	x_1 litki x_2 gi'e ba'o lunsa lo vacri gi'e carvi fi lo varsenta	{bratu}, {snime}, {carvi}
 sirji	gismu   	-sir-		      	x_1 toryrai lo linji be x_2 e x_3 	{linji}
 skapi	gismu   	-kap-		      	x_1 marji lo pilka be x_2 noi danlu	{marji}, {pilka}, {danlu}
+slabu	gismu   	-sau-		      	x_1 tolni'o x_2 boi x_3 boi x_4
 smaji	gismu   	-sma-		      	x_1 seltinynalka'e lo'e zvati be x_2 ma'i x_3 .i x_1 se sance no da	{seltinynalka'e}, {sance}
 snuti	gismu   	-nut-		      	x_1 to'e se zukte x_2 zi'o zi'o	{zukte}; {cunso}
 spofu	gismu   	-pof-   	-po'u-	      	x_1 na ka'e akti x_2
@@ -146,5 +151,6 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 skari lo'e ciblu .a lo'e gusni poi tra
 zasni	gismu   	-zas-		      	x_1 ckaji x_2 ije lo nu x_1 cenba x_2 cu lakne ma'i x_3
 zasti	gismu   	-zat-   	-za'i-	      	lo nu su'o da zo'u da me x_1 ku se manri x_2 boi x_3	{manri}, {me}, {da}
 zenba	gismu   	-zen-   	-ze'a-	      	x_1 cenba x_2 boi x_3 ja'e lo nu lo fanmo cu zmadu lo krasi x_2
+zmadu	gismu   	-zma-   	-mau-	      	lo se me'au x_3 be x_1 lo se me'au x_3 be x_2 cu dubmau gi'e sumji x_4	srana fa zo {dubmau} .e zo {mleca} .e zo {dunli} .e zo {frica}
 zukte	gismu   	-zuk-   	-zu'e-	      	x_1 gasnu lo nu x_1 ckaji x_2 kei mu'i lo nu x_1 kanpe lo nu lo nu x_1 ckaji x_2 cu se jalge x_3
 zvati	gismu   	-zva-		      	x_1 dunli x_2 le ka ce'u fasnu bu'u makau	{bu'u}
