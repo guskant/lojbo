@@ -1,0 +1,33 @@
+s/^.*<valsi word=\"//
+s/^.*<valsi unofficial.*\" word=\"//
+/type=\"bu-letteral/d
+/type=\"cmevla/d
+/type=\"lujvo/d
+/type=\"fu'ivla/d
+/type=\"zei-lujvo/d
+/type=\"obsolete/d
+/type=\"cmavo/d
+/type=\"experimental cmavo/d
+/type=\"cmavo-compound/d
+s/\" type=\"/	/
+/<rafsi>/!s/\">/			/
+s/\">//
+s/<rafsi>/	-/
+/<rafsi>/!s/<\/rafsi>/-		/
+s/<\/rafsi>/-/
+s/<rafsi>/	-/
+/<rafsi>/!s/<\/rafsi>/-	/
+s/<\/rafsi>/-/
+s/<rafsi>/	-/
+s/<\/rafsi>/-/
+s/<user>.*<\/user>//
+s/<definition>/	/
+s/<\/definition>.*<notes>/	/
+s/<\/.*$//
+s/\$//g
+s/{\([0-9]\+\)}/\1/g
+s/&apos;/'/g
+s/\\/\\\\/g
+s/\\\\n/\\n/g
+p
+d

@@ -1,0 +1,14 @@
+/<rafsi>/!d
+s/^.*<valsi word=\"//
+s/^.*<valsi unofficial.*\" word=\"//
+s/\" type=\".*\">//
+s/<user>.*<\/user>//
+s/<rafsi>/	/g
+s/<\/rafsi>/-/g
+s/<selmaho>.*$//
+s/<definition>.*$//
+s/&apos;/'/g
+s/ *//g
+s/\t\+$//
+p
+d

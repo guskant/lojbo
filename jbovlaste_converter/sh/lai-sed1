@@ -1,0 +1,14 @@
+/<nlword word=\"\"/d
+s/^.*<nlword word=\"//
+s/\" sense=\"/ : /
+s/\" valsi=\"/	/
+s/\" place=\"/_/
+s/\" \/>.*$//
+s/\"\/>.*$//
+s/&apos;/'/g
+s/\\/\\\\/g
+s/\\\\n/\\n/g
+s/^gua\\\\/gua\\/
+s/^Gua\\\\/Gua\\/
+p
+d

@@ -1,0 +1,19 @@
+s/^.*<valsi word=\"//
+s/^.*<valsi unofficial.*\" word=\"//
+s/\" type=\"/	/
+s/\">//
+s/<rafsi>/\\n-/g
+s/<\/rafsi>/-/g
+s/<selmaho>/\\n/
+s/<\/selmaho>//
+s/<user>.*<\/user>//
+s/<definition>/\\n/
+s/<\/definition>.*<notes>/\\n/
+s/<\/.*$//
+s/\$//g
+s/{\([0-9]\+\)}/\1/g
+s/&apos;/'/g
+s/\\/\\\\/g
+s/\\\\n/\\n/g
+p
+d

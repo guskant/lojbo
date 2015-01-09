@@ -1,0 +1,31 @@
+multi.sh is a linux bash file that will convert xml dumps from la jbovlaste into StarDict dictionary files. It requires the files in the directory tree under jbovlaste_converter, as well as stardict-tools-3.0.1 with a patch.
+See 
+https://github.com/guskant/lojbo/tree/master/stardict-tools-patch
+for the patch.
+
+Optionally, it can create a mobi formatted dictionary for Kindle Paperwhite by using kindlegen and uncommenting the last four lines of multi.sh. Modify the commands in it if you need a dictionary other than French, Japanese and English languages.
+See 
+http://www.amazon.com/gp/feature.html?docId=1000765211
+for kindlegen.
+
+
+
+Usage.
+Download xml dumps from jbovlaste:
+http://jbovlaste.lojban.org/export/xml.html
+Requirement:
+_Login to the website_ and _right-click and save as_ *.xml into the folder 
+jbovlaste_converter/xml
+Viewing on a browser and/or logged-out of the website may not bring you a required format. English, Lojban and Japanese files must be named as follows:
+eng.xml
+jbo.xml
+jpn.xml
+
+eng.xml and jbo.xml are necessary for all languages. If you don't need a Japanese dictionary, input "#" at the beginning of the line number 11 of multi.sh.
+
+The following command will produce Stardict dictionary files.
+$ cd [...path to...]jbovlaste_converter
+$ ./multi.sh
+
+
+mi'e la guskant mu'o

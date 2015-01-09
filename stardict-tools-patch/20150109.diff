@@ -1,0 +1,380 @@
+commit 227370cd0f593db96e2ade4adf7511faeee13a49
+Author: guskant <gusni.kantu@gmail.com>
+Date:   Fri Jan 9 11:10:35 2015 +0900
+
+    patch
+
+diff --git a/stardict-tools-3.0.1/configure b/stardict-tools-3.0.1/configure
+index 68a6e71..0deb23b 100755
+--- a/stardict-tools-3.0.1/configure
++++ b/stardict-tools-3.0.1/configure
+@@ -6400,7 +6400,7 @@ EOF
+ EOF
+ 	  # Now try linking the two files.
+ 	  mv conftest.$ac_objext conftstm.$ac_objext
+-	  lt_save_LIBS="$LIBS"
++	  lt_save_LIBS="$LIBS -lz"
+ 	  lt_save_CFLAGS="$CFLAGS"
+ 	  LIBS="conftstm.$ac_objext"
+ 	  CFLAGS="$CFLAGS$lt_prog_compiler_no_builtin_flag"
+@@ -9285,7 +9285,7 @@ if test "${ac_cv_lib_dl_dlopen+set}" = set; then
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldl  $LIBS"
++LIBS="-ldl -lz $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9443,7 +9443,7 @@ if test "${ac_cv_lib_dld_shl_load+set}" = set; then
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldld  $LIBS"
++LIBS="-ldld -lz $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9591,7 +9591,7 @@ if test "${ac_cv_lib_dl_dlopen+set}" = set; then
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldl  $LIBS"
++LIBS="-ldl -lz $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9655,7 +9655,7 @@ if test "${ac_cv_lib_svld_dlopen+set}" = set; then
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-lsvld  $LIBS"
++LIBS="-lsvld -lz $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9719,7 +9719,7 @@ if test "${ac_cv_lib_dld_dld_link+set}" = set; then
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldld  $LIBS"
++LIBS="-ldld -lz $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9810,8 +9810,8 @@ fi
+     save_LDFLAGS="$LDFLAGS"
+     wl=$lt_prog_compiler_wl eval LDFLAGS=\"\$LDFLAGS $export_dynamic_flag_spec\"
+ 
+-    save_LIBS="$LIBS"
+-    LIBS="$lt_cv_dlopen_libs $LIBS"
++    save_LIBS="-lz $LIBS"
++    LIBS="$lt_cv_dlopen_libs $LIBS -lz"
+ 
+     { echo "$as_me:$LINENO: checking whether a program can dlopen itself" >&5
+ echo $ECHO_N "checking whether a program can dlopen itself... $ECHO_C" >&6; }
+diff --git a/stardict-tools-3.0.1/src/21shiji.cpp b/stardict-tools-3.0.1/src/21shiji.cpp
+index 7dd2186..467c0c7 100644
+--- a/stardict-tools-3.0.1/src/21shiji.cpp
++++ b/stardict-tools-3.0.1/src/21shiji.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/KangXi.cpp b/stardict-tools-3.0.1/src/KangXi.cpp
+index 6090235..09c23b4 100644
+--- a/stardict-tools-3.0.1/src/KangXi.cpp
++++ b/stardict-tools-3.0.1/src/KangXi.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+@@ -46,7 +47,7 @@ static unsigned int htoi(const char s[])
+ 
+ std::map<int, std::list<std::string> > char_page_map;
+ 
+-void parse_line(const char *line)
++void parse_line(char *line)
+ {
+ 	if (!g_str_has_prefix(line, "U+")) {
+ 		g_print("Error: %s\n", line);
+diff --git a/stardict-tools-3.0.1/src/Unihan.cpp b/stardict-tools-3.0.1/src/Unihan.cpp
+index e506255..547ccad 100644
+--- a/stardict-tools-3.0.1/src/Unihan.cpp
++++ b/stardict-tools-3.0.1/src/Unihan.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+@@ -46,7 +47,7 @@ static unsigned int htoi(const char s[])
+ 
+ std::map<std::string, std::list<std::pair<std::string, std::string> > > unihan_map;
+ 
+-void parse_line(const char *line)
++void parse_line(char *line)
+ {
+ 	if (line[0] == '#')
+ 		return;
+@@ -55,7 +56,7 @@ void parse_line(const char *line)
+ 		g_print("Error: %s\n", line);
+ 		return;
+ 	}
+-	const char *han = line+2;
++	char *han = line+2;
+ 
+ 	char *p;
+ 	p = strchr(han, '\t');
+@@ -65,7 +66,7 @@ void parse_line(const char *line)
+ 	}
+ 	*p = '\0';
+ 	p++;
+-	const char *key = p;
++	char *key = p;
+ 
+ 	p = strchr(key, '\t');
+ 	if (!p) {
+diff --git a/stardict-tools-3.0.1/src/bgl_babylon.h b/stardict-tools-3.0.1/src/bgl_babylon.h
+index e8f692c..91b74e2 100644
+--- a/stardict-tools-3.0.1/src/bgl_babylon.h
++++ b/stardict-tools-3.0.1/src/bgl_babylon.h
+@@ -194,3 +194,4 @@ private:
+ };
+ 
+ #endif // BABYLON_H
++#include <cstring>
+diff --git a/stardict-tools-3.0.1/src/bgl_babylonreader.h b/stardict-tools-3.0.1/src/bgl_babylonreader.h
+index 45998c4..e0ac1ea 100644
+--- a/stardict-tools-3.0.1/src/bgl_babylonreader.h
++++ b/stardict-tools-3.0.1/src/bgl_babylonreader.h
+@@ -46,3 +46,4 @@ class BabylonReader : public DictReader
+ };
+ 
+ #endif // BABYLONREADER_H
++#include <cstring>
+diff --git a/stardict-tools-3.0.1/src/bgl_dictbuilder.h b/stardict-tools-3.0.1/src/bgl_dictbuilder.h
+index e8239be..9c5f2e1 100644
+--- a/stardict-tools-3.0.1/src/bgl_dictbuilder.h
++++ b/stardict-tools-3.0.1/src/bgl_dictbuilder.h
+@@ -70,3 +70,4 @@ protected:
+ };
+ 
+ #endif // DICTBUILDER_H
++#include <cstring>
+diff --git a/stardict-tools-3.0.1/src/bgl_dictreader.h b/stardict-tools-3.0.1/src/bgl_dictreader.h
+index aded8ab..45e8c50 100644
+--- a/stardict-tools-3.0.1/src/bgl_dictreader.h
++++ b/stardict-tools-3.0.1/src/bgl_dictreader.h
+@@ -40,3 +40,4 @@ class DictReader
+ };
+ 
+ #endif // DICTREADER_H
++#include <cstring>
+diff --git a/stardict-tools-3.0.1/src/degb2utf.cpp b/stardict-tools-3.0.1/src/degb2utf.cpp
+index 8c27b4f..6bb510c 100644
+--- a/stardict-tools-3.0.1/src/degb2utf.cpp
++++ b/stardict-tools-3.0.1/src/degb2utf.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // Some Germany-Chinese dictionary data files are encoded both in Germany and Chinese, that is, Windows-1252 and GBK, this program try to convert these data files to UTF-8 format.
+ 
+ #include "stdio.h"
+diff --git a/stardict-tools-3.0.1/src/dictbuilder-tree.h b/stardict-tools-3.0.1/src/dictbuilder-tree.h
+index 02d2d2b..b83f768 100644
+--- a/stardict-tools-3.0.1/src/dictbuilder-tree.h
++++ b/stardict-tools-3.0.1/src/dictbuilder-tree.h
+@@ -431,3 +431,4 @@ protected:
+ };
+ 
+ #endif //__TREE_H__
++#include <cstring>
+diff --git a/stardict-tools-3.0.1/src/dictbuilder.cpp b/stardict-tools-3.0.1/src/dictbuilder.cpp
+index 4230895..b8155f0 100644
+--- a/stardict-tools-3.0.1/src/dictbuilder.cpp
++++ b/stardict-tools-3.0.1/src/dictbuilder.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <algorithm>
+ #include <fstream>
+ #include <iostream>
+diff --git a/stardict-tools-3.0.1/src/directory2treedic.cpp b/stardict-tools-3.0.1/src/directory2treedic.cpp
+index cd0d378..7c06bce 100644
+--- a/stardict-tools-3.0.1/src/directory2treedic.cpp
++++ b/stardict-tools-3.0.1/src/directory2treedic.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // notice: here is a example_treedict.tar.bz2
+ // try "./directory2treedic example_treedict"
+ 
+diff --git a/stardict-tools-3.0.1/src/downloadwiki.cpp b/stardict-tools-3.0.1/src/downloadwiki.cpp
+index 511e034..353e7c0 100644
+--- a/stardict-tools-3.0.1/src/downloadwiki.cpp
++++ b/stardict-tools-3.0.1/src/downloadwiki.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/duden.cpp b/stardict-tools-3.0.1/src/duden.cpp
+index f10ac95..f654d9a 100644
+--- a/stardict-tools-3.0.1/src/duden.cpp
++++ b/stardict-tools-3.0.1/src/duden.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/ec50.cpp b/stardict-tools-3.0.1/src/ec50.cpp
+index e137ee6..527dd76 100644
+--- a/stardict-tools-3.0.1/src/ec50.cpp
++++ b/stardict-tools-3.0.1/src/ec50.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ //file format crack by Luo XiaoHui <tipyluo@hotmail.com>, this program is written by Hu Zheng <huzheng_001@163.com>
+ //you can mail us for the demo program which have more comment.
+ 
+diff --git a/stardict-tools-3.0.1/src/frgb2utf.cpp b/stardict-tools-3.0.1/src/frgb2utf.cpp
+index a8f5ef5..61d818b 100644
+--- a/stardict-tools-3.0.1/src/frgb2utf.cpp
++++ b/stardict-tools-3.0.1/src/frgb2utf.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // WoAiFaYu dictionary's data files are encoded both in French and Chinese, the French encoding sees to to created by himself, this program try to convert these data files to UTF-8 format.
+ 
+ #include "stdio.h"
+diff --git a/stardict-tools-3.0.1/src/gmx2utf.cpp b/stardict-tools-3.0.1/src/gmx2utf.cpp
+index 71dcade..7fc8f64 100644
+--- a/stardict-tools-3.0.1/src/gmx2utf.cpp
++++ b/stardict-tools-3.0.1/src/gmx2utf.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/kanjidic2.cpp b/stardict-tools-3.0.1/src/kanjidic2.cpp
+index d609f02..63f4154 100644
+--- a/stardict-tools-3.0.1/src/kanjidic2.cpp
++++ b/stardict-tools-3.0.1/src/kanjidic2.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/kingsoft.cpp b/stardict-tools-3.0.1/src/kingsoft.cpp
+index 8a875f9..b737487 100644
+--- a/stardict-tools-3.0.1/src/kingsoft.cpp
++++ b/stardict-tools-3.0.1/src/kingsoft.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/libbabylonfile.cpp b/stardict-tools-3.0.1/src/libbabylonfile.cpp
+index 60d9481..9aa9409 100644
+--- a/stardict-tools-3.0.1/src/libbabylonfile.cpp
++++ b/stardict-tools-3.0.1/src/libbabylonfile.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff --git a/stardict-tools-3.0.1/src/libbgl2txt.h b/stardict-tools-3.0.1/src/libbgl2txt.h
+index bd124ff..b7f4408 100644
+--- a/stardict-tools-3.0.1/src/libbgl2txt.h
++++ b/stardict-tools-3.0.1/src/libbgl2txt.h
+@@ -6,3 +6,5 @@
+ extern void convert_bglfile(std::string infile, std::string source_charset, std::string target_charset);
+ 
+ #endif
++#include <cstring>
++#include <cstdio>
+diff --git a/stardict-tools-3.0.1/src/libstardict2txt.cpp b/stardict-tools-3.0.1/src/libstardict2txt.cpp
+index 5aa5167..72cc161 100644
+--- a/stardict-tools-3.0.1/src/libstardict2txt.cpp
++++ b/stardict-tools-3.0.1/src/libstardict2txt.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff --git a/stardict-tools-3.0.1/src/libstardictverify.cpp b/stardict-tools-3.0.1/src/libstardictverify.cpp
+index a32d618..a8013e6 100644
+--- a/stardict-tools-3.0.1/src/libstardictverify.cpp
++++ b/stardict-tools-3.0.1/src/libstardictverify.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff --git a/stardict-tools-3.0.1/src/mova.cpp b/stardict-tools-3.0.1/src/mova.cpp
+index 754ae76..f547923 100644
+--- a/stardict-tools-3.0.1/src/mova.cpp
++++ b/stardict-tools-3.0.1/src/mova.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // MOVA - a dictionary interface. (set of scripts in bash for console andin TCL/Tk for GUI). 
+ // Format of MOVA dictionaries is very simple -"WORD<SPACE><SPACE>Description<ENTER>".
+ 
+diff --git a/stardict-tools-3.0.1/src/oxford2dic.cpp b/stardict-tools-3.0.1/src/oxford2dic.cpp
+index 79204c3..ffcbe38 100644
+--- a/stardict-tools-3.0.1/src/oxford2dic.cpp
++++ b/stardict-tools-3.0.1/src/oxford2dic.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ //oxford.txt is come from http://igloo.its.unimelb.edu.au/Blowfish/
+ //but we have fixed some GB2312->UTF-8 problem and some other small fix.if you need this file, mail to huzheng_001@163.com
+ 
+diff --git a/stardict-tools-3.0.1/src/tabfile2sql.cpp b/stardict-tools-3.0.1/src/tabfile2sql.cpp
+index 5b5670d..8e1073c 100644
+--- a/stardict-tools-3.0.1/src/tabfile2sql.cpp
++++ b/stardict-tools-3.0.1/src/tabfile2sql.cpp
+@@ -1,3 +1,5 @@
++#include <cstring>
++#include <cstring>
+ #include <stdlib.h>
+ #include <stdio.h>
+ #include <sys/types.h>
+diff --git a/stardict-tools-3.0.1/src/treedict2dir.cpp b/stardict-tools-3.0.1/src/treedict2dir.cpp
+index f0aab7a..ba0d4f2 100644
+--- a/stardict-tools-3.0.1/src/treedict2dir.cpp
++++ b/stardict-tools-3.0.1/src/treedict2dir.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff --git a/stardict-tools-3.0.1/src/wordnet.cpp b/stardict-tools-3.0.1/src/wordnet.cpp
+index a1ec89b..e193f90 100644
+--- a/stardict-tools-3.0.1/src/wordnet.cpp
++++ b/stardict-tools-3.0.1/src/wordnet.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <glib.h>
+diff --git a/stardict-tools-3.0.1/src/wubi.cpp b/stardict-tools-3.0.1/src/wubi.cpp
+index caf40d0..7bcf4f2 100644
+--- a/stardict-tools-3.0.1/src/wubi.cpp
++++ b/stardict-tools-3.0.1/src/wubi.cpp
+@@ -5,8 +5,9 @@
+ #include <unistd.h>
+ #include <glib.h>
+ #include <string>
++#include <cstring>
+ 
+-void convert(const char *filename)
++void convert(char *filename)
+ {
+ 	struct stat stats;
+ 	if (stat (filename, &stats) == -1) {
+diff --git a/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp b/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp
+index 7fb6be6..533063e 100644
+--- a/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp
++++ b/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <glib.h>
+ #include <gtk/gtk.h>
+ #include <stdio.h>

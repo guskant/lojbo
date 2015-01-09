@@ -1,0 +1,4 @@
+s/&quot;/"/g
+s/&gt;/>/g
+s/&lt;/</g
+s/\&amp;/\&/g
