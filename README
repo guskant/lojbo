@@ -1,1 +1,7 @@
 tools
+
+- jbovlaste_converter : 
+bash scripts that convert jbovlaste xml dumps into stardict vlaste, html/tsv gimste/ma'oste. require stardict-tools with the patch below.
+
+- stardict-tools-patch : 
+patch file to starict-tools-3.0.1.

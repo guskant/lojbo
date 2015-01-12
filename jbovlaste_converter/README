@@ -1,4 +1,4 @@
-multi.sh is a linux bash file that will convert xml dumps from la jbovlaste into StarDict dictionary files and gimste/ma'oste html/tsv files. It requires the files in the directory tree under jbovlaste_converter, as well as stardict-tools-3.0.1 with a patch.
+multi.sh contains linux bash scripts that will convert xml dumps from la jbovlaste into StarDict dictionary files and gimste/ma'oste html/tsv files. It requires the files in the directory tree under jbovlaste_converter, as well as stardict-tools-3.0.1 with a patch.
 See 
 https://github.com/guskant/lojbo/tree/master/stardict-tools-patch
 for the patch.
