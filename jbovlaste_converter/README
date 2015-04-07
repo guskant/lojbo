@@ -1,4 +1,5 @@
-multi.sh contains linux shell scripts that will convert xml dumps from la jbovlaste into StarDict dictionary files and gimste/ma'oste html/tsv files. It requires the files in the directory tree under jbovlaste_converter, as well as stardict-tools-3.0.1 with a patch.
+multi.sh contains linux shell scripts that will convert xml dumps from la jbovlaste into StarDict dictionary files and gimste/ma'oste html/tsv files. It requires the files in the directory tree under jbovlaste_converter, as well as stardict-tools-3.0.1 with a patch, and dictzip package (which is in dictd package for gentoo) for creating .dz files.
+
 See 
 https://github.com/guskant/lojbo/tree/master/stardict-tools-patch
 for the patch.
