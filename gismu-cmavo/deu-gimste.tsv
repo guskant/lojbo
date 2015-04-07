@@ -340,6 +340,7 @@ fatci	gismu   	-fac-		      	x_1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (ab
 fatne	gismu   	-fat-   	-fa'e-	      	x_1 [Folge] ist in umgekehrter Reihenfolge vergleichen mit x_2 [Folge]; x_1 (Objekt) ist umgekehrt in Bezug auf x_2 (Objekt)
 fatri	gismu   	-fai-		      	x_1 wird verteilt/zugemessen/zugewiesen unter x_2 mit Anteilen/Portionen/Teilen x_3; (x_2/x_3 fa'u)
 febvi	gismu   	-feb-		      	x_1 kocht/siedet/verdampft bei Temperatur x_2 und Druck x_3
+fegli	experimental gismu			      	x_1 ist hässlich/unschön laut Empfindung von x_2 in Aspekt x_3 (ka)	Siehe auch: {melbi}, {mabla}, {pante}, {xlali}, {nelci}, {pluka}, {to'e}
 femti	gismu   	-fem-		      	x_1 ist 10^{-15} von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 fendi	gismu   	-fed-		      	x_1 (Handelnder) teilt x_2 in Teile/Abschnitte x_3 mit Methode/Aufteilung x_4
 fengu	gismu   	-feg-   	-fe'u-	      	x_1 ist ärgerlich auf/verärgert über x_2 wegen x_3 (Aktion/Zustand/Eigenschaft)
@@ -680,7 +681,7 @@ lumci	gismu   	-lum-   	-lu'i-	      	x_1 (Handelnder) wäscht/spült/reinigt x_
 lunbe	gismu   	-lub-		      	x_1 ist nackt/unbekleidet/kahl/entblößt; x_1 ist ohne Abdeckung/Kleidung/[Schutz]
 lunra	gismu   	-lur-		      	x_1 ist der Erdmond (Default); x_1 ist ein größer/bedeutender Mond von Planet x_2
 lunsa	gismu   	-lus-		      	x_1 kondensiert/verflüssigt sich auf/in x_2 bei Temperatur x_3 und Druck x_4; x_1 ist Tau/Kondenswasser auf x_2
-mabla	gismu   	-mal-		      	x_1 ist ein abfälliger/herabwürdigender Sinn/Gebrauch von x_2 verwendet von x_3; x_3 wertet x_2 ab in Form von x_1
+mabla	gismu   	-mal-		      	x_1 ist schlecht/mies/beschissen/von niedriger Qualität/dreckig/Scheiße/miserabel/lausig/saumäßig/scheiße/Mist in Aspekt x_2 (ka) aus Sicht/nach Meinung von x_3	Allgemein abwertendes Wort, welches allein und in lujvo vorkommt. In lujvo kann es verwendet werden, um eine Bedeutung mit negativer Konnotation des Ausgangswortes zu erzielen (zum Beispiel malen/hinschludern). Siehe auch {zabna}, {xlali}, {palci}, {dapma}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
 mabru	gismu   	-mab-		      	x_1 ist ein Säugetier/'Tier' von Art/Gattung x_2
 macnu	gismu   	-cnu-		      	x_1 (Ereignis/Tätigkeit/Prozess) ist manuell [nicht automatisch] in Funktion x_2 unter Bedingungen x_3
 makcu	gismu   	-ma'u-		      	x_1 ist erwachsen/reif/ausgewachsen in Entwicklungsqualität x_2 (ka).	Siehe auch {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
@@ -1305,7 +1306,7 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 ist rot [Farbadjektiv].	Siehe auch {sk
 xurdo	gismu   	-xur-   	-xu'o-	      	x_1 repräsentiert die Urdu-Sprache/Kultur/Nationalität in Aspekt x_2
 xusra	gismu   	-xus-   	-xu'a-	      	x_1 (Handelnder) macht geltend/behauptet/erklärt, dass x_2 (du'u) wahr ist [kann verwendet werden für eine Erkenntnistheorie mit Autorität]
 xutla	gismu   	-xul-		      	x_1 ist glatt/eben/[weich/geschmeidig] in Oberfläche/Regelmäßigkeit
-zabna	gismu   	-zan-   	-za'a-	      	x_1 hat eine(n) positive(n) Nebenbedeutung/Bedeutungsumfang/Assoziation/Sinn x_2, verwendet von x_3
+zabna	gismu   	-zan-   	-za'a-	      	x_1 ist cool/geil/sehr toll/super/hervorragend in Aspekt x_2 (ka) aus Sicht/nach Meinung von x_3	Allgemein positives Wort. In lujvo fügt es dem Ausgangswort eine positive Konnotation hinzu. Siehe auch {mabla}, {xamgu}, {funca}, {vrude}, {banli}.
 zajba	gismu   	-zaj-		      	x_1 ist ein Sportler/Athlet in x_2/und erbringt Leistung(en) x_2
 zalvi	gismu   	-zal-		      	x_1 [einzelne oder Masse an harten Oberflächen] zermahlt/zerreibt/pulverisiert/zerdrückt x_2 und erzeugt Pulver x_3
 zanru	gismu   	-zar-   	-zau-	      	x_1 billigt/befürwortet Plan/Aktion x_2 (Objekt/Ereignis)

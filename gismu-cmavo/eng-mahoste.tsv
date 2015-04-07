@@ -4,7 +4,6 @@ a'acu'i	cmavo-compound			   	UI*1      	attitudinal: attentive - inattentive - a
 a'anai	cmavo-compound			   	UI*1      	attitudinal: attentive - inattentive - avoiding.
 abu	bu-letteral			   	BY*      	letteral for a.
 a'e	cmavo			   	UI1      	attitudinal: alertness - exhaustion.	See also {sanji}, {cikna}, {tatpi}.
-a'ei	experimental cmavo			   	UI1      	attitudinal: appeal/call/invocation/summoning	Compare {e'u} - 'suggestion'
 a'enai	cmavo-compound			   	UI*1      	attitudinal: alertness - exhaustion.
 ai	cmavo			   	UI1      	attitudinal: intent - indecision - rejection/refusal.	See also {termu'i}, {terzu'e}, {seljdi}, {selcu'a}.
 a'i	cmavo			   	UI1      	attitudinal: effort - no special effort - repose.	See also {gunka}, {slunandu}, {guksurla}, {troci}, {selprogunka}.
@@ -22,7 +21,7 @@ aucu'i	cmavo-compound			   	UI*1      	attitudinal: desire - indifference - relu
 aunai	cmavo-compound			   	UI*1      	attitudinal: desire - indifference - reluctance.
 a'unai	cmavo-compound			   	UI*1      	attitudinal: interest - disinterest - repulsion.
 au'u	experimental cmavo			   	UI      	attitudinal: cute (attractive in an innocent way) - lack of cuteness - repulsively uncute
-a'y	experimental cmavo			   	BY      	letteral for a.	[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{abu}.]
+a'y	experimental cmavo			   	BY      	letteral for a.	Synonymous with the original CLL definition of .{abu}.
 ba	cmavo			   	PU      	time tense relation/direction: will [selbri]; after [sumti]; default future tense.
 ba'a	cmavo			   	UI2      	evidential: I expect - I experience - I remember.	See also {bavykri}, {lifri}, {morji}.
 ba'acu'i	cmavo-compound			   	UI*2      	evidential: I expect - I experience - I remember.
@@ -137,6 +136,8 @@ co'u	cmavo   	-co'u-		   	ZAhO      	interval event contour: at the ending point
 cu	cmavo			   	CU      	elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.
 cu'a	cmavo			   	VUhU3      	unary mathematical operator: absolute value/norm  |a|.
 cu'ai	experimental cmavo			   	VUhU3      	binary mathematical operator: vector norm/magnitude of vector a in structure (normed vector space) b	Contextless default for b: Euclidean normed vector space over the reals or complexes; in relativity, without context, the default interpretation for a four-vector is the Minkoski magnitude. b determines the meaning of the norm. Accompanies and clarifies {cu'a}.
+cu'au	experimental cmavo			      		universial famyma'o: terminates the most recently opened construct or clause.	cu'au looks back for the most recently opened construct that has not been terminated, and emulates whatever {famyma'o} would terminate it. It can also be subscripted with {xi}, and will terminate that many times. Note that that means grammatical function is being put in a {xi} clause, so be careful when using it. Additionally, cu'au {xi} {ro} will terminate all the way up to the last sentence-starting word (.i mi klama lo zarci pe lo pendo be mi cu'au xi ro -> .i mi klama lo zarci pe lo pendo be mi cu'au-be'o-ku-ge'u-ku-vau). This will also terminate to sentences started in {lu} (will NOT emulate li'u UNLESS used multiple times), {ni'o}, and {no'i}. It will NOT emulate {le'u}. In addition to {ro}, it can be subscripted with {da'a}, which terminates to the sentence level, minus 1. In the previous example, this would just leave the {vau} remaining, and allow you to continue to add to the place structure of {klama}.
+cu'au'ei	experimental cmavo			   	VUhU      	mekso binary/unary operator:  multinomial coefficient/binomial coefficient/choose	If unary, a list (n_1,...,n_r) must be supplied as input; the terms of the list may not be distinct; for appropriate values, output is ((n_1 +...+ n_r)!)/((n_1)! *...* (n_r)!). If binary, a single number n must be supplied for the first variable and the second variable must be a list (k_1,...,k_s); for appropriate values, the output is (n!)/((k_1 !) * ((n - k_1)!) *...* (k_s !) * ((n - k_s)!)); note that this is not exactly the typical definition, but it allows for easier immediate usage for the binomial case (where s=1).
 cu'e	cmavo			   	CUhE      	tense/modal question.
 cu'ei	experimental cmavo			   	UI      	discursive: indicate a change in speaker; used generally in quotations.	Considered to have {sa'a} attached to it by default. Using {sa'anai} would cancel that effect. Used to quote dialogues.
 cu'ei'a	experimental cmavo			   	UI      	discursive: indicate a change in speaker to ko'a; used generally in quotations.	Considered to have sa'a attached to it by default. Using sa'anai would cancel that effect. Used to quote dialogues.
@@ -184,7 +185,7 @@ dei'e	experimental cmavo			   	KOhA      	pro-sumti: the next word
 dei'o	experimental cmavo			   	KOhA      	pro-sumti: this word	mnemonic: dei + zo -> dei'o
 dei'u	experimental cmavo			   	KOhA      	pro-sumti: the previous word
 denpa bu	bu-letteral			   	BY*      	letteral: Lojban "." character.
-de'o	cmavo			   	VUhU3      	binary mathematical operator: logarithm; [log/ln a to base b]; default base 10 or e.
+de'o	cmavo			   	VUhU3      	binary mathematical operator: logarithm; [log/ln a to base b]; default base 10 or e.	see also {dugri}, {te'a}
 de'oi	experimental cmavo			   	DEhAU      	Cancellation (instant-/usage-wise; temporary) of all defaults in immediately previous word	Cancels/overrides/ignores/"kills" all defaults (default specifications) in the (terbri) structure of immediately previously uttered word so that implicit/omitted {zo'e} and{di’au} that may fill the terbri of that word are general in potential reference (modulo context) and do not necessarily agree with the default setting explicitly specified in the discourse-external/“official” definition of the word. The terbri are not filled by this word. Usage is only meaningful for a brivla with at least one terbri (regardless of being explicitly filled or otherwise). In a tanru or other complicated construct, only the most recent word undergoes this terbri default override (not every term in the construct). A selbri converted to a sumti by gadri has the x1 terbri filled for the purposes of this word, but the default setting of that terbri is so overridden all the same; likewise is the case for terbri accessed by {be} or {bei}; seltau in the main level of a sumti are filled by the gadri as well for the purposes of this word. The cancellation is only effective for the single occurrence/instant/usage of this word (the next use of the affected word will be implicitly accompanied by its terbri defaults, as defined elsewhere (by official definition or by other (permanent) modifications made to the word)). See also: {doi'a}, {de'au}, {zmico}.
 de'u	cmavo			   	KOhA2      	pro-sumti: a recent utterance.
 di	cmavo			   	KOhA1      	logically quantified existential pro-sumti: there exists something 3 (usually restricted).
@@ -208,6 +209,7 @@ doi	cmavo			   	DOI      	generic vocative marker; identifies intended listener;
 do'i	cmavo			   	KOhA2      	pro-sumti: elliptical/unspecified utterance variable.
 doi'a	experimental cmavo			   	DEhAU      	gafyzmico: Reset all default specification of the immediately previous word to their respective discourse-external/official definition specifications for this instance/usage only.	Resets all defaults (default specifications) in the (terbri) structure of immediately previously uttered word so that implicit/omitted {zo'e} and {di'au} that may fill the terbri of that word are predefined/specific in reference and do indeed necessarily agree with the default setting explicitly specified in the discourse-exterior/”official” definition of the word. The terbri are not filled by this word. Usage is only meaningful for a brivla with at least one terbri (regardless of being explicitly filled or otherwise). In a tanru or other complicated construct, only the most recent word undergoes this terbri default restoration (not every term in the construct). A selbri converted to a sumti by gadri has the x1 terbri filled for the purposes of this word, but the default setting of that terbri is so restored all the same; likewise is the case for terbri accessed by {be} or {bei}; seltau in the main level of a sumti are filled by the gadri as well for the purposes of this word. The restoration is only effective for the single occurrence/instant/usage of this word (the next use of the affected word will be implicitly accompanied by its terbri defaults, as defined elsewhere (by official definition or by other (permanent) modifications made to the word)). See also: {dau'a}, {de'oi}, {zmico}
 doido'u	cmavo-compound			   	DOI*      	generic vocative address to intended listener;.
+doi'oi	experimental cmavo			   	COI      	vocative: to the attention of, CC, carbon-copy(ing) ...	Used in order to alert a non-addressee party to an utterance.
 do'o	cmavo			   	KOhA3      	pro-sumti: you the listener & others unspecified.
 do'oi	experimental cmavo			   	DOhOI      	generic single-word generic vocative marker; identifies intended listener with a single, possibly non-Lojban word, delimited by pauses (in speech) or by whitespace (in writing).	The intent is that it is allowed everywhere in the grammar where DOI and COI are. See also {zo'oi}, {la'oi}, {me'oi}, {ra'oi}. Not similar to {co'oi}. Equivalent to {doi} {la'oi}.
 do'u	cmavo			   	DOhU      	elidable terminator: end vocative (often elidable).
@@ -220,12 +222,14 @@ du'eroi	cmavo-compound			   	ROI*      	tense interval modifier: too many times 
 du'i	cmavo			   	BAI      	dunli modal, 1st place (equalled by)              equally; as much as ...
 du'o	cmavo			   	BAI      	djuno modal, 1st place (info source)            authoritatively; according to ...; known by ...
 du'u	cmavo   	-dum-		   	NU      	abstractor: predication/bridi abstractor; x_1 is predication [bridi] expressed in sentence x_2.
+du'u bu	bu-letteral			   	BY*      	the last sumti having a {du'u}-abstraction at its topmost level inside	See also {ka bu}, {ni bu}, {nu bu}
 dy	cmavo			   	BY2      	letteral for d.
 e	cmavo			   	A      	logical connective: sumti afterthought and.
 e'a	cmavo			   	UI1      	attitudinal: granting permission - prohibiting.	See also {curmi}.
 e'anai	cmavo-compound			   	UI*1      	attitudinal: permission - prohibition.
 ebu	bu-letteral			   	BY*      	letteral for e.
 e'e	cmavo			   	UI1      	attitudinal: competence - incompetence/inability.	See also {kakne}, {certu}.
+e'ei	experimental cmavo			   	UI1      	attitudinal: appeal/call/invocation/summoning	Compare {e'u} - 'suggestion'
 e'enai	cmavo-compound			   	UI*1      	attitudinal: competence - incompetence/inability.
 ei	cmavo			   	UI1      	attitudinal: obligation - freedom.	See also {bilga}, {zifre}.
 e'i	cmavo			   	UI1      	attitudinal: feeling constraint - independence - challenge/resistance against constraint.	See also {selri'u}, {seljimte}.
@@ -238,7 +242,7 @@ e'onai	cmavo-compound			   	UI*1      	attitudinal: request - negative request.
 e'u	cmavo			   	UI1      	attitudinal: suggestion - abandon suggest - warning.	See also {stidi}, {kajde}.
 e'ucu'i	cmavo-compound			   	UI*1      	attitudinal: suggestion - abandon suggest - warning.
 e'unai	cmavo-compound			   	UI*1      	attitudinal: suggestion - abandon suggest - warning.
-e'y	experimental cmavo			   	BY      	letteral for e.	[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ebu}.]
+e'y	experimental cmavo			   	BY      	letteral for e.	Synonymous with the original CLL definition of .{ebu}.
 fa	cmavo			   	FA      	sumti place tag: tag 1st sumti place.
 fa'a	cmavo			   	FAhA4      	location tense relation/direction; arriving at/directly towards ...
 fa'ai	experimental cmavo			   	VUhU      	mathematical ordered n-ary operator: (pointwise) functional left composition; °	Inputs must be appropriate functions; outputs a function; follow by {boi} in order to include arguments (producing a number). a_1 ° a_2 °…° a_n = a_1(a_2(…(a_n(•))…)). Replaces all of the inputs with a (possibly stripped, as appropriate) tuple; for replacing a single argument in a multivariate function with a function (either evaluated or not), use (partial) (e)valuation.
@@ -253,6 +257,7 @@ fai'u'a	experimental cmavo			   	PA5      	digit/number: the fine-structure cons
 fa'o	cmavo			   	FAhO      	unconditional end of text; outside regular grammar; used for computer input.
 fau	cmavo			   	BAI      	fasnu modal, 1st place (non-causal)               in the event of ...
 fa'u	cmavo			   	JOI      	non-logical connective: respectively; unmixed ordered distributed association.
+fa'u'ai	experimental cmavo			   	JOI      	non-logical connective: antirespectively; unmixed but reverse ordered distributed association.	Works together with {fa'u}; given an ordering by {fa'u}, the terms connected by this word are (applied) in opposite order.
 fau'au	experimental cmavo			   	JAhOI      	two-tier function map/assignment writer notation: X1 (ordered list, no repetitious terms) maps termwise-respectively to X2 (ordered list; may be repetitious but must have exactly as many terms as X1)	So named because, in mathematical notation, the domain set of the function is written down in some order in its entirety and then, below it, the range of the function is written so that each image and preimage line up vertically with their appropriate/respective partner. Really useful when mapping from a countable set/object that is either human-small or in which the pattern is clear. Occasionally used for a more explicit form of notation for permutations (in which cycle decomposition is not necessarily as evident, but the structure as a how is, at least, explicit). The ith term of X1 is mapped to the ith term of X2; there is no knowledge of what happens to any value that is not term of list X1.  Useful for lambda calculus.
 fauroda	cmavo-compound			      		any way, under any events
 fau'u	experimental cmavo			   	COI      	Forgive me!/I'm sorry!	cf. {fraxu}, {u'u}.
@@ -269,17 +274,18 @@ fe'epu'o	cmavo-compound			   	ZAhO*      	location event contour tense: anticipa
 fe'eroroi	cmavo-compound			   	ROI*      	location tense interval modifier: always in space; objectively quantified tense.
 fe'eza'o	cmavo-compound			   	ZAhO*      	location event contour tense: superfective in space; continuing too far beyond ...
 fei	cmavo			   	PA2      	digit/number: hex digit B (decimal 11) [eleven].
-fe'i	cmavo			   	VUhU1      	n-ary mathematical operator: divided by; division operator; [(((a / b) / c) / ...)].
+fe'i	cmavo			   	VUhU1      	n-ary mathematical operator: divided by; division operator; [(((a / b) / c) / ...)].	see also {dilcu}, {pi'i}
 fe'o	cmavo			   	COI      	vocative: over and out (end discussion).
 fe'u	cmavo			   	FEhU      	elidable terminator: end nonce conversion of selbri to modal; usually elidable.
 fi	cmavo			   	FA      	sumti place tag: tag 3rd sumti place.
 fi'a	cmavo			   	FA      	sumti place tag: place structure number/tag question.
 fi'e	cmavo			   	BAI      	finti modal, 1st place (creator)                  created by ...
 fi'i	cmavo			   	COI      	vocative: hospitality - inhospitality; you are welcome/ make yourself at home.
+fi'i'e	experimental cmavo			   	COI      	Welcome to 
 fi'inai	cmavo-compound			   	COI*      	vocative: hospitality - inhospitality.
 fi'o	cmavo			   	FIhO      	convert selbri to nonce modal/sumti tag.
 fi'oi	experimental cmavo			   	FIhOI      	Right-scoping adverbial clause: encloses a bridi and turns it into an adverbial term; the antecedent (ke'a) of the enclosed bridi stands for the outer bridi {lo su'u no'a ku} (the bridi in which this fi'oi term appears), including all the other adverbial terms (tags...) within this bridi located on the right of this fi'oi term (rightward scope).	Terminator: fi'au.
-fi'u	cmavo			   	PA3      	digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio.
+fi'u	cmavo			   	PA3      	digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio.	See also {fe'i}, {frinu}
 fi'ure	cmavo-compound			   	PA*      	half.	synonym {pimu}; see also {xadba}
 fo	cmavo			   	FA      	sumti place tag: tag 4th sumti place.
 fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: he/she/it/they #6 (specified by goi).
@@ -394,7 +400,7 @@ iucu'i	cmavo-compound			   	UI*1      	attitudinal: love - no love lost - hatred
 iunai	cmavo-compound			   	UI*1      	attitudinal: love - no love lost - hatred.
 i'unai	cmavo-compound			   	UI*1      	attitudinal: familiarity - mystery.
 iy	experimental cmavo			   	BY      	letteral for the i semi-vowel
-i'y	experimental cmavo			   	BY      	letteral for i.	[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ibu}.]
+i'y	experimental cmavo			   	BY      	letteral for i.	Synonymous with the original CLL definition of .{ibu}.
 ja	cmavo   	-jav-		   	JA      	logical connective: tanru-internal afterthought or.
 ja'a	cmavo			   	NA      	bridi logical affirmer; scope is an entire bridi.
 ja'ai	experimental cmavo			   	NAI      	affirm last word: attached to cmavo to affirm them; denies negation by nai whenever it is applicable.	Suggested by Mark Shoulson in 1999 as an affirmative of {nai}. By analogy with the pairs {na}/{ja'a}, {na'e}/{je'a}, and {na'i}/{jo'a}.
@@ -410,7 +416,7 @@ jaica	cmavo-compound			   	SE*      	convert time tense (tagged) place to 1st pl
 jaigau	cmavo-compound			   	SE*      	makes x_1 the agent of a bridi; old 1st place moves to extra place (fai).
 jaivi	cmavo-compound			   	SE*      	convert location tense (tagged) place to 1st place; 1st place moves to extra place (fai).
 ja'o	cmavo			   	UI2      	evidential: I conclude.	See also {selni'i}, {ni'ikri}.
-ja'oi	experimental cmavo			   	JAhOI      	permutation cycle writer notation start	Basically like {jo'i}, but for cycles. Use {boi} in order to separate terms.  Terminated by {tei'u}. In this notation, each term maps to the the subsequent term as read from left to right or heard in chronological order of utterance; the last term (immediately before {tei'u}) maps to the first term. The objected constructed is a cyclic permutation, a group element. The singleton cycle is identity on that term. It can be applied to a single element among its terms or may left group act upon a set or structure, or an element if the application is not directly upon it (such as when the application is to an index or variable of that element). Permutations are composed when viewed from outside of their group structure and have the group operator act upon them when within that context. The transposition (1  2) is expressed as ' li ja'oi pa boi re tei'u '. See also: {tei'u}, {ma'o'e}, {gu'ai}, {ru'ei}, {fa'ai}.
+ja'oi	experimental cmavo			   	JAhOI      	permutation cycle writer notation start	Basically like {jo'i}, but for cycles. Use {boi} in order to separate terms.  Terminated by {tei'u}. In this notation, each term maps to the the subsequent term as read from left to right or heard in chronological order of utterance; the last term (immediately before {tei'u}) maps to the first term. The object constructed is a cyclic permutation, a group element. The singleton cycle is identity on that term. It can be applied to a single element among its terms or may left group act upon a set or structure, or an element if the application is not directly upon it (such as when the application is to an index or variable of that element). Permutations are composed when viewed from outside of their group structure and have the group operator act upon them when within that context. The transposition (1  2) is expressed as ' li ja'oi pa boi re tei'u '. See also: {tei'u}, {ma'o'e}, {gu'ai}, {ru'ei}, {fa'ai}.
 jau	cmavo			   	PA2      	digit/number: hex digit D (decimal 13) [thirteen].
 jau'au	experimental cmavo			   	VUhU3      	unary mathematical operator: length/number of components/terms of/in object/array/formal string/sequence/word/text in some alphabet/base/basis which includes each digit; number of digits/components/entries	For a numerical string, the number of digits are counted. For a tuple/vector/array/matrix/tensor, the number of entries/conponents is counted. Not literally the number of symbols used, but the number of meaningful "spots" occupied; for example "(1,0)" uses five characters, but its length is just 2 (for "1" and then "0"); this is due to the fact that formal representation may vary but the amount of information conveyed must remain constant. Note that digit strings are essentially considered to be vectors in the basis of powers of the base.
 je	cmavo   	-jev-   	-jve-	   	JA      	logical connective: tanru-internal afterthought and.
@@ -472,12 +478,13 @@ ka	cmavo   	-kam-		   	NU      	abstractor: property/quality abstractor (-ness);
 ka'a	cmavo			   	BAI      	klama modal, 1st place                            gone to by ...
 ka'ai	experimental cmavo			   	BAI      	kansa modal, 1 place; with .../with a companion ...	See also {kansa}
 ka'au	experimental cmavo			   	VUhU3      	mekso unary operator: cardinality (#, | |)	Usually should be reserved for use on sets; if applied to group, it is the cardinality of the underlying set (Which is the order of the group)- but it should probably not be applied to an element of a group. Application to a graph is ambiguous: is it the number of vertices or edges, or both, or neither, (if it defined at all)? For a set, each unique heretofore not counted element increments the running subtotal by 1 if the set is countable (small infinite or finite). See: {cu'a}, {zilkancu}, {nilzilcmi}, {gu'au'i}.
+ka bu	bu-letteral			      		the last sumti having a {ka}-abstraction at its topmost level inside	See also {nu bu}, {ni bu}, {du'u bu}
 ka'e	cmavo			   	CAhA      	modal aspect: innate capability; possibly unrealized.
 ka'ei'a	experimental cmavo			   	PA5      	digit/number: Conway's look-and-say constant λ ≈ 1.303577269…	Especially important for Lojban. Assumes decimal counting(?); therefore, not entirely culturally neutral or mathematically important, but it makes sense in the context of typical Lojban.
 kai	cmavo			   	BAI      	ckaji modal, 1st place                            characterizing ...
 ka'i	cmavo			   	BAI      	krati modal, 1st place                            represented by ...
 kai'o	experimental cmavo			   	PA5      	quaternion i	Works like {ka'o} (as a comma) and is isomorphic to (and might even be considered identical to/equivalent with) it. See also: {ka'o}, {kei'o}, {koi'o}, {kau'o}.
-kai'u	experimental cmavo			   	NU      	abstractor: x1 (x2, ...) are such that they satisfy [bridi], binding to the open {ce'u} slots.	See also {me'au}, {ka} and {ce'u}.
+kai'u	experimental cmavo			   	NU      	abstractor: x_1 (x_2, ...) are such that they satisfy [bridi], binding to the open {ce'u} slots.	See also {me'au}, {emna}, {ka} and {ce'u}
 ka'o	cmavo			   	PA5      	digit/number: imaginary i; square root of -1.	See also: {kau'o}, {ka'o'ai}, {ka'o'ei}.
 ka'o'ai	experimental cmavo			   	PA5      	imaginary i (non-comma)	This is literally a unit, a pure number that is treated as a scalar; it is what happens when considering C to be a field over C - ordered pairs/tuples for coordinates no longer make much sense. Thus, this number operates exactly as one might think i would/should operate: as a single number, without components. In certain bases, it can be used a pure digit (which simplifies some potential numeric strings, compared to the usage of {ka'o} therein). See also: {ka'o}
 ka'o'ei	experimental cmavo			      		imaginary i, comma - spherical coordinates: first coordinate gives magnitude (complex modulus/radius) of the number, the second number gives the angle from the positive real axis measured counterclockwise (default: in the primary branch/Arg) as measured in some units (which that number should contain; the contextless default will suppose radians); the angle is not normalized	The number (r, x) = r*e^(i x). The angle x is (by default) measured in radians and is not normalized (contains no hidden/inherent multiples of pi). See also: {te'o}, {ka'o}.
@@ -525,6 +532,7 @@ ko'u	cmavo			   	KOhA4      	pro-sumti: he/she/it/they #5 (specified by goi).
 ku	cmavo			   	KU      	elidable terminator: end description, modal, or negator sumti; often elidable.
 ku'a	cmavo   	-kuz-		   	JOI      	non-logical connective: intersection of sets.
 ku'au	experimental cmavo			   	KUhAU      	elidable terminator: end of LOhOI construct
+ku'au'a	experimental cmavo			   	VUhU      	mekso (n+1)-ary operator: q-analog converter - the ath analog of b (quoted operator) applied to operands c, d, ...	Quote operator b with {mau'au} (and terminate it). The result is the q-analog of that operator (defined according to context if necessary), where q=a, which is then applied to operands of b in order (as defined for b).
 ku'e	cmavo			   	KUhE      	elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable.
 ku'i	cmavo			   	UI3b      	discursive: however/but/in contrast.	See also {karbi}, {dukti}, {nalpanra}.
 ku'inai	cmavo-compound			   	UI*3b      	discursive: in accordance with it; as expected	Used in order to draw conclusions in accordance with those statements which were said/uttered previously, as opposed to {ku'i} - 'in contrast'
@@ -533,14 +541,15 @@ ku'u	cmavo			   	BAI      	kulnu modal, 1st place                            in 
 ky	cmavo			   	BY2      	letteral for k.
 la	cmavo			   	LA      	name descriptor: the one(s) called ... ; takes name or selbri description.
 la'a	cmavo			   	UI3      	discursive: probability - improbability.	See also {lakne}.
-la'ai	experimental cmavo			   	LOhU      	otherwise lojbanic name, ending in a vowel; multiple names delimited by pauses.	Can be used to quote name(s) ending in consonants as well.
+la'ai	experimental cmavo			   	LOhU      	otherwise lojbanic name, ending in a vowel; multiple names delimited by pauses.	Can be used to quote name(s) ending in consonants as well. See also {lai'e} of LAhE, {la'au} of LU and {la'o} of ZOI for naming cmavo.
 la'anai	cmavo-compound			   	UI*3      	discursive: probability - improbability.
-la'au	experimental cmavo			   	LU      	start grammatical name quotation; the quoted text is an identifier and must be grammatical on its own.	Used to make more complex names where simple {la} doesn't apply. Artibrary non-lojban text can be quoted with {la'o}.
+la'au	experimental cmavo			   	LU      	start grammatical name quotation; the quoted text is an identifier and must be grammatical on its own.	Used to make more complex names where simple {la} doesn't apply. Artibrary non-lojban text can be quoted with {la'o}. See also {lai'e} of LAhE, {la'ai} of LOhU and {la'o} of ZOI for naming cmavo.
 la'e	cmavo			   	LAhE      	the referent of (indirect pointer); uses the referent of a sumti as the desired sumti.
 la'edi'u	cmavo-compound			   	KOhA*      	pro-sumti: the referent of the last utterance; the state described: "IT was fun".
 la'ei	experimental cmavo			   	LA      	combines LA with DOI	used to address someone in the 2nd person by name and use that as a sumti at the same time, that is: {do} {doi} {la} {broda} is equivalent to la'ei {broda}
 lai	cmavo			   	LA      	name descriptor: the mass of individual(s) named ... ; takes name or selbri description.
 la'i	cmavo			   	LA      	name descriptor: the set of those named ... ; takes name or selbri description.
+lai'e	experimental cmavo			   	LAhE      	Named reference. It converts a sumti into another sumti. The converted sumti points to the referent the name of which is the referent of the unconverted sumti.	``lai'e ko'a''=``zo'e noi se cmene ko'a''. {lai'e} is a cmavo of LAhE, and followed by any sumti including ``lo se du'u BRIDI'', ``zo...'', ``lu...li'u'', ``lo'u...le'u'' or ``zoi...'', used with an elidable terminater {lu'u}. For example, ``lai'e lo se du'u ti brife doi la betis'' refers to something the name of which is a text in a language that means ``ti brife doi la betis'', while ``la'e lo se du'u ti brife doi la betis'' refers to the same as ``lo du'u ti brife doi la betis''. The syntax of sumti following {lai'e} is analysed by the parser, while the syntax of strings following {la'ai} or {la'o} is ignored. In the cases that {lai'e} is followed by {lu}, {lo'u} or {zoi}, the referent is the same as that of sumti formed by {la'au}, {la'ai} or {la'o} respectively: ``lai'e lu ti brife doi la betis li'u (lu'u)''=``la'au ti brife doi la betis li'u''; ``lai'e lo'u se ly van beti le'u (lu'u)''=``la'ai se ly van beti le'u''; ``lai'e zoi zoi C'est le vent, Betty zoi (lu'u)''=``la'o zoi C'est le vent, Betty zoi''. See also {la'e}, {la}, {la'o}, {la'ai}, {la'au}; {lu'u}; {cmene}.
 la'o	cmavo			   	ZOI      	delimited non-Lojban name; the resulting quote sumti is treated as a name.
 la'oi	experimental cmavo			   	ZOhOI      	single-word non-Lojban name; quotes a single non-Lojban word delimited by pauses and treats it as a name	See also {la'o}, {zo'oi}.
 lau	cmavo			   	LAU      	2-word letteral/shift: punctuation mark or special symbol follows.
@@ -549,6 +558,7 @@ la'u ma	cmavo-compound			   	BAI*      	sumti question asking for a quantity; ho
 le	cmavo			   	LE      	non-veridical descriptor: the one(s) described as ...
 le'a	cmavo			   	BAI      	klesi modal, 1st place (scalar set)               in/of category ...
 le'ai	experimental cmavo			   	LEhAI      	replace recent mistakenly uttered text	The {lo'ai} ... {sa'ai} ... {le'ai} replacement construct asks the listener to replace the text after {lo'ai} with the text after {sa'ai}.  The order {sa'ai} ... {lo'ai} ... {le'ai} is also allowed, and either or both parts can be omitted and thus left up to context.  When both parts are omitted, the word {le'ai} on its own indicates that a mistake was made while leaving all the details up to context. It is also possible to attach SAI to a le'ai construct: le'ai {dai} (or le'ai {da'oi} ko'a) indicates that someone else made a mistake; le'ai {pei} asks whether someone else made a mistake; and {sai}, {ru'e} and {cu'i} can be used to indicate the importance of the substitution. Furthermore, le'ai {nai} can be used to explicitly deny mistakes instead of acknowledging them (compare "sic").
+le'au	experimental cmavo			   	SEI      	Start property which sets the meaning of {le} in the surrounding text.
 ledo	cmavo-compound			   	LE*      	possessive/associative descriptor: the one(s) described as, of yours.
 le'e	cmavo   	-lem-		   	LE      	non-veridical descriptor: the stereotype of those described as ...
 le go'i	cmavo-compound			   	KOhA*      	description pro-sumti: reuses the value of the x_1 of the previous bridi.
@@ -622,7 +632,7 @@ mau'u	experimental cmavo			   	UI      	savoring/focusing and attempting to reta
 me	cmavo			   	ME      	convert sumti to selbri/tanru element; x_1 is specific to [sumti] in aspect x_2.
 me'a	cmavo			   	BAI      	mleca modal, 1st place (a lesser)                 undercut by ... ; usually a sumti modifier.
 me'ai	experimental cmavo			   	CAI2      	attitudinal: weaker intensity attitudinal relativizer 	Specifies a weaker intensity - relative to any previously specified intensity of the same UI/cmavo. See also {mau'i}, {dau'i}, {ru'e}
-me'au	experimental cmavo			   	ME      	Convert abstract predicate sumti back to predicate	Has an inverse: {me'ei}
+me'au	experimental cmavo			   	ME      	Convert abstract predicate sumti back to predicate	Has an inverse: {me'ei}. Essentially synonymous with {ckaji}. Differences: ckaji2 is unary whereas the me'au-predicate can have any arity; me'au is in ME.
 medomoi	cmavo-compound			      		x_1 is yours among x_2 by rule/relationship x_3; x_1 is your x_2 by rule/relationship x_3.
 me'e	cmavo			   	BAI      	cmene modal, 1st place (requires quote)           with name ...; so-called ...
 me'ei	experimental cmavo			   	LE      	Article for abstract predicate sumti	Has an inverse: {me'au}
@@ -658,7 +668,7 @@ mo'ine'a	cmavo-compound			   	FAhA*      	space motion tense: approximating; mov
 mo'ine'i	cmavo-compound			   	FAhA*      	space motion tense: moving into directional space motion.
 mo'ine'u	cmavo-compound			   	FAhA*      	space motion tense: southwardly; to the south directional space motion.
 mo'ini'a	cmavo-compound			   	FAhA*      	space motion tense: downwardly; downwards directional space motion.
-moi'o	experimental cmavo			   	MOI      	x_1 is the PA-th date/time of unit x_2 counting from x_3 (default: now) by calendar x_4	x_3 is the reference point in time (PA = {no}). The splicing method depends on x_4. For example, at 14:03 on 11/14/2014, the 0th day (x_2 = lo {djedi}) from now is 11/14, the 0th century from now is the 21st century, the 0th month (x_2 = lo {masti}) is November, the 0th night (x_2 = lo {nicte}) is the night of 11/14.
+moi'o	experimental cmavo			   	MOI      	x_1 is the PA-th date/time of unit x_2 (si'o) counting from x_3 (default: now) by calendar x_4	x_3 is the reference point in time (PA = {no}). The splicing method depends on x_4. For example, at 14:03 on 2014-11-14, the 0th day (x_2 = lo si'o {djedi}) from now is 11-14, the 0th century from now is the 21st century, the 0th month (x_2 = lo si'o {masti}) is November, the 0th afternoon is this afternoon (x_2 = lo si'o {donri}), the 0th night (x_2 = lo si'o {nicte}) refers to nothing (because this time-point is not in night).
 mo'ipa'o	cmavo-compound			   	FAhA*      	space motion tense: passing through directional space motion.
 mo'ire'o	cmavo-compound			   	FAhA*      	space motion tense: along; along a path directional space motion.
 mo'iri'u	cmavo-compound			   	FAhA*      	space motion tense: rightwardly; to the right directional space motion.
@@ -725,6 +735,7 @@ ne'u	cmavo			   	FAhA1      	location tense relation/direction; south of.
 ni	cmavo   	-nil-		   	NU      	abstractor: quantity/amount abstractor; x_1 is quantity/amount of [bridi] measured on scale x_2.
 ni'a	cmavo			   	FAhA2      	location tense relation/direction; downwards/down from ...
 ni'au	experimental cmavo			   	CAI      	attitudinal: 'how do you do?'	Chinese style greeting. See also {pei}, {coi}, {a'oi}
+ni bu	bu-letteral			      		the last sumti having a {ni}-abstraction at its topmost level inside	See also {ka bu}, {nu bu}, {du'u bu}
 ni'e	cmavo			   	NIhE      	convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen.
 ni'e'ei	experimental cmavo			   	PA5      	digit/number: Niven's greatest-exponent prime factorization constant  lim_(n->∞) (avg_n (H)) ≈ 1.705211…	This constant is the greatest exponent appearing in the prime factorization of a positive natural number over the ring integers on average. See also: {ni'e'oi}
 ni'e'oi	experimental cmavo			   	PA5      	digit/number: Niven's smallest-exponent prime factorization constant c = zeta(3/2)/zeta(3) ≈ 2.1732543125195541382370898404…	This constant plays a role in the bounding of the infinite sum of the smallest exponents in the prime factorizations of the positive natural numbers over the ring of integers; specifically, it is the coefficient of the √(n) term; Niven's bound more fully is given by n + c√(n)  +  o(√(n)). See also: {ni'e'ei}
@@ -749,6 +760,7 @@ noroi	cmavo-compound			   	ROI*      	tense interval modifier: never; objectivel
 no'u	cmavo			   	GOI      	non-restrictive appositive phrase marker: which incidentally is the same thing as ...
 nu	cmavo   	-nun-		   	NU      	abstractor: generalized event abstractor; x_1 is state/process/achievement/activity of [bridi].	Terminated with {kei}.
 nu'a	cmavo			   	NUhA      	convert mathematical expression (mex) operator to a selbri/tanru component.
+nu bu	bu-letteral			   	BY*      	pro-sumti: refers to the last complete sumti that started with a nu-abstraction	See {nu}. See also {du'u bu}, {ka bu}, {ni bu}.
 nu'e	cmavo			   	COI      	vocative: promise - promise release - un-promise.
 nu'ecu'i	cmavo-compound			   	COI*      	vocative: promise - promise release - un-promise.
 nu'enai	cmavo-compound			   	COI*      	vocative: promise - promise release - un-promise.
@@ -782,7 +794,7 @@ o'onai	cmavo-compound			   	UI*1      	attitudinal: patience - mere tolerance - 
 o'u	cmavo			   	UI1      	attitudinal: relaxation - composure - stress.	See also {surla}, {cnilanxe}, {dunku}.
 o'ucu'i	cmavo-compound			   	UI*1      	attitudinal: relaxation - composure - stress.
 o'unai	cmavo-compound			   	UI*1      	attitudinal: relaxation - composure - stress.
-o'y	experimental cmavo			   	BY      	letteral for o.	[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{obu}.]
+o'y	experimental cmavo			   	BY      	letteral for o.	Synonymous with the original CLL definition of .{obu}.
 pa	cmavo   	-pav-		   	PA1      	digit/number: 1 (digit) [one].
 pa'a	cmavo			   	BAI      	panra modal, 1st place (parallel; shared property) similarly; in addition to ...
 pa'aku	cmavo-compound			   	BAI*      	sumti: explicitly marks respective use as in "THEY read THEIR (respective) books".
@@ -816,6 +828,7 @@ paso	cmavo-compound			   	PA*      	number/quantity: 19 [nineteen].
 pau	cmavo			   	UI3a      	discursive: optional question premarker.	See also {preti}.
 pa'u	cmavo			   	BAI      	pagbu modal, 1st place                            having component ...
 paubu	bu-letteral			   	BY*      	letteral: '?' symbol
+pau'ei	experimental cmavo			   	VUhU      	mekso operator: power set - produces the set of all subsets of set A that are of (any) size (that is) b [a nonnegative integer or transfinite/infinite number]	Possibly also could be used as a nonlogical "connective" of sorts. For accessing more than one cardinality in b, use modifiers ("less than"/"greater than") or vague numbers; default: «su'e ro», which outputs the set of all subsets of A; thus, the unary operator is just the standard power set operator.
 paunai	cmavo-compound			   	UI*3      	discursive: unreal/rhetorical question follows.
 pavo	cmavo-compound			   	PA*      	number/quantity: 14 [fourteen].
 paxa	cmavo-compound			   	PA*      	number/quantity: 16 [sixteen].
@@ -838,7 +851,7 @@ pidu'e	cmavo-compound			   	PA*      	number: too much of.
 pi'e	cmavo			   	PA3      	digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date).
 pi'ei'au	experimental cmavo			   	VUhU      	mathematical ternary operator: not-greater-prime-counting function	Outputs the number of prime numbers that are less than or equal to the input value a according to ordering rules b in ring c; contextless default for c is the standard/typical ring of integers (Z,+,*); contextless default for b is the standard typical ordering of the ring, which is the 'normal' absolute value (signless difference/distance with/from 0) for the standard ring (Z,+,*); thus, it will usually operate as an unary operator. Usually denoted "π(n)" in the literature.
 pi'ei'oi	experimental cmavo			   	VUhU      	mathematical ternary operator: prime-generating function	The a-th prime according to ordering rules b in ring c; contextless default for c is the standard/typical ring of integers (Z,+,*); contextless default for b is the standard typical ordering of the ring, which is the 'normal' absolute value (signless difference/distance with/from 0) for the standard ring (Z,+,*); thus, it will usually operate as an unary operator. The function must be defined over the set of strictly positive integers in/for the first operand; generalizations may be possible. Ignores units and 0. It begins counting at 1 [in/for the first operand]; under contextless default conditions, the outputs increase strictly monotonically with respect to increase in the first input [a], starting with the least prime in (Z,+,*), namely 2. Usually denoted "p_i" or "Prime" in the literature.
-pi'i	cmavo			   	VUhU1      	n-ary mathematical operator: times; multiplication operator; [(((a * b) * c) * ...)].
+pi'i	cmavo			   	VUhU1      	n-ary mathematical operator: times; multiplication operator; [(((a * b) * c) * ...)].	see also {pilji}, {fe'i}
 piji'i	cmavo-compound			   	PA*      	number: approximately all of.
 pimo'a	cmavo-compound			   	PA*      	number: too little of.
 pimu	cmavo-compound			   	PA*      	half.	synonym {fi'ure}; see also {xadba}
@@ -850,7 +863,9 @@ pirosi'e	cmavo-compound			   	MOI*      	quantified selbri: converts all-of to p
 piso'a	cmavo-compound			   	PA*      	number: almost all of.
 piso'e	cmavo-compound			   	PA*      	number: most of.
 piso'i	cmavo-compound			   	PA*      	number: much of.
+pisoi'a	cmavo-compound			   	PA*      	almost all of/almost 1/almost surely/almost certainly (technical sense)
 piso'iroi	cmavo-compound			   	ROI*      	tense interval modifier: often; objectively quantified tense; defaults as time tense.
+pisoi'u	cmavo-compound			   	PA*      	almost none of/almost 0/almost never/almost certainly not/nearly nothing of (technical sense)
 piso'o	cmavo-compound			   	PA*      	number: some of.
 piso'u	cmavo-compound			   	PA*      	number: a little of.
 piso'uroi	cmavo-compound			   	ROI*      	tense interval modifier: rarely; objectively quantified tense; defaults as time tense.
@@ -893,6 +908,9 @@ ra'e	cmavo			   	PA3      	digit/number: repeating digits (of a decimal) follow.
 ra'ei	experimental cmavo			      		semi-discursive: and so forth, and so on, et cetera, continuing similarly	In mekso, gains the functionality of "...". Used when intent is to explicitly mark elision of some structure which can be guessed by context and intuitive comparison with mentioned items; not derogatory or emotive.
 rai	cmavo			   	BAI      	traji modal, 1st place                            with superlative ...
 ra'i	cmavo			   	BAI      	krasi modal, 1st place                            from source/origin/starting point ...
+ra'i'au	experimental cmavo			   	UI5      	attitudinal modifier: want this to last - (cu'i) accept this - (nai) want this to end soon	{ra'i'au} means that the speaker wants this situation or emotion to last.; From {ranji} + {au}; See also: {ra'i'aucu'i}, {ra'i'aunai}
+ra'i'aucu'i	cmavo-compound			   	UI5      	attitudinal modifier: want this to last - (cu'i) accept this - (nai) want this to end soon	{ra'i'au} means that the speaker will accept this situation or emotion; From {ranji} + {au}; See also: {ra'i'au}, {ra'i'aunai}
+ra'i'aunai	cmavo-compound			   	UI5      	attitudinal modifier: want this to last - (cu'i) accept this - (nai) want this to end soon	{ra'i'au} means that the speaker wants this situation or emotion to end soon.; From {ranji} + {au}; See also: {ra'i'au}, {ra'i'aucu'i}
 ra'o	cmavo			   	RAhO      	flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi.
 ra'oi	experimental cmavo			   	ZOhOI      	single-word rafsi quote; quotes a single word delimited by pauses (in speech) or whitespace (in writing) and treats it as a rafsi	Useful for quoting rafsi that aren't legal words on their own. See http://www.lojban.org/tiki/Unspeakable+rafsi+gotcha for details.
 rau	cmavo			   	PA4      	digit/number: enough; subjective.
@@ -923,11 +941,12 @@ ri	cmavo			   	KOhA5      	pro-sumti: the last sumti, as determined by back-coun
 ri'a	cmavo			   	BAI      	rinka modal, 1st place (phys./mental)             causal because ...
 ri'a ma	cmavo-compound			   	BAI*      	sumti question asking for a physical cause; why?.
 ri'anai	cmavo-compound			   	BAI*      	rinka modal, 1st place (phys./mental)             despite cause ...
+ri'au	experimental cmavo			   	KOhA5      	pro-sumti: the next/immediately following sumti (as determined by back-counting rules applied forward)	Mostly stylistic in use, although certain word orders may help the audience understand what is being said more easily and thus this word can be more desired. Works basically the same as {ri} but counts forward; if this word were replaced by the referent sumti (the next sumti) and the next sumti were replaced by {ri}, the meaning of the sentence would not change at all.
 ri'e	cmavo			   	UI5      	attitudinal modifier: release of emotion - emotion restraint.	See also {cniri'u}, {cnicru}.
 ri'enai	cmavo-compound			   	UI*5      	attitudinal modifier: release of emotion - emotion restraint.
 ri'i	cmavo			   	BAI      	lifri modal, 1st place patient/passive case tag; happens to...,experienced by...,with passive...
 ri'o	cmavo			   	VUhU4      	trinary mathematical operator: [integral of a with respect to b over range c].
-ri'oi	experimental cmavo			   	LE      	the latest aformentioned...; refers back to the most recently mentioned thing(s) that satisfies the following predicate	See also {ri'oirkai}, {ri}, {ra}, {le}, {bi'unai}.
+ri'oi	experimental cmavo			   	LE      	the latest aformentioned...; refers back to the most recently mentioned thing(s) that satisfies the x1 of the following predicate	See also {ri'oirkai}, {ri}, {ra}, {le}, {bi'unai}.
 ri'u	cmavo			   	FAhA2      	location tense relation/direction; rightwards/to the right of ...
 ro	cmavo   	-rol-		   	PA4      	digit/number: each, all.
 ro'a	cmavo			   	UI4      	emotion category/modifier: social - antisocial.	See also {jikca}.
@@ -949,7 +968,6 @@ ro'unai	cmavo-compound			   	UI*4      	emotion category/modifier: sexual - sexu
 ru	cmavo			   	KOhA5      	pro-sumti: a remote past sumti, before all other in-use backcounting sumti.
 ru'a	cmavo			   	UI2      	evidential: I postulate.	See also {sruma}.
 ru'e	cmavo			   	CAI      	attitudinal: weak intensity attitude modifier.
-ru'ei	experimental cmavo			   	VUhU2      	n-ary operator: n-ary magma/group/ring operator a*b = ab`	Typically will be binary. All properties and structure are defined from context (including the set upon which it operates). Subscripts can denote to which structure (such as group) it belongs and which operator in that structure it is (typically, the subscript will denote in this order; id est: group, then descriptor). Notation may vary. Usually, will map within the structure (unlike a group action). See also: {ma'e'o}, {zi'a'o}, {gu'ai}.
 ru'i	cmavo			   	TAhE      	tense interval modifier: continuously; subjective tense/modal; defaults as time tense.
 ru'inai	cmavo-compound			   	TAhE*      	tense interval modifier: occasional/intermittent/discontinuous; defaults as time tense.
 ru'o	cmavo			   	BY1      	shift letterals to Cyrillic alphabet.
@@ -1033,7 +1051,7 @@ se'o'e	experimental cmavo			   	SE      	elliptical/generic/unspecific/vague sel
 sepa'a	cmavo-compound			   	BAI*      	panra modal, 2nd place                            similarly; similar to ...
 sepa'u	cmavo-compound			   	BAI*      	pagbu modal, 2nd place (whole)                    partially; as a part of ...
 sepi'o	cmavo-compound			   	BAI*      	pilno modal, 2nd place (instrumental) tool/machine/apparatus/acting entity;  using (tool) ...
-sepo'i	cmavo-compound			   	BAI*      	porsi modal, 2nd place                            sequentially; sequenced by rules ...
+sepo'i	cmavo-compound			   	BAI*      	porsi modal, 2nd place                            sequentially; sequenced by rules ...	"Under (total) ordering"
 sepu'a	cmavo-compound			   	BAI*      	pluka modal, 2nd place (for)                   pleasingly; pleasing ...; in order to please ...
 sepu'e	cmavo-compound			   	BAI*      	pruce modal, 2nd place (inputs)                   processing from inputs ...
 sera'a	cmavo-compound			   	BAI*      	srana modal, 2nd place (pertaining to)            relevantly; concerning ... (less specific).
@@ -1070,8 +1088,10 @@ so'e	cmavo   	-sop-		   	PA4      	digit/number: most.
 so'eroi	cmavo-compound			   	ROI*      	tense interval modifier: usually; objectively quantified tense; defaults as time tense.
 soi	cmavo			   	SOI      	discursive: reciprocal sumti marker; indicates a reciprocal relationship between sumti.
 so'i	cmavo   	-sor-   	-so'i-	   	PA4      	digit/number: many.
+soi'a	experimental cmavo			   	PA      	almost all/almost every/almost everywhere (technical sense): there is a conull subset of such things that are satisfactory	Can be used as a quantifier. See also: {soi'u}, {pisoi'a}
 so'imei	cmavo-compound			   	MOI*      	quantified selbri: convert many to cardinal; x_1 is a set with many members x_2 of total set x_3.
 so'iroi	cmavo-compound			   	ROI*      	tense interval modifier: many times; objective tense; defaults as time tense.
+soi'u	experimental cmavo			   	PA      	almost none/almost no/almost nowhere (technical sense): the subset of satisfactory such things is null	Can be used as a quantifier. See also: {soi'a}, {pisoi'u}
 soki'o	cmavo-compound			   	PA*      	number/quantity: 9,000 expressed with comma.
 somoi	cmavo-compound			   	MOI*      	quantified selbri: convert 9 to ordinal selbri; x_1 is ninth among x_2 ordered by rule x_3.
 sono	cmavo-compound			   	PA*      	number/quantity: 90 [ninety].
@@ -1087,7 +1107,9 @@ su'ai	experimental cmavo			   	SE      	replaces first two places with one havin
 su'anai	cmavo-compound			   	UI*2      	evidential: I generalize - I particularize; discursive: abstractly - concretely.
 su'e	cmavo   	-sup-   	-su'e-	   	PA4      	digit/number: at most (all); no more than.
 su'ei	experimental cmavo			   	SE      	shows that the first two places have a reciprocal relation	'mi do su'ei damba' is the same as 'mi do se xi vei pa .e re damba' and means "We fight with each other"
-su'i	cmavo			   	VUhU1      	n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)].
+su'i	cmavo			   	VUhU1      	n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)].	See also {vu'u}, {sumji}
+su'ifa'uvu'u	cmavo-compound			   	VUhU*      	mekso operator: plus or minus with order important, (((a±b)±c)±...±z)	Strictly not "positive or negative" (if order matters, use {ma'ufa'uni'u} instead for that purpose). Subscript {fa'u} when multiple such operators (including "positive or negative" and others) are in use but are applied independently. This word is more useful and more general in mathematics than {su'ijavu'u} is, but is perhaps/arguably less general(ly useful) in Lojban, syntactically speaking, since not all statements have multiple occurrences of {fa'u} that may be linked.
+su'ijavu'u	cmavo-compound			   	VUhU*      	mekso operator: plus or minus, (((a±b)±c)±...±z)	Strictly not "positive or negative" (which is {ma'ujani'u} vel sim.). This word is general but could easily be replaced by {su'ijonaivu'u} when the two options are not equivalent (usually when none of the operands are 0). Not preferred in complicated expressions wherein order of operations is important: see {su'ifa'uvu'u} or {su'ifa'u'aivu'u}.
 su'o	cmavo   	-suz-   	-su'o-	   	PA4      	digit/number: at least (some); no less than.
 su'oi	experimental cmavo			   	PA4      	existential plural quantifier. ``There is/are.''	``{su'oi} {da}'' = ``{na} {ku} {ro'oi} {da} {na} {ku}.'' cf. {su'o} which is an existential singular quantifier.
 su'oremei	cmavo-compound			   	MOI*      	quantified selbri: convert at least 2 to cardinal selbri; x_1 is a set with plural membership x_2.
@@ -1102,9 +1124,11 @@ ta'enai	cmavo-compound			   	TAhE*      	tense interval modifier: non-habitually
 tai	cmavo			   	BAI      	tamsmi modal, 1st place (like)/(in manner 2)      resembling ...; sharing ideal form ...	{tamsmi} is x_1 resembles x_2 sharing ideal form/shape x_3 in property x_4
 ta'i	cmavo			   	BAI      	tadji modal, 1st place (in manner 3)              methodically; by method ...
 tai'i	experimental cmavo			   	COI2      	Converts following cmevla or zoi-quote into phenomime. 	Broader term than {ci'oi} and {sa'ei}. See also {tai}, {tamsmi}, {ki'ai}. Examples in some languages. jpn: しーん (shiin): soundlessly. kor: 슬슬 (seul-seul): gently. nep: हत्तपत्त (hattapatta): immediately.
+tai'i'e	experimental cmavo			   	VUhU      	mekso unary operator: Kleene star - X1*
 ta'i ma	cmavo-compound			   	BAI*      	sumti question asking for a method; how?.
 ta'iroda	cmavo-compound			      		anyway, under any method
 ta'o	cmavo			   	UI3      	discursive: by the way - returning to main point.	See also {denpa}, {cneterta'a}.
+ta'oi	experimental cmavo			   	TAhOI      	explicit indicator that the speaker is completing/continuing a previously uttered bridi in the discourse	The following text, until the next usage of .{i}, will be interpreted as being attached to a previous bridi, most likely, the most recently uttered one in the discourse/conversation that was not closed with .{i}.
 ta'onai	cmavo-compound			   	UI*3      	discursive: by the way - returning to main point.
 tau	cmavo			   	LAU      	2-word letteral/shift: change case for next letteral only.
 ta'u	cmavo			   	UI3a      	discursive: expanding the tanru - making a tanru.	See also {tanru}.
@@ -1112,8 +1136,9 @@ ta'unai	cmavo-compound			   	UI*3a      	discursive: making a tanru - expanding 
 tau'o	experimental cmavo			   	TAUhO      	Following lujvo takes the form of a tanru (place structure of the lujvo is the same as the last rafsi/gismu)
 tau'u	experimental cmavo			   	PA5      	digit/number: tau (approximately 6.2831...).
 te	cmavo   	-ter-		   	SE      	3rd conversion; switch 1st/3rd places.
-te'a	cmavo			   	VUhU2      	binary mathematical operator: to the power; exponential; [a to the b power].
+te'a	cmavo			   	VUhU2      	binary mathematical operator: to the power; exponential; [a to the b power].	see {tenfa}
 te'ai	experimental cmavo			   	XI      	Exponentiation of unit selbri	With {pi'ai}, this word can be used to construct unit selbri; see the notes of {pi'ai} for a simple example. A full example is the units of acceleration, pi'ai mitre snidu te'ai ni'u re [ke'e].
+te'au'u	experimental cmavo			   	VUhU      	mekso ternary operator: Knuth up-arrow notation: a \\textasciicircum{}…\\textasciicircum{} b with c-2 arrows ("\\textasciicircum{}") initially, evaluated from right to left; the cth hyperoperator on a by b	c must be a nonnegative integer. c=0 is the lowest-order hyperoperator in the structure. Thus, for integers: c=0 is succession of/on b (in which case a can be omitted or be any number), c=1 is addition, c=2 is multiplication, c=3 is exponentiation, c=4 is tetration, etc. Notice that right-grouping is in effect for all c; thus x*(y*z) is calculated, rather than (x*y)*z.
 tebau	cmavo-compound			   	BAI*      	bangu modal, 3rd place (expression)               language expressing ...
 tebe'i	cmavo-compound			   	BAI*      	benji modal, 3rd place (source)                   sent to receiver ...
 teca'i	cmavo-compound			   	BAI*      	catni modal, 3rd place                            authoritatively; with basis of authority ...
@@ -1223,7 +1248,7 @@ u'ucu'i	cmavo-compound			   	UI*1      	attitudinal: repentance - lack of regret
 uunai	cmavo-compound			   	UI*1      	attitudinal: pity - cruelty.
 u'unai	cmavo-compound			   	UI*1      	attitudinal: repentance - lack of regret - innocence.
 uy	experimental cmavo			   	BY      	letteral for the u semi-vowel
-u'y	experimental cmavo			   	BY      	letteral for u.	[Presently not allowed by morphology/phonotactic constraints. Synonymous with the original CLL definition of .{ubu}.]
+u'y	experimental cmavo			   	BY      	letteral for u.	Synonymous with the original CLL definition of .{ubu}.
 va	cmavo   	-vaz-		   	VA      	location tense distance: near to ... ; there at ...; a medium/small distance from ...
 va'a	cmavo			   	VUhU3      	unary mathematical operator: additive inverse; [- a].
 va'e	cmavo			   	MOI      	convert number to scalar selbri; x_1 is at (n)th position on scale x_2.
@@ -1285,7 +1310,7 @@ vu'e	cmavo			   	UI5      	attitudinal modifier: virtue - sin.	See also {vrude},
 vu'enai	cmavo-compound			   	UI*5      	attitudinal modifier: virtue - sin.
 vu'i	cmavo			   	LAhE      	sumti qualifier: the sequence made from set or composed of elements/components; order is vague.
 vu'o	cmavo			   	VUhO      	joins relative clause/phrase to complete complex or logically connected sumti in afterthought.
-vu'u	cmavo			   	VUhU1      	n-ary mathematical operator: minus; subtraction operator; [(((a - b) - c) - ...)].
+vu'u	cmavo			   	VUhU1      	n-ary mathematical operator: minus; subtraction operator; [(((a - b) - c) - ...)].	See also {su'i}, {sumji}
 vy	cmavo			   	BY2      	letteral for v.
 xa	cmavo   	-xav-		   	PA1      	digit/number: 6 (digit) [six].
 xai	experimental cmavo			   	KOhA5      	they.(repeat >1 preceding sumti)	repeats two or more preceding sumti, not one plural sumti
@@ -1349,6 +1374,9 @@ ze'e	cmavo   	-ze'e-		   	ZEhA      	time tense interval: the whole of time.
 ze'ei	experimental cmavo			   	ZEhEI      	nonce word with existing grammar	Binds two arbitrary words together to form a nonce word whose semantics are indicated by the left word and whose grammar is the same as that of the right word. Useful for creating function words without having to allocate experimental cmavo forms.
 zei	cmavo			   	ZEI      	joins preceding and following words into a lujvo.
 ze'i	cmavo			   	ZEhA      	time tense interval: an instantaneous/tiny/short amount of time.
+zei'ei	experimental cmavo			   	ZEIhEI      	begin quote that is converted into rafsi	Terminated by {zei'oi}. Quotes an utterance (must be grammatical) and converts it (as a whole) into a single rafsi with the meaning of "something to do with the referent of "[insert quoted text]"". Notably, does not distribute through the text, treating each word individually with left-grouping (it does not distribute {zei} before and/or after each word (as needed)); the quoted utterance is taken as a whole unit of meaning unto itself; for the former purpose, see {zei'ei'au}. This word is useful for forming quotes and mathematical expressions (formal, evaluated, or otherwise) into lujvo. This rafsi is assumed to begin the next word if the preceding text/utterance does not end with an otherwise standalone and ungrammatical rafsi (the grammar in such a situation should be discussed); in order to connect it as a rafsi within a lujvo that began before it, precede the quotation with {zei}. In order to finish a lujvo or treat the quotation as a brivla on its own, follow it with {co'e}, which is treated as if the preceding utterance (the quote) is a single word followed immediately by {zei}; in order to string multiple ZEIhEI-ZEIhOI rafsi together follow this formula: zei'ei broda zei'oi co'e zei zei'ei brode zei'oi (co'e (zei...))... . Individual rafsi outside of lujvo are typically not grammatical (except in certain quotation structures, vel sim.).
+zei'ei'au	experimental cmavo			   	ZEIhEI      	begin quote that is converted into rafsi, distributing lujvo-glue between quoted words	Terminated by {zei'oi}. Begins a quote of a grammatical utterance. Between each word in the utterance, {zei} is to be interpreted and any grouping that might be applied is left-grouping. In other words, {zei} is distributed left-groupingly between each word; each word is treated on its own, individually; the quote is not treated as a whole. The final word is interpreted to have {zei} after it as well (this is a quirk of {zei'oi}), thus the quote is a string of rafsi, left-groupingly considered to be a rafsi. In order to end the lujvo formed with such a quote, follow it by {co'e}. This word compactifies large {zei}-clauses/-statements. For the perhaps generally more useful, if slightly more ambiguous, quote marker that treats the quote as a whole entity and converts it singly and wholly into a rafsi (rather than a rafsi string, as is done by this word), see: {zei'ei}. This word works as {zei'ei} does in all other regards (including as a marker for a new word (specifically a lujvo) unless preceded by {zei} or possibly by a standalone and otherwise ungrammatical rafsi). For the purpose of quoting with {ra'oi}, the result of a {zei'ei'au}-quote is treated as a single rafsi.
+zei'oi	experimental cmavo			   	ZEI'OI      	end rafsi-converting quote: terminates ZEIhEI quote	Elidable terminator (rarely elidable). Ends ZEIhEI quotes. See also: {zei'ei}, {zei'ei'au}. Treats quoted utterance as a rafsi; in order to make it end a lujvo (or act on its own as a brivla), follow it with {co'e} (wherein the the quote is treated as a single word followed by {zei}).
 zeki'o	cmavo-compound			   	PA*      	number/quantity: 7,000 expressed with comma.
 zemoi	cmavo-compound			   	MOI*      	quantified selbri: convert 7 to ordinal selbri; x_1 is seventh among x_2 ordered by rule x_3.
 zeno	cmavo-compound			   	PA*      	number/quantity: 70 [seventy].
@@ -1377,8 +1405,10 @@ zo'onai	cmavo-compound			   	UI*5      	attitudinal modifier: humorously - dully
 zo'u	cmavo			   	ZOhU      	marks end of logical prenex quantifiers/topic identification and start of sentence bridi.
 zu	cmavo			   	ZI      	time tense distance: long distance in time.
 zu'a	cmavo			   	FAhA2      	location tense relation/direction; leftwards/to the left of ...
+zu'ai	experimental cmavo			   	KOhA7      	shows mutual activity between this place and the first place of the current bridi; members participating in the activity are put into the first place (that e.g. can be formed by connecting sumti with {ce} or {jo'u})	See also {simxu}, {zi'o}
 zu'e	cmavo			   	BAI      	zukte modal, 1st place (purposed agent)           with goal-seeking actor ...
 zu'i	cmavo			   	KOhA7      	pro-sumti: the typical sumti value for this place in this relationship; affects truth value.
+zu'i'a	experimental cmavo			   	KOhA      	typically what?	Ask what {zu'i} in the place means.  From {zu'i} + {ma}. It will be usually used to learn brivla.
 zu'o	cmavo   	-zum-		   	NU1      	abstractor: activity (event) abstractor; x_1 is abstract activity of [bridi] composed of x_2.
 zu'oini'u	cmavo-compound			      		yesterday
 zu'oino	cmavo-compound			      		today

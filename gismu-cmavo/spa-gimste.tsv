@@ -680,7 +680,7 @@ lumci	gismu   	-lum-   	-lu'i-	      	x_1 lava/limpia/friega x_2 en la suciedad 
 lunbe	gismu   	-lub-		      	x_1 está desnudo/descubierto/sin ropa
 lunra	gismu   	-lur-		      	x_1 es una luna/satélite natural de planeta x_2 (la tierra por defecto)	Ver también {mluni}.
 lunsa	gismu   	-lus-		      	x_1 se condensa sobre x_2 a temperatura x_3, presión x_4	Ver también {febvi},  {dunja},  {runme}.
-mabla	gismu   	-mal-		      	x_1 es una connotación/sentido derogativo/ofensivo de x_2 usado por x_3	Ver también {palci},  {dapma},  {xlali},  {zabna}.
+mabla	gismu   	-mal-		      	x_1 es execrable/malo/detestable/aborrecible/horrible/nefando/inferior/de baja calidad/una mierda/una porquería en propiedad x_2 según estándar x_3	Ver también {palci},  {dapma},  {xlali},  {zabna}.
 mabru	gismu   	-mab-		      	x_1 es un mamífero/animal/bestia de especie/raza x_2	Ver también {danlu}.
 macnu	gismu   	-cnu-		      	x_1 es manual (no automático) en función x_2	Ver también {zmiku}.
 makcu	gismu   	-ma'u-		      	x_1 es/está maduro/desarrollado/adulto en cualidad x_2
@@ -1099,7 +1099,7 @@ stagi	gismu			      	x_1 es un vegetal/parte comestible x_2 de planta x_3
 staku	gismu   	-tak-		      	x_1 es una cantidad de cerámica hecha por x_2 de composición x_3 con forma x_4
 stali	gismu   	-sta-		      	x_1 queda/permanece en/con x_2	Ver también {canci},  {ralte},  {stodi}.
 stani	gismu			      	x_1 es un tallo/tronco de planta/especie x_2	(metafora: apoyo principal)
-stapa	gismu   	-tap-		      	x_1 camina/da pasos/anda sobre superficie x_2 usando miembros x_3	Ver también {cadzu}.
+stapa	gismu   	-tap-		      	x_1 pisa/da un paso sobre superficie x_2 usando miembro(s) x_3	Ver también {cadzu}.
 stasu	gismu			      	x_1 es una cantidad de sopa/estofado de ingredientes x_2
 stati	gismu			      	x_1 tiene talento/aptitud/capacidad/habilidad/destreza innata para ser/hacer x_2	Ver también {jinzi},  {certu},  {rarna}.
 steba	gismu   	-seb-		      	x_1 se frustra/siente frustración por x_2 (evento)
@@ -1311,7 +1311,7 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 es rojo/colorado (color)
 xurdo	gismu   	-xur-   	-xu'o-	      	x_1 refleja cultura/nacionalidad/idioma urdu en aspecto x_2
 xusra	gismu   	-xus-   	-xu'a-	      	x_1 afirma/declara que x_2 (du'u) es cierto
 xutla	gismu   	-xul-		      	x_1 es suave en textura	Ver también {rufsu},  {tengu},  {dikni}.
-zabna	gismu   	-zan-   	-za'a-	      	x_1 es una manera favorable de mirar a x_2 usada por x_3	Ver también {mabla},  {xamgu},  {vrude}.
+zabna	gismu   	-zan-   	-za'a-	      	x_1 es estupendo/genial/magnífico/excelente/esplendido/formidable/extraordinario/maravilloso/fabuloso/bárbaro/ideal en propiedad/aspecto x_2 según estándar x_3	Ver también {mabla},  {xamgu},  {vrude}.
 zajba	gismu   	-zaj-		      	x_1 es un gimnasta en evento x_2
 zalvi	gismu   	-zal-		      	x_1 muele/pulveriza x_2 en polvo x_3
 zanru	gismu   	-zar-   	-zau-	      	x_1 aprueba/favorece/celebra plan/acción x_2	Ver también {xenru}.

@@ -38,7 +38,7 @@ be'e	cmavo			   	COI      	発信求む ：心態詞（呼応系）	「もしも
 bei	cmavo			   	BEI      	~の（拡張） ： sumti を brivla に接続する（２つ目以降の sumti に用いる）	・読み方： ベイ
 be'i	cmavo			   	BAI      	~から送られて ： 付加詞・法制詞 benji の x_1	・読み方： ベヒ
 be'o	cmavo			   	BEhO      	sumti 接続終了 ： 境界詞； brivla に BE BEI で繋げた sumti の末尾を示す	・読み方： ベホ
-be'u	cmavo			   	UI5      	欠如 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）	心態詞（修飾系）何も感じない。「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』） ・読み方： ベフ  ・関連語： {claxu}, {nitcu}, {mansa}
+be'u	cmavo			   	UI5      	欠如 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）	心態詞（修飾系）；何かを欠いていたり、必要としている気持ち。直前に心態詞がある場合、その感情が何かを欠いていたり、必要ととしていたりすることから生じていることを表す；「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』） ・読み方： ベフ  ・関連語： {claxu}, {nitcu}, {mansa}
 be'ucu'i	cmavo-compound			   	UI*5      	有 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）	心態詞（修飾系）何らかの感情が有る。 ・読み方： ベフシュヒ
 be'unai	cmavo-compound			   	UI*5      	充溢 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）	心態詞（修飾系）感情に溢れている。 ・読み方： ベフナイ
 bi	cmavo   	-biv-		   	PA1      	8 ： 数量詞	・大意： 8 ・読み方： ビ
@@ -100,6 +100,7 @@ da'e	cmavo			   	KOhA2      	のちほど言うこと ： 代詞（sumti）； �
 dai	cmavo			   	UI5      	共感	心態詞（修飾系）； 先行の心態詞にたいする話者の共感／同情を表す； 話者以外の感情を表す「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』） ・読み方： ダイ  ・関連語： {cnijmi}
 da'i	cmavo			   	UI3      	非現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「もし~なら」「仮に～」「da'i trina lo nalglico selbangu／非英語話者を惹きつけられたらなあ」「lonu da'i la betis. klama le te salci cu vajni lenu la bil. gleki／ビルが喜ぶには、ベティがパーティに来ることが重要だった（実際には来なかった）」「lo li'i pu da'i lifri／既視体験」 ・読み方： ダヒ  ・関連語： {xanri}, {sruma}; {da'inai}, {je'u}, {je'unai}
 da'inai	cmavo-compound			   	UI*3      	現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「実際～」「本当に～」「da'inai fatci nanba .i e'u ko citka／本物のパンです。どうぞ召し上がれ。」「le si'o sidju cu cinri mi .i ku'i da'inai du'eda cuntu mi／援助には興味あるけど、実際にはやることが多すぎてね」 ・読み方： ダヒナイ ・関連語： {fatci}; {da'i}, {je'u}, {je'unai}
+da'o	cmavo			   	DAhO      	代sumti・代selbriの指示の取り消し／リセット
 dau	cmavo			   	PA2      	16進法A/10進法10 ： 数量詞；	・読み方： ダウ
 da'u	cmavo			   	KOhA2      	以前言ったこと ： 代詞（sumti）；	「“それ”が本当に起こるなんて彼女には知るよしもなかった」 ・読み方： ダフ
 de	cmavo			   	KOhA1      	量化型 sumti 変数２ ： 代詞（selbri）； 量化可能な sumti 変数の２つ目	・読み方： デ
@@ -168,6 +169,7 @@ fi	cmavo			   	FA      	３番目の terbri ： 標識； terbri の左に付い
 fi'a	cmavo			   	FA      	何番目の terbri ? ： 標識； terbri の左に付いてPS上の本来の位置を尋ねる	・読み方： フィハ
 fi'e	cmavo			   	BAI      	～が創って ： finti 法制詞, x_1	・読み方： フィヘ
 fi'i	cmavo			   	COI      	歓迎 ：心態詞（呼応系）；	・読み方： フィヒ
+fi'i'e	experimental cmavo			   	COI      	〜へようこそ！
 fi'inai	cmavo-compound			   	COI*      	無愛想 ：心態詞（呼応系）；	・読み方： フィヒナイ
 fi'o	cmavo			   	FIhO      	法制詞selbri 生成 ： selbri をその場限りの法制に仕立てる	「loi cmana snime tai'i .kirakiran. cu jai gusni fi'o jikseicni lo litru／山の雪がきら／＼光つて旅人を寂しがらせる」（山頭火『行乞記（二）』） ・読み方： フィホ
 fi'u	cmavo			   	PA3      	分数斜線 ： 数量詞； 左右の数のうち伏せられているものはデフォルトで1を表す	・読み方： フィフ
@@ -418,7 +420,7 @@ mo'a	cmavo   	-mob-		   	PA4      	少なすぎる～ ： 数量詞；	・大意
 mo'e	cmavo			   	MOhE      	sumti → オペランド変換 ： sumti をMEX（数式）のオペランドにする	・読み方： モヘ
 moi	cmavo   	-mom-   	-moi-	   	MOI      	序列 selbri ： 数量詞の右に付いて、「x_1 は x_2 （集合）・ x_3 （原理）の［数量詞］番目の要素」というPSを与える	「ti ci moi mlatu lo'i se kurji be mi／これは私が世話をしてきた猫のうちの３匹目です」 ・大意： 序数 selbri ・読み方： モイ
 mo'i	cmavo   	-mov-		   	MOhI      	時空間遷移 ： selbri や間詞の左に付いて時空間における動きを表す	「mo'i ti'a plipe／後ろへ跳ぶ」、次との違いに注目「ti'a plipe／後ろで跳ぶ」 ・大意： テンス： 遷移 ・読み方： モヒ
-moi'o	experimental cmavo			   	MOI      	x_1 は x_2 （単位）・x_3 （基準）（デフォルトは「今現在」）で x_4 （観点／暦／慣習）における PA 番目の日付／時刻	x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo {masti})は 11月、0番目の夜（lo {nicte}）は 11月14日の夜である。付番は未来を正の方向とする；「lo no moi'o be lo djedi ／ 今日」「lo pa moi'o be lo nanca／来年」「lo ni'u moi'o be lo masti／先月」；「.e'o ko klama lo zdani be mi ca lo no moi'o be lo nicte／今夜、私の家に来てください。」
+moi'o	experimental cmavo			   	MOI      	x_1 は x_2 （単位）・x_3 （基準）（デフォルトは「今現在」）で x_4 （観点／暦／慣習）における PA 番目の日付／時刻	x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si'o {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si'o  {masti})は 11月、0番目の昼（lo si'o {donri}）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si'o {nicte}）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；「lo no moi'o be lo si'o djedi ／ 今日」「lo pa moi'o be lo nanca／来年」「lo ni'u moi'o be lo si'o masti／先月」；「.e'o ko klama lo zdani be mi ca lo pa moi'o be lo si'o nicte／今夜、私の家に来てください。」
 mo'o	cmavo			   	MAI      	篇章序列 ： 数量詞の右に付いて、文章の篇や節を表す	「pa mo'o／第一章」 ・読み方： モホ
 mo'u	cmavo			   	ZAhO      	終了 ： 相制詞；	・読み方： モフ
 mu	cmavo   	-mum-		   	PA1      	5 ： 数量詞；	・大意： 5 ・読み方： ム
@@ -531,6 +533,9 @@ ra'a	cmavo			   	BAI      	～が関連／関係して／関わって ： srana 
 ra'e	cmavo			   	PA3      	小数反復 ： 数量詞； 右の小数数量詞のまとまりが以降ずっと反復するのを表す	pi 35 ra'e 14285／.35142857142857...」 ・読み方： ラヘ
 rai	cmavo			   	BAI      	～を最上として／～が最高の ： traji 法制詞, x_1	・読み方： ライ
 ra'i	cmavo			   	BAI      	～を起源として ： krasi 法制詞, x_1	・読み方： ラヒ
+ra'i'au	experimental cmavo			   	UI5      	このままでいたい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）	心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； {ranji} + {au} から；
+ra'i'aucu'i	cmavo-compound			   	UI5      	あるがままを受け入れる （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）	心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； {ranji} + {au} から；
+ra'i'aunai	cmavo-compound			   	UI5      	はやく脱したい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）	心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； {ranji} + {au} から；
 ra'o	cmavo			   	RAhO      	代詞更新 ： GOhA類代詞の右に付いてそれを文脈に即して更新する	「A: mi ctidji B:go'i ra'o／A: おなかがすいた B: 私も」 ・読み方： ラホ
 rau	cmavo			   	PA4      	十分な ： 数量詞；	・読み方： ラウ
 ra'u	cmavo			   	UI3      	特に （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）	心態詞（談話系）；「ti ra'u kukte／これが特においしい」 ・読み方： ラフ  ・関連語： {ralju}, {vajni}
@@ -551,6 +556,7 @@ ri'e	cmavo			   	UI5      	心態解放 （ ri'e 心態解放 - ri'enai 心態�
 ri'enai	cmavo-compound			   	UI*5      	心態抑制 （ ri'e 心態解放 - ri'enai 心態抑制）	心態詞（修飾系）； 自らの心情や態度を隠す／抑える ・読み方： リヘナイ
 ri'i	cmavo			   	BAI      	～が経験して／～を被験者として ： lifri 法制詞, x_1	・読み方： リヒ
 ri'o	cmavo			   	VUhU4      	積分 ： 数理演算子（3変数）；関数 a の積分、変数 b についての、区間 c にわたる	・読み方： リホ
+ri'oi	experimental cmavo			   	LE      	試験的cmavo； さっき述べた・・・； 後続の述語のx_1を満たすような、直近に出てきた語と同じ対象を指示する	・関連語： {ri'oirkai}, {ri}, {ra}, {le}, {bi'unai}
 ri'u	cmavo			   	FAhA2      	～の右方に／～の右側で ： 間制詞（空間・方向）；	・読み方： リフ
 ro	cmavo   	-rol-		   	PA4      	各／全／一つ一つの ： 数量詞；	「ro da vrici ke kampre mutce／みんなとり／″＼に人間味たつぷりだ」（山頭火『行乞記（二）』） ・大意： 各／全 ・読み方： ロ
 ro'a	cmavo			   	UI4      	社交 （ ro'a 社交 - ro'anai 反社会的）	心態詞（修飾系・カテゴリ）； 「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』） ・読み方： ロハ  ・関連語： {jikca}
@@ -891,6 +897,7 @@ zu	cmavo			   	ZI      	時間程度・大 ： 間制詞（時間・程度）	�
 zu'a	cmavo			   	FAhA2      	～の左方に／左側で ： 間制詞（空間・方向）	・読み方： ズハ
 zu'e	cmavo			   	BAI      	～が行動して ： zukte 法制詞, x_1	・読み方： ズヘ
 zu'i	cmavo			   	KOhA7      	典型 sumti ： 代詞（sumti）	「例のアレ」 ・読み方： ズヒ
+zu'i'a	experimental cmavo			   	KOhA      	典型的には何	試験的cmavo；その位置の{zu'i}の内容を問う。「klama zu'i'a ― lo stuzi／klamaのx2には典型的に何がくるか？―場所」
 zu'o	cmavo   	-zum-		   	NU1      	動作 ： 抽象詞； bridi の左に付いて、その bridi が内包する動作を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される動作、 x_2 （要素）の	蟻の手洗いも銀河の運行も。「lo zu'o citka」で「食べる動き」「食事作法」など。 ・大意： 抽象： 動作 ・読み方： ズホ  ・関連語： {zukte}
 zu'u	cmavo			   	UI3      	一方で （ zu'u 一方で - zu'unai もう一方で）	心態詞（談話系）「zu'u sei sudga citsi lo djacu na banzu／一方で、乾期には水が足りない」 ・読み方： ズフ  ・関連語： {karbi}, {frica}, {dukti}
 zu'unai	cmavo-compound			   	UI*3      	もう一方で （ zu'u 一方で - zu'unai もう一方で）	心態詞（談話系）「zu'unai sei carvi citsi lo djacu cu dukse／もう一方で、雨期には水が過剰」 ・読み方： ズフナイ

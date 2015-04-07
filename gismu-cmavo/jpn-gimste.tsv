@@ -149,7 +149,7 @@ cindu	gismu			      	x_1 はブナ科（樫／オーク）	・大意： ブナ�
 cinfo	gismu			      	x_1 は x_2 （種類）のライオン／獅子	・大意： ライオン ・読み方： シンフォ  ・語呂合わせ： シンフォニー ・関連語： {mlatu} (上位概念) < {mabru} (上位概念), {tirxu}
 cinje	gismu   	-cij-		      	x_1 は x_2 （箇所）におけるしわ；  x_2 はくしゃくしゃ	・大意： しわ ・読み方： シンジェ  ・関連語： {korcu}, {polje}, {boxfo}, {boxna}
 cinki	gismu			      	x_1 は x_2 （種類）の昆虫綱（甲虫／チョウ／ハエ／ハチ／カメムシ／バッタ／トンボ…目）	・大意： 昆虫 ・読み方： シンキ  ・語呂合わせ： 新奇な昆虫 ・関連語： {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}
-cinla	gismu			      	x_1 は x_2 （次元／方向）・ x_3 （照合枠）において細い	・大意： 細い ・読み方： シンルァ  ・語呂合わせ： 親鸞 ・関連語： {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}
+cinla	gismu			      	x_1 は x_2 （次元／方向）・ x_3 （照合枠）において細い／薄い	・大意： 細い ・読み方： シンルァ  ・語呂合わせ： 親鸞 ・関連語： {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}
 cinmo	gismu   	-cni-		      	x_1 は x_2 （感情）を x_3 について覚える；  x_1 は感情的／ムードに浸っている	・大意： 感情 ・読み方： シンモ  ・語呂合わせ： 心も感情 ・関連語： {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki}
 cinri	gismu   	-ci'i-		      	x_1 （事）は x_2 の関心を惹く；  x_2 は x_1 に関心がある	・大意： 関心 ・読み方： シンリ  ・語呂合わせ： 心理 ・関連語： {zdile}, {kucli}, {manci}, {kurji}
 cinse	gismu   	-cin-		      	x_1 は x_2 （行為／状態）で x_3 （性質）を x_4 （基準）における性的特徴として表す／有する；  x_1 は性的／セクシー	・大意： 性的 ・読み方： シンセ  ・語呂合わせ： 神性 ・関連語： {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}
@@ -271,6 +271,7 @@ daspo	gismu   	-spo-		      	x_1 （事）は x_2 を破壊する／破滅させ
 dasri	gismu   	-sri-		      	x_1 は x_2 （素材）のリボン／テープ／帯	「セロハンテープ」も。 ・大意： 帯（おび） ・読み方： ダスリ  ・語呂合わせ： ＜ダサいリボン＞ ・関連語： {djine}
 datka	gismu			      	x_1 は x_2 （種類）のアヒル	・大意： アヒル ・読み方： ダトカ  ・語呂合わせ： ダチョウか ・関連語： {gunse} (上位概念) < {cipni} (上位概念)
 datni	gismu			      	x_1 は x_2 （題目）について x_3 （方法）で得たデータ／情報／統計	・大意： 情報 ・読み方： ダトニ  ・関連語： {fatci}, {saske}, {vreji}
+datru	experimental gismu			      	x_1 （事）は x_2 （日）・ x_3 （月）・ x_4 （年）・ x_5 （暦） の日付 （に生じる）	{detri} は十分に文化中立的な日付システムとして機能していないという声がある。さらに日付の機構に{pi'e}や{joi}を使うのは不十分であり、日・月・年の要素をそれぞれPSに設けたほうがより一層すっきりしているように思われる。　・関連語： {masti}, {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu}
 decti	gismu   	-dec-		      	x_1 は x_2 の、 x_3 （性質）におけるデシ／十分の一 ［1 x_1 0**-1］	・大意： デシ ・読み方： デシティ ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 degji	gismu   	-deg-		      	x_1 は x_2 （本体）・ x_3 （箇所／肢）の指	比喩的に「半島」も。 ・大意： 指 ・読み方： デグジ  ・関連語： {nazbi}, {tamji}, {tance}, {xance}
 dejni	gismu   	-dej-		      	x_1 （者）は x_2 （物／事）を、 x_3 （者）に x_4 （事）をしてもらった借りとして負っている；  x_1 は x_3 に恩義がある	x2 は「借金」なども。 ・大意： 恩義 ・読み方： デジニ  ・語呂合わせ： 恩義は地デジに ・関連語： {jbera}, {janta}, {zivle}
@@ -380,7 +381,7 @@ fukpi	gismu   	-fuk-   	-fu'i-	      	x_1 は x_2 （対象）の、 x_3 （媒�
 fulta	gismu   	-ful-   	-flu-	      	x_1 は x_2 （気体／液体）に浮かぶ；  x_1 は浮遊物	・大意： 浮かぶ ・読み方： フルゥタ  ・関連語： {limna}, {bloti}, {sakli}
 funca	gismu   	-fun-   	-fu'a-	      	x_1 （事／性質）は x_2 の運；  x_1 はまぐれ／めぐり合わせ	・大意： 運 ・読み方： フンシャ ・関連語： {cunso}, {mabla}, {zabna}
 fusra	gismu   	-fur-		      	x_1 は x_2 （原因）によって腐敗／発酵する；  x_1 は腐っている／錆びている	発酵の場合、 x2 は「酵母」など。 ・大意： 腐敗 ・読み方： フスラ ・語呂合わせ： fuhai ・関連語： {birje}, {vanju}, {vifne}
-fuzme	gismu   	-fuz-   	-fu'e-	      	x_1 は x_2 （事）について x_3 （断裁／権限）の責任がある	・大意： 責任 ・読み方： フズメ ・関連語： {bilga}
+fuzme	gismu   	-fuz-   	-fu'e-	      	x_1 は x_2 （事）について x_3 （断裁／権限）の観点で責任がある	・大意： 責任 ・読み方： フズメ ・関連語： {bilga}
 gacri	gismu   	-gai-		      	x_1 は x_2 の覆い／蓋／カバー；  x_1 は x_2 に被さっている	「仮面」なども。 ・大意： 覆い ・読み方： ガシリ  ・語呂合わせ： がっしり覆う ・関連語： {pilka}, {gapru}, {marbi}, {drudi}, {ve} {botpi}, {bitmu}, {calku}
 gadri	gismu   	-gad-		      	x_1 は x_2 （修飾対象）・ x_3 （言語）・ x_4 （意味／機能）の冠詞／標識	・大意： 冠詞 ・読み方： ガドリ  ・語呂合わせ： guanci（冠詞）, article ・関連語： {valsi}, {cmavo}
 galfi	gismu   	-gaf-   	-ga'i-	      	x_1 は x_2 を x_3 に改変する／変える	「cenba」と違い、他動的で、結果が含意される。 ・大意： 改変 ・読み方： ガルゥフィ  ・関連語： {stika}, {binxo}, {cenba}; {zasni}
@@ -688,11 +689,11 @@ lumci	gismu   	-lum-   	-lu'i-	      	x_1 は x_2 の汚れ x_3 を洗浄剤／�
 lunbe	gismu   	-lub-		      	x_1 は裸／服無し	・大意： 裸 ・読み方： ルゥンベ  ・関連語： {taxfu}, {bandu}
 lunra	gismu   	-lur-		      	x_1 は地球の月；  x_1 は x_2 の主要衛星	「mluni」の狭義。 ・大意： 月 ・読み方： ルゥンラ  ・関連語： {plini}, {solri}, {terdi}, {mluni}
 lunsa	gismu   	-lus-		      	x_1 は x_2 の表面／中で、 x_3 （温度）・ x_4 （圧力）の条件下で凝結／液化する	・大意： 凝結 ・読み方： ルゥンサ  ・関連語： {cilmo}, {dunja}, {febvi}, {runme}, {bumru}
-mabla	gismu   	-mal-		      	x_1 は x_2 （対象）に関する x_3 （者）による中傷／悪口	「zabna」の対義。 x2 は人に限らず物や事も。「クソ英語／malglico」などのように、複合語の修飾要素としてよく用いられる。 ・大意： 中傷 ・読み方： マブルァ  ・関連語： {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}
+mabla	gismu   	-mal-		      	x_1 は x_2 （対象）に関する x_3 （者）による中傷／悪口	「zabna」の対義。 x_2 は人に限らず物や事も。「クソ英語／malglico」などのように、複合語の修飾要素としてよく用いられる。 ・大意： 中傷 ・読み方： マブルァ  ・関連語： {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}
 mabru	gismu   	-mab-		      	x_1 は x_2 （種類）の哺乳綱動物	・大意： 哺乳類 ・読み方： マブル ・語呂合わせ： マーブル哺乳類 ・関連語： {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}
 macnu	gismu   	-cnu-		      	x_1 （事）は x_2 （機能）に関して手動／マニュアル	・大意： 手動 ・読み方： マシヌ  ・語呂合わせ： マニュアル　手動 ・関連語： {zmiku}, {jitro}
 makcu	gismu   	-ma'u-		      	x_1 は x_2 （性質）に関して成熟している；  x_1 は成人／おとな	「lo cmana rutrkaki po le cmana malsi zo'u za'o makcu／山寺の山柿のうれたまゝ」（山頭火『行乞記（二）』） ・大意： 成熟 ・読み方： マクシュ  ・関連語： {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}
-makfa	gismu   	-maf-		      	x_1 は x_2 （対象）に x_3 （者）が掛ける魔法／妖術／超自然的力	・大意： 魔法 ・読み方： マクファ  ・関連語： {manci}
+makfa	gismu   	-maf-		      	x_1 は x_2 （観点）にとって x_3 （者）が掛ける魔法／妖術／超自然的力	・大意： 魔法 ・読み方： マクファ  ・関連語： {manci}
 maksi	gismu   	-mak-		      	x_1 は x_2 （磁界）を形成する磁力／磁石	・大意： 磁力 ・読み方： マクスィ  ・語呂合わせ： magnet, si（磁） ・関連語： {dikca}, {trina}, {xlura}
 malsi	gismu   	-mas-		      	x_1 は x_2 （宗教体系）・ x_3 （所）の寺／寺院／神社／教会／モスク／シナゴーグ	礼拝地全般。 x2 は事も可能。 ・大意： 寺 ・読み方： マルゥスィ  ・語呂合わせ： temple, si（寺） ・関連語： {cevni}, {krici}, {lijda}, {ritli}
 mamta	gismu   	-mam-		      	x_1 は x_2 の母親；  x_1 は母性的	肉親とは限らない。 ・大意： 母 ・読み方： マムタ  ・語呂合わせ： マム ・関連語： {patfu}, {sovda}, {rirni}, {rorci}, {tarbi}, {famti}, {bersa}, {jbena}
@@ -744,7 +745,7 @@ minra	gismu   	-mir-		      	x_1 は x_2 （物／放射）を x_3 （観察者�
 mintu	gismu   	-mit-   	-mi'u-	      	x_1 は x_2 と、 x_3 （基準）において同種	「du」と違い、x1と x2 は実体が別個。「この花は（x1）ウチで飾っているもの（ x2 ）と同じです」。 ・大意： 同種 ・読み方： ミントゥ  ・語呂合わせ： <みんなツール＞,同種のミントぅ ・関連語： {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, {du}, {simxu}
 mipri	gismu   	-mip-		      	x_1 は x_2 を x_3 から、 x_4 （方法）によって匿う／隠す／秘密にする	・大意： 匿う ・読み方： ミプリ  ・関連語： {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}
 mirli	gismu			      	x_1 は x_2 （種類）のシカ科動物	・大意： 鹿 ・読み方： ミルルィ  ・関連語： {mabru}, {danlu}
-misno	gismu   	-mis-   	-mi'o-	      	x_1 （人／物／事）は x_2 （郡）の間で有名	「人気」「セレブ」も。 ・大意： 有名 ・読み方： ミスノ  ・語呂合わせ： ミスの有名な・・・ ・関連語： {se} {sinma}, {banli}
+misno	gismu   	-mis-   	-mi'o-	      	x_1 （人／物／事）は x_2 （群）の間で有名	「人気」「セレブ」も。 ・大意： 有名 ・読み方： ミスノ  ・語呂合わせ： ミスの有名な・・・ ・関連語： {se} {sinma}, {banli}
 misro	gismu			      	x_1 は x_2 （性質面）に関してエジプト系（言語／文化／民族／地理）	・大意： エジプト ・読み方： ミスロ ・関連語： {friko}, {muslo}, {xrabo}
 mitre	gismu   	-tre-		      	x_1 は x_2 （数量）・ x_3 （方向）・ x_4 （基準）のメートル；  x_1 は x_2 メートル	・大意： メートル ・読み方： ミトレ  ・関連語： {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
 mixre	gismu   	-mix-   	-xre-	      	x_1 は x_2 （成分）を混ぜ合わせたもの／調合したもの	・大意： 混合 ・読み方： ミクゥレ  ・語呂合わせ： mix ・関連語： {salta}, {te} {runta}, {stasu}, {jicla}, {sanso}
@@ -802,6 +803,7 @@ nicte	gismu   	-cte-		      	x_1 は x_2 （日）の x_3 （場所）におけ�
 nikle	gismu   	-nik-		      	x_1 はニッケル（Ni）	錆びない金属。 ・大意： ニッケル ・読み方： ニクルェ  ・関連語： {jinme}
 nilce	gismu   	-ni'e-		      	x_1 は x_2 （場所）に備え付く家具／調度品／備品／設置物	・大意： 家具 ・読み方： ニルゥシェ  ・関連語： {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}
 nimre	gismu			      	x_1 は x_2 （種）のかんきつ類／ミカン属	・大意： ミカン属 ・読み方： ニムレ  ・語呂合わせ： ミカンに群れ ・関連語： {grute}, {slari}, {slami}, {xukmi}
+ninja	experimental gismu			      	x_1 は x_2 （流派／場所／民族）の忍者
 ninmu	gismu   	-nim-   	-ni'u-	      	x_1 は女（の人）	セクシズムを避けるなら「prenu」か「remna」。 ・大意： 女 ・読み方： ニンム  ・語呂合わせ： 女の任務 ・関連語： {nanmu}, {remna}, {prenu}, {makcu}, {nixli}
 nirna	gismu   	-nir-		      	x_1 は x_2 （本体）の神経（神経網）／ニューロン	比喩として「ネットワーク」なども。 ・大意： 神経 ・読み方： ニルナ  ・語呂合わせ： 神経煮るな ・関連語： {ve} {benji}
 nitcu	gismu   	-tcu-		      	x_1 は x_2 を x_3 （目的／行動）のために要する；  x_2 が x_1 には必要	客観的な必須を表す「sarcu」と違い、個人的／主観的な必要を意味する。 ・大意： 要する ・読み方： ニチュ ・語呂合わせ： 要するにチュウ ・関連語： {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}
@@ -955,10 +957,10 @@ risna	gismu			      	x_1 は x_2 （本体）の心臓	・大意： 心臓 ・�
 ritli	gismu   	-ri'i-		      	x_1 は x_2 （目的）・ x_3 （慣習／共同体）・ x_4 （形態／規則）の儀式；  x_1 は形式的／かしこまっている	x4は「風紀」なども。 ・大意： 儀式 ・読み方： リトルィ  ・語呂合わせ： 刈り取り儀式 ・関連語： {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}
 rivbi	gismu   	-riv-		      	x_1 は x_2 （事）を x_3 （事）によって避ける／回避する／逃れる	「遠回り」「迂回」も。 ・大意： 避ける ・読み方： リヴビ  ・関連語： {bandu}, {fanta}, {se} {jersi}, {sisku}, {kalte}, {fapro}
 rokci	gismu   	-rok-   	-ro'i-	      	x_1 は x_2 （成分）・ x_3 （産地）の岩／石	・大意： 岩 ・読み方： ロクシ  ・語呂合わせ： ロック石 ・関連語： {kunra}, {jemna}, {canre}
-romge	gismu   	-rog-		      	x_1 は x_2 （金属）のクロムめっき	・大意： クロム ・読み方： ロムゲ  ・関連語： {jinme}
+romge	gismu   	-rog-		      	x_1 は x_2 （金属）でめっきされている	x2はふつうクロム　・大意： めっき ・読み方： ロムゲ  ・関連語： {jinme}
 ropno	gismu   	-ron-   	-ro'o-	      	x_1 は x_2 （性質面）に関してヨーロッパ系（言語／文化／民族／地理）	・大意： ヨーロッパ ・読み方： ロプノ  ・関連語： {brito}
 rorci	gismu   	-ror-		      	x_1 は x_2 （子）を x_3 との間にもうける	・大意： 生殖 ・読み方： ロルシ  ・関連語： {grute}, {gutra}, {rirni}, {se} {panzi}, {mamta}, {patfu}, {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}
-rotsu	gismu   	-rot-   	-tsu-   	-ro'u-      	x_1 は x_2 （次元／方向）・ x_3 （基準）において厚い	・大意： 厚い ・読み方： ロツ ・関連語： {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}
+rotsu	gismu   	-rot-   	-tsu-   	-ro'u-      	x_1 は x_2 （次元／方向）・ x_3 （基準）において太い／厚い	・大意： 厚い ・読み方： ロツ ・関連語： {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}
 rozgu	gismu   	-roz-   	-zgu-	      	x_1 は x_2 （種類）のバラ属植物	通常は花を指す。 ・大意： 薔薇 ・読み方： ロズグ  ・語呂合わせ： ローズ ・関連語： {spati}, {xunre}
 ruble	gismu   	-rub-   	-ble-	      	x_1 は x_2 （性質）・ x_3 （基準）において弱い／ひ弱／虚弱／微弱／華奢	・大意： 弱い ・読み方： ルブルェ  ・語呂合わせ： よわるブレーキ ・関連語： {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}
 rufsu	gismu   	-ruf-		      	x_1 は粗い／ざらざら／ごわごわ	・大意： 粗い ・読み方： ルフゥス ・語呂合わせ： ざらざらなるふすま ・関連語： {xutla}, {tengu}, {vitci}
@@ -1320,7 +1322,7 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 は赤色／クリムゾン	・大意�
 xurdo	gismu   	-xur-   	-xu'o-	      	x_1 は x_2 （性質面）に関してウルドゥー／インディック系（言語／文化／民族／地理）	・大意： ウルドゥー ・読み方： クゥルド ・関連語： {kisto}, {srito}, {xindo}
 xusra	gismu   	-xus-   	-xu'a-	      	x_1 は x_2 （命題）を事実的内容として断言／宣言する	「darlu」と違い、物事の事実性にたいするx1の確信が表明され、他の観点との対立は含意されない。例えば議会で取り決められた事柄を政府が発表することなど。 ・大意： 断言 ・読み方： クゥスラ ・関連語： {natfe}, {nupre}
 xutla	gismu   	-xul-		      	x_1 は x_2 （性質）に関して滑らか／すべすべ／つるうるしている	x2 は布地表面や起伏特性など。 ・大意： 滑らか ・読み方： クゥトルァ ・関連語： {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}
-zabna	gismu   	-zan-   	-za'a-	      	x_1 は x_2 （対象）にたいする x_3 （意識者）の好意的な見方／意味合	「mabla」の対義。 ・大意： 好意的 ・読み方： ザブナ  ・関連語： {funca}, {mabla}, {xamgu}, {vrude}
+zabna	gismu   	-zan-   	-za'a-	      	x_1 は x_2 （性質）において、 x_3（基準）で好ましい／すぐれている／実に見事だ／すばらしい／すてきだ／一流だ／傑出している／あっぱれだ／見事だ／称賛に値する／立派だ／望ましい／楽しい／感じのよい／愛すべき／精好だ／クールだ	「最高」「ナイス」「イケてる」など。 {mabla}の対義。 ・大意： 好意的 ・読み方： ザブナ　・関連語： {mabla}, {xamgu}, {funca}, {vrude}, {banli}
 zajba	gismu   	-zaj-		      	x_1 は x_2 （形態／技術）の体操をする	・大意： 体操 ・読み方： ザジバ  ・関連語： {sluji}, {dansu}
 zalvi	gismu   	-zal-		      	x_1 （表面／道具）は x_2 を挽いて／すり潰して x_3 （粉）にする	「mosra」との組み合わせも。 ・大意： 挽く（ひく） ・読み方： ザルゥヴィ ・関連語： {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}
 zanru	gismu   	-zar-   	-zau-	      	x_1 は x_2 （物／事）を容認／承認／是認する	・大意： 容認 ・読み方： ザンル  ・関連語： {zau}, {natfe}
