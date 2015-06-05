@@ -10,6 +10,7 @@ bo	cmavo   	-bor-		      		Verbindung kurzer Reichweite; verbindet verschiedene 
 bu	cmavo   	-bus-   	-bu'i-	      		verwandelt ein beliebiges einzelnes Wort in BY
 bu'a	cmavo   	-bul-		      		logisch quantifizierte Prädikatvariable: irgendein selbri 1
 ca'a	cmavo   	-caz-		      		Modalaspekt: Wirklichkeit/fortdauerndes Ereignis
+canlu bu	bu-letteral			   	BY*      	Leerzeichen.	Unicode-Codepoint U+20
 ce	cmavo   	-cec-		      		nichtlogische Verbindung: Mengenverbinder, ungeordnet; „und außerdem“, aber eine Menge bildend
 ce'i	cmavo   	-cez-		      		Zahl/Ziffer: %, Prozentzeichen, Hundertstel
 ce'o	cmavo   	-ce'o-		      		nichtlogische Verbindung: verbindet geordnete Folgen; „und dann“, eine Folge bildend

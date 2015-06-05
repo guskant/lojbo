@@ -20,7 +20,7 @@ a'ucu'i	cmavo-compound			   	UI*      	tcita le se cusku le du'u la'e ri nalci'i
 aucu'i	cmavo-compound			   	UI*      	tcita le se cusku le du'u la'e ri se naldji le cusku	{au} {cu'i}; {naldji}
 aunai	cmavo-compound			   	UI*      	tcita le se cusku le du'u la'e ri se toldji le cusku	{au} {nai}; {toldji}
 a'unai	cmavo-compound			   	UI*      	tcita le se cusku le du'u la'e ri rigni le cusku	{a'u} {nai}; {rigni}
-au'u	experimental cmavo			   	UI      	cnima'o .i citmle u'unai     .i kansa zo nai poi na'e citmle u'unaicu'i     .i kansa zo cu'i poi to'e citmle u'u
+au'u	experimental cmavo			   	UI1      	cnima'o .i citmle u'unai     .i kansa zo nai poi na'e citmle u'unaicu'i     .i kansa zo cu'i poi to'e citmle u'u
 a'y	experimental cmavo			   	BY      	pa moi lo lerfu be lo lojbo se lerfu	dunli me'o .abu lo ka sinxa ma kau
 ba	cmavo			   	PU      	fi'o se balvi
 ba'a	cmavo			   	UI2      	tcita le se cusku le du'u la'e ri se bavykri	{bavykri}
@@ -70,6 +70,7 @@ ca'a	cmavo   	-caz-		   	CAhA      	fi'o jai fatci	{fatci}
 ca'e	cmavo			   	UI2      	tcita le se cusku le du'u la'e ri jetnu seja'e le nu ri se cusku
 cai	cmavo			   	CAI      	tcita le se cusku le du'u la'e ri carmi le ka se cinmo le cusku	{cinmo} {carmi}
 ca'i	cmavo			   	BAI      	fi'o catni	{catni}
+canlu bu	bu-letteral			      		lu canlu bu li'u bu'ivla zoi gy. .gy.
 ca'o	cmavo			   	ZAhO      	fi'o faurmidju	{faurmidju}
 cau	cmavo			   	BAI      	fi'o claxu
 ca'u	cmavo			   	FAhA2      	fi'o se crane	{crane}
@@ -115,6 +116,7 @@ de'ei	experimental cmavo			   	ROI      	fi'o se datru li mo'e lo se datru be de
 dei	cmavo			   	KOhA2      	sumka'i le nau se cusku	{nau} {selsku} {sumka'i}
 de'i	cmavo			   	BAI      	fi'o detri	{detri}
 de'i'a	experimental cmavo			   	BAI      	fi'o na'arctodetri	.i srana zo {na'arctodetri} .e zo {de'i} .e zo {de'i'e} .e zo {de'i'i} .e zo {de'i'o} .e zo {de'i'u}
+dei'a	experimental cmavo			   	TAhE      	zo dei'a sumtcita gi'e cmavo ma'oi ta'e .i ca'e lo du'u «dei'a ko'a broda» cu du'u «zi'o jdika lo ni broda kei ko'a» kei gi'e va'i du'u «lo ni broda cu zildika ko'a»	srana fa zo {jdika} joi zo {zei'a} joi zo {zildika}
 de'i'e	experimental cmavo			   	BAI      	fi'o na'ardetri	.i srana zo {na'ardetri} .e zo {de'i} .e zo {de'i'a} .e zo {de'i'i} .e zo {de'i'o} .e zo {de'i'u}
 de'i'i	experimental cmavo			   	BAI      	fi'o ma'irdetri	.i srana zo {ma'irdetri} .e zo {de'i} .e zo {de'i'a} .e zo {de'i'e} .e zo {de'i'o} .e zo {de'i'u}
 de'i'o	experimental cmavo			   	BAI      	fi'o ma'irdeidetri	.i srana zo {ma'irdeidetri} .e zo {de'i} .e zo {de'i'a} .e zo {de'i'e} .e zo {de'i'i} .e zo {de'i'u}
@@ -342,6 +344,7 @@ ku'i	cmavo			   	UI3b      	tcita le se cusku le du'u la'e ri frica la'e le li'e
 ku'o	cmavo			   	KUhO      	fa'orma'o zo noi	{fa'orma'o}; {noi}; {poi}; {voi}
 ku'u	cmavo			   	BAI      	fi'o kulnu	{kulnu}
 ky	cmavo			   	BY2      	panomoi lerfu le lojbo	{lerfu}
+kybu	bu-letteral			      		lu slaka bu li'u bu'ivla zoi ly.q.ly.
 la	cmavo			   	LA      	gadri fo le du'u tcita lo cmene
 la'a	cmavo			   	UI3      	tcita le se cusku le du'u la'e ri lakne	{lakne}
 la'ai	experimental cmavo			   	LOhU      	jbocme fi'o nafte'i lo karsnarfa'o .i lo za'u pa cmene cu se jdijimte lo depybu'i	.i ji'a pilno ka'e fi lo sitsku be lo zunsnafamme'e
@@ -395,6 +398,8 @@ medomoi	cmavo-compound			      		x_1 cmima x_2 gi'e ckini do x_3	{me} {do} {moi}
 me'e	cmavo			   	BAI      	fi'o cmene	{cmene}
 mei	cmavo   	-mem-   	-mei-	   	MOI      	galfi lu'e lo namcu lo selbrisle .i x_1 gunma gi'e zilkancu le namcu	{zilkancu} {gunma}; {moi}, {si'e}, {va'e}
 me'i	cmavo			   	PA      	namcu .i mleca le se li'erla'i namcu	{namcu}; {mleca}
+mei'e	experimental cmavo			   	MEIhE      	galfi lo sumti porsi goi py. lo selbrisle .i x_1 menre lo cmima be py.	srana fa zo {me} .e zo {menre} .e zo {cmima} .e zo {sumpoi} .i se famyma'o zo {mei'o}
+mei'o	experimental cmavo			   	MEIhO      	famyma'o ma'oi mei'e
 memimoi	cmavo-compound			      		x_1 cmima x_2 gi'e ckini mi x_3	{me} {mi} {moi}
 me'o	cmavo			   	LI      	tcita le se li'erla'i le du'u ri mekso	{mekso}
 me'u	cmavo			   	MEhU      	fa'orma'o zo me	{fa'orma'o}; {me}
@@ -588,14 +593,16 @@ ta'e	cmavo			   	TAhE      	fi'o jai ve'a tcaci	{tcaci}
 tai	cmavo			   	BAI      	fi'o tamsmi	{tamsmi}
 ta'i	cmavo			   	BAI      	fi'o tadji	{tadji}
 ta'o	cmavo			   	UI3      	tcita le se cusku le du'u la'e ri no'e srana pinka
+ta'oi	experimental cmavo			   	TAhOI      	zo ta'oi sinxa lo du'u le cusku cu aidji lo ka ce'u jmina le ca se cusku lo jufra poi lidne	sa'enai dukti zo {i}
 tau	cmavo			   	LAU      	tcita le pa se li'erla'i lerfu le du'u ri cenba le ka ce'u barda je'ikau cmalu se tarmi	{lerfu} {tarmi} {cenba}; {ga'e}, {ta'o}
 ta'u	cmavo			   	UI3a      	tcita le se cusku le du'u ri se preja fi lo tanru	{tanru} {preja}
 tau'o	experimental cmavo			   	TAUhO      	lo lamjvo cu ckaji lo tanru .i lo tersumsu'a pe le lujvo cu mintu lo fanmo ke rafsi jonai gismu
-tau'u	experimental cmavo			   	PA5      	namcu fa li re pi'i pai .e li ji'i xa pi re bi ci pa lo'o
+tau'u	experimental cmavo			   	PA5      	namcu fa li re pi'i pai no'u li ji'i xa pi re bi ci pa lo'o
 te	cmavo   	-ter-		   	SE      	tcita lo selbrisle le du'u le pamoi sumti cu simbasti le cimoi sumti	{se}, {ve}, {xe}, {jai}
 te'a	cmavo			   	VUhU2      	mekfancu .i li abu te'a by du le tenfa be abu bei by	{mekfancu}; {tenfa}
 te'e	cmavo			   	FAhA3      	fi'o se koizva	{koizva}; {sekoi}
 tei	cmavo			   	TEI      	krasi lo lerfu porsi noi se fanmo zo foi	{lerfu} {porsi} {krasi}; {foi}
+te'i	experimental cmavo			   	BAI      	fi'o temjudri	.i srana zo {temjudri} .e zo {de'i} .e zo {ti'u} .i mupli fa lu su'o da nuntumdesku te'i li re no pa mu pi'e mu pi'e ci no pi'e re no pi'e re vo noi sinxa lo mentu ku'o te te'i u'y ty cy xi ma'u so li'u jo'u lu su'o da nuntumdesku te'i li re vo mu ze pa ze re pi so ze mu te te'i la juli'us li'u
 te'o	cmavo			   	PA      	namcu .i rarna terdugri ja seltenfa .i jbidu'o li repizepabirebi	{namcu}; {rardugri}, {rartenfa} 
 te'u	cmavo			   	TEhU      	fa'orma'o zo ma'o .e zo na'u .e zo ni'e .e zo mo'e .e zo jo'i	{fa'orma'o}; {jo'i}; {ma'o}; {mo'e}; {na'u}; {ni'e} 
 ti	cmavo   	-tif-		   	KOhA6      	lo se jarco be le cusku be'o noi jibni le cusku	{ta}, {tu}
@@ -604,6 +611,9 @@ ti'e	cmavo			   	UI2      	tcita le se cusku le du'u la'e ri te jungau	{jungau}
 ti'i	cmavo			   	BAI      	fi'o stidi	{stidi}
 ti'o	cmavo			   	SEI      	sinxa lo mekfancu selpoi	{mekfancu} {selpoi}
 ti'u	cmavo			   	BAI      	fi'o tcika	{tcika}
+ti'u'a	experimental cmavo			   	BAI      	fi'o djecacrytcika	.i srana zo {djecacrytcika} .e zo {ti'u} .e zo {ti'u'e} .e zo {ti'u'i}
+ti'u'e	experimental cmavo			   	BAI      	fi'o cacryme'utcika	.i srana zo {cacryme'utcika} .e zo {ti'u} .e zo {ti'u'a} .e zo {ti'u'i}
+ti'u'i	experimental cmavo			   	BAI      	fi'o metnidytcika	.i srana zo {metnidytcika} .e zo {ti'u} .e zo {ti'u'a} .e zo {ti'u'e}
 to	cmavo			   	TO      	krasi lo pinka noi setca ke'a le ralju se cusku 	{toi}
 to'a	cmavo			   	BY1      	sinxa le du'u le se lidne lerfu cu cmalu tarmi	{lerfu} {tarmi}; {ga'e}
 to'e	cmavo   	-tol-   	-to'e-	   	NAhE      	galfi lo selbrisle lu'e lo dukti be la'e ri bei le ka makau smuni ce'u	{brivla} {dukti}
@@ -680,6 +690,7 @@ vu'u	cmavo			   	VUhU1      	mekfancu .i li abu vu'u by du le selsumji be abu be
 vy	cmavo			   	BY2      	renomoi lerfu le lojbo	{lerfu}
 xa	cmavo   	-xav-		   	PA1      	namcu .i sumji li mu li pa .i se li'erla'i li mu lei kancu namcu
 xai	experimental cmavo			   	KOhA5      	ri .ebo ra .a ri .ebo ru .a ra .ebo ra .a ra .ebo ru .a ru .ebo ru .a ri .ebo ra .ebo ru
+xa'i	experimental cmavo			   	UI3      	cnima'o .i sinxa lo du'u lo bridi cu xanri ja se xarpei lo cusku	lu xa'i nai li'u se smuni lo du'u lo bridi cu fatci .i srana zo xa'i fa zo {xanri} .e zo {xarpei} .e zo {da'i}
 xau	experimental cmavo			   	BAI      	tcita lo sumti lo ka lo nundumu be lo bridi cu xamgu ce'u	lo du'u broda xau mi cu du'u lo nu broda cu fasnu gi'e xamgu mi .i smudu'i lu {seva'u} li'u
 xe	cmavo   	-xel-		   	SE      	tcita lo selbrisle le du'u le pamoi sumti cu simbasti le mumoi sumti	{se}, {te}, {ve}, {jai}
 xebe'i	cmavo-compound			   	BAI*      	fi'o xe benji	{xe} {be'i}; {benji}
@@ -688,7 +699,6 @@ xeka'a	cmavo-compound			   	BAI*      	fi'o xe klama	{xe} {ka'a}; {klama}
 xe'u	experimental cmavo			   	GOhA      	brika'i .ije se lidne lo galfi be lo go'i bei lo selbrisle	.i ko sitna zo {ce'u} .e zo {bu'ai}
 xi	cmavo			   	XI      	te jorne lo namcu ja lerpoi le li'erla'i terge'a
 xo	cmavo			   	PA5      	preti le du'u makau namcu	{namcu} {preti}
-xo'e	experimental cmavo			   	PA5      	zo'e ze'ei pa	namcu .i se zilkancu zo'e to ko karbi ti zo {no'o} .e zo {zo'e} .e zo {tu'o} .e zo {xo} .e zo {co'e} .e zo {do'e} toi
 xu	cmavo			   	UI6      	tcita lo se cusku le du'u la'e ri preti le du'u jetnu jikau jitfa	{jetnu} {jitfa} {preti}
 xy	cmavo			   	BY2      	repamoi lerfu le lojbo	{lerfu}
 y	cmavo			   	Y      	smafanta selba'u .i se pilno fi le nu ralte le nu le te cusku cu jundi kei ze'a le nu le cusku cu jdice le du'u cusku makau	{smafanta} {selba'u}
@@ -707,6 +717,7 @@ ze'a	cmavo			   	ZEhA      	fi'o krafamtei	{krafamtei}
 ze'e	cmavo   	-ze'e-		   	ZEhA      	fi'o cimni krafamtei	{cimni} {krafamtei}
 zei	cmavo			   	ZEI      	te jorne le li'erla'i valsi le se li'erla'i valsi ja'e lo lujvo
 ze'i	cmavo			   	ZEhA      	fi'o cmalu krafamtei	{cmalu} {krafamtei}
+zei'a	experimental cmavo			   	TAhE      	zo zei'a sumtcita gi'e cmavo ma'oi ta'e .i ca'e lo du'u «zei'a ko'a broda» cu du'u «zi'o zenba lo ni broda kei ko'a» kei gi'e va'i du'u «lo ni broda cu zilzena ko'a»	srana fa zo {zenba} joi zo {dei'a} joi zo {zilzena}
 ze'o	cmavo   	-zev-   	-ze'o-	   	FAhA4      	fi'o se ragve	{ragve}
 ze'u	cmavo			   	ZEhA      	fi'o barda krafamtei	{barda} {krafamtei}
 zi	cmavo			   	ZI      	fi'o cmalu temci be le fasnu bei le manri	{cmalu} {temci}

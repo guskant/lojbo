@@ -32,7 +32,7 @@ batke	gismu			      	x_1 is a button or knob on x_2 with purpose x_3 of material
 bavmi	gismu			      	x_1 is a quantity of barley of species x_2
 baxso	gismu			      	x_1 is Malay-Indonesian in aspect x_2
 bebna	gismu   	-beb-		      	x_1 is foolish in action or property x_2
-bekpi	experimental gismu			      	x_1 is the back/dorsum/'posterior' body-part of x_2
+bekpi	experimental gismu			      	x_1 is the back,dorsum of x_2
 bemro	gismu   	-bem-   	-be'o-	      	x_1 is North American in aspect x_2
 bende	gismu   	-bed-   	-be'e-	      	x_1 is a team or crew of persons x_2 led by x_3 for purpose x_4
 bengo	gismu   	-beg-		      	x_1 is Bengladesh in aspect x_2
@@ -332,7 +332,7 @@ fagri	gismu   	-fag-		      	x_1 is a fire in fuel x_2 burning in x_3
 falnu	gismu   	-fan-		      	x_1 is a sail for gathering x_2 on vehicle x_3
 famti	gismu			      	x_1 is an aunt or uncle of x_2 by bond x_3
 fancu	gismu			      	x_1 is a function mapping domain x_2 to range x_3 defined by rule x_4
-fange	gismu			      	x_1 is alien or unfamiliar to x_2 in property x_3
+fange	gismu			      	x_1 is foreign or unfamiliar to x_2 in property x_3
 fanmo	gismu   	-fam-   	-fa'o-	      	x_1 is an end or finish of or process x_2
 fanri	gismu			      	x_1 is a factory or mill producing x_2 from x_3
 fanta	gismu			      	x_1 prevents x_2 from occurring

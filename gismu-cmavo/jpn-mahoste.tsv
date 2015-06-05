@@ -29,9 +29,9 @@ ba'i	cmavo			   	BAI      	~が代わりとなって ： 法制詞； basti の 
 ba'o	cmavo			   	ZAhO      	完了（～の事後において） ： 相制詞；	・読み方： バホ
 ba'oi	experimental cmavo			   	ROI      	確率 ： 数量詞の右について、未来に起こりうる bridi の確率性を表す	試験的 cmavo。 「roba'oiku mi ba roroi prami do .iucai／未来永劫、常にあなた♡を愛する」 ・読み方： バホイ
 bau	cmavo			   	BAI      	~語で ： 法制詞； bangu の x_1	・読み方： バウ
-ba'u	cmavo			   	UI3      	誇張 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「blabi kerfa me ci ki'o pavnongutci ba'u／白髪三千丈」 ・読み方： バフ  ・関連語： {satci}, {dukse}
-ba'ucu'i	cmavo-compound			   	UI*3      	的確 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「ba'ucu'i lo ni finpe kei pu ni birka clani ／魚はちょうど腕の長さほどあった。」 ・読み方： バフシュヒ
-ba'unai	cmavo-compound			   	UI*3      	控えめ （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「ba'unai ku'i du munonoki'oki'o rupnu to'e prali／控えめに言っても5億円の損失です。」 ・読み方： バフナイ
+ba'u	cmavo			   	UI3      	誇張 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「blabi kerfa me ba'u ci ki'o pavnongutci／白髪三千丈」 ・読み方： バフ ・関連語： {dukse}
+ba'ucu'i	cmavo-compound			   	UI*3      	的確 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「lo finpe zo'u ba'ucu'i lo ka clani pu me lo birka si'e ／魚はちょうど腕の長さほどあった。」 ・読み方： バフシュヒ ・関連語： {satci}
+ba'unai	cmavo-compound			   	UI*3      	控えめ （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）	心態詞「ba'unai ku'i du munonoki'oki'o rupnu to'e prali／控えめに言っても5億円の損失です」 ・読み方： バフナイ ・関連語： {toldu'e}
 be	cmavo			   	BE      	~の ： sumti を brivla に接続する	・読み方： ベ
 be'a	cmavo			   	FAhA1      	～の北方に／北側で ： 間制詞（空間・方向）	・読み方： ベハ
 be'e	cmavo			   	COI      	発信求む ：心態詞（呼応系）	「もしもし」 ・読み方： ベヘ
@@ -45,8 +45,8 @@ bi	cmavo   	-biv-		   	PA1      	8 ： 数量詞	・大意： 8 ・読み方： 
 bi'e	cmavo			   	BIhE      	優先演算 ： MEX（数式）演算子の左についてその演算を優先化する	・読み方： ビヘ
 bi'i	cmavo   	-biz-		   	BIhI      	~から~まで（順序なし） ： 接続詞（非論理・間隔）	・大意： ～から～まで ・読み方： ビヒ
 bi'o	cmavo			   	BIhI      	~から~まで（順序あり） ： 接続詞（非論理・間隔）	「nu litru bi'o litru litru ru'i .e'i kei me mi／旅から旅へ旅しつゞける外ない私でありました」（山頭火『行乞記（二）』） ・読み方： ビホ
-bi'u	cmavo			   	UI3a      	新情報 （ bi'u 新情報 - bi'unai 古情報）	心態詞「こういう件があるんですが」「bi'u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました。（振り込め詐欺）」 ・読み方： ビフ  ・関連語： {nindatni}, {saurdatni}
-bi'unai	cmavo-compound			   	UI*3      	古情報 （ bi'u 新情報 - bi'unai 古情報）	心態詞「あの件についてですが」「bi'unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」 ・読み方： ビフナイ
+bi'u	cmavo			   	UI3a      	新情報 （ bi'u 新情報 - bi'unai 古情報）	心態詞「こういう件があるんですが」「bi'u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました（振り込め詐欺）」 ・読み方： ビフ ・関連語： {cnino} {datni}
+bi'unai	cmavo-compound			   	UI*3a      	古情報 （ bi'u 新情報 - bi'unai 古情報）	心態詞「あの件についてですが」「bi'unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」 ・読み方： ビフナイ ・関連語： {slabu} {datni}
 bo	cmavo   	-bor-		   	BO      	範囲接続（短） ： 種々の構造範囲を最も短く右方向に繋げる	・大意： 小範囲結合 ・読み方： ボ
 boi	cmavo			   	BOI      	数詞／字詞終了 ： 境界詞	・読み方： ボイ
 bu	cmavo   	-bus-   	-bu'i-	   	BU      	字詞造成 ： 単語を字詞（BY）にする	「denpa bu／ . （ロジバンの休止記号）」「slaka bu／ , （ロジバンの音節区切り記号）」「uibu／ ＼(^o^)／」「zo'o bu／ ;-)」 ・大意： 字詞造成 ・読み方： ブ
@@ -98,8 +98,8 @@ da	cmavo   	-dav-   	-dza-	   	KOhA1      	量化型 sumti 変数１ ： 代詞�
 da'a	cmavo   	-daz-		   	PA4      	n 以外全て ： 数量詞； デフォルトは1	「da'a re prenu = 二人を除く全員」 ・大意： 以外 ・読み方： ダハ ・語呂合わせ： 我以外は打破
 da'e	cmavo			   	KOhA2      	のちほど言うこと ： 代詞（sumti）； 比較的遠い時間点における発話	・読み方： ダヘ
 dai	cmavo			   	UI5      	共感	心態詞（修飾系）； 先行の心態詞にたいする話者の共感／同情を表す； 話者以外の感情を表す「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』） ・読み方： ダイ  ・関連語： {cnijmi}
-da'i	cmavo			   	UI3      	非現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「もし~なら」「仮に～」「da'i trina lo nalglico selbangu／非英語話者を惹きつけられたらなあ」「lonu da'i la betis. klama le te salci cu vajni lenu la bil. gleki／ビルが喜ぶには、ベティがパーティに来ることが重要だった（実際には来なかった）」「lo li'i pu da'i lifri／既視体験」 ・読み方： ダヒ  ・関連語： {xanri}, {sruma}; {da'inai}, {je'u}, {je'unai}
-da'inai	cmavo-compound			   	UI*3      	現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「実際～」「本当に～」「da'inai fatci nanba .i e'u ko citka／本物のパンです。どうぞ召し上がれ。」「le si'o sidju cu cinri mi .i ku'i da'inai du'eda cuntu mi／援助には興味あるけど、実際にはやることが多すぎてね」 ・読み方： ダヒナイ ・関連語： {fatci}; {da'i}, {je'u}, {je'unai}
+da'i	cmavo			   	UI3      	非現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「もし~なら」「仮に～」「da'i trina lo nalglico selbangu／仮に非英語話者を惹きつけられたら」「lonu da'i la betis. klama le te salci cu vajni lenu la bil. gleki／ビルが喜ぶには、ベティがパーティに来ることが重要だった（実際には来なかった）」「lo li'i pu da'i lifri／既視体験」 ・読み方： ダヒ ・関連語： {xanri}; {da'inai}
+da'inai	cmavo-compound			   	UI*3      	現実 （ da'i 非現実 - da'inai 現実）	心態詞（談話系）； 「実際～」「本当に～」「da'inai fatci nanba .i e'u ko citka／本物のパンです。どうぞ召し上がれ。」「le si'o sidju cu cinri mi .i ku'i da'inai du'eda cuntu mi／援助には興味あるけど、実際にはやることが多すぎてね」 ・読み方： ダヒナイ ・関連語： {fatci}; {da'i}
 da'o	cmavo			   	DAhO      	代sumti・代selbriの指示の取り消し／リセット
 dau	cmavo			   	PA2      	16進法A/10進法10 ： 数量詞；	・読み方： ダウ
 da'u	cmavo			   	KOhA2      	以前言ったこと ： 代詞（sumti）；	「“それ”が本当に起こるなんて彼女には知るよしもなかった」 ・読み方： ダフ
@@ -119,8 +119,8 @@ di'inai	cmavo-compound			   	TAhE*      	不規則的に ： 相制詞（時間�
 di'o	cmavo			   	BAI      	～を局所的なものとして ： diklo 法制詞, x_1	・読み方： ディホ
 di'u	cmavo			   	KOhA2      	いま言ったこと ： 代詞（sumti）；	・読み方： ディフ
 do	cmavo   	-don-   	-doi-	   	KOhA3      	聞き手（話し手＆その他以外） ： 代詞（sumti）；	・大意： あなた ・読み方： ド
-do'a	cmavo			   	UI3      	広義 （ do'a 広義 - do'anai 狭義）	心態詞（談話系）；「鷹揚に言えば」「広い意味では」 「ti claxu lo stizu gi'e do'a relxilma'e／これ、サドルが無いけど、まあ自転車と呼んで良いだろう」 ・読み方： ドハ  ・関連語： {dunda}
-do'anai	cmavo-compound			   	UI*3      	狭義 （ do'a 広義 - do'anai 狭義）	心態詞（談話系）； 「けちな言い方をすれば」「狭い意味では」「ti claxu lo jabre gi'e do'anai na relxilma'e／これ、ブレーキが無いぞ、こんなの自転車とは言えない」 ・読み方： ドハナイ
+do'a	cmavo			   	UI3      	広義 （ do'a 広義 - do'anai 狭義）	心態詞（談話系）；「鷹揚に言えば」「広い意味では」「せいぜい」「大目に見れば」 「ti claxu lo stizu gi'e do'a relxilma'e／これ、サドルが無いけど、まあ自転車と呼んで良いだろう」 「i .y. do'a milxe plika'e／大目に見ればかろうじて使用可能」 ・読み方： ドハ ・関連語： {dunda}
+do'anai	cmavo-compound			   	UI*3      	狭義 （ do'a 広義 - do'anai 狭義）	心態詞（談話系）； 「けちな言い方をすれば」「狭い意味では」「少なくとも」「ti claxu lo jabre gi'e do'anai na relxilma'e／これ、ブレーキが無いぞ、こんなの自転車とは言えない」 「i ku'i so'e skami pilno cu milxe do'anai ke glico se bangu／コンピュータ・ユーザのほとんどは、少なくとも多少の英語ができる」 ・読み方： ドハナイ
 do'e	cmavo			   	BAI      	不特定法制 ： 不特定の法制（BAI）	・読み方： ドヘ
 doi	cmavo			   	DOI      	呼びかけ ： 聴き手を特定しながら呼びかける； COI類が先行していれば不要	「あのう」「ねえねえ」「～さん」 ・読み方： ドイ
 do'i	cmavo			   	KOhA2      	不特定の発話 ： 代詞（sumti）；	・読み方： ドヒ
@@ -280,10 +280,11 @@ jei	cmavo   	-jez-		   	NU      	真理値抽象 ： 抽象詞； bridi の左�
 je'i	cmavo			   	JA      	tanru 接続詞質問 ： 接続詞（論理・後置・tanru）； 前部と後部の論理関係を問う	「lo xalka cu pe'a selklaku je'i kau cniselva'u .i ju'o naje／酒は涙か溜息か、――たしかに溜息だよ。」（山頭火『行乞記（二）』） ・読み方： ジェヒ
 jenai	cmavo-compound			   	JA*      	tanru ～だが～ではない ： 接続詞（論理・後置・tanru）； 前部は真で後部は偽	・読み方： ジェナイ
 je'o	cmavo			   	BY1      	ヘブライ文字変換 ： 字詞をヘブライ文字に変換	・読み方： ジェホ
-je'u	cmavo			   	UI3      	真実 （ je'u 真実 - je'unai 虚偽）	心態詞（談話系）「je'u pei／まじで？」「je'u zukte tu'a lo nabmi .i po'o na sanji lo si'o bevri ri ti／本当に宿題やりました。持ってくるのを忘れただけです。」「.ue mi pu krici lo du'u do se bloti lo je'u te falnu／えっ、あなたが乗ってきたボートが本当に帆で動いていると思い込んでいたよ」 ・読み方： ジェフ  ・関連語： {jetnu}; {je'unai}, {da'i}, {da'inai}
-je'unai	cmavo-compound			   	UI*3      	虚偽 （ je'u 真実 - je'unai 虚偽）	心態詞（談話系）「mi terpa lo titrmandiu .i ca terpa lo carmi tcati je'unai／まんじゅう怖い。今は濃いお茶が怖い（嘘）。」 いわゆる（真実はそうではない）「le je'unai palci cu xanri le menli poi na jimpe le manku sevzi／いわゆる悪というのは、暗黒の自己を理解できない心が見る幻だ」 ・読み方： ジェフナイ ・関連語： {jitfa}; {je'u}, {da'i}, {da'inai}
+je'u	cmavo			   	UI3      	真実 （ je'u 真実 - je'unai 虚偽）	心態詞（談話系）「je'u pei／まじで？」「je'u zukte tu'a lo nabmi se bilga .i po'o pu nai ca sanji lo si'o bevri ri ti／本当に宿題やりました。持ってくるのを忘れただけです。」「.ue mi pu krici lo du'u do se bloti lo je'u te falnu／えっ、あなたが乗ってきたボートが本当に帆で動いていると思い込んでいたよ」 ・読み方： ジェフ ・関連語：{jetnu}; {da'inai}
+je'unai	cmavo-compound			   	UI*3      	虚偽 （ je'u 真実 - je'unai 虚偽）	心態詞（談話系）「mi terpa lo cidjrmanju .i ca terpa lo glare tcati je'unai／まんじゅう怖い。今は濃いお茶が怖い（嘘）。」 いわゆる（真実はそうではない）「le je'unai palci cu xanri le menli poi na jimpe le manku sevzi／いわゆる悪というのは、暗黒の自己を理解できない心が見る幻だ」 ・読み方： ジェフナイ ・関連語： {jitfa}; {da'i}
 ji	cmavo			   	A      	sumti 接続詞質問 ： 接続詞（論理）； 前部と後部の論理関係を問う	・読み方： ジ
-ji'a	cmavo			   	UI3b      	追加	心態詞（談話系）「～も」「～だって」「lo smani ji'a sai cu farlu fi lo tricu／猿も木から落ちる」 ・読み方： ジハ  ・関連語： {jmina}
+ji'a	cmavo			   	UI3b      	追加	心態詞（談話系）「～も」「～だって」 「lo plise cu xamgu lo nu kanro .i ji'a py. kukte／林檎は健康に良いし、それに美味しい」 「mi ji'a nelci lo plise／私も林檎が好きだ」 ・読み方： ジハ ・関連語： {jmina}; {ji'asai}
+ji'asai	cmavo-compound			   	UI*3b      	さえも	心態詞（談話系） 「lo smani ji'a sai cu farlu fi lo tricu／猿も木から落ちる」 「lo xagji cribe cu citka lo cinki ku ji'a sai／飢えた熊は虫さえも食べる」 ・関連語： {ji'a} {sai}
 ji'e	cmavo			   	BAI      	～まで（限界） ： 法制詞； jimte の x_1	・読み方： ジヘ
 ji'ei	experimental cmavo			   	UI5      	有生（ji'ei 有生 - ji'einai 無生）	心態詞；それが生を有しているように感じていることを表す。 照応や指示表現において、特にそれが生き物である（彼／彼女）ことを明示したいときに使う。 「raji'ei／彼・彼女」 ・関連：{ji'einai}, {jmive}
 ji'einai	cmavo-compound			   	UI*5      	無生（ji'ei 有生 - ji'einai 無生）	心態詞；それが生を有していないように感じていることを表す。 照応や指示表現において、特にそれが無機物（それ／it）であることを明示したいときに使う。 「raji'einai／それ」　・関連：{ji'ei}, {jmive}, {nai}
@@ -293,7 +294,7 @@ ji'ini'u	cmavo-compound			   	PA*      	切り下げ ： 数量詞； マイナ�
 ji'o	cmavo			   	BAI      	～の管轄下で ： 法制詞； jitro の x_1	・読み方： ジホ
 ji'u	cmavo			   	BAI      	～を基盤として ： 法制詞； jicmu の x_1	・読み方： ジフ
 jo	cmavo   	-jov-		   	JA      	tanru 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・tanru）； 前部と後部は共に真あるいは共に偽	・大意： ～のときだけ ・読み方： ジョ
-jo'a	cmavo			   	UI3a      	メタ言語肯定	心態詞（談話系）； 命題に影響を与えずに肯定を表す「ti se citka e'a pei --- e'a jo'a／これ食べていいですか？--- いいですとも。」「ti kukte jo'a／これはたしかにおいしい。」 ・読み方： ジョハ  ・関連語： {drani}
+jo'a	cmavo			   	UI3a      	メタ言語肯定	心態詞（談話系）； 命題に影響を与えずに肯定を表す「ti se citka e'a pei --- e'a jo'a／これ食べていいですか？--- いいですとも。」「ti kukte jo'a／これはたしかにおいしい。」 ・読み方： ジョハ ・関連語： {drani}
 jo'au	experimental cmavo			   	MAI      	パーサのバージョン／方言を変更する	{jo'au} に先立つ数字の語形と文法は、「単語」-{bu} を含め、 lojban.org サイト内のページ "BPFK Section: PEG Morphology Algorithm" のバージョン 134 と、 数字 cmavo の公式文法に従っていなければならない。 例えば "jie bu jo'au" や "xei jo'au" は意味のある句ではない。 標準的な用法では全文章の最初に {jo'au} 句を使う。 {fa'o} の使い方と反対である。 {jo'au} 句の意味は後ろに係り、その範囲は次の {jo'au} 句が現れるまでの部分である。 最初の {jo'au} 句が文章の途中に出てくる場合は、 その意味は文章の最初から次の {jo'au} 句が現れるまでの部分である。 意味のある例: cylylypapi'epa jo'au (公式yaccとjbofi'e http://www.lojban.org/jboski/ ) ; camxes.bu jo'au (現行 peg http://camxes.lojban.org/ ) ; iocixes.bu jo'au (xorxes の zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; ilmentufa burenopavopi'epapapi'erevo jo'au (ilmentufa の 2014-11-24 版 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; fancylojban.bu jo'au (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau - パーサはまだない)
 jo'e	cmavo   	-jom-		   	JOI      	和集合 ： 接続詞（非論理・sumti/selbri）； 左右の集合の和を表す	・大意： 和集合 ・読み方： ジョヘ
 joi	cmavo   	-jol-   	-joi-	   	JOI      	一緒（混合） ： 接続詞（非論理・sumti/selbri）； 事物や性質が混合的に一緒であることを表す； 数学的群を形成する	「mi joi ko'o bevri lo pipno／私と彼女が一緒にピアノを運ぶ」 ・大意： 一緒に（混合） ・読み方： ジョイ
@@ -318,7 +319,7 @@ ka'e	cmavo			   	CAhA      	できる ： 相制詞（モダリティ）； 内�
 kai	cmavo			   	BAI      	～が象徴して ： ckaji 法制詞, x_1	・読み方： カイ
 ka'i	cmavo			   	BAI      	～が代表して ： krati 法制詞, x_1	・読み方： カヒ
 ka'o	cmavo			   	PA5      	虚数単位（i）／-1の平方根 ： 数量詞；	・読み方： カホ
-kau	cmavo			   	UI3a      	間接疑問	心態詞（談話系）； 左の語を間接疑問の対象とする；「djuno lo du'u ma kau daspo ti／誰がこれを壊したのかを知っている」 ・読み方： カウ
+kau	cmavo			   	UI3a      	間接疑問	心態詞（談話系）； 質問を表す語の直後に付き、その回答を表す。間接疑問の対象；「djuno lo du'u ma kau daspo ti／誰がこれを壊したのかを知っている」 「mi na djuno lo du'u ti mo kau／これが[何であるか／どうなのか／何をしているのか]、私は知らない」 「.e'o ko no da jungau lo du'u mi zvati ma kau／私がどこにいるか誰にも教えないでください」 「loi bangu cu ficysi'u lo ka xo kau da jicmu valsi lo skari ce'u／基本的な色を表す単語がいくつあるかは言語によって異なる」 「.ei do jdice lo du'u xu kau do djica lo nu klama／あなたが行きたいかどうかは、あなたが決めることだ」 ・読み方： カウ
 ka'u	cmavo			   	UI2      	文化的知識	心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；「ka'u lo nu lo cticinza gau sanli ne'i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 ・読み方： カフ ・関連語： {kluju'o} 
 ke	cmavo   	-kem-		   	KE      	tanru グループ開始 ： 境界詞； tanru 内のグループの開始を示す	「melbi ke tsani skari／綺麗な【空の色】」 ・大意： グループ開始 ・読み方： ケ ・関連語： {ke'e}
 ke'a	cmavo			   	KOhA7      	関係代項詞 ： 代詞（sumti）； sumti に関係詞で節を繋げる際、その本体の sumti と節の中の特定の sumti とを同一にする；	「lo tcadu poi mi jbena fo ke'a／私が生まれた町」 ・読み方： ケハ
@@ -326,8 +327,8 @@ ke'e	cmavo   	-kep-   	-ke'e-	   	KEhE      	tanru グループ終了 ： 境界
 kei	cmavo   	-kez-		   	KEI      	抽象終了 ： 境界詞； NU類で開かれた抽象化範囲を閉じる； 構文上の曖昧性をきたさなければ省略できる	・大意： 抽象終了 ・読み方： ケイ
 ke'i	cmavo			   	GAhO      	除外間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれないことを表す； 含まれるのを表すのは ga'oi； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」	・読み方： ケヒ
 ke'o	cmavo			   	COI      	どうか復唱を ：心態詞（呼応系）； 相手の言ったことをその相手本人に繰り返し発言するよう求める	「もう一度お願いします」「なんて言ったの？」 ・読み方： ケホ
-ke'u	cmavo			   	UI3      	反復 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出す「ke'u lo catni cmetcita cu sarcu／身分証明書が必要だってば」 ・読み方： ケフ  ・関連語： {refbasna}, {krefu}, {rapli}, {velde'a}
-ke'unai	cmavo-compound			   	UI*3      	展開 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出さずに話をそのまま展開させ続ける ・読み方： ケフナイ
+ke'u	cmavo			   	UI3      	反復 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出す「ke'u lo catni cmetcita cu sarcu／身分証明書が必要だってば」 「coi ke'u／また会ったね」 「.ienai ke'u／何度も言うが、私は反対だ」 ・読み方： ケフ ・関連語：  {refbasna}, {krefu}, {rapli}, {velde'a}
+ke'unai	cmavo-compound			   	UI*3      	展開 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出さずに話をそのまま展開させ続ける 「ti'e do pu cpare la noi cmana kilimanjar --- .i ke'unai mi pukfri lo jvinu be la noi lalxu viktori'as／キリマンジャロ山に登ったんだってね。 --- そしてヴィクトリア湖を観光したよ。」 ・読み方： ケフナイ
 ki	cmavo			   	KI      	制詞設定／初期化 ： 間制詞／相制詞／法制詞の右に付いてそれらを以降の文にも効くように設定する、あるいは単独で置いて全ての制詞をリセットする；	「pu ki ku mi klama lo zarci .i penmi ko'o／私は店に行った。彼女に会った」 ・読み方： キ
 ki'a	cmavo			   	UI6      	逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；「{ mi penmi ko'a } { ko'a ki'a }／｛彼女に会った。｝｛“彼女”って誰のこと？｝」 ・読み方： キハ  ・関連語： {cfipu}, {kucli}
 ki'ai	experimental cmavo			   	COI2      	臨時の間投詞／心態詞。 cmevlaやzoi 引用句を後ろにとり、それを間投／心態詞化する。	関連語： {sa'ei}, {ci'oi}, {tai'i}
@@ -348,13 +349,14 @@ ko'u	cmavo			   	KOhA4      	sumti 変数（彼女／彼／其）５ ： 代詞�
 ku	cmavo			   	KU      	sumti 末端 ： 境界詞； sumti の末端を示す	「vu ja vi ku lo bonsna pu co'a ca ca'o durcarvi／遠く近く波音のしぐれてくる」（山頭火『行乞記（二）』） ・読み方： ク
 ku'a	cmavo   	-kuz-		   	JOI      	集合交差 ： 接続詞（非論理・sumti/selbri）； 集合の交差、積集合	・大意： 数学的交差 ・読み方： クハ
 ku'e	cmavo			   	KUhE      	前置型MEX終了 ： 境界詞； ポーランド記法などの前置型MEX（数式）の終わりを示す	・読み方： クヘ
-ku'i	cmavo			   	UI3b      	しかしながら	心態詞（談話系）； しかし／だが／ところが／それでも「tu'a da se tirna je ku'i na'e se viska／声はすれども姿は見えず」 ・読み方： クヒ  ・関連語： {karbi}, {dukti}, {nalpanra}
+ku'i	cmavo			   	UI3b      	しかしながら	心態詞（談話系）； しかし／だが／ところが／それでも「tu'a da se tirna je ku'i na'e se viska／声はすれども姿は見えず」 「mi ca cliva .i ku'i mi ba za xruti／今は席を外すが、後で戻ってくる」 ・読み方： クヒ ・関連語： {karbi}, {dukti}, {nalpanra}
+ku'inai	cmavo-compound			   	UI*3b      	だから／つまり／だって	心態詞（談話系）； {ku'i} の反対。 期待通りの接続を表す。 「lo mensi pu cpapro lo nu spebi'o .i ku'inai lo si'o tolspe cu marde my.／妹は結婚の申し出を断った。独身主義者だから。」 ・読み方： クヒナイ ・関連語： {sarxe}
 ku'o	cmavo			   	KUhO      	関係節終了 ： 境界詞； NOI類で開かれた関係節を閉じる	・読み方： クホ
 ku'u	cmavo			   	BAI      	～（文化）のもと ： kulnu 法制詞, x_1	・読み方： クフ
 ky	cmavo			   	BY2      	k ： 字詞；	・読み方： カァ
 la	cmavo			   	LA      	名付けられたもの ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；	「la .tanakan.／田中さん」 ・読み方： ルァ
-la'a	cmavo			   	UI3      	蓋然性 （ la'a 蓋然性 - la'anai ありそうもない）	心態詞（談話系）； 事物が真でありうる「la'a mi se xebni／私、嫌われているのかも。」 ・読み方： ルァハ  ・関連語： {lakne}
-la'anai	cmavo-compound			   	UI*3      	ありそうもない （ la'a 蓋然性 - la'anai ありそうもない）	心態詞（談話系）； 事物が真でありそうもない「la'anai do se xebni／あなたが嫌われているはずがない。」 ・読み方： ルァハナイ
+la'a	cmavo			   	UI3      	蓋然性； ありそう （ la'a ありそう - la'anai ありそうもない）	心態詞（談話系）； 事物が真でありうる「la'a mi se xebni／私、嫌われているのかも。」 「.i le mensi be mi ca xabju la boston ja'e le nu la'a mi vitke fi le se diklo／私の姉が今ボストンに住んでいるから、私はたぶんその辺りを訪れるだろう」 「la'a le vukrygu'e tcini cu ba se jalge lo nu panpi ku'i／ただ、ウクライナ情勢は結果として平和をもたらすことになりそうだ」 ・読み方： ルァハ ・関連語： {lakne}
+la'anai	cmavo-compound			   	UI*3      	蓋然性に欠ける； ありそうもない （ la'a ありそう - la'anai ありそうもない）	心態詞（談話系）； 事物が真でありそうもない「la'anai do se xebni／あなたが嫌われているはずがない。」 「i ku'i la'a nai su'o da cizra ro de ro di／しかし、全ての人にとってあらゆる点で奇妙なものなど、存在しそうもない」 ・読み方： ルァハナイ
 la'e	cmavo			   	LAhE      	～の指示対象 ： 限定詞； sumti の左に付いて、その sumti の指示対象を引き出す；	「la'e di'u tamca／さっき述べたもの（の指示対象）はトマトです」、「la'e」が無いと「さっき述べた発言／文字列はトマトです」となるが、発言／文字列そのものはトマトになりえない。 ・読み方： ルァヘ
 lai	cmavo			   	LA      	名付けられた群 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；	「lai .tanakan.／田中さん（という名前の人）達」 ・読み方： ルァイ
 la'i	cmavo			   	LA      	名付けられた集合 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；	「la'i .tanakan.／田中さん（という名前の人）達」 ・読み方： ルァヒ
@@ -372,11 +374,11 @@ le'ocu'i	cmavo-compound			   	UI*5      	無抵抗 （ le'o 攻勢 - le'ocu'i �
 le'onai	cmavo-compound			   	UI*5      	守勢 （ le'o 攻勢 - le'ocu'i 無抵抗 - le'onai 守勢）	心態詞（修飾系）； ・読み方： ルェホナイ
 le'u	cmavo			   	LEhU      	エラー引用終了 ： 境界詞； lo'u で開かれたエラー引用の範囲を閉じる	・読み方： ルェフ
 li	cmavo			   	LI      	数量 sumti 開始 ： 数量詞の左に付いてこれを sumti にする	・読み方： ルィ
-li'a	cmavo			   	UI3      	明らかに （ li'a 明らかに - li'anai それとなく）	心態詞（談話系）；「li'a lo'i solba'a co'a barda／太陽の黒点が明らかに増えている。」 ・読み方： ルィハ  ・関連語： {klina}
-li'anai	cmavo-compound			   	UI*3      	それとなく （ li'a 明らかに - li'anai それとなく）	心態詞（談話系）；「koltarla panci li'o pa'a lo nu badri ku pa'a lo nu sumne ku vau li'anai／コルタアの香の（中略）愁ひつつ、にほひつつ、そこはかとなく」（北原白秋『東京景物詩』） ・読み方： ルィハナイ
+li'a	cmavo			   	UI3      	明らかに （ li'a 明らかに - li'anai それとなく）	心態詞（談話系）；「li'a lo'i solba'a co'a barda／太陽の黒点が明らかに増えている。」 「li'a la lojban zmadu la postskript lo ka frili／明らかにロジバンはPostScriptより簡単だ」 「.i li'a mi naku viska ro marna pilno .i ku'i lo zasni nu bebna cu se rinka lo nu pilno lo marna .i ro prenu cu djuno la'e di'u／もちろん全てのマリファナ使用者を見たわけではないが、一時的に愚かな言動をするのはマリファナの使用が原因だ。皆そのことを知っている。」 ・読み方： ルィハ ・関連語： {klina}
+li'anai	cmavo-compound			   	UI*3      	それとなく （ li'a 明らかに - li'anai それとなく）	心態詞（談話系）；「koltarla panci li'o pa'a lo nu badri ku pa'a lo nu sumne ku vau li'anai／コルタアの香の（中略）愁ひつつ、にほひつつ、そこはかとなく」（北原白秋『東京景物詩』） 「li'anai go'i je'e／うーん、なんとなくわかった」 ・読み方： ルィハナイ
 li'e	cmavo			   	BAI      	～が引率して／に先を越されて ： lidne 法制詞, x_1	・読み方： ルィヘ
 li'i	cmavo   	-liz-		   	NU      	経験抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する経験を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される経験、 x_2 （経験者）の	・大意： 抽象： 経験 ・読み方： ルィヒ  ・関連語： {lifri}
-li'o	cmavo			   	UI3a      	省略文字列	心態詞（談話系）； 省略された／する文字列の代わりに置く「koltarla panci li'o pa'a lo nu badri ku pa'a lo nu sumne ku vau li'anai／コルタアの香の（中略）愁ひつつ、にほひつつ、そこはかとなく」（北原白秋『東京景物詩』） ・読み方： ルィホ
+li'o	cmavo			   	UI3a      	省略文字列	心態詞（談話系）； 省略された／する文字列の代わりに置く。 「koltarla panci li'o pa'a lo nu badri ku pa'a lo nu sumne ku vau li'anai／コルタアの香の（中略）愁ひつつ、にほひつつ、そこはかとなく」（北原白秋『東京景物詩』） 「lo pavdei cu pa moi djedi .i lo reldei cu re moi djedi .i li'o／月曜日が1日目、火曜日が2日目、以下略」 ・読み方： ルィホ
 li'u	cmavo			   	LIhU      	引用終了 ： 境界詞； lu で開かれた引用の範囲を閉じる	・読み方： ルィフ
 lo	cmavo			   	LE      	それであるもの ： 冠詞（客観系）； selbri を冠する； 指示対象は真にその selbri に当てはまる	・読み方： ルォ
 lo'a	cmavo			   	BY1      	ロジバン文字変換 ： 字詞をロジバン文字（通常はローマ字）に変換する	・読み方： ルォハ
@@ -414,7 +416,8 @@ mi'e	cmavo			   	COI      	自己紹介 ：心態詞（呼応系）； 話し手
 mi'enai	cmavo-compound			   	COI*      	：心態詞（呼応系）；	「mi'enai .tanakan. ／田中ではありません。」 ・読み方： ミヘナイ
 mi'i	cmavo			   	BIhI      	中間（順序あり） ： 接続詞（非論理・sumti/selbri）；	「lo zdani ku mi'i lo ckule／家から学校までの中間」 ・読み方： ミヒ
 mi'o	cmavo			   	KOhA3      	話し手＆聞き手（その他以外） ： 代詞（sumti）；	・読み方： ミホ
-mi'u	cmavo			   	UI3b      	同上	心態詞（談話系）； 先に述べたことの反復「A: mi do prami　B: mi'u／A：愛してる　B：私も」 ・読み方： ミフ  ・関連語： {mintu}
+mi'u	cmavo			   	UI3b      	同様に（ mi'u 同様に - mi'unai 異なって）	心態詞（談話系）； 先に述べた事物と同じ事物を指すことを表す （BPFK による新しい意味） 「mi pu zi ca'o cusku di'u mi'u la .djan.／私はさっきそれと全く同じセリフをジャンに言っていた」 ・読み方： ミフ ・関連語： {mintu}; {va'inai}
+mi'unai	cmavo-compound			   	UI*3b      	異なって（ mi'u 同様に - mi'unai 異なって）	心態詞（談話系）； 異なる；先に述べた事物とは別の事物を指すことを表す （BPFK による新しい意味） 「mi pu lebna lo cukta la .djan. gi'e dunda cy. mi'unai la .djein.／私はジャンの本を取って、別の本をジェインにあげた」 ・読み方： ミフ ・関連語： {drata}
 mo	cmavo			   	GOhA      	bridi 問 ： 代詞（bridi）； bridi/selbri/brivla の代わりに置いて疑問表現を作る	「ca mo／最近どうですか？」 ・読み方： モ
 mo'a	cmavo   	-mob-		   	PA4      	少なすぎる～ ： 数量詞；	・大意： 過少 ・読み方： モハ
 mo'e	cmavo			   	MOhE      	sumti → オペランド変換 ： sumti をMEX（数式）のオペランドにする	・読み方： モヘ
@@ -440,7 +443,7 @@ na'a	cmavo			   	BY1      	文字コード・シフト解除 ：	・読み方：
 na'e	cmavo   	-nal-		   	NAhE      	段階否定（～以外の／～ではなく） ： 段階詞；	・大意： 段階： 非 ・読み方： ナヘ
 nagi'a	cmavo-compound			   	GIhA*      	bridi 論理含有／～なら～ ： 接続詞（論理・後置・bridi）； 前部が真なら後部は真；	・読み方： ナギハ
 nai	cmavo			   	NAI      	小構造否定 ： 左の語を否定する。命題否定か、対義否定か、段階否定かは、左の語の selma'o によって異なる。	TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 {na'e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to'e} と同じ意味になる。 ・読み方： ナイ
-na'i	cmavo			   	UI3a      	メタ言語否定	心態詞（談話系）； 命題を否定せずに心態面における否定を表す； 肯定文でも使える「na'i mi pu viska／いや、私は見ました」 ・読み方： ナヒ  ・関連語： {naldra}, {nalmapti}
+na'i	cmavo			   	UI3a      	メタ言語否定	心態詞（談話系）； 命題を否定せずに心態面における否定を表す； 肯定文でも使える「xu do krici lo du'u ganai jajgau lo ze bolci gi lo cevni drakono cu tolcanci - .i na'i mi pu viska／7つの玉を集めれば神龍が現れるって信じてるの？ ― いや、私は見たことがあるのだ」 ・読み方： ナヒ ・関連語： {naldra}, {nalmapti}
 naja	cmavo-compound			   	JA*      	tanru 論理含有／～なら～ ： 接続詞（論理・後置・tanru）； 前部が真なら後部は真；	・読み方： ナジャ
 na'o	cmavo			   	TAhE      	典型的に／形式的に ： 相制詞（時間・間隔）； デフォルトは時間	・読み方： ナホ
 na'onai	cmavo-compound			   	TAhE*      	型にはまらずに／形式から外れて ： 相制詞（時間・間隔）； デフォルトは時間	「na'onai leckla／珍しく遅刻する」 ・読み方： ナホナイ
@@ -802,8 +805,8 @@ va	cmavo   	-vaz-		   	VA      	～のそこに ： 間制詞（空間・程度�
 va'a	cmavo			   	VUhU3      	加法逆元 ： 数理演算子（単一項）； [- a]	・読み方： ヴァハ
 va'e	cmavo			   	MOI      	段階selbri ： 数詞を段階selbriに変換する； x_1 は段階 x_2 上の段階位置 n にある	・読み方： ヴァヘ ・関連語： {ckilu}
 vai	cmavo			   	PA2      	16進法F/10進法15 ： 数量詞；	・読み方： ヴァイ
-va'i	cmavo			   	UI3      	換言 （ va'i 換言 - va'inai 他に言いようがない）	心態詞（談話系）；「言い換えると」「ti na drani .i va'i do srera／それは違う。つまり、あなたの誤解だ。」 ・読み方： ヴァヒ  ・関連語： {cneselsku}
-va'inai	cmavo-compound			   	UI*3      	他に言いようがない （ va'i 換言 - va'inai 他に言いようがない）	心態詞（談話系）；「お言葉を返すようですが」「va'inai do go'i／お言葉を返すようですが、それはあなたの方です。」「va'inai go'i ra'o／それはこっちのセリフだ。」 ・読み方： ヴァヒナイ
+va'i	cmavo			   	UI3      	換言 （va'i 換言 - va'inai 言葉通り）	心態詞（談話系）；「言い換えると」「ti na drani .i va'i do srera／それは違う。つまり、あなたの誤解だ。」 「va'i do tugni mi xu／それはつまり私に賛成してくれるということですか？」 「.i va'i mu'i ma do cusku lo judri／では質問のしかたを変えてみましょう、あなたが住所を言う動機は何ですか？」  ・読み方： ヴァヒ ・関連語： {cneselsku}
+va'inai	cmavo-compound			   	UI*3      	言葉通り （va'i 換言 - va'inai 言葉通り）	心態詞（談話系）； 表現が同じであることを表す。 表される事物が同じであることを表す {mi'u} （BPFK の新しい意味）との違いに注意。「お言葉を返すようですが」「do raktu mi - .i va'inai go'i ra'o／おまえは厄介者だ。 ― お言葉を返すようですが、それはあなたの方です。」「le'o ko na rivli'a mi - .i va'inai go'i ra'o／やい、俺様から逃げるなよ。― それはこっちのセリフだ。」 「ti noi ka melbi cu krinu lo nu noda ve skicu - .i va'inai／この美しさには言葉を失う―まさしく」 「la gleki cu gleki va'inai ／喜さんが文字通り喜んでいる」 ・読み方： ヴァヒナイ
 va'o	cmavo			   	BAI      	～を環境／状況として ： vanbi 法制詞, x_1	・読み方： ヴァホ
 vau	cmavo			   	VAU      	bridi 終了 ： bridi の終わりを示す； 主に複文（複数の bridi 含む文）で複数の bridi に共通の sumti を切り出すのに用いる	「mi dunda lo jdini (x_2) gi'e cpacu lo cukta (x_2) vau do (x_3)／私（x_1）はお金（x_2）をあなた（x_3）にあげ、本（x_2）をあなた（x_3）から受け取る」 ・読み方： ヴァウ
 va'u	cmavo			   	BAI      	～（良い何か）を享受して ： xamgu 法制詞, x_1	・読み方： ヴァフ

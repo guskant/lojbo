@@ -484,9 +484,11 @@ megdo	gismu   	-meg-		      	x_1 är en miljon [10^6] av x_2 i dimension/aspekt 
 mikri	gismu   	-mik-		      	x_1 är en miljontedel [10^{-6}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 milti	gismu   	-mil-		      	x_1 är en tusendel [10^{-3}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 nanvi	gismu   	-nav-		      	x_1 är en miljardedel [10^{-9}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+nelci	gismu   	-nel-   	-nei-	      	x_1 är förtjust i/gillar x_2 (objekt/tillstånd)
 petso	gismu   	-pet-		      	x_1 är en biljard [10^15] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 picti	gismu   	-pic-		      	x_1 är en biljontedel [10^{-12}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 terto	gismu   	-tet-		      	x_1 är en biljon [10^12] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
+toldi	gismu   	-tod-		      	x_1 är en fjäril/mott av art/ras/sort x_2	Se även {cinki}.
 xatsi	gismu   	-xat-		      	x_1 är en triljontedel [10^{-18}] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 xecto	gismu   	-xet-   	-cto-	      	x_1 är hundra [10^2] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
 xexso	gismu   	-xex-		      	x_1 är en triljon [10^18] av x_2 i dimension/aspekt x_3 (enheter om inget annat anges).
