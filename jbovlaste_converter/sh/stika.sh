@@ -16,7 +16,7 @@ echo "" >> temp4
 csplit temp4 '/<nlword word=/' {0}
 sed -f ../sh/lai-sed0 < xx00 > vlaste00tab
 sed -f ../sh/lai-sed1 < xx01 > vlaste01tab
-if  [ $bangu_cmene = "日本語" ]
+if [ "$bangu_cmene" = "日本語" ]
 then
 nkf -eW vlaste01tab > nkf.out
 kakasi -Ja -Ha -Ka -Ea -rkunrei < nkf.out > romazi-jbo.txt
@@ -30,7 +30,7 @@ sed -e 's/\texperimental gismu\t/ [experimental]	/g' < temp19 > temp20
 sed -e 's/\tgismu\t/	/g' < temp20 > temp21
 sed -e 's/\t/<br \/>/g' < temp21 > temp22
 sed -e 'a\<\/p><p>' < temp22 > temp23
-if  [ $bangu_cmene = "lojban" ]
+if  [ "$bangu_cmene" = "lojban" ]
 then
 	echo "gimste bau la "$bangu_cmene" ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li " > name
 else
@@ -52,7 +52,7 @@ sed -e 's/\tcmavo-compound\t/	/g' < temp119 > temp120
 sed -e 's/\tcmavo\t/	/g' < temp120 > temp121
 sed -e 's/\t/<br \/>/g' < temp121 > temp122
 sed -e 'a\<\/p><p>' < temp122 > temp123
-if  [ $bangu_cmene = "lojban" ]
+if  [ "$bangu_cmene" = "lojban" ]
 then
 	echo "ma'oste bau la "$bangu_cmene" ji'u la <a href='http://jbovlaste.lojban.org'>jbovlaste</a> de'i li " > name
 else

@@ -44,7 +44,7 @@ do
 		cd "stardict/jbo-"$bangu_iso"-eng-rafsi" 
 		tabfile "jbo-"$bangu_iso"-eng-rafsi" 
 		cd - 
-		mv "stardict/jbo-"$bangu_iso"-eng-rafsi/jbo-"$bangu_iso"-eng-rafsi temp/jbo-"$bangu_iso"-eng-rafsi.txt" 
+		mv "stardict/jbo-"$bangu_iso"-eng-rafsi/jbo-"$bangu_iso"-eng-rafsi" "temp/jbo-"$bangu_iso"-eng-rafsi.txt" 
 		tar cvfz "stardict/jbo-"$bangu_iso"-eng-rafsi-"`date +%Y%m%d`".tar.gz" "stardict/jbo-"$bangu_iso"-eng-rafsi"
 	fi
 # romazi
