@@ -88,10 +88,10 @@ do
 done
 rm temp/temp
 # kindle
-cd temp
-cat jbo-jbo.txt jbo-fra.txt jbo-frafacile.txt jbo-jpn.txt jbo-eng.txt rafsi-jbo.txt romazi-jbo.txt > jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt 
-sed -f ../sh/lai-sed4 jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt > vlaste-kindle 
-tab2opf.py -utf vlaste-kindle 
-kindlegen vlaste-kindle.opf
-cd -
-cp temp/vlaste-kindle.mobi kindle/lojban`date +%Y%m%d`.mobi
+# cd temp
+# cat jbo-jbo.txt jbo-fra.txt jbo-frafacile.txt jbo-jpn.txt jbo-eng.txt rafsi-jbo.txt romazi-jbo.txt > jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt 
+# sed -f ../sh/lai-sed4 jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt > vlaste-kindle 
+# tab2opf.py -utf vlaste-kindle 
+# kindlegen vlaste-kindle.opf
+# cd -
+# cp temp/vlaste-kindle.mobi kindle/lojban`date +%Y%m%d`.mobi
