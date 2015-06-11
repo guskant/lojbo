@@ -4,7 +4,7 @@ See
 https://github.com/guskant/lojbo/tree/master/stardict-tools-patch
 for the patch.
 
-Optionally, it can create a mobi formatted dictionary for Kindle Paperwhite by using kindlegen and uncommenting the last four lines of multi.sh. Modify the commands in it if you need a dictionary other than French, Japanese and English languages.
+Optionally, it can create a mobi formatted dictionary for Kindle Paperwhite by using kindlegen and uncommenting the last seven lines of multi.sh. Modify the commands in it if you need a dictionary other than French, Japanese and English languages.
 See 
 http://www.amazon.com/gp/feature.html?docId=1000765211
 for kindlegen.
@@ -17,16 +17,15 @@ http://jbovlaste.lojban.org/export/xml.html
 Requirement:
 _Login to the website_ and _right-click and save as_ *.xml into the folder 
 jbovlaste_converter/xml
-Viewing on a browser and/or logged-out of the website may not bring you a required format. English, Lojban and Japanese files must be named as follows:
+Viewing on a browser and/or logged-out of the website may not bring you a required format. English version and Lojban version are necessary for all languages, and must be named:
 eng.xml
 jbo.xml
+
+If you use a Japanese version, the downloaded xml file must be named:
 jpn.xml
 
-eng.xml and jbo.xml are necessary for all languages. If you don't need a Japanese dictionary, input "#" at the beginning of the line number 11 of multi.sh.
-
-The following command will produce Stardict dictionary files.
+The following command will produce Stardict dictionary files and gimste/ma'oste.
 $ cd [...path to...]jbovlaste_converter
 $ ./multi.sh
-
 
 mi'e la guskant mu'o
