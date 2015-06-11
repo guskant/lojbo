@@ -46,6 +46,25 @@ do
 		cd - 
 		mv "stardict/jbo-"$bangu_iso"-eng-rafsi/jbo-"$bangu_iso"-eng-rafsi" "temp/jbo-"$bangu_iso"-eng-rafsi.txt" 
 		tar cvfz "stardict/jbo-"$bangu_iso"-eng-rafsi-"`date +%Y%m%d`".tar.gz" "stardict/jbo-"$bangu_iso"-eng-rafsi"
+	elif [ "$bangu_iso" = "eng" ]
+	then
+		cat temp/jbo-jbo.txt temp/jbo-eng.txt temp/rafsi-jbo.txt > temp/temp 
+		mkdir -p "stardict/jbo-eng-rafsi" 
+		sed -f sh/lai-sed5quot < temp/temp > "stardict/jbo-eng-rafsi/jbo-eng-rafsi" 
+		cd "stardict/jbo-eng-rafsi" 
+		tabfile "jbo-eng-rafsi" 
+		cd - 
+		mv "stardict/jbo-eng-rafsi/jbo-eng-rafsi" "temp/jbo-eng-rafsi.txt" 
+		tar cvfz "stardict/jbo-eng-rafsi-"`date +%Y%m%d`".tar.gz" "stardict/jbo-eng-rafsi"
+	else
+		cat temp/jbo-jbo.txt temp/rafsi-jbo.txt > temp/temp 
+		mkdir -p "stardict/jbo-rafsi" 
+		sed -f sh/lai-sed5quot < temp/temp > "stardict/jbo-rafsi/jbo-rafsi" 
+		cd "stardict/jbo-rafsi" 
+		tabfile "jbo-rafsi" 
+		cd - 
+		mv "stardict/jbo-rafsi/jbo-rafsi" "temp/jbo-rafsi.txt" 
+		tar cvfz "stardict/jbo-rafsi-"`date +%Y%m%d`".tar.gz" "stardict/jbo-rafsi"
 	fi
 # romazi
 	if [ $bangu_iso = "jpn" ]
@@ -69,10 +88,10 @@ do
 done
 rm temp/temp
 # kindle
-# cd temp
-# cat jbo-jbo.txt jbo-fra.txt jbo-frafacile.txt jbo-jpn.txt jbo-eng.txt rafsi-jbo.txt romazi-jbo.txt > jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt 
-# sed -f ../sh/lai-sed4 jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt > vlaste-kindle 
-# tab2opf.py -utf vlaste-kindle 
-# kindlegen vlaste-kindle.opf
-# cd -
-# cp temp/vlaste-kindle.mobi kindle/lojban`date +%Y%m%d`.mobi
+cd temp
+cat jbo-jbo.txt jbo-fra.txt jbo-frafacile.txt jbo-jpn.txt jbo-eng.txt rafsi-jbo.txt romazi-jbo.txt > jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt 
+sed -f ../sh/lai-sed4 jbo-fra-frafacile-jpn-eng-rafsi-romazi.txt > vlaste-kindle 
+tab2opf.py -utf vlaste-kindle 
+kindlegen vlaste-kindle.opf
+cd -
+cp temp/vlaste-kindle.mobi kindle/lojban`date +%Y%m%d`.mobi
