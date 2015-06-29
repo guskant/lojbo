@@ -679,7 +679,7 @@ lumci	gismu   	-lum-   	-lu'i-	      	x_1 (aganto) lavas/purigas x_2-on de malpu
 lunbe	gismu   	-lub-		      	x_1 estas nuda/sen kovrilo/vestoj/[protekto]	Vidu ankaŭ {taxfu}, {bandu}.
 lunra	gismu   	-lur-		      	x_1 estas la luno de la tero (defaŭlte); x_1 estas grava natura satelito/luno de planedo x_2	Vidu ankaŭ {plini}, {solri}, {terdi}, {mluni}.
 lunsa	gismu   	-lus-		      	x_1 kondensiĝas/likviĝas sur x_2 je temperaturo x_3, premo x_4; x_1 estas roso/kondensaĵo sur x_2	Vidu ankaŭ {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
-mabla	gismu   	-mal-		      	x_1 estas malestimiga/malfavora senco de x_2 uzita de x_3; x_3 malestimas/malbenas x_2-on en formo x_1	Damna, fika, merda, kondamnita.  Vidu ankaŭ {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
+mabla	gismu   	-mal-		      	x_1 estas malbona/malbela/naŭziga/abomena/malbongusta laŭ aspekto x_2 por x_3.	Damna, fika, merda, kondamnita. Vidu ankaŭ {xlali}, {rigni}, {fegli}; {mabla}.
 mabru	gismu   	-mab-		      	x_1 estas mamulo de speco x_2	Vidu ankaŭ {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
 macnu	gismu   	-cnu-		      	x_1 (okazo/ago/procedo) estas neaŭtomata/homdirektata en funkcio x_2 sub kondiĉoj x_3	Vidu ankaŭ {zmiku}, {jitro}.
 makcu	gismu   	-ma'u-		      	x_1 estas matura/elkreskinta/adolta/plenaĝa en evolua kvalito x_2 (ka)	Vidu ankaŭ {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
@@ -1256,7 +1256,7 @@ xadni	gismu   	-xad-		      	x_1 estas (la) korpo/kadavro de x_2; (adjektivo:) x
 xagji	gismu			      	x_1 estas malsata; x_1 bezonas/volas manĝon/brulaĵon/energifonton x_2	Vidu ankaŭ {cidja}, {citka}, {djica}, {nitcu}, {taske}.
 xagri	gismu			      	x_1 estas ŝalmo/hobojo/klarneto/saksofono [anĉa muzikinstrumento] kun anĉo/langeto x_2	Vidu ankaŭ {zgike}.
 xajmi	gismu   	-xam-		      	x_1 estas komika/amuza al x_2 en eco/aspekto x_3 (nu/ka); x_2 trovas x_3-on amuza pri x_1	Ankaŭ: x_1 estas komikisto (= {xampre}, xamseljibri por profesia {komikisto}).  (x_1 povas esti homo/objekto aŭ abstraktaĵo; estu singarda pri ebla sumti-levigo); Vidu ankaŭ {bebna}, {cisma}, {cmila}, fenki,{zdile}.
-xaksu	gismu   	-xak-		      	x_1 (okazo) foruzas/konsumas/[malŝparas] x_2-on [rimedo]	Forĵetaĵo (= feŝaksu, duŝaksu).  Vidu ankaŭ {citka}, {festi}, {daspo}, {livla}, {pinxe}.
+xaksu	gismu   	-xak-		      	x_1 (okazo) foruzas/konsumas/[malŝparas] x_2-on [rimedo]	Forĵetaĵo (= {fesxaksu}, {dusxaksu}).  Vidu ankaŭ {citka}, {festi}, {daspo}, {livla}, {pinxe}.
 xalbo	gismu			      	x_1 estas frivola/malserioza pri x_2 (abstraktaĵo)	Vidu ankaŭ {junri}, {linto}.
 xalka	gismu   	-xal-		      	x_1 estas kvanto da/enhavas/konsistas el alkoholo de tipo x_2 el fonto/procedo x_3	Vidu ankaŭ {birje}, {jikru}, {vanju}.
 xalni	gismu			      	x_1 (homo) panikas pro krizo x_2 (okazo/stato)	Vidu ankaŭ {ckape}, {snura}, {terpa}, {xanka}.
@@ -1304,7 +1304,7 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 estas ruĝa/karmezina [koloradjektivo]
 xurdo	gismu   	-xur-   	-xu'o-	      	x_1 montras urduan lingvon/kulturon/naciecon laŭ aspekto x_2	Vidu ankaŭ {kisto}, {srito}, {xindo}.
 xusra	gismu   	-xus-   	-xu'a-	      	x_1 (aganto) asertas/proklamas/deklaras x_2-on (du'u) vera [uzebla por epistemologio de autoritato]	Ankaŭ: x_1 diras/pretendas scii ke x_2.  Vidu ankaŭ natfe kiu estas propozicia kaj {neagenta}, {nupre}.
 xutla	gismu   	-xul-		      	x_1 estas glata/ebena/[mola/silka] en tekseco/reguleco	Vidu ankaŭ {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
-zabna	gismu   	-zan-   	-za'a-	      	x_1 estas favora/estimiga senco de x_2 uzita de x_3	Vidu ankaŭ {funca}, {mabla}, {xamgu}, {vrude}.
+zabna	gismu   	-zan-   	-za'a-	      	x_1 estas bona/utila/agrabla/bela/plaĉa laŭ aspekto x_2 por x_3.	Vidu ankaŭ {xamgu}, {trina}, {melbi}, {pluka}, {mansa}; {mabla}.
 zajba	gismu   	-zaj-		      	x_1 gimnastikas/faras gimnastikan ekzercon x_2; x_1 estas gimnastikisto	Vidu ankaŭ {sluji}, {dansu}.
 zalvi	gismu   	-zal-		      	x_1 [individua aŭ aro da malmolaj surfacoj] pistas/pulvorigas x_2-on en pulvoron x_3	Povas bezoni tanru-on kun mosra.  Vidu ankaŭ {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}.
 zanru	gismu   	-zar-   	-zau-	      	x_1 aprobas/favoras/apogas planon/agon x_2 (objekto/okazo)	Vidu ankaŭ cmavo {zau}, {natfe}.

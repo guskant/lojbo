@@ -61,6 +61,7 @@ pi	cmavo   	-piz-		      		cifero/nombro: nombrobaza punkto/komo; defaŭlte deci
 pi'u	cmavo   	-piv-		      		nelogika kunigilo: krucproduto; kartezia produto de aroj
 pu'i	cmavo   	-pus-		      		modala aspekto: realigita potencialo	Vidu ankaŭ {kakne}.
 pu'u	cmavo   	-puv-		      		abstraktilo de procedo: x_1 estas procedo de [bridi] procedanta laŭ etapoj x_2	Vidu ankaŭ {pruce}.
+ra'oi	experimental cmavo			   	RAhOI      	markilo de rafsi ; ŝanĝas unu rafsi al sumti.	Notu ke unu spaco aŭ unu paŭzo fojfoje necesas antaŭ kaj/aŭ post la rafsi. La analizilo sintaksa zantufa-0.14 kaj posto analizos ra'oi kiel en selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Ekzemploj: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
 re	cmavo   	-rel-		      		cifero/nombro: 2 (cifero)
 ro	cmavo   	-rol-		      		cifero/nombro: ĉiu, ĉiuj
 roi	cmavo   	-rom-   	-roi-	      		ŝanĝas nombron en kvantigitan modifilon de tempa intervalo; defaŭlte tempa	Vidu ankaŭ {rapli}.

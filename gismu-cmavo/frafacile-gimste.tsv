@@ -680,7 +680,7 @@ lumci	gismu   	-lum-   	-lu'i-	      	x_1 nettoie x_2 de la saleté x_3 avec le 
 lunbe	gismu   	-lub-		      	x_1 est nu
 lunra	gismu   	-lur-		      	x_1 est une lune de la planète x_2	x_2 : Terre par défaut
 lunsa	gismu   	-lus-		      	x_1 se condense sur x_2 à la température x_3, à la pression x_4 ; x_1 est condensé en x_2
-mabla	gismu   	-mal-		      	x_1 est une connotation négative de x_2 utilisée par x_3 ; x_1 utilise x_2 de façon négative au lieu x_3
+mabla	gismu   	-mal-		      	x_1 est mal/laid/moche/répugnant/abominable dans l'aspect x_2 selon x_3.	Voir aussi {xlali}, {rigni}, {fegli}; {mabla}.
 mabru	gismu   	-mab-		      	x_1 est un mammifère de l'espèce x_2
 macnu	gismu   	-cnu-		      	x_1 est manuel dans la fonction x_2 sous les conditions x_3 pas automatique	x_1 : évènement/action/processus
 makcu	gismu   	-ma'u-		      	x_1 est mature en x_2	x_2 : l'aspect/qualité
@@ -1307,7 +1307,7 @@ xunre	gismu   	-xun-   	-xu'e-	      	x_1 est rouge	adjectif de couleur
 xurdo	gismu   	-xur-   	-xu'o-	      	x_1 est ourdou dans l'aspect x_2
 xusra	gismu   	-xus-   	-xu'a-	      	x_1 affirme que x_2 est vrai peut être utilisé pour l'épistémologie de l'expert/autorité en la matière	x_1 : agent. x_2 : du'u
 xutla	gismu   	-xul-		      	x_1 est uniforme en texture
-zabna	gismu   	-zan-   	-za'a-	      	x_1 est un sens favorable de x_2 utilisé par x_3
+zabna	gismu   	-zan-   	-za'a-	      	x_1 est bon/beau/satisfaisant dans l'aspect x_2 selon x_3.	Voir aussi {xamgu}, {trina}, {melbi}, {pluka}, {mansa}; {mabla}.
 zajba	gismu   	-zaj-		      	x_1 est un gymnaste de la discipline x_2
 zalvi	gismu   	-zal-		      	x_1 broie x_2 en poudre x_3	x_1 : individualité ou masse de surfaces dures
 zanru	gismu   	-zar-   	-zau-	      	x_1 approuve l'action x_2	x_2 : objet/évènement

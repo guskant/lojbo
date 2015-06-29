@@ -250,7 +250,7 @@ i'unai	cmavo-compound			      		mystère
 ja	cmavo   	-jav-		      		x ou y (intérieur d'un tanru)
 ja'a	cmavo			      		affirmateur de bridi (logique)
 ja'e	cmavo			      		de là il résulte
-ja'enai	cmavo-compound			      		de là il ne résulte jamais
+ja'enai	cmavo-compound			   	BAI*      	sans le résultat...
 ja'i	cmavo			      		de la règle
 ja'o	cmavo			      		j'en conclue
 je	cmavo   	-jev-   	-jve-	      		x et y (tanru)
@@ -273,7 +273,7 @@ ji'o	cmavo			      		sous la direction de
 ji'u	cmavo			      		basé sur
 jo	cmavo   	-jov-		      		x ssi y (intérieur d'un tanru)
 jo'a	cmavo			      		oui métalinguistique
-jo'au	experimental cmavo			   	MAI      	Changer la version/le dialecte de l'analyseur syntaxique/parser.	Il faut que la morphologie et la grammmaire des chiffres précédant {jo'au}, y inclues les «mot»-{bu}, soient conformées à la version 134 de la page «BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG)» sur le site web lojban.org et la grammaire officielle des cmavo de chiffre, afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec tous les versions/dialectes de l'analyseur syntaxique/parser du lojban: par exemple, «jie bu jo'au» ainsi que «xei jo'au» ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. exemples de la signification: cylylypapi'epa jo'au (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ); camxes.bu jo'au (la peg actuelle http://camxes.lojban.org/ ); iocixes.bu jo'au (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ); ilmentufa burenopavopi'epapapi'erevo jo'au (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ); fancylojban.bu jo'au (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau - il n'y a pas encore d'analyseur syntaxique.)
+jo'au	experimental cmavo			   	COI3      	Changer la version/le dialecte de l'analyseur syntaxique/parser.	{do'u} est le terminateur élidable. Il faut que la morphologie et la grammmaire de cmevla/sumti/selbri qui suit {jo'au} soient conformées à la version 134 de la page « BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG) » sur le site web lojban.org et la grammaire officielle afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec toutes les versions/tous les dialectes de l'analyseur syntaxique/parser du lojban : par exemple, « jo'au jie bu » ainsi que « jo'au xy xi xei » ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. Exemples de la signification : jo'au cylyly xi papipa (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (la peg actuelle http://camxes.lojban.org/ ) ; jo'au iocixes (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
 jo'e	cmavo   	-jom-		      		union
 joi	cmavo   	-jol-   	-joi-	      		en masse avec
 jo'i	cmavo			      		tableau
@@ -317,7 +317,7 @@ ki'enai	cmavo-compound			      		pas merci
 ki'o	cmavo			      		séparateur de nombre (paquet de 3 en base 10)
 ki'u	cmavo			      		à cause de la raison
 ki'u ma	cmavo-compound			      		avec quelle raison ?
-ki'unai	cmavo-compound			      		malgré la raison
+ki'unai	cmavo-compound			   	BAI*      	quel que soit la raison
 ko	cmavo			      		toi à l'impératif
 ko'a	cmavo			      		ça 1
 ko'e	cmavo			      		ça 2
@@ -435,7 +435,7 @@ mu'acu'i	cmavo-compound			      		omettant l'exemple
 mu'anai	cmavo-compound			      		finissant les exemples
 mu'i	cmavo			      		à cause de la motivation
 mu'i ma	cmavo-compound			      		question : « motivation ? »
-mu'inai	cmavo-compound			      		malgré la motivation
+mu'inai	cmavo-compound			   	BAI*      	quel que soit la motivation
 muki'o	cmavo-compound			      		5000
 mumei	cmavo-compound			      		est un quintette
 mumoi	cmavo-compound			      		5ème
@@ -467,7 +467,7 @@ ni	cmavo   	-nil-		      		abstracteur de quantité
 ni'a	cmavo			      		en dessous de
 ni'i	cmavo			      		à cause de la logique
 ni'i ma	cmavo-compound			      		question : « logique ? »
-ni'inai	cmavo-compound			      		malgré la logique
+ni'inai	cmavo-compound			   	BAI*      	quel que soit la condition suffisante logique
 ni'o	cmavo			      		marqueur de nouveau sujet
 ni'u	cmavo			      		signe moins des nombre négatifs
 noda	cmavo-compound			      		rien du tout
@@ -587,6 +587,7 @@ ra'e	cmavo			      		répétition des décimales
 rai	cmavo			      		avec le superlatif
 ra'i	cmavo			      		de la source
 ra'o	cmavo			      		remise à jour des assignement
+ra'oi	experimental cmavo			   	RAhOI      	marqueur de rafsi ; il convertit un rafsi en sumti.	Notez qu'une espace ou une pause est parfois nécessaire avant et/ou après le rafsi. L'analyseur syntaxique zantufa-0.14 et supérieur analyseront ra'oi comme en selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Exemples: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
 rau	cmavo			      		assez
 raumei	cmavo-compound			      		est assez
 raumoi	cmavo-compound			      		est le assez-ième parmi
@@ -609,7 +610,7 @@ reroi	cmavo-compound			      		2 fois autant
 ri	cmavo			      		le dernier sumti
 ri'a	cmavo			      		à cause de
 ri'a ma	cmavo-compound			      		question : « cause ? »
-ri'anai	cmavo-compound			      		malgré la cause
+ri'anai	cmavo-compound			   	BAI*      	quel que soit la cause
 ri'e	cmavo			      		relachement émotionnel
 ri'enai	cmavo-compound			      		contriction émotionnelle
 ri'i	cmavo			      		expérimenté par
@@ -674,7 +675,7 @@ sei	cmavo			      		introduit un bridi métalinguistique
 se'i	cmavo			      		egoïste
 se'inai	cmavo-compound			      		altruiste
 seja'e	cmavo-compound			      		résultats de
-seja'enai	cmavo-compound			      		résultats malgré
+seja'enai	cmavo-compound			   	BAI*      	résultats quel que soit la cause ...
 seja'i	cmavo-compound			      		par la règle préscrivant
 seji'e	cmavo-compound			      		comme limite de
 seji'o	cmavo-compound			      		controllant les aspects
