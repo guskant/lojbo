@@ -865,6 +865,7 @@ xe'u	experimental cmavo			   	GOhA      	ラムダ ： 抽象節内において�
 xi	cmavo			   	XI      	添字造成 ： 数量詞の左に付いてそれを添字（小さな上付き／下付き文字）扱いにする	・読み方： クィ
 xo	cmavo			   	PA5      	数量質問 ： 数量詞； PAの代わりに置いて返答を喚起する；	「xo prenu ti zvati／ここには幾つの人がいるの？」 ・読み方： クォ
 xo'e	experimental cmavo			   	PA5      	不特定の数：数量詞；	「ある数」。 no'o と違い、典型的な数であるとは限らない。 試験的 cmavo。 ・読み方： クォヘ ・関連語： {no'o}, {zo'e}; {tu'o}, {xo}, {co'e}, {do'e}
+xo'i	experimental cmavo			   	XOhI      	タグからセルブリを抜き出す； fi'o の逆；	「xo'i bau」 = 「bangu」。一般に、「xo'i fi'o broda」 = 「broda」
 xu	cmavo			   	UI6      	真偽質問	心態詞（談話系）； 対象が真か偽かを尋ねる気持； 「ti se citka do xu／これを食べたのは君か？」「ti se citka xu do／君はこれを食べたのか？」 ・読み方： クゥ
 xy	cmavo			   	BY2      	x ： 字詞；	・読み方： クァ
 y	cmavo			   	Y      	躊躇 ： 言葉のつっかえを表す； どこにでも挿入できる	「ええっと・・・」 ・読み方： ァ
@@ -892,7 +893,7 @@ zi'o	cmavo   	-zil-		   	KOhA7      	不在 sumti ： 代詞（sumti）； PS上
 zo	cmavo			   	ZO      	ロジバン語引用（単語） ： ロジバン語の左に付いてそれを文字列として扱う	「puca」などは単語でなく複合語であることに注意。「zo puca」では「pu」のみが引用される。 ・読み方： ゾ
 zo'a	cmavo   	-zon-   	-zo'a-	   	FAhA4      	~に近接して／通りがかって ： 間制詞（空間・方向）；	「zo'a rinsa／すれ違いに挨拶する」 ・大意： テンス： 近接 ・読み方： ゾハ ・関連語： {pencu}, {tanjo}
 zo'e	cmavo			   	KOhA7      	不特定 sumti ： 代詞（sumti）	「何らかのもの」 ・読み方： ゾヘ
-zoi	cmavo			   	ZOI      	非ロジバン語引用 ： 非ロジバン語の言葉の両端に付いてその境界を示す	・読み方： ゾイ
+zoi	cmavo			   	ZOI      	非ロジバン語引用開始 ： 非ロジバン表現の引用を開始する。引用の範囲は何らかの境界子で示されている必要がある	「zoi」は他言語全般のための境界子。特に日本語であることを示すなら「ponjo」から「py」、英語なら「glico」から「gy」、インターネットなら「net」、YouTube なら「utub」等。　・読み方： ゾイ
 zo'i	cmavo   	-zor-   	-zo'i-	   	FAhA4      	~よりも内奥へ／~から近づいて ： 間制詞（空間・方向）；	・大意： テンス： 内向 ・読み方： ゾヒ ・関連語： {nenri}, {setca}
 zo'o	cmavo			   	UI5      	冗談 （ zo'o 冗談 - zo'onai 厳粛）	心態詞（修飾系） ・読み方： ゾホ  ・関連語： {xajmi}, {junri}
 zo'onai	cmavo-compound			   	UI*5      	厳粛（ zo'o 冗談 - zo'onai 厳粛）	心態詞（修飾系） ・読み方： ゾホナイ

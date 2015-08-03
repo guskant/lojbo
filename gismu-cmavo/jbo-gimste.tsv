@@ -400,6 +400,7 @@ jivna	gismu   	-jvi-		      	x_1 fapro x_2 x_3 gi'e troci lo ka jinga fi x_2 fo 
 jmaji	gismu   	-jaj-		      	ge ro me x_1 cu klama x_2 boi su'o me x_3 gi ro me x_3 cu te klama x_2 boi su'o me x_1 vau ja'e lo nu x_1 zvati x_2	{klama} .i {penmi} .i {pensi'u}
 jmina	gismu   	-min-		      	x_1 dunda x_2 boi x_3 ja'e x_4 i x_1 gasnu lo nu x_3 zenba fi x_2 ja'e x_4
 jmive	gismu   	-miv-   	-ji'e-	      	x_1 se tcini lo ka jbena gi'e banro gi'e ka'e rorci gi'e matybi'o lo vanbi ta'i lo nu nenri krasi cenba .i x_1 to'e morsi	{tcini}; {jbena}; {banro}; {rorci}; {matybi'o}; {vanbi}; {nenri}; {krasi}; {cenba}; {morsi}
+jonse	experimental gismu			      	x_1 nerkla ja darca ja pencu ja cpacu ja jgari ja penmi ja tavla ja tcidu ja pilno ja me'au lo simsa x_2 tezu'e x_3
 jordo	gismu   	-jor-   	-jo'o-	      	x_1 ckini lo kulnu ja bangu ja cecmu ja natmi pe lo gugdeju'o x_2	{kulnu}; {bangu}; {cecmu}; {natmi}; {gugdeju'o}; {xazdo}; {semto}; {xrabo}
 jorne	gismu   	-jon-   	-jo'e-	      	x_3 korbi x_1 fi x_2 .i je x_1 jo'u x_2 rinju x_3 lo ka simxu lo ka zvadarze'a	srana fa zo {korbi} .e zo {snipa} .e zo {lasna} .e zo {rinju} .e zo {zvadarze'a}
 jubme	gismu   	-jub-   	-jbu-	      	x_1 nilce gi'e marji x_2 gi'e se galraipau lo pinta plita poi se zbepi x_3	{nilce}; {marji}; {galraipau}; {pinta}; {plita}; {zbepi}
@@ -586,7 +587,7 @@ mucti	gismu   	-mut-		      	x_1 claxu lo ka ce'u marji .i x_1 to'e dacti	{claxu
 mukti	gismu   	-muk-   	-mu'i-	      	lo nu x_1 se sanji x_3 cu te frati x_2 x_3 gi'a se jalge lo nu x_3 djica lo ka zukte x_2	{sanji}; {frati}; {zukte}; {xlura}; {rinka}; {jalge}; {krinu}; {djica}
 mulno	gismu   	-mul-   	-mu'o-	      	x_1 jai claxu no pagbu fai x_2	{claxu}; {pagbu}; {fanmo}; {culno}; {prane}; {xadba}; {munje}
 munje	gismu   	-muj-   	-mu'e-	      	x_1 gunma lo ro mei be lo srana be x_2	{gunma}; {srana}; {kuspe}
-mupli	gismu   	-mup-		      	x_1 me x_2 gi'e ckaji lo ralju be lo kampu be x_2	srana fa zo {klesi} .e zo {kampu} .e zo {ralju} .e zo {steci} .e zo {mu'a} .e zo {me}
+mupli	gismu   	-mup-		      	x_1 noi cmima x_3 cu jarco x_2 noi kampu x_3	{mu'u}; {mu'a}
 murse	gismu			      	x_1 selguskandi pagbu x_2 noi djedi ku'o gi'e jbini lo donri jo'u lo nicte gi'e ga purci lo solnuntolcanci gi balvi lo solnuncanci vau gi'e se stuzi x_3	{selguskandi}; {pagbu}; {djedi}; {jbini}; {donri}; {nicte}; {purci}; {solnuntolcanci}; {balvi}; {solnuncanci}; {stuzi}; {cerni}; {vanci}
 murta	gismu   	-mur-   	-mu'a-	      	x_1 dandu gi'e gacri x_2 gi'e bukpu x_3	{dandu}; {gacri}; {bukpu}
 mutce	gismu   	-tce-		      	x_1 klani lo barda be fi x_3 be'o x_2	{toltce}, {milxe}; {so'i}
@@ -967,6 +968,7 @@ vreta	gismu   	-vre-		      	x_1 zasni lo ka lo xadni be ce'u cu pinta gi'e cpan
 vrici	gismu			      	x_1 ckaji x_2 ije lo pagbu be x_1 cu simxu lo ka ce'u ce'u frica x_2 i x_1 to'e manfo x_2	{frica}, {manfo}
 vrude	gismu   	-vud-   	-vu'e-	      	x_1 zabna x_2 ma'i lo marde .i x_1 to'e palci x_2	{zabna}; {marde}; {palci}
 vrusi	gismu   	-vus-   	-vu'i-	      	x_1 se krasi x_2 gi'e ka'e se ganse fi lo'e moklu	{titla}; {slari}; {kurki}; {jvinu}; {sance}; {panci}; {tengu}
+vujnu	experimental gismu			      	nu'a vu'u .i x_1 se sumji x_2 x_3 x_4 li'o .i pe'a zi'o vimcu x_3 jo'u x_4 li'o x_2 x_1
 vukro	gismu   	-vur-   	-vu'o-	      	x_1 ckini lo kulnu ja bangu ja cecmu ja natmi pe lo bangukuru ja gugde'u'a x_2	{kulnu}; {bangu}; {cecmu}; {natmi}; {bangukuru}; {gugde'u'a}; {slovo}; {ropno}; {softo}
 xabju	gismu   	-xa'u-		      	x_1 stodi ja jai cafne lo ka zvati x_2 .i x_1 se zdani x_2	{stodi}; {cafne}; {zvati}; {zdani}
 xadni	gismu   	-xad-		      	x_1 stura lo se marji be x_2	{stura}; {marji}
@@ -1039,3 +1041,4 @@ zunle	gismu   	-zul-		      	x_1 zvati lo mlana be x_2 be'o poi se farna lo stic
 zunti	gismu   	-zun-   	-zu'i-	      	x_1 jai se jalge lo nu x_2 fliba lo ka drani ja mulno ja zabna lo ka fasnu kei kei fai x_3	{jalge}; {fliba}; {drani}; {mulno}; {zabna}; {fasnu}; {dicra}; {fanta}; {fanza}; {raktu}
 zutse	gismu   	-zut-   	-tse-	      	x_1 zasni lo ka lo zargu be ce'u cu cpana x_2 gi'e sarji lo xadni be ce'u	{zasni}; {zargu}; {cpana}; {sarji}; {xadni}; {sanli}; {vreta}; {stizu}; {sfofa} 
 zvati	gismu   	-zva-		      	x_1 dunli x_2 le ka ce'u fasnu bu'u makau	{bu'u}
+zviki	experimental gismu			      	x_1 finti fo x_4 fe x_2 noi ke'a kosmu x_3 gi'e cnino jenai pu se kanpe lo poi'i finti ja pilno x_3

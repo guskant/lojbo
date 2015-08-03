@@ -57,6 +57,7 @@ birka	gismu   	-bir-		      	x_1 is an arm of x_2
 birti	gismu   	-bit-		      	x_1 is convinced that x_2 is true
 bisli	gismu   	-bis-		      	x_1 is a quantity of ice made of x_2
 bitmu	gismu   	-bim-   	-bi'u-	      	x_1 is a wall or fence separating x_2 and x_3 of or in structure x_4
+bitni	experimental gismu			      	x_1(entity) is x_2(number) bits in size
 blabi	gismu   	-lab-		      	x_1 is white
 blaci	gismu			      	x_1 is a quantity of glass of material x_2
 blanu	gismu   	-bla-		      	x_1 is blue
@@ -242,7 +243,7 @@ cunmi	gismu			      	x_1 is a quantity of millet or grain of species x_2
 cunso	gismu   	-cun-   	-cu'o-	      	x_1 is random under conditions x_2 with probability distribution x_3
 cuntu	gismu   	-cu'u-		      	x_1 is an affair or organized activity involving people x_2
 cupra	gismu   	-pra-		      	x_1 produces x_2 by process x_3
-curmi	gismu   	-cru-		      	x_1 allows or permits x_2
+curmi	gismu   	-cru-		      	x_1 lets x_2 happen
 curnu	gismu   	-cur-		      	x_1 is a worm of species x_2
 curve	gismu   	-cuv-		      	x_1 is pure in property x_2
 cusku	gismu   	-cus-   	-sku-	      	x_1 says x_2 for audience x_3 via medium x_4

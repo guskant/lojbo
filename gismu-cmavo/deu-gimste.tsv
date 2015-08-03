@@ -237,7 +237,7 @@ cunmi	gismu			      	x_1 ist eine gewisse Menge/besteht aus/enthält Hirse [Getr
 cunso	gismu   	-cun-   	-cu'o-	      	x_1 ist zufällt/unvorhersehbar unter Umständen mit Wahrscheinlichkeitsverteilung x_3
 cuntu	gismu   	-cu'u-		      	x_1 ist eine Angelegenheit/organisierte Aktivität mit Person(en) x_2 (einzeln/Masse); x_1 ist die Angelegenheit von x_2
 cupra	gismu   	-pra-		      	x_1 stellt x_2 [Produkt] durch Verfahren x_3 her; x_1 erzeugt x_2 auf Weise x_3
-curmi	gismu   	-cru-		      	x_1 (Handelnder) erlaubt/lässt x_2 (Ereignis) (zu) unter Umständen x_3; x_1 gewährt das Vorrecht x_3
+curmi	gismu   	-cru-		      	x_1 (Handelnder) erlaubt/lässt x_2 (Ereignis) (zu) unter Umständen x_3; x_1 gewährt das Vorrecht x_2	Hinreichende Bedingung (= {crutcini}), handelndes Subjekt, welches eine Situation zulässt (= {tcinycru}). Siehe auch {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}.
 curnu	gismu   	-cur-		      	x_1 ist ein Wurm/wirbelloses Tier von Art/Gattung x_2
 curve	gismu   	-cuv-		      	x_1 ist rein/unverfälscht in Eigenschaft x_2 (ka)
 cusku	gismu   	-cus-   	-sku-	      	x_1 sagt x_2/drückt x_2 aus für Zuhörer x_3 mittels Medium/Kommunikationsform x_4
@@ -323,9 +323,9 @@ facki	gismu   	-fak-   	-fa'i-	      	x_1 entdeckt/findet x_2 (du'u) (heraus) ü
 fadni	gismu   	-fad-		      	x_1 [Mengenelement] ist normal/gewöhnlich/üblich/typisch in Eigenschaft x_2 (ka) unter Elementen von x_3 (Menge)
 fagri	gismu   	-fag-		      	x_1 ist (ein) Feuer/eine Flamme mit Brennstoff x_2 und brennt in/reagiert mit Oxidationsmittel x_3 (Default: Luft/Sauerstoff)
 falnu	gismu   	-fan-		      	x_1 ist ein Segel zum Sammeln von Antriebsmaterial x_2 auf Fahrzeug/Motor x_3
-famti	gismu			      	x_1 ist eine Tante/ein Onkel von x_2 mit/durch Beziehung x_3; x_1 ist ein Verwandter/zugehöriges Mitglied der Generation von x_2s Eltern
-fancu	gismu			      	x_1 ist eine Funktion/Abbildung von Definitionsbereich/Urbild x_2 auf Bildbereich x_3, definiert durch Ausdruck/Regel x_4
-fange	gismu			      	x_1 ist ausländisch/fremd/fremdartig/[exotisch] für x_2 in Eigenschaft x_3 (ka)
+famti	gismu			      	x_1 ist eine Tante/ein Onkel von x_2 mit/durch Beziehung x_3; x_1 ist ein Verwandter/zugehöriges Mitglied der Generation von x_2s Eltern.	Tante (={fetfamti}), Onkel (={nakfamti}). Siehe auch {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
+fancu	gismu			      	x_1 ist eine Funktion von Definitionsbereich/Urbild/Definitionsmenge x_2 auf Zielmenge x_3, definiert durch Ausdruck/Regel x_4.	Siehe auch {mekso}, {bridi}.
+fange	gismu			      	x_1 ist ausländisch/fremd/fremdartig/[exotisch] für x_2 in Eigenschaft x_3 (ka).	Siehe auch {cizra}, {jbena}, {ckini}.
 fanmo	gismu   	-fam-   	-fa'o-	      	x_1 ist ein Ende/Abschluss von Gegenstand/Prozess x_2; [bedingt nicht unbedingt Vollständigkeit]
 fanri	gismu			      	x_1 ist eine Fabrik/eine Gießerei/ein Werk/eine Mühle und stellt x_2 aus Rohmaterial x_2 her
 fanta	gismu			      	x_1 verhindert, dass Ereignis x_2 eintritt
@@ -542,7 +542,7 @@ kadno	gismu			      	x_1 repräsentiert kanadische Kultur/Nationalität in Aspek
 kafke	gismu			      	x_1 hustet/pupst/rülpst x_2 [vorwiegend gasförmig] aus Körperöffnung x_3 aus
 kagni	gismu   	-kag-		      	x_1 ist eine Firma/ein Betrieb/Unternehmen/eine Handels-/Kapitalgesellschaft zugelassen von Autorität/Behörde x_2 für Zweck x_3
 kajde	gismu   	-jde-		      	x_1 (Ereignis/Erfahrung) warnt x_2 (Person) vor Gefahr x_3 (Ereignis/Zustand/Eigenschaft)
-kajna	gismu			      	x_1 ist ein Gestell/Regal/eine Ablage/Theke in/auf/verbunden mit stützendem Objekt x_2 für Zweck x_3
+kajna	gismu			      	x_1 ist ein Gestell/Regal/eine Ablage/Theke in/auf/verbunden mit stützendem Objekt x_2 für Zweck x_3.	Siehe auch {balni}.
 kakne	gismu   	-ka'e-		      	x_1 ist fähig/im Stande x_2 (Ereignis/Zustand) zu tun/sein, unter Bedingungen x_3 (Ereignis/Zustand)
 kakpa	gismu			      	x_1 (Handelnder) gräbt x_2 [Material] aus Loch/Ursprung x_3 mit Gliedmaßen/Werkzeug x_4
 kalci	gismu			      	x_1 ist der Kot/sind die Fäkalien/Exkremente von x_2 (Tier/Person); (Adjektiv:) x_1 ist fäkal
@@ -570,7 +570,7 @@ karni	gismu			      	x_1 ist eine Zeitschrift/Journal/Magazin mit Inhalt x_2 ver
 katna	gismu   	-ka'a-		      	x_1 (Werkzeug/Klinge/Kraft) schneidet/teilt x_2 (Objekt) in Teile/Stücke x_3
 kavbu	gismu   	-kav-		      	x_1 fängt/ergreift/schnappt/erwischt x_2/nimmt x_2 fest mit Falle/Mittel x_3
 kecti	gismu   	-kec-   	-ke'i-	      	x_1 (Person) bemitleidet/hat Mitleid mit x_2 (Person) wegen x_3 (Abstraktion).	Siehe auch {cinmo}, {xendo}.
-kelci	gismu   	-kel-   	-kei-	      	x_1 [Handelnder] spielt mit Spielzeug x_2
+kelci	gismu   	-kel-   	-kei-	      	x_1 [Handelnder] spielt mit Spielzeug x_2	Spiel spielen (= {ci'erkei}), gegeneinander spielen (= {jvikei}). Siehe auch: {jivna}, {jinga}, {zdile}.
 kelvo	gismu   	-ke'o-		      	x_1 ist x_2 Kelvin [metrische Einheit] an Temperatur (Default: 1) gemäß Standard x_3
 kenra	gismu   	-ken-		      	x_1 ist Krebs/ein Krebs [maligne Krankheit] von/in x_2
 kensa	gismu   	-kes-		      	x_1 ist der Weltraum/das All nahe/zugehörig zu Himmelskörper/Region x_2
@@ -660,7 +660,7 @@ lidne	gismu   	-li'e-		      	x_1 ist vor x_2/geht x_2 voran in Reihenfolge x_3;
 lifri	gismu   	-lif-   	-fri-	      	x_1 [Person/Opfer/Zustand] erlebt/durchlebt/erfährt x_2 (Ereignis/Erfahrung); x_2 passiert x_1
 lijda	gismu   	-jda-		      	x_1 ist eine Religion aus Gläubigen unter anderem x_2, die gemeinsame Glauben/Überzeugungen/Praktiken/Lehren/Grundsätze unter anderem x_3 verfolgen
 limna	gismu   	-lim-		      	x_1 (Handelnder) schwimmt in Flüssigkeit x_2
-lindi	gismu   	-lid-		      	x_1 ist ein Blitzschlag und schlägt in x_2 ein/reicht bis x_2 von x_3
+lindi	gismu   	-lid-		      	x_1 ist ein Blitzschlag und schlägt in x_2 ein/reicht bis x_2 von x_3	Auch Donner (= {lidysna}). Siehe auch: {dikca}.
 linji	gismu   	-lij-   	-li'i-	      	x_1 ist eine Linie/Strecke/Gerade [eindimensionale Form] und festgelegt durch die Punktemenge x_2
 linsi	gismu   	-lin-		      	x_1 ist eine bestimme Länge an Kette/Kettengliedern aus Material x_2 mit Verknüpfungseigenschaften x_3
 linto	gismu   	-li'o-		      	x_1 ist leicht an Masse/Gewicht gemäß Standard x_2
@@ -899,7 +899,7 @@ punji	gismu   	-puj-   	-pu'i-	      	x_1 (Handelnder) setzt/stellt/legt x_2 an 
 punli	gismu   	-pul-		      	x_1 ist eine Beule/Schwellung/Ausbuchtung [Form] auf/in/an x_2 aus Material x_3
 purci	gismu   	-pur-   	-pru-	      	x_1 liegt in der Vergangenheit von/ist früher als/vor x_2 in zeitlicher Reihenfolge; x_1 ist früher; x_2 ist später
 purdi	gismu   	-pud-		      	x_1 ist ein Garten/ein gepflegtes/kultiviertes Feld von Familie/Gemeinschaft/Bauer x_2 und enthält Pflanzen/Ernte x_3
-purmo	gismu   	-pum-   	-pu'o-	      	x_1 ist ein Pulver von Material x_2
+purmo	gismu   	-pum-   	-pu'o-	      	x_1 ist ein Pulver von Material x_2.	Mehl (= {grupu'o}, {xripu'o}). Siehe auch {pulce}, {zalvi}.
 racli	gismu			      	x_1 (Handlung/Tätigkeit/Verhalten) ist vernünftig/rational gemäß Standard x_2
 ractu	gismu			      	x_1 ist ein Hase/Kaninchen/Karnickel der Art/Gattung x_2.	Siehe auch {mabru}, {kerlo}.
 radno	gismu   	-ra'o-		      	x_1 ist x_2 Radiant [metrische Einheit] Winkel im Bogenmaß (Default: 1) gemäß Standard x_3
@@ -1298,7 +1298,7 @@ xrabo	gismu   	-rab-		      	x_1 repräsentiert die arabisch-sprechende Kultur/N
 xrani	gismu   	-xai-		      	x_1 (Ereignis) verletzt/beschädigt/schadet Opfer x_2 in Eigenschaft x_3 (ka) und daraus ergibt sich Verletzung x_4 (Zustand)
 xriso	gismu   	-xis-   	-xi'o-	      	x_1 gehört zur christlichen Religion/Kultur/Nationalität in Aspekt x_2
 xruba	gismu   	-xub-		      	x_1 ist eine Menge an Buchweizen/Rhabarber/(Sauer-)ampfer von Art/Sorte x_2
-xruki	gismu   	-xuk-		      	x_1 ist ein Truthahn von Art/Gattung x_2
+xruki	gismu   	-xuk-		      	x_1 ist ein Truthuhn [Nahrung/Tier] von Art/Züchtung x_2.	Geschlechtsneutrale Bezeichnung, zieht »Truthahn« und »Pute« mit ein. Siehe auch: {cipni}.
 xrula	gismu   	-rul-		      	x_1 ist eine/die Blume/Blüte [Körperteil] von Pflanze/Art x_2; (Adjektiv:) x_1 ist geblümt
 xruti	gismu   	-xru-		      	x_1 (Handelnder) bringt x_2 zurück zu Ursprungs-/früherem Zustand x_3 von x_4; x_1 bewegt/gibt x_2 zurück zu x_3 von x_4
 xukmi	gismu   	-xum-   	-xu'i-	      	x_1 ist eine Substanz/Chemikalie/ein Medikament x_2 (einzeln oder als Masse) mit Reinheit x_3
