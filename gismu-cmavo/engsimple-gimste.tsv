@@ -277,7 +277,6 @@ daspo	gismu   	-spo-		      	x_1 destroys x_2
 dasri	gismu   	-sri-		      	x_1 is a ribbon or strip of material x_2
 datka	gismu			      	x_1 is a duck of species x_2
 datni	gismu			      	x_1 is information about x_2 gathered by method x_3
-datru	experimental gismu			      	x_1 (event) is occurring on day x_2 of month x_3 of year x_4 in calendar x_5
 decti	gismu   	-dec-		      	x_1 is a tenth of x_2 in dimension or aspect x_3
 degji	gismu   	-deg-		      	x_1 is a finger, toe, or digit on limb x_2 of body x_3
 dejni	gismu   	-dej-		      	x_1 owes debt x_2 to creditor x_3 in return for x_4

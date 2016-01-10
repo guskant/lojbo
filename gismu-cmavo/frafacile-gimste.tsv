@@ -875,7 +875,7 @@ pluta	gismu   	-lut-   	-lu'a-	      	x_1 est le chemin vers x_2 de x_3 passant 
 polje	gismu   	-plo-		      	x_1 plie x_2 en x_3	x_1 : force. x_3 : point/courbure créée
 polno	gismu   	-pol-		      	x_1 est polynésien dans l'aspect x_2
 ponjo	gismu   	-pon-   	-po'o-	      	x_1 est japonais dans l'aspect x_2
-ponse	gismu   	-pos-   	-po'e-	      	x_1 posséde x_2 selon x_3 ; x_1 est propriétaire de x_2 selon x_3	x_3 : loi/coutume
+ponse	gismu   	-pos-   	-po'e-	      	x_1 possède x_2 selon x_3 ; x_1 est propriétaire de x_2 selon x_3	x_3 : loi/coutume
 porpi	gismu   	-pop-   	-po'i-	      	x_1 se casse en pièces x_2
 porsi	gismu   	-por-   	-poi-	      	x_1 est ordonné par x_2 sur x_3 non ordonné	x_1 : ensemble ordonné. x_2 : comparaison/règle
 porto	gismu   	-pot-		      	x_1 est portugais dans l'aspect x_2

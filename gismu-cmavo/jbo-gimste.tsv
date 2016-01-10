@@ -806,6 +806,7 @@ smadi	gismu			      	x_1 jinvi x_2 x_3 lo na'e banzu	{jinvi}; {banzu}
 smaji	gismu   	-sma-		      	x_1 seltinynalka'e lo'e zvati be x_2 ma'i x_3 .i x_1 se sance no da	{seltinynalka'e}, {sance}
 smani	gismu			      	x_1 mabru x_2 noi jutsi la'o lazgunma Primates lazgunma ku'o gi'e na'o na'e remna	{mabru}; {jutsi}; {remna}
 smuni	gismu   	-mun-   	-smu-	      	x_1 se sinxa x_2 x_3 .i x_1 noi na'e bangu cu se krati x_2 noi se cusku ku'o lo ka te jimpe fi x_3	{sinxa}; {bangu}; {krati}; {cusku}; {jimpe}
+smusu	experimental gismu			      	x_1 zukte x_4 lo nu x_3 djuno lo du'u x_1 xusra x_2	smudu'i zo {smusku} .i stidi lo nu ra'oi -sus- co'a rafsi zo smusu
 snada	gismu   	-sad-		      	x_1 mulzu'e x_2 noi se troci x_1 .i x_1 to'e fliba x_2	{mulzu'e}; {troci}; {fliba}
 snanu	gismu   	-nan-		      	x_1 pritu x_2 lo solnuntolcanci noi stuna .i x_1 to'e berti x_2	{pritu} .i {berti} .i {stuna} .i {stici} .i {farna} .i {solnuntolcanci}
 snidu	gismu   	-nid-		      	x_1 klani x_2 lo ka lo xo kau boi fi'u xa no si'e be lo mentu cu ditcu ke'a .i x_1 klani x_2 lo sornai rauci'e ni ditcu	{klani}; {mentu}; {ditcu}; {sornai}; {rauci'e}
@@ -969,6 +970,7 @@ vrici	gismu			      	x_1 ckaji x_2 ije lo pagbu be x_1 cu simxu lo ka ce'u ce'u 
 vrude	gismu   	-vud-   	-vu'e-	      	x_1 zabna x_2 ma'i lo marde .i x_1 to'e palci x_2	{zabna}; {marde}; {palci}
 vrusi	gismu   	-vus-   	-vu'i-	      	x_1 se krasi x_2 gi'e ka'e se ganse fi lo'e moklu	{titla}; {slari}; {kurki}; {jvinu}; {sance}; {panci}; {tengu}
 vujnu	experimental gismu			      	nu'a vu'u .i x_1 se sumji x_2 x_3 x_4 li'o .i pe'a zi'o vimcu x_3 jo'u x_4 li'o x_2 x_1
+vukna	experimental gismu			      	x_1 na'e jimpe ja tolmo'i lo du'u x_2 frica x_3 makau
 vukro	gismu   	-vur-   	-vu'o-	      	x_1 ckini lo kulnu ja bangu ja cecmu ja natmi pe lo bangukuru ja gugde'u'a x_2	{kulnu}; {bangu}; {cecmu}; {natmi}; {bangukuru}; {gugde'u'a}; {slovo}; {ropno}; {softo}
 xabju	gismu   	-xa'u-		      	x_1 stodi ja jai cafne lo ka zvati x_2 .i x_1 se zdani x_2	{stodi}; {cafne}; {zvati}; {zdani}
 xadni	gismu   	-xad-		      	x_1 stura lo se marji be x_2	{stura}; {marji}
@@ -1030,7 +1032,7 @@ zepti	gismu   	-zep-		      	x_1 klani li gei ni'u re pa x_2	{klani}; {centi}; {
 zetro	gismu   	-zet-		      	x_1 klani li gei re pa x_2	{klani}; {centi}; {decti}; {dekto}; {femti}; {gigdo}; {gocti}; {gotro}; {gradu}; {kilto}; {megdo}; {mikri}; {milti}; {nanvi}; {petso}; {picti}; {terto}; {xatsi}; {xecto}; {xexso}; {zepti}
 zgana	gismu   	-zga-		      	x_1 jundi x_2 gi'e ganse x_2 boi x_3	{jundi} .i {ganse} .i {lanli}
 zgike	gismu   	-zgi-   	-gi'e-	      	x_1 se rilti sance x_2 gi'e gunma lo tonga gi'e se stura lo pluka je saxsi'u	{rilti}; {sance}; {gunma}; {tonga}; {stura}; {pluka}; {saxsi'u}
-zifre	gismu   	-zif-   	-zi'e-	      	no da rinju x_1 x_2 .i x_1 na bilga lo ka na zukte ja ckaji x_2	{rinju}; {bilga}; {curmi}; {kakne}
+zifre	gismu   	-zif-   	-zi'e-	      	no da se rinju x_1 x_2 .i x_1 na bilga lo ka na zukte ja ckaji x_2	{rinju}; {bilga}; {curmi}; {kakne}
 zirpu	gismu   	-zir-   	-zi'u-	      	x_1 skari lo mixre be lo blanu jo'u lo xunre	{skari}; {blanu}; {xunre}
 zmadu	gismu   	-zma-   	-mau-	      	lo se me'au x_3 be x_1 lo se me'au x_3 be x_2 cu dubmau gi'e sumji x_4	srana fa zo {dubmau} .e zo {mleca} .e zo {dunli} .e zo {frica}
 zmiku	gismu   	-zmi-		      	x_1 sefsi lo ka ce'u sazri ce'u x_2	{sazri}; {sefsi}; {sazyse'i}

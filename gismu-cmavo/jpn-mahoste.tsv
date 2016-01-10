@@ -2,6 +2,7 @@ a	cmavo			   	A      	sumti 論理和（OR）／～や～ ： 接続詞（論理
 a'a	cmavo			   	UI1      	謹聴／注目 （a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）	心態詞； 丁寧に扱う／対応する気持； 警戒を表す a'e や用心を表す o'i と異なる「.a'a do .io na citka lo rectu／肉は召し上がらないのですね」「.a'a .i ko di'a co'e .i ba ku ma fasnu／なるほど、それで、その後どうなったの？」 ・読み方： アハ  ・関連語： {jundi}, {re'i}
 a'acu'i	cmavo-compound			   	UI*1      	無頓着／無愛想 （ a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）	心態詞； 懇ろさを欠いた気持； 気に留めない情況「zo'e .a'acu'i pu ca'o klama／誰だか気に留めなかったが、来ていた人はいた」「.a'a cu'i ko denpa lo nu mi mulgau ti／ちょっとこれ終わるまで待ってて」 ・読み方： アハシュヒ ・関連語： {nalju'i}, {re'i} {nai}
 a'anai	cmavo-compound			   	UI*1      	忌避 （ a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）	心態詞； 対応するの嫌う気持； 相手にしたくない気持「やってられないよ」「.a'anai za'u re'u judri srera fonxa／もう嫌だ、また間違い電話だ」「.a'a nai mi na tirna／知ーらないっと」 ・読み方： アハナイ  ・関連語： {rivbi}
+a'au	experimental cmavo			   	UI1      	感動／詠嘆 (a'au 感動 - a'aunai 無感動)	それについて深く感動する気持ち（悲嘆なども含む）。単純な感情では説明できない複雑な感動を表現する。
 abu	bu-letteral			   	BY*      	a ： 字詞	「.abu lerfu／a は文字だ」 ・読み方： アブ
 a'e	cmavo			   	UI1      	警戒／注意 （ a'e 警戒／注意 - a'enai 消耗）	心態詞； 物事にたいして警戒する／感覚を鋭敏にする気持「.a'e ba vlile tcima／嵐の恐れがある」「.a'e le cabdei ba xamgu djedi／今日はいい日になりそうだ」 ・読み方： アヘ  ・関連語： {sanji}, {cikna}
 a'enai	cmavo-compound			   	UI*1      	消耗 （ a'e 警戒／注意 - a'enai 消耗）	心態詞； 物事に対して感覚が鈍る／疲労した気持ち「.a'enai do ranji bacru／きみの長話にはうんざりだ」「.a'e nai mi klama lo ckana／ふぅ、やれやれ、寝るか」 ・読み方： アヘナイ  ・関連語： {tatpi}
@@ -60,7 +61,7 @@ bu'onai	cmavo-compound			   	UI*7      	もう感じず （ bu'o 感じ始め - 
 bu'u	cmavo			   	FAhA3      	~（場所）にて ： 間制詞（空間・方向）； 同所性を現す； 時間における ca に相当	・読み方： ブフ
 by	cmavo			   	BY2      	b ： 字詞；	・読み方： ブァ
 ca	cmavo			   	PU      	現在 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] と同時／現在の時点で [selbri] が起こっているを表す； 必ずしも発話そのもの現在時点とは限らない（それは nau で表す）； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）	・読み方： シャ
-ca'a	cmavo   	-caz-		   	CAhA      	実際に ： 相制詞（モダリティ）；	・大意： 実際に ・読み方： ・関連語： {cabna}, {ca}
+ca'a	cmavo   	-caz-		   	CAhA      	実際に ： 間制詞（モダリティ）；	・大意： 実際に ・読み方： ・関連語： {cabna}, {ca}
 ca'e	cmavo			   	UI2      	定義	心態詞（認識系）； それがどうであるかを定義しようとしている認識態度「ca'e le mi tubnu cu na'ebo marna tubnu／俺のパイプはマリファナじゃねえ、俺がそう言うんだから間違いねえ」「ca'e le re do cu simxu speni／ここに二人を夫婦とする」 ・読み方： シャヘ  ・関連語： {mitcu'a}, {mitsmu}
 cai	cmavo			   	CAI      	烈	心態詞； 心情や態度の強烈性を表す 「.uucai blabi kerfa filcni／あはれむべきかな、白髪のセンチメンタリスト！」（山頭火『行乞記（二）』）
 ca'i	cmavo			   	BAI      	~の権限で ： catni 法制詞, x_1	・読み方： シャヒ
@@ -315,7 +316,7 @@ ju'u	cmavo			   	VUhU2      	進数（数字列 a, 底を b として） ： 数
 jy	cmavo			   	BY2      	j ： 字詞；	・読み方： ジャ
 ka	cmavo   	-kam-		   	NU      	性質抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する性質を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される性質	「ka prami／愛（という性質）」「ka prami ce'u／愛されるという性質」「ka ce'u prami／愛するという性質」・大意： 抽象： 性質 ・読み方： カ ・語呂合わせ： 性質か ・関連語： {ckaji}
 ka'a	cmavo			   	BAI      	～が行って／来て ： klama 法制詞, x_1	・読み方： カハ
-ka'e	cmavo			   	CAhA      	できる ： 相制詞（モダリティ）； 内在的可能性；	「ka'e citka／食べれる」 ・読み方： カヘ
+ka'e	cmavo			   	CAhA      	できる、あり得る ： 間制詞（モダリティ）； 内在的可能性；	「ka'e citka／食べ得る」 ・読み方： カヘ
 kai	cmavo			   	BAI      	～が象徴して ： ckaji 法制詞, x_1	・読み方： カイ
 ka'i	cmavo			   	BAI      	～が代表して ： krati 法制詞, x_1	・読み方： カヒ
 ka'o	cmavo			   	PA5      	虚数単位（i）／-1の平方根 ： 数量詞；	・読み方： カホ
@@ -362,7 +363,7 @@ lai	cmavo			   	LA      	名付けられた群 ： 冠詞（渾名系）； selb
 la'i	cmavo			   	LA      	名付けられた集合 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；	「la'i .tanakan.／田中さん（という名前の人）達」 ・読み方： ルァヒ
 la'o	cmavo			   	ZOI      	未ロジバン化名 ： 冠詞； ロジバン化されていない名称を冠する； 名称の範囲は何らかの境界子で示されている必要がある；	「zoi」は他言語全般のための境界子。特に日本語であることを示すなら「ponjo」から「py」、英語なら「glico」から「gy」、インターネットなら「net」、YouTube なら「utub」等。「la'o zoi 笑っていいとも zoi」 ・読み方： ルァホ
 lau	cmavo			   	LAU      	句読点標識 ： 「... bu」の左に付いてそれが句読点であることを表す	・読み方： ルァウ
-la'u	cmavo			   	BAI      	～（数量）度で ： klani 法制詞, x_1 ；	「la'u li 90 mrobi'o／90歳で亡くなる」「la'u li 3 korkla／３マス進む」 ・読み方： ルァフ
+la'u	cmavo			   	BAI      	～を量として： klani 法制詞, x_1 ；	「la'u lo 90 nanca cu mrobi'o／90歳で亡くなる」「la'u lo 3 mei cu korkla／３マス進む」 ・読み方： ルァフ
 le	cmavo			   	LE      	形容されたもの ： 冠詞（主観系）； selbri を冠する； 指示対象は必ずしもその selbri に真に当てはまるとは限らない；	「le ninmu cu nanmu／あの女（とされている者）は男だ」 ・読み方： ルェ
 le'a	cmavo			   	BAI      	～をカテゴリーとして ： klesi 法制詞, x_1；	「zgipre le'a lo cnino／新しいジャンルの音楽アーティスト」 ・読み方： ルェハ
 le'ai	experimental cmavo			   	LEhAI      	境界詞； 誤り訂正引用構造の末端を示す。	{lo'ai} ... {sa'ai} ... le'ai の置換構造を使うことで、聴き手に {lo'ai}の後の語句を{sa'ai} の後の語句で置き換えるよう要請することができる。{sa'ai} ... {lo'ai} ... le'ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le'ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le'ai の構造にSAI類をつけることも可能である： le'ai {dai} （= le'ai {da'oi} ko'a）は他の誰かが誤ったということを示す。また、 le'ai {pei} は、他の誰かが誤ったかどうかを尋ねる。そして、{sai}, {ru'e}, {cu'i} はその誤りの訂正の重要性を示す。さらに、le'ai {nai} はその訂正を認めずに、誤りを明確に否定するのに使われる。　・関連語：{lo'ai}, {sa'ai}
@@ -451,6 +452,7 @@ nau	cmavo			   	CUhE      	照合点 ： 間制詞； 話者自身に関して�
 na'u	cmavo			   	NAhU      	selbri → 演算子 ： selbri をMEX（数式）演算子に変換する； cmavo として用意されていない演算子を捻出するのに用いる	・読み方： ナフ
 ne	cmavo			   	GOI      	関連 sumti （非制限） ： 関係詞（非制限）； 左の sumti に別の（非同一、しかし関連する） sumti を結びつける	・読み方： ネ
 ne'a	cmavo			   	FAhA3      	～の近隣に ： 間制詞（空間・方向）；	・読み方： ネハ
+ne'e	experimental cmavo			   	CAI      	対義 	対義語をつくる。 {to'e} と意味が同じの selma'o CAI 。
 nei	cmavo			   	GOhA      	この bridi ： 代詞（bridi）； 現在の発話における bridi を再利用する	・読み方： ネイ
 ne'i	cmavo			   	FAhA3      	～の中に／内側で ： 間制詞（空間・方向）；	・読み方： ネヒ
 ne'o	cmavo			   	VUhU3      	階乗 ： 数理演算子（単一項）； [a!]	・読み方： ネホ
@@ -472,7 +474,7 @@ nu'e	cmavo			   	COI      	約束 ：心態詞（呼応系）；	「nu'e do'u mi
 nu'ecu'i	cmavo-compound			   	COI*      	約束解除 ：心態詞（呼応系）；	・読み方： ヌヘシュヒ
 nu'enai	cmavo-compound			   	COI*      	非約束 ：心態詞（呼応系）；	・読み方： ヌヘナイ
 nu'i	cmavo			   	NUhI      	名辞グループ開始（前置型） ： 同じ述辞のPS上に複数の名辞（項辞や付辞）を並べる際、その名辞のグループの始まりを示す； グループの終わりは nu'u で示す	「klama nu'i ge lo zarci (x_2) lo briju (x_3) nu'u gi lo zdani (x_2) lo ckule (x_3) [nu'u]／店(x_2)から会社(x_3)に行き、家(x_2)から学校(x_3)に行く」 ・読み方： ヌヒ ・関連語： {ce'e}; {nu'u}
-nu'o	cmavo   	-nu'o-		   	CAhA      	可能だが未了 ： 相制詞（モダリティ）； 潜在的に可能だが未だ実現していない	「nu'o klama／行き損ねる」 ・大意： 可能だが未実現 ・読み方： ヌホ ・関連語： {kakne}
+nu'o	cmavo   	-nu'o-		   	CAhA      	可能だが未実現 ： 間制詞（モダリティ）； 潜在的に可能だが未だ実現していない	「nu'o klama／行き損ねる」 ・大意： 可能だが未実現 ・読み方： ヌホ ・関連語： {kakne}
 nu'u	cmavo			   	NUhU      	名辞グループ終了（前置型） ： 境界詞； NUhI で開かれた名辞グループの範囲を閉じる	・読み方： ヌフ
 ny	cmavo			   	BY2      	n ： 字詞；	・読み方： ヌァ
 o	cmavo			   	A      	sumti 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・sumti）； 前部と後部は共に真あるいは共に偽	・読み方： オ
@@ -527,7 +529,7 @@ po'u	cmavo			   	GOI      	同一 sumti ： 関係詞（制限）； 左の sumt
 pu	cmavo			   	PU      	過去 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] よりも以前の時点で [selbri] が起こったことを表す； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）； 他の制詞と組み合わせられる	・読み方： プ
 pu'a	cmavo			   	BAI      	～を楽しんで／～がおもしろくて ： pluka 法制詞, x_1	・読み方： プハ
 pu'e	cmavo			   	BAI      	～を過程／プロセスとして ： pruce 法制詞, x_1	・読み方： プヘ
-pu'i	cmavo   	-pus-		   	CAhA      	可能かつ完了 ： 相制詞（モダリティ）； 実現された可能性を表す	・大意： 可能かつ実現 ・読み方： プヒ ・関連語： {kakne}
+pu'i	cmavo   	-pus-		   	CAhA      	可能かつ実現 ： 間制詞（モダリティ）； 可能性が実現されたことを表す	・大意： 可能かつ実現 ・読み方： プヒ ・関連語： {kakne}
 pu'o	cmavo			   	ZAhO      	将前 ： 相制詞； 物事が起こるすぐ以前の段階にあるのを表す	・読み方： プホ
 pu'u	cmavo   	-puv-		   	NU1      	過程抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する過程を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される過程、 x_2 （段階）の	・大意： 抽象： 過程 ・読み方： プフ  ・関連語： {pruce}
 py	cmavo			   	BY2      	p ： 字詞；	・読み方： プァ
@@ -553,7 +555,7 @@ rei	cmavo			   	PA2      	16進法E/10進法14 ： 数量詞；	・読み方： 
 re'i	cmavo			   	COI      	受信待機 ：心態詞（呼応系）； 相手の発言を受け取る準備が出来ていることを伝える	・読み方： レヒ
 re'inai	cmavo-compound			   	COI*      	：心態詞（呼応系）；	「re'inai／ちょっとまって」 ・読み方： レヒナイ
 re'o	cmavo			   	FAhA3      	～と隣接／接触して ： 間制詞（空間・方向）；	・読み方： レホ
-re'u	cmavo			   	ROI      	序数テンス ： 左の数量詞を序数にする	「lo ci re'u nuntoi／３度目の挑戦」「za'u re'u tcidu／もう１度読む」「pu cadzu .i cadzu gi'e cadzu .i ro re'u bo ti se klama ba'o／歩いた、歩いて、歩いて、とう／＼こゝまで来た」（山頭火『行乞記（二）』） ・読み方： レフ
+re'u	cmavo			   	ROI      	序数テンス ： 数量詞の後に付いて序数を表す相制詞となる	「lo ci re'u nuntoi／３度目の挑戦」「za'u re'u tcidu／もう１度読む」「pu cadzu .i cadzu gi'e cadzu .i ro re'u bo ti se klama ba'o／歩いた、歩いて、歩いて、とう／＼こゝまで来た」（山頭火『行乞記（二）』） ・読み方： レフ
 ri	cmavo			   	KOhA5      	いましがたの sumti ： 代詞（sumti）； 直前の sumti を指す	・読み方： リ
 ri'a	cmavo			   	BAI      	～を原因として／～によって ： rinka 法制詞, x_1	「ri'a lo kamgla cu febvi／熱によって沸騰する」「ri'a zo'e tolmo'i／何かのはずみで忘れる」 ・読み方： リハ
 ri'e	cmavo			   	UI5      	心態解放 （ ri'e 心態解放 - ri'enai 心態抑制）	心態詞（修飾系）； 自らの心情や態度を隠さない／抑えない ・読み方： リヘ  ・関連語： {cniri'u}, {cnicru}
@@ -567,7 +569,7 @@ ro'a	cmavo			   	UI4      	社交 （ ro'a 社交 - ro'anai 反社会的）	心�
 ro'anai	cmavo-compound			   	UI*4      	反社会的 （ ro'a 社交 - ro'anai 反社会的）	心態詞（修飾系・カテゴリ）； ・読み方： ロハナイ
 ro'e	cmavo			   	UI4      	知的／精神的 （ ro'e 知的／精神的 - ro'enai 非精神的）	心態詞（修飾系・カテゴリ）； ・読み方： ロヘ  ・関連語： {menli}
 ro'enai	cmavo-compound			   	UI*4      	非精神的 （ ro'e 知的／精神的 - ro'enai 非精神的）	心態詞（修飾系・カテゴリ）； ・読み方： ロヘナイ
-roi	cmavo   	-rom-   	-roi-	   	ROI      	回テンス ： 左の数量詞について頻度回数を表す	頻度テンス。「～回にわたって」。数量詞の右に付く。「ci roi citka／3回食べる」「re roi klama／２回行ったことがある」 ・大意： テンス： 頻度 ・読み方： ロイ ・関連語： {rapli}
+roi	cmavo   	-rom-   	-roi-	   	ROI      	回テンス ：  数量詞の後に付いて頻度回数を表す相制詞となる	頻度テンス。「～回にわたって」。数量詞の右に付く。「ci roi citka／3回食べる」「re roi klama／２回行ったことがある」 ・大意： テンス： 頻度 ・読み方： ロイ ・関連語： {rapli}
 ro'i	cmavo			   	UI4      	感情 （ ro'i 感情 - ro'inai 無情）	心態詞（修飾系・カテゴリ）； ・読み方： ロヒ  ・関連語： {cinmo}
 ro'inai	cmavo-compound			   	UI*4      	無情 （ ro'i 感情 - ro'inai 無情）	心態詞（修飾系・カテゴリ）； ・読み方： ロヒナイ
 ro'o	cmavo			   	UI4      	身体的 （ ro'o 身体的 - ro'onai 非身体的）	心態詞（修飾系・カテゴリ）； ・読み方： ロホ  ・関連語： {xadni}
@@ -633,7 +635,7 @@ seki'i	cmavo-compound			   	BAI*      	～と同類で ： ckini 法制詞, x_2	
 seki'u	cmavo-compound			   	BAI*      	～を（理由によって）起こして ： krinu 法制詞, x_2	・読み方： セキフ
 sekoi	cmavo-compound			   	BAI*      	～を境界内に／～の境界として ： korbi 法制詞, x_2	・読み方： セコイ
 seku'u	cmavo-compound			   	BAI*      	～の文化として ： kulnu 法制詞, x_2	・読み方： セクフ
-sela'u	cmavo-compound			   	BAI*      	～を数量単位として ： klani 法制詞, x_2	・読み方： セルァフ
+sela'u	cmavo-compound			   	BAI*      	～（数）を測定値として ： klani 法制詞, x_2	・読み方： セルァフ
 sele'a	cmavo-compound			   	BAI*      	～のカテゴリーとして ： klesi 法制詞, x_2	・読み方： セルェハ
 seli'e	cmavo-compound			   	BAI*      	～を引率して／～の先となって ： lidne 法制詞, x_2	・読み方： セルィヘ
 sema'e	cmavo-compound			   	BAI*      	～を材質として／～でできて ： marji 法制詞, x_2	・読み方： セマヘ
@@ -728,7 +730,7 @@ teka'a	cmavo-compound			   	BAI*      	～を出発地として／～発で／�
 teka'i	cmavo-compound			   	BAI*      	～（役割）に関して代表して ： krati 法制詞, x_2	・読み方： テカヒ
 teki'i	cmavo-compound			   	BAI*      	～を同類関係として ： ckini 法制詞, x_3	・読み方： テキヒ
 tekoi	cmavo-compound			   	BAI*      	～への境界として／～が向こう側で ： korbi 法制詞, x_3	・読み方： テコイ
-tela'u	cmavo-compound			   	BAI*      	～を（度量の）単位として ： klani 法制詞, x_3	・読み方： テルァフ
+tela'u	cmavo-compound			   	BAI*      	～（概念）を測定の尺度として ： klani 法制詞, x_3	「長さ」「強さ」など、測定単位を決めるための概念。 ・読み方： テルァフ
 tele'a	cmavo-compound			   	BAI*      	～をカテゴリー特性として ： klesi 法制詞, x_3	・読み方： テルェハ
 teli'e	cmavo-compound			   	BAI*      	～を前後関係の順序として ： lidne 法制詞, x_3	・読み方： テルィヘ
 tema'e	cmavo-compound			   	BAI*      	～を（物質の）形状として ： marji 法制詞, x_3	・読み方： テマヘ
@@ -866,6 +868,7 @@ xi	cmavo			   	XI      	添字造成 ： 数量詞の左に付いてそれを添
 xo	cmavo			   	PA5      	数量質問 ： 数量詞； PAの代わりに置いて返答を喚起する；	「xo prenu ti zvati／ここには幾つの人がいるの？」 ・読み方： クォ
 xo'e	experimental cmavo			   	PA5      	不特定の数：数量詞；	「ある数」。 no'o と違い、典型的な数であるとは限らない。 試験的 cmavo。 ・読み方： クォヘ ・関連語： {no'o}, {zo'e}; {tu'o}, {xo}, {co'e}, {do'e}
 xo'i	experimental cmavo			   	XOhI      	タグからセルブリを抜き出す； fi'o の逆；	「xo'i bau」 = 「bangu」。一般に、「xo'i fi'o broda」 = 「broda」
+xo'u	experimental cmavo			   	ZAhO      	相制詞； mo'u の反対； 自然な開始点	試験的 cmavo。 ・読み方： クォフ ・関連：{xa'o}, {mo'u}
 xu	cmavo			   	UI6      	真偽質問	心態詞（談話系）； 対象が真か偽かを尋ねる気持； 「ti se citka do xu／これを食べたのは君か？」「ti se citka xu do／君はこれを食べたのか？」 ・読み方： クゥ
 xy	cmavo			   	BY2      	x ： 字詞；	・読み方： クァ
 y	cmavo			   	Y      	躊躇 ： 言葉のつっかえを表す； どこにでも挿入できる	「ええっと・・・」 ・読み方： ァ
