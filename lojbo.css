@@ -4,12 +4,21 @@
       background-color: #203E6C;
       font-family: monospace;
       color: #ffffff;
-      line-height: 150%;
+      line-height: 200%;
     }
     #container {
       margin: 0 auto;
       width: 700px;
     }
+    .letter {
+      font-family: sans;
+    }
+    .emph {
+      font-weight: bold; font-style: italic;
+    }
+.ellipsis {
+  text-overflow: ellipsis;
+}
     h1 { font-size: 3.8em; margin-bottom: 3px; margin-bottom: 30px; line-height: 150%; }
     .m { font-size: 1.7em; line-height: 150%;}
     .small { font-size: 0.4em; line-height: 150%;}
@@ -19,12 +28,12 @@
     h4 { text-align: left; margin-left: 15px; line-height: 150%; }
     h5 { text-align: left; margin-left: 20px; line-height: 150%; }
     h6 { text-align: left; margin-left: 25px; line-height: 150%; }
-    a { color: #f4cbbc; text-decoration: none; }
+    a { color: #f4cbbc; font-weight: bold; text-decoration: none; }
     a:hover { color: #f4cbbc; text-decoration: underline; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
     .download { float: right; }
     .text { margin-left: 20px }
     pre { background: #000; color: #fff; padding: 15px;}
     hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
-    .footer { text-align:center; padding-top:30px; font-style: italic; }
+    .footer { text-align:center; padding-top:30px; font-family: serif; font-style: italic; }
     summary:hover { color: #f4bfae; text-decoration: underline; }
