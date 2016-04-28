@@ -1,0 +1,370 @@
+diff -Naur a/stardict-tools-3.0.1/configure b/stardict-tools-3.0.1/configure
+--- a/stardict-tools-3.0.1/configure	2007-11-07 08:42:52.000000000 +0100
++++ b/stardict-tools-3.0.1/configure	2016-04-28 10:11:37.000000000 +0200
+@@ -6400,7 +6400,7 @@
+ EOF
+ 	  # Now try linking the two files.
+ 	  mv conftest.$ac_objext conftstm.$ac_objext
+-	  lt_save_LIBS="$LIBS"
++	  lt_save_LIBS="$LIBS -lz"
+ 	  lt_save_CFLAGS="$CFLAGS"
+ 	  LIBS="conftstm.$ac_objext"
+ 	  CFLAGS="$CFLAGS$lt_prog_compiler_no_builtin_flag"
+@@ -9285,7 +9285,7 @@
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldl  $LIBS"
++LIBS="-ldl -lz -liconv $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9443,7 +9443,7 @@
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldld  $LIBS"
++LIBS="-ldld -lz -liconv $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9591,7 +9591,7 @@
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldl  $LIBS"
++LIBS="-ldl -lz -liconv $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9655,7 +9655,7 @@
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-lsvld  $LIBS"
++LIBS="-lsvld -lz -liconv $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9719,7 +9719,7 @@
+   echo $ECHO_N "(cached) $ECHO_C" >&6
+ else
+   ac_check_lib_save_LIBS=$LIBS
+-LIBS="-ldld  $LIBS"
++LIBS="-ldld -lz -liconv $LIBS"
+ cat >conftest.$ac_ext <<_ACEOF
+ /* confdefs.h.  */
+ _ACEOF
+@@ -9810,8 +9810,8 @@
+     save_LDFLAGS="$LDFLAGS"
+     wl=$lt_prog_compiler_wl eval LDFLAGS=\"\$LDFLAGS $export_dynamic_flag_spec\"
+ 
+-    save_LIBS="$LIBS"
+-    LIBS="$lt_cv_dlopen_libs $LIBS"
++    save_LIBS="-lz -liconv $LIBS"
++    LIBS="$lt_cv_dlopen_libs $LIBS -lz -liconv"
+ 
+     { echo "$as_me:$LINENO: checking whether a program can dlopen itself" >&5
+ echo $ECHO_N "checking whether a program can dlopen itself... $ECHO_C" >&6; }
+diff -Naur a/stardict-tools-3.0.1/src/21shiji.cpp b/stardict-tools-3.0.1/src/21shiji.cpp
+--- a/stardict-tools-3.0.1/src/21shiji.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/21shiji.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/KangXi.cpp b/stardict-tools-3.0.1/src/KangXi.cpp
+--- a/stardict-tools-3.0.1/src/KangXi.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/KangXi.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+@@ -46,7 +47,7 @@
+ 
+ std::map<int, std::list<std::string> > char_page_map;
+ 
+-void parse_line(const char *line)
++void parse_line(char *line)
+ {
+ 	if (!g_str_has_prefix(line, "U+")) {
+ 		g_print("Error: %s\n", line);
+diff -Naur a/stardict-tools-3.0.1/src/Unihan.cpp b/stardict-tools-3.0.1/src/Unihan.cpp
+--- a/stardict-tools-3.0.1/src/Unihan.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/Unihan.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+@@ -46,7 +47,7 @@
+ 
+ std::map<std::string, std::list<std::pair<std::string, std::string> > > unihan_map;
+ 
+-void parse_line(const char *line)
++void parse_line(char *line)
+ {
+ 	if (line[0] == '#')
+ 		return;
+@@ -55,7 +56,7 @@
+ 		g_print("Error: %s\n", line);
+ 		return;
+ 	}
+-	const char *han = line+2;
++	char *han = line+2;
+ 
+ 	char *p;
+ 	p = strchr(han, '\t');
+@@ -65,7 +66,7 @@
+ 	}
+ 	*p = '\0';
+ 	p++;
+-	const char *key = p;
++	char *key = p;
+ 
+ 	p = strchr(key, '\t');
+ 	if (!p) {
+diff -Naur a/stardict-tools-3.0.1/src/bgl_babylon.h b/stardict-tools-3.0.1/src/bgl_babylon.h
+--- a/stardict-tools-3.0.1/src/bgl_babylon.h	2007-08-16 09:52:38.000000000 +0200
++++ b/stardict-tools-3.0.1/src/bgl_babylon.h	2016-04-28 10:11:37.000000000 +0200
+@@ -194,3 +194,4 @@
+ };
+ 
+ #endif // BABYLON_H
++#include <cstring>
+diff -Naur a/stardict-tools-3.0.1/src/bgl_babylonreader.h b/stardict-tools-3.0.1/src/bgl_babylonreader.h
+--- a/stardict-tools-3.0.1/src/bgl_babylonreader.h	2007-07-11 08:56:12.000000000 +0200
++++ b/stardict-tools-3.0.1/src/bgl_babylonreader.h	2016-04-28 10:11:37.000000000 +0200
+@@ -46,3 +46,4 @@
+ };
+ 
+ #endif // BABYLONREADER_H
++#include <cstring>
+diff -Naur a/stardict-tools-3.0.1/src/bgl_dictbuilder.h b/stardict-tools-3.0.1/src/bgl_dictbuilder.h
+--- a/stardict-tools-3.0.1/src/bgl_dictbuilder.h	2007-07-10 09:24:22.000000000 +0200
++++ b/stardict-tools-3.0.1/src/bgl_dictbuilder.h	2016-04-28 10:11:37.000000000 +0200
+@@ -70,3 +70,4 @@
+ };
+ 
+ #endif // DICTBUILDER_H
++#include <cstring>
+diff -Naur a/stardict-tools-3.0.1/src/bgl_dictreader.h b/stardict-tools-3.0.1/src/bgl_dictreader.h
+--- a/stardict-tools-3.0.1/src/bgl_dictreader.h	2007-07-11 09:00:44.000000000 +0200
++++ b/stardict-tools-3.0.1/src/bgl_dictreader.h	2016-04-28 10:11:37.000000000 +0200
+@@ -40,3 +40,4 @@
+ };
+ 
+ #endif // DICTREADER_H
++#include <cstring>
+diff -Naur a/stardict-tools-3.0.1/src/degb2utf.cpp b/stardict-tools-3.0.1/src/degb2utf.cpp
+--- a/stardict-tools-3.0.1/src/degb2utf.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/degb2utf.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // Some Germany-Chinese dictionary data files are encoded both in Germany and Chinese, that is, Windows-1252 and GBK, this program try to convert these data files to UTF-8 format.
+ 
+ #include "stdio.h"
+diff -Naur a/stardict-tools-3.0.1/src/dictbuilder-tree.h b/stardict-tools-3.0.1/src/dictbuilder-tree.h
+--- a/stardict-tools-3.0.1/src/dictbuilder-tree.h	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/dictbuilder-tree.h	2016-04-28 10:11:37.000000000 +0200
+@@ -431,3 +431,4 @@
+ };
+ 
+ #endif //__TREE_H__
++#include <cstring>
+diff -Naur a/stardict-tools-3.0.1/src/dictbuilder.cpp b/stardict-tools-3.0.1/src/dictbuilder.cpp
+--- a/stardict-tools-3.0.1/src/dictbuilder.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/dictbuilder.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <algorithm>
+ #include <fstream>
+ #include <iostream>
+diff -Naur a/stardict-tools-3.0.1/src/directory2treedic.cpp b/stardict-tools-3.0.1/src/directory2treedic.cpp
+--- a/stardict-tools-3.0.1/src/directory2treedic.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/directory2treedic.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // notice: here is a example_treedict.tar.bz2
+ // try "./directory2treedic example_treedict"
+ 
+diff -Naur a/stardict-tools-3.0.1/src/downloadwiki.cpp b/stardict-tools-3.0.1/src/downloadwiki.cpp
+--- a/stardict-tools-3.0.1/src/downloadwiki.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/downloadwiki.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/dsl2dict.c b/stardict-tools-3.0.1/src/dsl2dict.c
+--- a/stardict-tools-3.0.1/src/dsl2dict.c	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/dsl2dict.c	2016-04-28 10:12:25.000000000 +0200
+@@ -562,9 +562,7 @@
+     for (j=0, node=firstnode; node; firstnode=node, node=node->next_node, free(firstnode)) {
+         for (i = 0; (i < IDX_NODE_SIZE) && (node->idx_items[i].word); i++, j++) {
+             arr_idxitemsptr[j] = idxitemsptr;
+-            idxitemsptr =
+-                (struct worditem *)mempcpy(
+-                    (void *)idxitemsptr,
++            memcpy( (void *)idxitemsptr,
+                     (void *)&(node->idx_items[i]),
+                     sizeof(struct worditem));
+         }
+diff -Naur a/stardict-tools-3.0.1/src/duden.cpp b/stardict-tools-3.0.1/src/duden.cpp
+--- a/stardict-tools-3.0.1/src/duden.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/duden.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/ec50.cpp b/stardict-tools-3.0.1/src/ec50.cpp
+--- a/stardict-tools-3.0.1/src/ec50.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/ec50.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ //file format crack by Luo XiaoHui <tipyluo@hotmail.com>, this program is written by Hu Zheng <huzheng_001@163.com>
+ //you can mail us for the demo program which have more comment.
+ 
+diff -Naur a/stardict-tools-3.0.1/src/frgb2utf.cpp b/stardict-tools-3.0.1/src/frgb2utf.cpp
+--- a/stardict-tools-3.0.1/src/frgb2utf.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/frgb2utf.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // WoAiFaYu dictionary's data files are encoded both in French and Chinese, the French encoding sees to to created by himself, this program try to convert these data files to UTF-8 format.
+ 
+ #include "stdio.h"
+diff -Naur a/stardict-tools-3.0.1/src/gmx2utf.cpp b/stardict-tools-3.0.1/src/gmx2utf.cpp
+--- a/stardict-tools-3.0.1/src/gmx2utf.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/gmx2utf.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/kanjidic2.cpp b/stardict-tools-3.0.1/src/kanjidic2.cpp
+--- a/stardict-tools-3.0.1/src/kanjidic2.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/kanjidic2.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/kingsoft.cpp b/stardict-tools-3.0.1/src/kingsoft.cpp
+--- a/stardict-tools-3.0.1/src/kingsoft.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/kingsoft.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/libbabylonfile.cpp b/stardict-tools-3.0.1/src/libbabylonfile.cpp
+--- a/stardict-tools-3.0.1/src/libbabylonfile.cpp	2007-09-10 09:19:18.000000000 +0200
++++ b/stardict-tools-3.0.1/src/libbabylonfile.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff -Naur a/stardict-tools-3.0.1/src/libbgl2txt.h b/stardict-tools-3.0.1/src/libbgl2txt.h
+--- a/stardict-tools-3.0.1/src/libbgl2txt.h	2007-08-01 05:00:35.000000000 +0200
++++ b/stardict-tools-3.0.1/src/libbgl2txt.h	2016-04-28 10:11:37.000000000 +0200
+@@ -6,3 +6,5 @@
+ extern void convert_bglfile(std::string infile, std::string source_charset, std::string target_charset);
+ 
+ #endif
++#include <cstring>
++#include <cstdio>
+diff -Naur a/stardict-tools-3.0.1/src/libstardict2txt.cpp b/stardict-tools-3.0.1/src/libstardict2txt.cpp
+--- a/stardict-tools-3.0.1/src/libstardict2txt.cpp	2007-07-26 07:03:54.000000000 +0200
++++ b/stardict-tools-3.0.1/src/libstardict2txt.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff -Naur a/stardict-tools-3.0.1/src/libstardictverify.cpp b/stardict-tools-3.0.1/src/libstardictverify.cpp
+--- a/stardict-tools-3.0.1/src/libstardictverify.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/libstardictverify.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <string.h>
+ #include <stdlib.h>
+ #include <glib/gstdio.h>
+diff -Naur a/stardict-tools-3.0.1/src/mova.cpp b/stardict-tools-3.0.1/src/mova.cpp
+--- a/stardict-tools-3.0.1/src/mova.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/mova.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ // MOVA - a dictionary interface. (set of scripts in bash for console andin TCL/Tk for GUI). 
+ // Format of MOVA dictionaries is very simple -"WORD<SPACE><SPACE>Description<ENTER>".
+ 
+diff -Naur a/stardict-tools-3.0.1/src/oxford2dic.cpp b/stardict-tools-3.0.1/src/oxford2dic.cpp
+--- a/stardict-tools-3.0.1/src/oxford2dic.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/oxford2dic.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ //oxford.txt is come from http://igloo.its.unimelb.edu.au/Blowfish/
+ //but we have fixed some GB2312->UTF-8 problem and some other small fix.if you need this file, mail to huzheng_001@163.com
+ 
+diff -Naur a/stardict-tools-3.0.1/src/tabfile2sql.cpp b/stardict-tools-3.0.1/src/tabfile2sql.cpp
+--- a/stardict-tools-3.0.1/src/tabfile2sql.cpp	2007-08-15 07:56:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/tabfile2sql.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,5 @@
++#include <cstring>
++#include <cstring>
+ #include <stdlib.h>
+ #include <stdio.h>
+ #include <sys/types.h>
+diff -Naur a/stardict-tools-3.0.1/src/treedict2dir.cpp b/stardict-tools-3.0.1/src/treedict2dir.cpp
+--- a/stardict-tools-3.0.1/src/treedict2dir.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/treedict2dir.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include "stdio.h"
+ #include "stdlib.h"
+ #include <string.h>
+diff -Naur a/stardict-tools-3.0.1/src/wikipedia.cpp b/stardict-tools-3.0.1/src/wikipedia.cpp
+--- a/stardict-tools-3.0.1/src/wikipedia.cpp	2007-07-13 11:19:44.000000000 +0200
++++ b/stardict-tools-3.0.1/src/wikipedia.cpp	2016-04-28 11:26:47.000000000 +0200
+@@ -101,7 +101,7 @@
+                 return;
+         }
+ 	int mmap_fd;
+-	if ((mmap_fd = open(filename, O_RDONLY | O_LARGEFILE)) < 0) {
++	if ((mmap_fd = open(filename, O_RDONLY)) < 0) {
+ 		printf("open file failed!\n");
+ 		return;
+ 	}
+diff -Naur a/stardict-tools-3.0.1/src/wordnet.cpp b/stardict-tools-3.0.1/src/wordnet.cpp
+--- a/stardict-tools-3.0.1/src/wordnet.cpp	2007-09-10 09:49:15.000000000 +0200
++++ b/stardict-tools-3.0.1/src/wordnet.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <glib.h>
+diff -Naur a/stardict-tools-3.0.1/src/wubi.cpp b/stardict-tools-3.0.1/src/wubi.cpp
+--- a/stardict-tools-3.0.1/src/wubi.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/wubi.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -5,8 +5,9 @@
+ #include <unistd.h>
+ #include <glib.h>
+ #include <string>
++#include <cstring>
+ 
+-void convert(const char *filename)
++void convert(char *filename)
+ {
+ 	struct stat stats;
+ 	if (stat (filename, &stats) == -1) {
+diff -Naur a/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp b/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp
+--- a/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp	2007-07-10 09:16:06.000000000 +0200
++++ b/stardict-tools-3.0.1/src/xiaoxuetang-ja.cpp	2016-04-28 10:11:37.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <cstring>
+ #include <glib.h>
+ #include <gtk/gtk.h>
+ #include <stdio.h>
