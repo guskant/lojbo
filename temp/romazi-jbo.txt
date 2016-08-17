@@ -1,0 +1,1032 @@
+tyuumoku	a'a
+kintyou	a'a
+buaisou	a'acu'i
+mutontyaku	a'acu'i
+kihi	a'anai
+tyuui	a'e
+keikai	a'e
+syoumou	a'enai
+sikou	ai
+doryoku	a'i
+yoyuu	a'icu'i
+hudan	aicu'i
+mui	ainai
+kyuusoku	a'inai
+kibou	a'o
+zetubou	a'onai
+yokubou	au
+yokkyuu	au
+kyoumi	a'u
+kansin	a'u
+mukansin	a'ucu'i
+muyokukyuu	aucu'i
+teikou	aunai
+hankan	a'unai_1
+yoki	ba'a
+keiken	ba'acu'i
+kaisou	ba'anai
+banananosyurui : tane,hinsyu	badna_2
+momiage	bafcolkercrakre_1
+momiagewohayasiteirumono	bafcolkercrakre_2
+kakekko	bajyjvi
+marason	bajyjvi
+kakekurabe	bajyjvi
+tyuukyorisou	bajyjvi
+tokyousou	bajyjvi
+tankyorisou	bajyjvi
+tyoukyorisou	bajyjvi
+beranda	balni
+barukoni^	balni
+haridasi : kouzou	balni
+su^pa^ : ryouhanten	balzai
+depa^to	balzai
+ho^musenta^	balzai
+su^pa^senta^	balzai
+syoppingumo^ru	balzai
+su^pa^ma^ketto	balzai
+syoppingusenta^	balzai
+depa^tomentosutoa	balzai
+deisukauntosyoppu	balzai
+zeneraruma^tyandaizusutoa	balzai
+hyakkaten	balzai
+sougousu^pa^	balzai
+nihongo	banjupunu
+nihongo	banjupunu
+deru : sotohederu	barkla
+deteiku	barkla
+detekuru	barkla
+detekuru	barkla
+deteiku	barkla
+gaisyutu : sotohederu	barkla
+gaisyutuhouhou	barkla_4
+gaisyutukeiro	barkla_3
+gaisyutumono	barkla_1
+gaisyutukiten	barkla_2
+taisyutu : sotohederu	barkla
+saru : sotohehanareru	barli'a
+zisuru : sotohesaru	barli'a
+taisyutu : sotohesaru	barli'a
+taisitu : sotohesaru	barli'a
+taiseki : sotohesaru	barli'a
+oomugi : kokutubu	bavmi_1
+oomugi : kokutubu	bavmi
+mugiyu	bavmyckafi
+mugitya	bavmyckafi
+ginkouin	baxseljibri
+kitakaze	berbi'e
+hituyou	be'u
+ketuzyo	be'u
+ari	be'ucu'i
+zyuuitu	be'unai
+hatimitu	bicysakta_1
+tubo	botpi
+youki	botpi
+si^tu	boxfo
+si^to	boxfo
+mai	boxfo
+meidai : ronrigaku	bridi_1
+zyutugo : ronrigaku	bridi_2
+kounoretu : ronrigaku	bridi_3
+3kai : zyutugoronri	bu'ai
+koukai : zyutugoronri	bu'ai
+kanzihazime	bu'o
+madakanzite	bu'ocu'i
+moukanzizu	bu'onai
+kyou	cabdei
+douzitu	cabdei
+honzitu	cabdei
+zikan : zikantyounotan'i	cacra
+teigi	ca'e
+retu	cai
+koukan : syoyuukennotorihiki	canja
+toukiie	canja
+butubutukoukan	canja
+soubasi	canja
+bouekigyousya	canja
+sinsei	censa
+hizirinaru	censa
+bunsyouhyougen : kaitehyougensuru	ci'asku
+kaitehyougensuru	ci'asku
+bentou : syokuhin	cidjrbentou
+kakumei	ci'ernunbi'o
+benmei	ciksi
+kaisetu	ciksi
+setumei	ciksi
+komai	cinla
+usui	cinla
+penti	cinza
+yattoko	cinza
+pinsetto	cinza
+sentakubasami	cinza
+hasi	cinza
+uguisu	cipnrxororni
+tesuto	cipra
+zikken	cipra
+siken	cipra
+sisutemu	ciste_1
+taikei	ciste
+syuppan : seihon	ckupra
+seihon	ckupra
+yama	cmana_1
+heikinti	cnano_1
+hyouzyun	cnano
+doukan	cnijbi
+kyoukan	cnikansa
+burausu	creka
+uwagi	creka
+keiko : keiko	crezenzu'e
+osarai : rensyuu	crezenzu'e
+tore^ningu	crezenzu'e
+syuuren	crezenzu'e
+ensyuu	crezenzu'e
+keiko	crezenzu'e
+renma	crezenzu'e
+rensyuu	crezenzu'e
+syuuren	crezenzu'e
+kunren	crezenzu'e
+tyouren	crezenzu'e
+kitaeru : rensyuusuru	crezenzu'e
+tanren	crezenzu'e
+yousei	crida
+sinwauenokyarakuta^	crida
+tyuusei : syakudo	cu'i
+kibi : kokutubu	cunmi_1
+kibi : kokutubu	cunmi
+randamu	cunso
+musakui	cunso
+bu^tu	cutci
+tunagi : o^ba^o^ru	cutygaipalku
+saropetto	cutygaipalku
+o^ba^o^ru	cutygaipalku
+kaitou	danfu_1
+henzi	danfu
+warutu : dansu	dansrvalze
+dansu	dansu
+odoru	dansu
+hittakuru : buppin	daskyle'a
+suriwosuru : buppin	daskyle'a
+ubau : buppin	daskyle'a
+goudatusuru : buppin	daskyle'a
+nusumu : buppin	daskyle'a
+kiru : kiteiru	dasni
+deka : 10nosisuu	dekto
+zyuu : 10nosisuu	dekto
+tizyou	dergapru
+syuunen	detke'u
+syuuki	detke'u
+meiniti	detke'u
+kaiki	detke'u
+kinenbi	detke'u
+tanzyoubi	detke'u
+zyuudensuru	dicysabji
+kyuudensuru	dicysabji
+denryokukyoukyuusuru	dicysabji
+radon	dircynavni_1
+Rn : radon	dircynavni
+sinbun : nikkansi	djekarni
+nikkansi	djekarni
+hossuru	djica
+suiso : kagaku	drojbama
+suisobakudan : bakudan	drojbama
+bakudan	drojbama
+ataeru	dunda
+kyoka	e'a
+kinsi	e'anai
+syourei	e'e
+sosi	e'enai
+gimu	ei
+seiyaku	e'i
+hounin	e'inai
+yousei	e'o
+teikyou	e'onai
+teian	e'u
+houki	e'ucu'i
+keikoku	e'unai
+bouken : rikutinotanken	faktumli'u
+zittitousa : rikutinotanken	faktumli'u
+tansa : rikutinotanken	faktumli'u
+tanken : rikutinotanken	faktumli'u
+tankenie : rikutinotanken	faktumli'u
+tansaku : rikutinotanken	faktumli'u
+tanken : rikutinotanken	faktumli'u
+kenbun : rikutinotanken	faktumli'u
+tyousa : rikutinotanken	faktumli'u
+tousa : rikutinotanken	faktumli'u
+ho	falnu_1
+hansou	falnu_3
+kisenon	fangynavni_1
+Xe : kisenon	fangynavni
+kouzyou	fanri_1
+kouzyoudetukawareruzairyou	fanri_3
+kouzyoudeseizousarerumono	fanri_2
+honyakusyo	fanvycukta
+yakusyo	fanvycukta
+yakuhon	fanvycukta
+otiru	farlu
+rakka	farlu
+zissai : genzitu	fatci
+hontou : karidehanai	fatci
+genzitu	fatci_1
+gomen : yurusiwokou	fau'u
+gomennasai : yurusiwokou	fau'u
+yurusite	fau'u
+tukurareruryouri	febjukpa_2
+taku : ryouri	febjukpa
+niru : ryouri	febjukpa
+tyourinoaturyoku	febjukpa_5
+tyourinoondo	febjukpa_4
+tyouridemotiiruekitai	febjukpa_3
+youkoso	fi'i'e
+konbini	filzai
+konbiniensusutoa	filzai
+seitou : gikaiseitou	flajecyxlube'e
+gikaiseitou	flajecyxlube'e
+singi	flakamni
+gikai	flakamni_1
+gian	flakamni_2
+osinagasu	fleca'e_1
+nagasareru	fleca'e_2
+denwasuru : tuusin	fongau
+itigo	fragari_1
+yuurisuu : zissuu	frinyna'u
+kantan	fu'i
+konnan	fu'inai
+sutenresu	furjargasta_1
+sekinin	fuzme
+zyoui	ga'i
+tame	ga'icu'i
+kai	ga'inai
+toutatusarenaimono : heisaniyotte	ganlo_2
+tourenaimono : heisaniyotte	ganlo_3
+toziteirumono : tuukawosamatagerumono	ganlo_1
+heisa	ganlo
+koutetu	gasta
+sakkaku	gastcica_1
+sakkakusuru	gastcica_2
+hutokuteinokanzyou	ge'e
+hutokuteinotaido	ge'e
+syouhu : syouhu	gleve'u
+dansyou : dansyou	gleve'u
+baisyun : baisyun	gleve'u
+baisyunhu : baisyunhu	gleve'u
+baisyun	gleve'u
+baisyunhu	gleve'u
+baisyunhu.dansyou	gleve'u_1
+baisyun.baisyunnodaisyou.nedan	gleve'u_3
+syouhu	gleve'u
+dansyou	gleve'u
+baisyunmono	gleve'u_2
+eigo	glico
+kyousansyugi : seisansyudankyouyuukanosisou	gubgudytrusi'o
+kyousansyugi/syakaisyugi : seisansyudankyouyuukanosisou	gubgudytrusi'o_1
+kyousansyugi/syakaisyuginiyoritoutisareruminsyuu/ryoudo : seisansyudankyouyuukanosisouniyoritoutisareruminsyuu/ryoudo	gubgudytrusi'o_2
+kyousansyugisya/syakaisyugimono : seisansyudankyouyuukanosisouka	gubgudytrusi'o_3
+syakaisyugi : seisansyudankyouyuukanosisou	gubgudytrusi'o
+tyuugoku	gugdecunu_1
+tyuugokuzin	gugdecunu_2
+nihon : nippon	gugdejupu
+nippon : nippon	gugdejupu
+nippon : nippon	gugdejupu
+nippon	gugdejupu_1
+nihonzin	gugdejupu_2
+gan : tori	gunse
+gatyou	gunse
+gan	gunse
+gatyou	gunse
+sinnen	ia
+zyuyou	i'a
+kaigi	iacu'i
+husin	ianai
+sisseki	i'anai
+doui	ie
+sansei	ie
+kassai	i'e
+syounin	i'e
+zenin	i'e
+mitomeru	i'e
+horyuu	i'ecu'i
+husansei	ienai
+hinan	i'enai
+kyouhu	ii
+rentai	i'i
+anzen	iinai
+naimitu	i'inai
+sonkei	io
+kansyou	i'o
+keibetu	ionai
+sitto	i'onai
+konomu	iu
+aikou	iu
+kiti	i'u
+kawaii	iumle
+kawaii	iumle
+zouo	iunai
+miti	i'unai
+suzu : maruisuzu	jabyboi
+ma^ka^ : pen	jacre'ipenbi
+yuseipen	jacre'ipenbi
+tumari	ja'o
+sitagatte	ja'o
+yousuruni	ja'o
+zyousuidou : suidoukan	jaursabytu'u
+nakasuidou : suidoukan	jaursabytu'u
+suidoukan : zyousuidouyanakasuidounosuidoukan	jaursabytu'u
+kyuusuikan	jaursabytu'u
+kyuusuisetubi : kyuusuikan	jaursabytu'u
+zyaguti : suidounozyaguti	jaursabytu'uvro
+syusshou	jbena
+syusseiti : syussinti	jbena_5
+syusshouzikoku : tanzyouzikoku	jbena_4
+umare	jbena
+umaretamono	jbena_1
+seinengappi	jbena_3
+seinengappi : tanzyoubi	jbena_3
+uminooya	jbena_2
+kimeru	jdice
+kakaku	jdima
+nedan	jdima
+seizi : seitainikakawarumono	jecra'a
+seiziteki : seitainikakawarumono	jecra'a
+yakusyo	jecybriju_1
+yakusyonosyokuin	jecybriju_2
+yakusyonogyouseikuiki	jecybriju_3
+riekidantai	jecyxlube'e
+aturyokudantai	jecyxlube'e
+seizidantai	jecyxlube'e
+hontou : usodehanai	jetnu
+makoto : nisedehanai	jetnu_1
+bunrui : ziheisyounobunrui	jikmenbi'a_2
+syouzyou : ziheisyounosyouzyou	jikmenbi'a_3
+ziheisyou	jikmenbi'a
+ziheisyounomono	jikmenbi'a_1
+arukari	jilka
+enki : kagaku	jilka
+wakaru	jimpe
+rikaisuru	jimpe
+beririumu	jinmrberilo_1
+Be : genso	jinmrberilo
+kuromu	jinmrkromi
+Cr : genso	jinmrkromi
+niobu	jinmrniobi_1
+Nb : genso	jinmrniobi
+Nb : gensikigou	jinmrniobi
+Pt : gensikigou	jinmrplati
+Pt : genso	jinmrplati
+sirogane	jinmrplati_1
+titan	jinmrtitani_1
+Ti : gensokigou	jinmrtitani
+Ti : genso	jinmrtitani
+hahuniumu	jinmrxafni_1
+Hf : genso	jinmrxafni
+Hf : gensikigou	jinmrxafni
+omou	jinvi
+kangaeru	jinvi
+narezusi	jirvi'odja
+pikurusu	jirvi'odja
+tukemono	jirvi'odja
+nise : makotodehanai	jitfa_1
+uso : makotodehanai	jitfa
+kyokou : makotodehanai	jitfa
+kuwaeru	jmina_1
+tuika	jmina
+roziban.pa^sanoba^zyon	jo'au
+roziban.pa^sanohougen	jo'au
+sengen	ju'a
+teigen	ju'a
+teokukedo	ju'a
+resipi : ryouri	jukpa_3
+ryouri : ryourinokekka,dekitamono	jukpa_2
+ryourisuru	jukpa
+ryourinin	jukpa_1
+matigainaku	ju'o
+tasikani	ju'o
+kakusin	ju'o
+wakaranai	ju'ocu'i
+hukakusin	ju'ocu'i
+hukanou	ju'onai
+muti	ju'onai
+syasin	kacmyxra
+seigentaisyou : sintaisyougai,titekisyougaimatahaseisinsyougaigaarutameseigenwoukerukoto	ka'enri'u_3
+syougainoarunin	ka'enri'u
+syougaizi : syougaimono	ka'enri'u
+syougai : sintaisyougai,titekisyougaimatahaseisinsyougai	ka'enri'u_2
+syougaizi : syougaisya	ka'enri'u
+syougaisya	ka'enri'u_1
+syougainoaruhou	ka'enri'u
+syougaisya	ka'enri'u
+syougaimono	ka'enri'u
+tuukasaki : kaikoubuwotoorinuketasaki	kalri_2
+tuukamono : kaikoubuwotoorinukerumono	kalri_3
+hiraku	kalri
+hiraiteirumono	kalri_1
+tamotu : netu	kamglara'e
+hoonsuru : netu	kamglara'e
+hoatusuru : netu	kamglara'e
+bunkatekitisiki	ka'u
+ke^ki : yakikasi	kenka_1
+ke^kinotukurikata	kenka_3
+ke^kinozairyou	kenka_2
+konwaku : tikugoteki	ki'a
+rinzinokantousi	ki'ai
+rikai : tikugoteki	ki'anai
+inta^netto	kibro
+saiba^supe^su	kibro
+sa^ba : inta^netto	kibyse'u_1
+sa^bisu : inta^netto	kibyse'u_3
+kuraianto : inta^netto	kibyse'u_2
+surudoi	kinli
+eiri	kinli
+ouhukusuru	klakla
+ourai	klama
+ikisaki	klama_2
+ikumono/kurumono	klama_1
+meirei	ko'oi
+kyoku : teiru	korcu
+hizumi	korcu
+kagaisya : gyakume	kuskei_1
+gyakumeru	kuskei
+higaisya : gyakume	kuskei_2
+kure^nhune	lafydadblo
+kure^n : idousikikure^n(unpanki)	lafydadma'e
+idousikikure^n : unpanki	lafydadma'e
+kure^n : kure^nkuruma	lafydadykarce
+torakkukure^n	lafydadykarce
+hoi^rukure^n	lafydadykarce
+kuro^ra^kure^n	lafydadykarce
+rahutere^nkure^n	lafydadykarce
+o^rutere^nkure^n	lafydadykarce
+torakkutousaikatakure^n	lafydadykarce
+kure^nkuruma	lafydadykarce
+ike	lalxu
+numa	lalxu
+mizuumi	lalxu
+a^togyarari^	larmuzga
+arugon	laznynavni_1
+Ar : arugon	laznynavni
+mamagoto : asobi	lazyzukykei
+renzu	lenjo
+kousei	le'o
+doumou	le'o
+batou	le'o
+muteikou : kougeki	le'ocu'i
+syusei	le'onai
+osoi	lerci
+hutumoto : kagaku	li'orkliru_1
+sakusya/wasya : monogatarinosakusya/wasya	lisri_3
+monogatari	lisri_1
+monogatarinonaiyou : monogatarinodaimokuyasuzigaki,kyoukun	lisri_2
+tyousya : monogatarinotyousya	lisri_4
+hukusosuu	lujna'u
+yogore : araiotosarerumono	lumci_3
+yogoremono : arautaisyou	lumci_2
+arau	lumci_1
+gyouketu	lunsa
+kusoyarou	mabla
+mahou	makfa
+zyankuhu^do	maldja
+o^to : kokutubu	mavji
+karasumugi : kokutubu	mavji_1
+komugi : kokutubu	maxri_1
+komugi : kokutubu	maxri
+kawaii	melbi
+mimeyoi	melbi
+hansamuna	melbi
+utukusii	melbi
+syouzyou : seisinsikkanniyorusyouzyou	menbi'a_3
+seisinsikkan	menbi'a_2
+seisinsyougainoarunin	menbi'a
+seisinsyougai	menbi'a
+seisinsyougaisya	menbi'a_1
+seisinsyougainoaruhou	menbi'a
+seisinsyougaisya	menbi'a
+seisinsyougaimono	menbi'a
+seigentaisyou : titekisyougaigaarutameseigenwoukerukoto	menri'u_3
+titekisyougainoarunin	menri'u
+titekisyougaizi : titekisyougaimono	menri'u
+titekisyougai	menri'u_2
+titekisyougaizi : titekisyougaimono	menri'u
+titekisyougaimono	menri'u_1
+titekisyougainoaruhou	menri'u
+titekisyougaisya	menri'u
+titekisyougaimono	menri'u
+iyakuhin	micyxu'i
+kusuri : iyakuhin	micyxu'i
+yakuhin : iyakuhin	micyxu'i
+kikai	minji
+kuriputon	mipnavni_1
+Kr : kuriputon	mipnavni
+yuumei	misno
+neko	mlatu
+otoru	mleca
+raimugi : kokutubu	mraji_1
+raimugi : kokutubu	mraji
+zissuu : hukusosuu	mrena'u
+yuubinkyoku	mribriju_1
+yuubinkyokuin	mribriju_2
+tatoeba	mu'a
+reiwoagerumademonaku	mu'acu'i
+nado : reiziowari	mu'anai
+reiziowari	mu'anai
+gogenritusi	mumvlabivli'i_1
+gogenzekku	mumvlavonli'i_1
+tairasoku	mumvlavonli'i_2
+in	mumvlavonli'i_3
+itati	mustlei
+sugoi	mutce
+totemo	mutce
+sugoi	mutce
+ugoku : idou	muvdu
+ugokasiteosu	muvyca'e
+ositeugokasu	muvyca'e
+osiugokasu	muvyca'e
+ugokasitehiku	muvycpu
+ugokasitehipparu	muvycpu
+ugokasihipparu	muvycpu
+hiiteugokasu	muvycpu
+bikiugokasu	muvycpu
+teugokasu	muvycpu
+urotuku	muvzva
+haikai	muvzva
+hakubutukan	muzga
+bizyutukan	muzga
+gyarari^ : heya	muzyku'a
+tenzisitu	muzyku'a
+kyuugyouniti	nalgundei
+unkyuuniti	nalgundei
+hiroudouniti	nalgundei
+pan : syokuhin	nanba_1
+hae	nanbi'e
+zyamevu : jamais-vu	narprugastcica
+zyamevuyu : jamais-vu	narprugastcica
+hituzisikan : jamais-vu	narprugastcica
+danna : danseihaiguusya	nauspe
+danna	nauspe
+syuzin	nauspe
+syuzin : danseihaiguusya	nauspe
+teisyu : danseihaiguusya	nauspe
+teisyu	nauspe
+otto	nauspe
+danna	nauspe
+danna : danseihaiguusya	nauspe
+danseihaiguusya	nauspe
+takasigasu	navni
+hana	nazbi
+naka	nenri_1
+naizousuru	nenri_2
+naibu	nenri
+yome : zyoseihaiguusya	nimspe
+kamisan : zyoseihaiguusya	nimspe
+okusan : zyoseihaiguusya	nimspe
+okusama : zyoseihaiguusya	nimspe
+zyoseihaiguusya	nimspe
+nyoubou	nimspe
+tuma	nimspe
+yome : zyoseihaiguusya	nimspe
+kanai : zyoseihaiguusya	nimspe
+neon	ninynavni_1
+Ne : neon	ninynavni
+memo	notci
+messe^zi	notci
+oboegaki	notci
+tuuti	notci
+zyugyou	nunctu
+zyugyouhouhou/kougihouhou	nunctu_6
+zyugyoukamoku/kougikamoku : zyugyounodaimoku	nunctu_5
+zyugyou/kougi	nunctu_1
+zyugyou/kouginogakusei/seito/zyukousya	nunctu_3
+zyugyou/kougideosiwarukoto : zyugyounomeidai	nunctu_4
+zyugyou/kouginokyouin/kyousi/kousi	nunctu_2
+kougi	nunctu
+hoken : kenkoukanri	nunka'oku'i
+kenkoukanri	nunka'oku'i
+iryou : kenkoukanri	nunka'oku'i
+eisei : kenkoukanri	nunka'oku'i
+hokensyo	nunka'okujbriju_1
+hokensyonosyokuin	nunka'okujbriju_2
+hokori	o'a
+kenson	o'acu'i
+hazisukasii	o'anai
+tizyoku	o'anai
+sitasimi	o'e
+sinkin	o'e
+mizika	o'e
+kakuzetu	o'enai
+hukai	oi
+human	oi
+youzin	o'i
+kaiteki	oinai
+iikara : keisotu	o'inai
+aseru	o'inai
+keisotu	o'inai
+kanyou	o'o
+kamawanai : kanyou	o'o
+kyoyou	o'o
+gaman	o'ocu'i
+sinbou	o'ocu'i
+hundo	o'onai
+kuturogi	o'u
+heizyousin	o'ucu'i
+heisei	o'ucu'i
+otituku	o'ucu'i
+sutoresu : kokoro	o'unai
+sinpai	o'unai
+kintyou	o'unai
+kibousuru	pacna
+nozomu	pacna
+kitaisuru	pacna
+negau	pacna
+kouhei	pa'e
+kousei	pa'e
+henken	pa'enai
+hiiki	pa'enai
+handansuru	pajni
+sinpan	pajnjalge
+hanketu	pajnyjalge
+zubonturi	pakydadysri
+sasupenda^	pakydadysri
+zubonturi	pakydadysri
+turibando	pakydadysri
+titioya	patfu
+?	pau
+gimonhu	pau
+syuuzitekigimon	paunai
+tyounan	pavmoibe'a
+tyouzyo	pavmoiti'u
+kokorotaigimon	pei
+sikou	pe'i
+iken	pe'i
+kangae	pe'i
+pen	penbi
+hude	penbi
+omoiyari	pesku'i
+dake	po'o
+tatta : koredake	po'o
+honno	po'o
+sihon	pracmu_1
+aisuru	prami
+aizyou	prami
+toi	preti
+situmon	preti
+taisyuu	prevrici
+sozou	prexra
+tyouzou	prexra
+syouzou	prexra
+syouzouga	prexra
+dezyavu : dj-vu	prugastcica
+dezyavuyu : dj-vu	prugastcica
+gaisikan : dj-vu	prugastcica
+kona	purmo
+hunmatu	purmo
+razian : suuryoutan'i	radno
+densetu	ranmi
+sinwa	ranmi
+rafsi	ra'oi
+gensibangou : kagaku	ratni_2
+gensiryou : kagaku	ratni_3
+gensi : kagaku	ratyjbama
+gensibakudan : bakudan	ratyjbama
+kaku : kagaku	ratyjbama
+bakuhatu : kagaku	ratyjbama
+tokuni	ra'u
+douyouni	ra'ucu'i
+tuidenagara	ra'unai
+suuhai	re'e
+boutoku	re'enai
+nizyuumaru	relcuktai_1
+ningyou	remcalxra
+hitogorosi : kagaisya	remcatra_1
+kagaisya : satuzin	remcatra
+gaimono : satuzinhigaisya	remcatra_2
+teguti : satuzin	remcatra_3
+gaimono : satuzin	remselcatra_1
+korosu : nin	remselcatra_1
+satuzin	remselcatra_3
+satuzinsuru	remselcatra_3
+satugai	remselcatra_2
+satugaisuru	remselcatra_2
+higaisya : satuzin	remselcatra
+doragon : kami	resycei
+ryuu : kami	resycei
+ryuu : kami	resycei
+ryuuzin	resycei
+doragon : souzouuenodoubutu	resycrida
+ryuu : souzouuenodoubutu	resycrida
+ryuu : souzouuenodoubutu	resycrida
+kaihou : kokorotai	ri'e
+yokusei : kokorotai	ri'enai
+sono : syouou	ri'oi
+enso : kagaku	ri'orkliru_1
+kome : kokutubu	rismi_1
+kome : kokutubu	rismi
+nogareru : saketehanareru	rivli'a
+nigeru : saketehanareru	rivli'a
+toubou : saketesaru	rivli'a
+syakou	ro'a
+hansyakaiteki	ro'anai
+titeki	ro'e
+seisinteki	ro'e
+hiseisinteki	ro'enai
+kanzyou	ro'i
+muzyou	ro'inai
+iwa	rokci
+ganseki	rokci
+isi	rokci
+mekki	romge
+mekki	romge
+mekkisareteirumono	romge_1
+mekkinimotiirarerukinzoku	romge_2
+sintaiteki	ro'o
+zen : gironryouikinai	ro'oi
+hisintaiteki	ro'onai
+atui	rotsu
+hutoi	rotsu
+seiteki	ro'u
+kinyokuteki	ro'unai
+zentei	ru'a
+zyaku	ru'e
+nihon'en : kahei	rupnujupuje
+nihon'en : kinsen	rupnujupuje
+nihon'en : kinyuu	rupnujupuje
+nihon'en : tuuka	rupnujupuje
+nihon'en : nippon	rupnujupuje
+hensyuusounyuu	sa'a
+kyoukyuusaki	sabji_3
+kyoukyuugen	sabji_1
+kyoukyuumono	sabji_2
+seikaku	sa'e
+busyoukaku	sa'enai
+kyou	sai
+hissu	sarcu
+kanketu	sa'u
+genmitu	sa'unai
+dokuritu	se'a
+zikozyuusoku	se'a
+ziritu	se'a
+izon	se'anai
+hyougen : moziretu	sedu'u
+zikohon'i	se'i
+taninhon'i	se'inai
+tanru.yunitto	selbrisle_1
+seruburinosaisyoutan'i	selbrisle
+tagu : zyutugonotagu	selbritcita
+zyutugonotagu	selbritcita
+angoukasuru : angou	selmifybi'o
+tyotikusuru	selsrodi'i
+tyokinsuru	selsrodi'i
+naimentekiti	se'o
+kan	se'o
+satori	se'o
+zimonzitou	sezreispu
+douyou	si'a
+uttekawatte	si'anai
+dousi	sibykansa_1
+nisikaze	sicybi'e
+yukidaruma	si'ercalxra
+yukizou	si'ercalxra
+toutoi	sinma
+sonkeitaisyou/toutoimono : darekanisonkeisareteirumono	sinma_2
+sonkeimono : nanikawosonkeisiteirunin	sinma_1
+sansyousuru	sitna
+inyousuru	sitna
+koukaikagi : angou	sivyckiku
+himitukagi : angou	sivyckiku
+patti : sitagi	sivypalku
+patti : sitagi	sivypalku
+pantu : sitagi	sivypalku
+momohiki : sitagi	sivypalku
+syo^tu : sitagi	sivypalku
+suteteko	sivypalku
+suteteko : sitagi	sivypalku
+supattu : sitagi	sivypalku
+zuro^su : sitagi	sivypalku
+pantei : sitagi	sivypalku
+buri^hu : sitagi	sivypalku
+torankusu : sitagi	sivypalku
+pantei^ : sitagi	sivypalku
+bokusa^pantu : sitagi	sivypalku
+zubonsita	sivypalku
+zubonsita : sitagi	sivypalku
+sarumata	sivypalku
+sarumata : sitagi	sivypalku
+sarumata	sivypalku
+sarumata : sitagi	sivypalku
+matahiki : sitagi	sivypalku
+suka^to : ihuku	skaci
+hurui	slabu_1
+sirinda^	slanu
+entyuu : keizyou	slanu
+seikou	snada
+tassei	snada
+daizu : mametubu	sobde_1
+daizu : mametubu	sobde
+heriumu	solnavni_1
+He : heriumu	solnavni
+heisi	sonci
+sensi	sonci
+busi	sonci
+gunzin	sonci
+morokosi : kokutubu	sorgu_1
+morokosi : kokutubu	sorgu
+basu : norimono	sorprekarce
+kateisuru	sruma
+souteisuru	sruma
+kosei	steci
+ippanniha	su'a
+tokusyuka	su'anai
+ryourisurumono	sudglajukpa_1
+yaku : ryouri	sudglajukpa
+yakiryouri	sudglajukpa_2
+tagu : kounotagu	sumtcita
+kounotagu	sumtcita
+higasikaze	sunbi'e
+sonzai : gironryouikinai	su'oi
+bentou : youki	tanxebentou
+tokorode	ta'o
+yodan	ta'o
+itudatu	ta'o
+kaiki	ta'onai
+kanwakyuudai	ta'onai
+tappudansu	tapydansu
+tappudansa^	tapydansu_1
+tappudansunoongaku/rizumu	tapydansu_2
+tenkai : tanru	ta'u
+zousei : tanru	ta'unai
+mura : tyousonku	tcapau
+mati : tyousonku	tcapau
+tyousonku	tcapau
+zikan	temci
+kikan	temci
+kankaku	temci
+ryou : tamentaino	terkubli
+hen : tamentaino	terkubli
+men : tamentaino	terkubli
+tyouten : tamentaino	terkubli
+angoukagi : angou	termifckiku
+kagi : angou	termifckiku
+souda : denbun	ti'e
+rasii : denbun	ti'e
+denbun	ti'e
+kenbun	ti'e
+hukasseikitai : hukasseigasu	tolfragapci
+murisuu : zissuu	tolfrinyna'u
+heibun : angou	tolmifybi'o
+hukugousuru : angou	tolmifybi'o
+angoubun : angou	tolmifybi'o
+temizika	to'u
+zenyou	to'unai
+yattemiru	troci
+tutomeru	troci
+ideorogi^ : seizirinen	trusi'o
+seizisisou	trusi'o
+seizirinen	trusi'o
+sakura : sakura	tsakura
+sakura : sakura	tsakura
+sakura	tsakura
+paipu	tubnu
+tyu^bu	tubnu
+sirinda^ : tyuukuuno	tubnu
+tutu	tubnu
+kan	tubnu
+kurubusi : asikubi	tupne'o
+asikubi	tupne'o
+kurubusi : asikubi	tupne'o
+kiduku	ua
+hakken	ua
+kakutoku	u'a
+mosaku	uanai
+sonsitu	u'anai
+bikkurisuru	ue
+odoroku	ue
+kyoutan	ue
+ikei	u'e
+heizen	uecu'i
+mudouyou	uecu'i
+kakugo	uenai
+heibon	u'enai
+siawase	ui
+kouhuku	ui
+yukai	u'i
+tanosii	u'i
+omosiroi	u'i
+hitan	uinai
+taikutu	u'inai
+kanryou	uo
+kanzen	uo
+kansei	uo
+yuuki	u'o
+osoruosoru	u'ocu'i
+utiki	u'ocu'i
+huzyuubun	uonai
+hukanzen	uonai
+miryou	uonai
+mikansei	uonai
+okubyou	u'onai
+douzyou	uu
+awaremu	uu
+aibin	uu
+koukai	u'u
+zannen	u'u
+ikan	u'u
+keppaku	u'ucu'i
+muzitu	u'ucu'i
+kokugyaku	uunai
+akui	u'unai
+uru : uru	vecnu
+hanbai : hanbai	vecnu
+sinamono/syouhin	vecnu_2
+syouhin	vecnu_2
+uru	vecnu
+urite	vecnu_1
+urite/hanbaiin	vecnu_1
+baibai	vecnu
+hanbai	vecnu
+hanbaiin	vecnu
+kaite	vecnu_3
+kaite/kounyuusya	vecnu_3
+hiyou : kingaku	vecnu_4
+hiyou(hitai)/syuppi(hitai)	vecnu_4
+kounyuusya	vecnu
+hoiku	verku'i
+hoikusamurai	verku'i
+hoikuen	verku'istu
+hoikusyo	verku'istu_1
+hoikusyonohoikusamurai	verku'istu_3
+hoikusyonokodomo	verku'istu_2
+toire : toirenoheya	vimku'a
+benzyo	vimku'a
+kesyousitu : toirenoheya	vimku'a
+kawaya	vimku'a
+otearai : toirenoheya	vimku'a
+osime	vimsivypalku
+omutu	vimsivypalku
+osime	vimsivypalku
+omutu	vimsivypalku
+kansen : igaku	virparji
+rikan : igaku	virparji
+miyasui	vispu'a
+mibaegayoi	vispu'a
+mibaenoyoimono	vispu'a_1
+mibaenoyosawokanzirumono	vispu'a_2
+mibaegayoitamenozyouken	vispu'a_3
+koe	voksa
+toku	vu'e
+homare	vu'e
+kegare	vu'enai
+tumi	vu'enai
+seigentaisyou : sintaisyougaigaarutameseigenwoukerukoto	xadri'u_3
+sintaisyougainoarunin	xadri'u
+sintaisyougaizi : sintaisyougaimono	xadri'u
+sintaisyougai	xadri'u_2
+sintaisyougaizi : sintaisyougaisya	xadri'u
+sintaisyougaisya	xadri'u_1
+sintaisyougainoaruhou	xadri'u
+sintaisyougaisya	xadri'u
+sintaisyougaimono	xadri'u
+ryousya	xai
+karera	xai
+mina	xai
+ka : maamaadearu	xamgu
+tewotunagu	xanjaisi'u
+tewotoru : tewotoriau	xanjaisi'u
+tewotoriau	xanjaisi'u
+tewonigiru : tewonigiriau	xanjaisi'u
+tewonigiriau	xanjaisi'u
+akusyu	xanjaisi'u
+maborosi	xanri
+gensou	xanri
+souzousuru : kuusou	xanri_2
+kakuu	xanri
+higenzitu	xanri_1
+hutokuteinokazu	xo'e
+arukazu	xo'e
+ehon	xracku
+kirisutokyou	xriso
+kaeru : kaeru,teiku/tekuru	xrukla
+modoru : modoru,teiku/tekuru	xrukla
+kaeru : teiku/tekuru	xrukla
+teiku	xrukla
+tekuru	xrukla
+modoru : teiku/tekuru	xrukla
+teiku	xrukla
+tekuru	xrukla
+singisitumon	xu
+syuuso : kagaku	xunkliru_1
+kansatu	za'a
+syukuhaku	zasxa'u
+syukuhakusya	zasxa'u_1
+tomaru	zasxa'u
+taizai	zasxa'u
+sitigenritusi	zelvlabivli'i_1
+sitigenzekku	zelvlavonli'i_1
+aen	zinki
+youmoto : kagaku	zirkliru_1
+masaru	zmadu
+takuetu	zmadu
+zyoudan	zo'o
+gensyuku	zo'onai
+tenkeikougimon	zu'i'a
+toumorokosi : kokutubu	zumri_1
+toumorokosi : kokutubu	zumri
+ippoude	zu'u
+mouippoude	zu'unai
+tahoude	zu'unai

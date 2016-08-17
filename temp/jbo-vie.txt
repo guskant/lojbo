@@ -1,0 +1,88 @@
+abu	bu-letteral   \nBY*      \nchữ cái A
+bajra	gismu   \n-baj-      \nx1 chạy trên x2 dùng x3 theo cách x4
+by	cmavo   \nBY2      \nchữ cái B
+cutci	gismu   \n-cuc-      \nx1 là giầy cho x2 làm từ x3
+cy	cmavo   \nBY2      \nchữ cái C
+gerku	gismu   \n-ger-   \n-ge'u-      \nx1 là chó thuộc giống x2
+jibri	gismu   \n-jib-      \nx_1 là công việc/việc làm/nghề nghiệp (việc làm thường xuyên, để kiếm tiền) của người x_2
+kanro	gismu   \n-ka'o-      \nx1 khỏe mạnh theo tiêu chuẩn x2
+klama	gismu   \n-kla-      \nx1 đi đến x2 từ x3 qua x4 dùng x5
+kurji	gismu   \n-kuj-   \n-ku'i-      \nx1 chăm sóc x2
+lerfu	gismu   \n-ler-   \n-le'u-      \nx_1 là chữ cái/chữ số/biểu tượng trong bảng chữ cái/bộ kí tự x_2, biểu thị x_3
+ly	cmavo   \nBY2      \nchữ cái L
+melbi	gismu   \n-mel-   \n-mle-      \nx1 đẹp đối với x2 theo tiêu chuẩn x3
+pluka	gismu   \n-puk-   \n-pu'a-      \nx1 làm x2 vui lòng dưới điều kiện x3
+stali	gismu   \n-sta-      \nx1 ở lại với x2
+sutra	gismu   \n-sut-      \nx1 làm việc x2 một cách nhanh chóng
+tavla	gismu   \n-tav-   \n-ta'a-      \nx1 nói với x2 về x3 bằng ngôn ngữ x4
+vecnu	gismu   \n-ven-   \n-ve'u-      \nx1 bán x2 cho x3 với giá x4
+zarci	gismu   \n-zac-   \n-zai-      \nx1 là chợ/cửa hàng/cửa hiệu bán x2 do x3 làm việc
++BY* abu	chữ cái A\n
++BY2 by	chữ cái B\n
++BY2 cy	chữ cái C\n
++BY2 ly	chữ cái L\n
+A : chữ cái	abu
+bề mặt	bajra_2
+chạy	bajra
+chi : tay; chân	bajra_3
+dáng đi	bajra_4
+người chạy	bajra_1
+B	by
+bàn chân	cutci_2
+chất liệu	cutci_3
+giầy	cutci_1
+C	cy
+chó	gerku_1
+giống chó : loại chó	gerku_2
+công việc	jibri_1
+nghề nghiệp	jibri
+người lao động	jibri_2
+việc làm	jibri
+khỏe	kanro_1
+tiêu chuẩn	kanro_2
+đi	klama
+điểm đến	klama_2
+điểm xuất phát	klama_3
+du hành	klama
+đường đi	klama_4
+người đi	klama_1
+phương tiện đi lại	klama_5
+chăm sóc	kurji
+người chăm sóc	kurji_1
+người được chăm sóc	kurji_2
+bảng chữ cái	lerfu_2
+biểu tượng : kí tự	lerfu
+chữ cái	lerfu_1
+chữ số	lerfu
+kí tự	lerfu
+L	ly
+đẹp	melbi
+người quan sát	melbi_2
+vật thể hoặc ý niệm	melbi_1
+điều kiện	pluka_3
+làm vừa lòng	pluka
+người cảm nhận	pluka_2
+sự kiện hoặc trạng thái	pluka_1
+vừa ý	pluka
+địa điểm	stali_2
+người ở lại	stali_1
+ở lại	stali
+hành động	sutra_2
+nhanh	sutra
+nhanh chóng	sutra
+tác nhân	sutra_1
+chủ đề	tavla_3
+ngôn ngữ	tavla_4
+người nghe	tavla_2
+người nói	tavla_1
+nói	tavla
+bán	vecnu
+giá : giá bán; giá mua	vecnu_4
+hàng hóa	vecnu_2
+người mua	vecnu_3
+chợ	zarci
+cửa hàng	zarci
+cửa hàng; cửa hiệu	zarci_1
+cửa hiệu	zarci
+người bán	zarci_3
+sản phẩm	zarci_2

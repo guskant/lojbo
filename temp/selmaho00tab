@@ -1,0 +1,14 @@
++A a	逻辑连词：或 （置于sumti之后）\n
++UI1 a'a	态度词：刻意-不刻意-避免\n也可指“专心”。相关{jundi},{rivbi}
++UI1 a'e	态度词：警惕-精疲力尽\n相关{sanji},{cikna},{tatpi}
++UI1 ai	态度词：打算-无决定-拒绝\n相关{termu'i},{terzu'e},{seljdi}
++UI1 a'i	态度词：努力-没有特别努力-停止/休息\n相关{gunka},{troci}
++UI1 a'o	态度词：希望-绝望\n相关{pacna}
++UI1 au	态度词：渴望-无所谓-勉强/不情愿\n相关{djica}
++UI1 a'u	态度词：兴趣-无兴趣-反感\n相关{cinri},{selcni}
++COI fau'u	对不起, 请原谅我, 抱歉\n{fraxu}, {u'u}.
++COI3 jo'au	转换语法分析器的版本/方言.\n{do'u}是可以省略的终端词. 在{jo'au}之后的cmevla/sumti/selbri的词法和文法应该适合lojban.org网站的 ``BPFK Section: PEG Morphology Algorithm'' 的第134版本及官方文法, 正是为了{jo'au}构成的自由修饰词组是相容语法分析器的所有版本. 比如说, ``jo'au jie bu'' 和 ``jo'au xy xi xei'' 不是有意义的词组. 在标准使用上, 全文章开头使用{jo'au}词组, 和{fa'o}的用法相反. {jo'au}词组的意义涉及后续部分, 到下一个{jo'au}词组为止. 第一个{jo'au}词组可以出现在文章中途, 意义涉及从开头到下一个{jo'au}词组为止. 有意义的例子: jo'au cylyly xi papipa (官方yacc和jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (现行的peg http://camxes.lojban.org/ ) ; jo'au iocixes (xorxes的zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa的第0.11个版本 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa的2014-11-24版本 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
++NU ka	特性/性质指示; x_1 是[bridi]表现出的性质/特性 .\n
++KOhA3 mi'ai	我們\n
++KOhA3 mi'o	咱們\n
++RAhOI ra'oi	rafsi的标记. 把rafsi变为sumti.\n要注意在这个rafsi的前后时常需要留出空白或休止. 語法分析器zantufa-0.14和更高版本分析ra'oi作为selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). 例: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .

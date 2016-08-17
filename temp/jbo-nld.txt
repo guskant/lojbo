@@ -1,0 +1,201 @@
+abu	bu-letteral   \nBY*      \nDe letter a.
+aitco	fu'ivla      \nx_1 Armeens in aspect x_2\nZie ook : {kartuli}.
+bacru	gismu   \n-ba'u-      \nx_1 verwoord/drukt uit/spreekt [maakt vocaal geluid] x_2.\nOok stemmen; Niet per sé communicatie of gehoor; ('zegt' is normaal {cusku}).  Zie ook : {krixa}, {cusku}, {casnu}, {tavla}, {voksa} en {pinka}.
+badna	gismu      \nx_1 is een banaan [fruit/plant] van de soort x_2.\nZie ook {grute}.
+banfi	gismu      \nx_1 is een amfibie van de soort x_2.\nZie ook {danlu} en {respa}.
+bangu	gismu   \n-ban-   \n-bau-      \nx_1 is een taal/dialect gebruikt door x_2 om zich uit te drukken/communiceren x_3 (si'o/du'u, geen quote).\nZie ook : {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi} en {slaka}.
+banxa	gismu   \n-bax-      \nx_1 is een bank van/door x_2 voor bankieren x_3 (gebeurtenis).\nZie ook : {sorcu}, {zarci}, {canja} en {kagni}.
+banzu	gismu   \n-baz-      \nx_1 (object) voldoet aan de eisen voor zijn functie x_2 onder de omstandigheden x_3.\nZie ook : {dukse}, {claxu}, {nitcu}, {ricfu} en {curmi}.
+barda	gismu   \n-bra-      \nx_1 is groot in eigenschap/afmeting x_2 vergeleken met standaard/norm x_3\nZie ook {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.
+besna	gismu   \n-ben-      \nx_1 zijn de hersenen van x_2; [metafoor: intelligentie].\nOok cerebus.  Zie ook : {menli}, {stedu}, {rango} en {pensi}.
+bifce	gismu   \n-bic-      \nx_1 is een bij of wesp van het soort x_2.\nzie ook {cinki}, {sfani}, {lakse}.
+bindo	gismu   \n-bid-      \nx_1 reflecteerd de indonesische cultuur/nationaliteit/taal in aspect x_2.\nZie ook {meljo} en {baxso}.
+caxmati	fu'ivla      \nx_1 is een potje schaak met x_2 (wit) tegen x_3 (zwart).
+cecmu	gismu   \n-cem-   \n-ce'u-      \nx_1 is gemeenschap/kolonie van organismen x_2.\nZie ook : {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
+ci	cmavo   \n-cib-   \nPA1      \nCijfer/Nummer ; 3 [drie]
+cibmasti	lujvo      \nx_1 Maart / de 3e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {pavmasti}, {relmasti}, {vonmasti}, {mumymasti}, {xavmasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+cternalmat	cmevla      \nChinees dammen
+ctidji	lujvo      \nx_1 heeft trek in x_2\nZie ook : {citka}, {djica}
+dagysfe	lujvo      \ns_1 is de stoep van een weg x_2=d_1.
+djacu	gismu   \n-jac-   \n-jau-      \nx_1 is gemaakt van, bevat of is water; (bijvoegelijk naamwoord:) x_1 is waterig/waterachtig.\nZie ook : {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci}, {bumru} en {jinto}.
+djica	gismu   \n-dji-      \nx_1 verlangt/wilt/wenst naar x_2 (gebeurtenis/moment) voor doel x_3.\nAls het verlangen is naar een object, tu'a in x_2 (of gebruik lujvo = po'edji).  Zie ook : {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}.
+drudi	gismu   \n-rud-   \n-dru-      \nx_1 is een dak/bovenkant/plafond van x_2.\nEen 'drudi' is (gemaakt) over iets en beschermt het tegen andere dingen boven de 'drudi'.
+dukse	gismu   \n-dus-   \n-du'e-      \nx_1 is een overmaat van / is te veel van x_2 met de standaard x_3.\nZie ook : {bancu}, {banzu}, {ricfu} en {zmadu}.
+eptula	fu'ivla      \nx_1 is een berk van soort x_2
+genxu	gismu   \n-gex-      \nx_1 is een haak [vorm] van materiaal x_2.\nZie ook : {kruvi} en {korcu}
+gerna	gismu   \n-gen-   \n-ge'a-      \nx_1 zijn de regels/gramatica van taal x_2 voor structuur/tekst x_3.\nZie ook : {bangu}, {stura}, {cmavo}, {jufra}.
+grute	gismu   \n-rut-      \nx_1 is een fruit van de soort x_2.\nZie ook : {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari} en {nimre}.
+jimpe	gismu   \n-jmi-      \nx_1 begrijpt feit/waarheid x_2 (du'u) over onderwerp x_3; x_1 begrijpt (fi) x_3.\nZie ook : {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
+kanba	gismu      \nx_1 is een geit van het ras x_2.\nZie ook : {lanme}, {sunla}
+kulnrani	fu'ivla      \nx_1 reflecteerd de Iraanse cultuur in aspect x_2.
+lalxu	gismu   \n-la'u-      \nx_1 is een meer of lagune in geografish gebied x_2.\nZie ook : {daplu}, {djacu}, {rirxe}, {xamsi} en {zbani}.
+malmliselgu'i	lujvo      \nma_1=mi_1=g_2 is belicht iets met licht g_1 van lichtbron g_3.\nGecreëerd uit : {gusni}, {mabla} en {milxe}.
+markuja	fu'ivla      \nx_1 is een passievrucht/pasiebloem van de soort x_2.
+mivru'e	lujvo      \np_1 is het leven van j_1 stadia p_4.\nFocus op het proces van x2's leven in stadia (geboorte, sterfen, bloei, etc.)
+mulno	gismu   \n-mul-   \n-mu'o-      \nx_1 (gebeurtenis) is voldaan/klaar/afgelopen; x_1 (object) is klaar/af en is en geheel geworden x_2 met de x_3 standaard.
+mumymasti	lujvo      \nx_1 Mei / de 5e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {pavmasti}, {relmasti}, {cibmasti}, {vonmasti}, {xavmasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+mutce	gismu   \n-tce-      \nx_1 is veel/extreem in de eigenschap x_2 (ka), richting x_3\nOok : erg mooi, een hoop, intens en extreem. zie ook : {milxe}, {traji}, {banli}, {carmi}, {nutli} en {traji}.
+nimre	gismu      \nx_1 is een hoeveelheid citrus [fruit/boom, etc.] van soorten/ras x_2.\nZie ook : {grute}, {slari}, {slami}, {xukmi}.
+notsku	lujvo      \nc_1 kondigt aan c_2 (sedu'u/tekst/lu'e concept) voor publiek c_3=n_4 door middel van (medium) c_4.\ngecreëerd uit {notci} en {cusku}.
+pa	cmavo   \n-pav-   \nPA1      \ngetal/nummer: 1 [één]
+papri	gismu      \nx_1 is een [fysieke] pagina/bladzijde van een boek/document x_2.\nGenummerde bladzijden (net als in een boek) (= {paprysfe}, {paprysfelai}); Een pagina vol met tekst (= {papryseltcidu}, {paprytcidylai}). Zie ook : {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta} en {ciska}.
+pavmasti	lujvo      \nx_1 Januari / de 1e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {relmasti}, {cibmasti}, {vonmasti}, {mumymasti}, {xavmasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+pinxe	gismu   \n-pix-      \nx_1 drinkt fris/drank/vloeibare stof x_2 uit container/bron x_3.\nZie ook : {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+ponse	gismu   \n-pos-   \n-po'e-      \nx_1 bezit/heeft x_2 volgens wet/traditie x_3\nZie ook : {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni} en {zivle}.
+rarna	gismu   \n-rar-      \nx_1 is natuurlijk/spontaan/instinctief, niet [bewust] veroorzaakt door mensen.\nZie ook : {rutni}, {jinzi}, {nurma} en {stati}.
+re	cmavo   \n-rel-   \nPA1      \ngetal/nummer: 2 [twee]
+relmasti	lujvo      \nx_1 Februari / de 2e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {pavmasti}, {cibmasti}, {vonmasti}, {mumymasti}, {xavmasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+sance	gismu   \n-sna-      \nx_1 is een geluid afkomstig van x_2.\nx_2 maakt geluid (als werkwoord). Zie ook {savru}, {tirna}, {voksa}, {siclu}, {slaka}.
+senpi	gismu   \n-sen-      \nx_1 twijfelt eraan of x_2 (du'u) de waarheid is.\nZie ook {jinvi}, {krici}, {djuno}, {birti}
+simfoni	fu'ivla      \nx_1 is symfonie nummer x_2 noot x_3 door componist x_4 uitgevoerd door/bij x_5 (gebeurtenis).\nZie ook: {zgike}, {nolzgi}, {simfoni zei pagbu}, {konceto} en {zgifi'i}.
+sincrboua	fu'ivla      \nx_1 is een boa van soort x_2
+skami	gismu   \n-sam-      \nx_1 is een computer gebruikt voor x_2.\nzie ook {kanji}, {minji}, {pensi}.
+sorprekarce	lujvo      \nk_1 is een bus voor het vervoeren van p_1=k_2 passagiers, aangedreven door k_3.\ngecreëerd uit : {karce}, {marce}, {tcana} en {klama}
+spati	gismu   \n-spa-      \nx_1 is een plant/kruid/'groen' van de soorten/ras x_2.\nx_1 is een groente.
+stati	gismu      \nx_1 heeft een talent (vaardigheid) voor het doen/zijn van x_2.\nZie ook : {jinzi}, {certu}, {rarna}, {larcu} en {kakne}.
+taske	gismu      \nx_1 dorst naar x_2; x_1 heeft nodig/wilt drank/vloeistof/laxeermiddel x_2.\nZie ook : {nitcu}, {djica}, {xagji}, {pinxe}.
+tceraso	fu'ivla      \nx_1 is een kers van de soort x_2
+ti'erbi'o	lujvo      \nb_1 gaat achter t_2.\ngecreëerd uit {trixe} en {binxo}.
+titnanba	lujvo      \nn_1 is een cakeje (zoet gebak) of koekje gemaakt van graan n_2.\ngecreëerd uit : {titla}, {nanba}, {jupypesxu} en {rutytisna}.
+vacri	gismu   \n-var-      \nx_1 is een hoeveelheid lucht uit x_2, van samenstelling inclusief x_3.\nZie ook : {gapci}, {kijno}, {trano}, {tumla}, {vasxu} en {xamsi}.
+vo	cmavo   \n-von-   \nPA1      \nCijfer/Nummer ; 4 [vier]
+voki'o	cmavo-compound   \nPA*      \nnummer/hoeveelheid: 4,000 uitgedrukt met komma.
+voksa	gismu   \n-vok-   \n-vo'a-      \nx_1 is een stem van individu x_2.\nZie ook : {sance}, {tirna}, {bacru}.
+vondei	lujvo      \nx_1 is een donderdag van week x_2 in de x_3 kalender.
+vonmasti	lujvo      \nx_1 April / de 4e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {pavmasti}, {relmasti}, {cibmasti}, {mumymasti}, {xavmasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+xabyxadba	lujvo      \nx_1 is precies/ongeveer een kwart van x_2 met de x_3 standaard.\nHelft van {xadba}.
+xanbau	lujvo      \nb_1 is een beeldende taal door x_2=b_2 om  b_3 uit te drukken / over te brengen.\n(x1) &quot;beeldende taal&quot; in de zin van het visueel overbrengen van patronen gebruikmakende van handen, armen, het lichaam en gezichtsuitdrukkingen om &quot;je uit te drukken&quot;. (handmatige communicatie, lichaamstaal) (x2) hij/zij die de &quot;taal&quot; uitoefent. (x3) &quot;dat wat uitgebeeld/uitgedrukt is&quot; Zie : {xance} en {bangu}
+xavmasti	lujvo      \nx_1 Juni / de 6e maand van het jaar x_2 in kalender x_3.\nZie ook de andere maanden : {pavmasti}, {relmasti}, {cibmasti}, {vonmasti}, {mumymasti}, {zelmasti}, {bivmasti}, {sozymasti}, {pavnonmasti}, {pavypavmasti}, {pavrelmasti}, {nanca}, {kanbyma'i}.
+za'u	cmavo   \nPA3      \nnumerieke waarde: groter/meer dan.
+zgana	gismu   \n-zga-      \nx_1 observeerd/[merkt]/ziet/aanschouwd x_2 gebruikmakende van x_3 onder omstandigheden x_4.\naanschouwen/kijken/staren (= {vi'azga});
+zgike	gismu   \n-zgi-   \n-gi'e-      \nx_1 is muziek uitgevoerd/geproduceerd door x_2 (gebeurtenis).\nx_2 (gebeurtenis) kan een persoon zijn die het instrument bespeelt of zingt. Kan ook de bron van de muziek zelf zijn, zoals het instrument zelf. Zie ook : {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri} en {siclu}.
+zmadu	gismu   \n-zma-   \n-mau-      \nx_1 is meer dan x_2 als in abstracte of quantiteit x_3 (ka/ni) met de hoeveelheid x_4.\nZie ook : {mau}, {mleca}, {zenba}, {jmina}, {bancu} en {dukse}, {traji}.
+zukyjdi	lujvo      \nx_1 beslist om x_2 (ka) te doen
++BY* abu	De letter a.\n
++PA1 ci	Cijfer/Nummer ; 3 [drie]\n
++PA1 pa	getal/nummer: 1 [één]\n
++PA1 re	getal/nummer: 2 [twee]\n
++PA1 vo	Cijfer/Nummer ; 4 [vier]\n
++PA* voki'o	nummer/hoeveelheid: 4,000 uitgedrukt met komma.\n
++PA3 za'u	numerieke waarde: groter/meer dan.\n
+a	abu
+verwoorden : formuleren	bacru
+banaan	badna
+amfibie	banfi
+bank : gebouw	banxa
+voldoen	banzu
+voldoet	banzu
+brein	besna
+hersenen	besna
+bij : insect	bifce
+wesp	bifce
+indonesische	bindo
+schaak	caxmati
+gemeenschap	cecmu
+3	ci
+drie	ci
+Maart	cibmasti
+Chinees dammen : Bordspel	cternalmat
+trek : voedsel	ctidji
+stoep	dagysfe
+trottoir	dagysfe
+voetpad	dagysfe
+water	djacu
+verlangen	djica
+dak	drudi
+overmaat	dukse
+surplus	dukse
+teveel : zelfstandig naamwoord	dukse
+te veel	dukse
+berk	eptula
+haak	genxu
+gramatica	gerna
+taal	gerna_2
+fruit	grute
+begrijpen	jimpe
+geit	kanba
+Iraans	kulnrani
+lagune : het meer	lalxu
+meer : het meer	lalxu
+belicht : met licht	malmliselgu'i
+beschenen : met licht	malmliselgu'i
+(er) opgelicht : met licht	malmliselgu'i
+verlicht	malmliselgu'i
+passiebloem	markuja
+passievrucht	markuja
+leven : levensproces	mivru'e
+afgelopen	mulno
+compleet : geklaard	mulno
+gedaan	mulno
+geheel	mulno
+helemaal	mulno
+klaar	mulno
+voldaan	mulno
+voledig	mulno
+Mei	mumymasti
+een hoop	mutce
+erg : erg veel	mutce
+extreem	mutce
+hartstikke	mutce
+intens	mutce
+veel	mutce
+citrus	nimre
+aankondigen	notsku
+verklaren : aankondigen	notsku
+één : cijfer 1	pa
+bladzijde	papri
+pagina	papri
+Januari	pavmasti
+container van vloeibare stof : hersluitbare fles, wijnglas	pinxe_3
+drink	pinxe
+drinken	pinxe
+drinker	pinxe_1
+vloeibare stof	pinxe_2
+bezit	ponse_1
+eigendom	ponse_2
+natuurlijk	rarna
+twee	re
+Februari	relmasti
+geluid	sance
+twijfel	senpi
+symfonie	simfoni
+boa : slang	sincrboua
+computer	skami
+autobus	sorprekarce
+bus	sorprekarce_1
+passagier	sorprekarce_2
+stadsbus	sorprekarce
+trolleybus	sorprekarce
+groente : (voedsel)	spati
+kruid	spati
+plant	spati
+talent	stati
+dorst	taske
+kers : fruit	tceraso
+gaat achter : positie veranderen	ti'erbi'o
+cake : (zoet gebak)	titnanba
+cakeje : (zoet gebak)	titnanba
+koek : (zoet gebak)	titnanba
+koekje : (zoet gebak)	titnanba
+lucht	vacri
+4	vo
+vier	vo
+4000	voki'o
+vierduizend : nummer/hoeveelheid	voki'o
+stem	voksa
+donderdag	vondei
+April	vonmasti
+kwart : 1/4e van iets	xabyxadba
+beeldende taal : dmv. visueel overbrengen van patronen (informatie)	xanbau
+lichaamstaal	xanbau
+Juni	xavmasti
+groter : hogere numerieke waarde	za'u
+groter dan : hogere numerieke waarde	za'u
+hoger : hogere numerieke waarde	za'u
+hoger dan : hogere numerieke waarde	za'u
+meer : hogere numerieke waarde	za'u
+meer dan : hogere numerieke waarde	za'u
+observeer	zgana
+muziek	zgike
+meer : meer zijn	zmadu
+beslissen om te doen	zukyjdi

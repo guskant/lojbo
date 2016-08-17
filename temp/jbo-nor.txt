@@ -1,0 +1,200 @@
+bacru	gismu   \n-ba'u-      \nx_1 ytrer verbalt/sier/uttaler/artikulerer [lager lyd med stemmen] x_2
+badna	gismu      \nx_1 er en banan av type/art x_2\nSe også {grute}, {jupybadna}.
+badri	gismu   \n-dri-      \nx_1 er trist/lei seg/deprimert/nedfor/føler sorg angående x_2 (abstraksjon)\nSe også {betri}, {cinmo}, {gleki}, {junri}, {klaku}.
+bajra	gismu   \n-baj-      \nx_1 springer på underlag x_2 med kroppsdeler x_3 og ganglag x_4\nSe og {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+bakfu	gismu   \n-baf-      \nx_1 er en bunt/pakke med innhold x_2, holdt sammen av x_3\nSe også {dakli}, {daski} og {tanxe}.
+bakni	gismu   \n-bak-      \nx_1 er en ku/okse/storfe/[kalv] av art x_2\nSe også {danlu}.
+bakri	gismu      \nx_1 er en mengde/inneholder/er laget av kalk fra kilde x_2 i form x_3\nSe også {blabi}, {jilka} og {pinsi}.
+baktu	gismu      \nx_1 er en bøtte/kanne/spann med innhold x_2, laget av materiale x_3\nSe også {botpi}, {lanka}, {lante}, {patxu} og {tansi}.
+balji	gismu      \nx_1 er en løk [del] av plante/art x_2; [metafor: svullen, avrundet]\nSe også {batke}, {punli}.
+balni	gismu      \nx_1 er en balkong/veranda/overheng/hylle på bygning/struktur x_2\nSe også {kajna}, {punli}.
+balre	gismu   \n-ba'e-      \nx_1 er bladet/klingen på våpen/redskap x_2\nSe også {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+balvi	gismu   \n-bav-      \nx_1 er fremtidig for/senere enn/etter x_2 i tid; x_1 er senere; x_2 er tidligere.\nOgså sekvens, følge, komme etter. x_1 kan overlappe x_2, så lenge x_2 varer i ettertid av x_1. Se og {lidne}, {cabna}, {purci}, {farna}, {lerci}, {ba}.
+bancu	gismu   \n-bac-      \nx_1 strekker seg utenfor/utover grensen av x_2 fra x_3 i egenskap/mengde x_4 (ka/ni)\nPå den andre senden av en grense, men ikke nødvendigvis direkte på andre siden av eller den kortest mulige distansen over grensen. Heller ikke bundet til posisjon i rom. Se og {dukse}, {ragve}, {zmadu}, {kuspe}, {korbi}, {jimte}, {fe'eba'o}.
+bandu	gismu   \n-bad-      \nx_1 (hendelse) beskytter/forsvarer/sikrer x_2 (object/tilstand) fra trussel/fare x_3 (hendelse)\nSikrer også (verb); x_1 motstår x_3; beskyttende skjold/dekke (={badgai}). Se også binra, {ckape}, {fanta}, {fapro}, {lunbe}, {marbi}, {rivbi}, {pulji}, {snura}, {zunti}.
+banfi	gismu      \nx_1 er en amfibie av art x_2\nSe også {danlu} og {respa}.
+bangu	gismu   \n-ban-   \n-bau-      \nx_1 er et språk/en dialekt/språket/dialekten brukt av x_2 for å uttrykke/kommunisere x_3 (si'o/du'u, ingen sitering)\nBrukes også om språk. Se også {cusku}, {gerna}, {jufra}, {natmi}, {slaka}, {tance}, ve {tavla}, {valsi}.
+banli	gismu   \n-bal-   \n-ba'i-      \nx_1 er stor i egenskap x_2 (ka) etter standard x_3\nIndikerer en subjektiv storhet, i sammenligning med den objektive standarden hos {barda}; (synonymer som trolig trenger tanru): ekstraordinær, fantastisk, grandios, utmerket, emminent. Se også {barda}, {nobli}, se {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, se {manci}.
+banro	gismu   \n-ba'o-      \nx_1 vokser/ekspanderer/blir større [en økende utvikling] til størrelse/form x_2 fra x_3\nOgså stigning, utvikling; x_1 blir større; Se også {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
+banxa	gismu   \n-bax-      \nx_1 er en bank eid av/i banksystem x_2 for bankfunksjon(er) x_3 (hendelse)\nSe også {sorcu}, {zarci}, {canja}, {kagni}, {zivle}, {jdini}, {jbera}.
+banzu	gismu   \n-baz-      \nx_1 (objekt) er er nok/tilstrekkelig for formål x_2, under forhold x_3\nSe også {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+bapli	gismu   \n-bap-   \n-bai-      \nx_1 [kraft] (ka) tvinger hendelse x_2 til å skje; x_1 avgjør at egenskap x_2 skal manifestere seg\nEr avhengig av suksess i motsetningen til den fysiske termen som bedre uttykkes med 'danre'. Se også {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo-liste {bai}, {marxa}, {tinsa}, {xarnu}.
+barda	gismu   \n-bra-      \nx_1 er stor i egenskap/dimensjon(er) x_2 (ka) sammenlignet med standard/norm x_3\nSe også {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.
+bargu	gismu   \n-bag-      \nx_1 kurver/krummer seg over/rundt x_2 og er laget av x_3; x_1 er en kurve over/rundt x_2 av materiale x_3\nx_2 trenger ikke være et object, det kan også være et punkt eller et volum. Se også {{cripu}}, {{kruvi}}, {{korcu}}, {{condi}}.
+barja	gismu      \nx_1 er en bar/pub/kro som serverer x_2 til gjester/klientell x_3\nSe også {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, og {pinxe}.
+barna	gismu   \n-ba'a-      \nx_1 er merker/flekker på x_2 av materiale x_3
+bartu	gismu   \n-bar-      \nx_1 er på utsiden av x_2; x_1 er eksternt i forhold til x_2\nSe også {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}, {cmima}, {gubni}, {bancu}, {ze'o}.
+basna	gismu      \nx_1 uthever/tydeliggjør/gir trykk til x_2 ved (handling) x_3\nSe også {pandi} og {ba'e}.
+basti	gismu   \n-bas-      \nx_1 overtar plassen til/er substitutt for/i stedet for x_2 under forhold/situasjon x_3; x_1 er et substitutt\nSe også cmavo-liste {ba'i}, {binra}.
+batci	gismu   \n-bat-      \nx_1 biter/klemmer/trykker på x_2 ved spesifikt punkt x_3 med x_4\nSe også {denci}, {jgalu}, {guska}, {citka}, {jgari}, {zalvi}, {cinza}, {katna}.
+batke	gismu      \nx_1 er en knapp/knott/[håndtak] på/for objekt x_2, med formål/funksjon x_3, laget av materiale x_4\nSe også {jadni}, {bidju}, {balji}, {punji}, {jgari}, {lasna}, {lafti}, {lacpu}.
+bavmi	gismu      \nx_1 er en mengde bygg [korn] av type/stamme x_2\nSe også {gurni}.
+baxso	gismu      \nx_1 reflekterer felles malaysisk og indonesisk kultur/språk i aspekt x_2\nSe også {meljo}, {bindo}.
+bebna	gismu   \n-beb-      \nx_1 er tullete/tåpelig/dum i hendelse/handling/egenskap [dårskap] (ka) x_2; x_1 er et fjols\nSe også {fenki}, {xajmi}, {fliba}, og antonymet {prije}.
+bemro	gismu   \n-bem-   \n-be'o-      \nx_1 reflekterer nord-amerikansk kultur/nasjonalitet/geografi i aspekt x_2\nSe også {kadno}, {merko}, {mexno}, {xispo}.
+bende	gismu   \n-bed-   \n-be'e-      \nx_1 er en gruppe/lag/gjeng bestående av personer x_2 ledet av x_3, organisert for formål/hensikt x_4\n(x_1 er en masse; x_2 er helt spesifisert); også orkester (= {zgibe'e}, {balzgibe'e}). Se også {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
+bengo	gismu   \n-beg-      \nx_1 reflekterer bengalsk/bangladeshisk kultur/nasjonalitet/språk i aspekt x_2\nSe også {xindo}.
+benji	gismu   \n-bej-   \n-be'i-      \nx_1 overfører/sender x_2 til mottaker x_3 fra sender/kilde x_4 via vis/måte/medium x_5\nOgså mulig &quot;deling&quot;; ingen (komplett) fremmedgjøring fra kilde er implisert. Se også {muvdu}, {dunda}, {vecnu}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {bevri}, {mrilu}, {tcana}, {fukpi}, {cusku}, {be'i}.
+bersa	gismu   \n-bes-   \n-be'a-      \nx_1 er sønn av mor/far/foreldre x_2 (ikke nødvendigvis biologisk)\nSe også {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
+berti	gismu   \n-ber-      \nx_1 er nordlig/nord for/på den nordlige siden av x_2 i følge referansepunkt x_3\nSe også {snanu}, {stici}, {stuna}, {farna}.
+besna	gismu   \n-ben-      \nx_1 er en hjerne [kroppsdel] for x_2; [metafor: intelligens, mental kontroll]\nSe også {menli}, {stedu}, {rango}, {pensi}.
+betfu	gismu   \n-bef-   \n-be'u-      \nx_1 er en mage/magen tilhørende x_2\nSe også {cutne}, {livga}, {canti}, {gutra}, {balji}, {midju}.
+betri	gismu   \n-bet-      \nx_1 er en tragedie/katastrofe/er tragisk for x_2\nSe også {badri}, {xlali}, {morsi}, {binra}.
+bevri	gismu   \n-bev-   \n-bei-      \nx_1 bærer/frakter/flytter/transporterer frakt x_2 til x_3 fra x_4 via trasé x_5; x_1 er en bærer\nSe også {marce}, {muvdu}, {benji}, {klama}.
+bidju	gismu      \nx_1 er en perle/liten kule [form] av materiale x_2\nSe også {bolci}, {canre}, {lakse}, {dirgo}.
+bifce	gismu   \n-bic-      \nx_1 er en bie/geitehams/veps av type/familie x_2\nSe også {cinki}, {sfani}, {lakse}.
+bikla	gismu   \n-bik-      \nx_1 pisker/slår/smekker/sveiper (plutselig voldelig bevegelse)\nSe også {skori}, {darxi}.
+bilga	gismu   \n-big-      \nx_1 er bundet til/plikter å/må gjøre/være x_2 ved/etter standard/avtale x_3; x_1 må gjøre x_2\nx_3 er også referansepunkt. Se óg {zifre}, {fuzme}, {flalu}, {javni}, {ei}.
+bilma	gismu   \n-bi'a-      \nx_1 er syk/smittet med symptomer x_2 fra sykdom x_3\nSe óg {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}, {cortu}, {xrani}.
+bilni	gismu   \n-bil-      \nx_1 er miitært/regimentert/sterkt organisert/forberedt etter system x_2 for formål x_3\nOgså paramilitært; soldat i den bredeste forståelsen, ikke bare innskrenket til de trent/organisert som en del av en hær for å forsvare en stat. Se også {jenmi}, {sonci}, {ganzu}, {ciste}, {pulji}, {jamna}, {damba}.
+bindo	gismu   \n-bid-      \nx_1 reflekterer indonesisk kultur/nasjonalitet/språk i aspekt x_2\nSe óg {bindo}, {meljo}, {baxso}
+binra	gismu      \nx_1 forsikrer x_2 (person) mot mot fare x_3 (hendelse) med fordeler x_4\nSe óg {binryve'u} (selge/kjøpe forsikring) {binrydi'a} (forsikringspremie), {bandu}, {cirko}, {betri}, {basti}, {bilma}.
+binxo	gismu   \n-bix-   \n-bi'o-      \nx_1 blir/forandres/konverterer/skifter til x_2 under forutsetninger x_3\nResultativ, ikke nødvendigvis kausal forandring. Se óg {cenba} for ikke-resultativ forandring, {galfi} for kausal forandring, {stika} for ikke-resultativ og ikke-kausal forandring, {zasni}, na {stodi}, {banro}, {farvi}, {lidne}, {pruce}, {jalge}, {zifre}, {nibli}.
+birje	gismu      \nx_1 er laget av/inneholder/er en mengde øl brygget av x_2\nSe også {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+birka	gismu   \n-bir-      \nx_1 er en arm [kroppsdel] på kropp x_2\nÓg albue (= {bircidni}), håndledd (= {xanterjo'e}). Se også {jimca}, {janco}, {xance}, {rebla}.
+birti	gismu   \n-bit-      \nx_1 er sikker/overbevist om at x_2 er sant.\nSe óg {jetnu}, {jinvi}, {krici}, {djuno}, {sruma}, {cilre}, {darlu}, {zgana}, {lifri}, {lacri}, {sitna}, na {smadi}, na {rivbi}, na {senpi}.
+bisli	gismu   \n-bis-      \nx_1 er en mengde av/laget av/inneholder is (frosne krystaller) laget av frossent materiale x_2\nSe óg {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}, {sligu}, {dunja}.
+bitmu	gismu   \n-bim-   \n-bi'u-      \nx_1 er en mur/vegg/gjerde som separerer x_2 og x_3 som er organisert i struktur x_4\nSe óg {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+blabi	gismu   \n-lab-      \nx_1 er hvit/veldig lyst farget [fargeadjektiv]\nKombinasjoner med andre farger, som {labyxu'e} (= rosa), er lyse versjoner av andre farger. Se óg {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+blaci	gismu      \nx_1 er en mengde/laget av/inneholder glass i en komposisjon x_2\nSe óg {kabri}.
+blanu	gismu   \n-bla-      \nx_1 er blå [fargeadjektiv]\nSe óg {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
+blari'o	lujvo      \nc_1 er blågønn (sjøgrønn)
+bliku	gismu   \n-bli-      \nx_1 er en tredimensjonal kube av materiale x_2 med (som stort sett flate) overflater/sider x_3\nSe óg {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}, {bitmu}.
+bloti	gismu   \n-lot-   \n-blo-   \n-lo'i-      \nx_1 er en båt/skip/vanngående fremkomstmiddel/fartøy med last x_2 drevet av x_3\nSe òg {falnu}, {fulta}, {marce}, {jatna}, {sabnu}, {limna}, {bevri}.
+bolci	gismu   \n-bol-   \n-boi-      \nx_1 er en ball/kule/globe av materiale x_2\nSe óg {bliku}, {cukla}, {bidju}, {gunro}, {slanu}.
+bongu	gismu   \n-bog-   \n-bo'u-      \nx_1 er et beindel/skjelett [[kroppsdel] som utfører funksjon x_2 i organisme x_3; [metafor: kalsium]\nx_2 er sannsynligvis abstrakt, kan være struktur/støtte for en kroppsdel. Se óg {greku}, {denci}, {jirna}, {sarji}, {calku}.
+botpi	gismu   \n-bot-   \n-bo'i-      \nx_1 er en flaske/krukke/urne/lukkbar beholder for x_2, laget av materiale x_3 med lokk/kork/topp x_4\nSe óg {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {kabri}, {dakli}, {gacri}.
+boxfo	gismu   \n-bof-   \n-bo'o-      \nx_1 er folie/flate/plate/laken/ark/blad av materiale x_2; x_1 er et bredt og fleksibelt tynt stykke av x_2\nSe óg {plita}, {cinje}, {polje}, {slasi}, {tinci}, {bukpu}, {papri}, {falnu}, {senta}.
+boxna	gismu   \n-bon-   \n-bo'a-      \nx_1 er en bølge [periodisk mønster] i medium x_2, med bølgeform x_3, bølgelengde x_4 og frekvens x_5\nSe óg {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+bradi	gismu      \nx_1 er en fiende/motstander av x_2 i strid x_3\nSe óg {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna}, {jinga}, {xebni}, {xrani}, {daspo}, {bandu}.
+bratu	gismu      \nx_1 er hagl/sludd/frossent regn/fast væske av material/komposisjon x_2\nDette er substansen og ikke hendelsen å falle fra himmelen, som er {carvi}. Se og {snime}, {bisli}, {tcima}.
+brazo	gismu   \n-raz-      \nx_1 reflekterer brasiliansk kultur/nasjonalitet/språk i aspekt x_2\nSe óg {porto}, {ketco}.
+bredi	gismu   \n-red-   \n-bre-      \nx_1 er klar/beredt for x_2 (hendelse)\nSe óg {spaji}, {jukpa}.
+bridi	gismu   \n-bri-      \nx_1 (du'u) er en predikatrelasjon med relasjon x_2 mellom argumenter x_3 (ordnet sett)\nOgså: x_3 er relatert ved relasjon x_2 (x_3 er et bestemt definert sett). Se óg {fancu}, {sumti}.
+brife	gismu   \n-bif-   \n-bi'e-      \nx_1 er en bris/vind/blest fra retning/kant x_2 med fart/hastighet x_3; x_1 blåser fra x_2\nSe og {tcima}, {vacri} og {pagre}.
+briju	gismu   \n-bij-      \nx_1 er et kontor/byrå/arbeidsplass for/med arbeider x_2 på sted/kontorlokale x_3\nSe og {jibri}, {gunka}, {stuzi}, {turni} og {nilce}.
+brito	gismu   \n-rit-      \nx_1 reflekterer britisk kultur/nasjonalitet i aspekt x_2\nSe og {glico}, {skoto}, {merko} og {ropno}.
+brivla	lujvo      \nv_1 er et predikatsord som uttrykker relasjon b_2 mellom argumenter b_3 i språk v_3
+bruna	gismu   \n-bun-   \n-bu'a-      \nx_1 er bror/broderlig til x_2 gjennom bånd/tilknyning/forelder x_3\nx_3 er ikke nødvendigvis biologisk. Se og {mensi}, {tunba}, {tamne}, {famti}, {bersa}, {pendo}.
+budjo	gismu   \n-buj-   \n-bu'o-      \nx_1 reflekterer buddhistisk kultur/religion/tankesett/etikk i aspekt x_2\nSe og {latna}, {lijda}.
+bukpu	gismu   \n-buk-   \n-bu'u-      \nx_1 er tøy/tekstiler/stoff av type/materiale x_2\nSe og {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+bumru	gismu   \n-bum-      \nx_1 er tåkete/skoggete/dekket av vanndamp x_2\nSe og {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+bunda	gismu   \n-bud-      \nx_1 veier x_2 (standard: 1) i lokal ikke-metrisk vektenhet, standardenhet x_3, subenhet x_4\n(Ytterligere subenheter kan legges til som x_5, x_6 ...) Se og {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
+bunre	gismu   \n-bur-   \n-bu'e-      \nx_1 er brun\nSe og {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+burcu	gismu   \n-bru-      \nx_1 er en børste for formål x_2 (hendelse) med bust x_3\nSe og {komcu}, {pinsi}, {penbi}, {spali}, {lumci}.
+burna	gismu      \nx_1 er flau/utilpass/brydd/pinlig berørt over/under forhold x_2 (abstraksjon)\nSe og {cinmo}, {xanka}, {cfipu}, {zungi}, {steba}, {fanza}, na {kufra}.
+citka	gismu   \n-cti-      \nx_1 spiser/eter x_2\nSe også {batci}, {cidja}, {gusta}, {kabri}, {pinxe}, {tunlo}, {xagji} og {xaksu}.
+ckafi	gismu   \n-kaf-      \nx_1 er laget av/inneholder/er en mengde kaffe fra bønne x_2\nBrygg basert på bønner eller frø, altså også sikorikaffe og koffeinfri kaffe. Se også {kafybarja}, {barja}, {cakla} og {tcati}.
+cmaplu	lujvo      \nc_1=d_1 er en holme av materiale d_2 i hav d_3, liten per standard c_3
+co'e	cmavo   \n-com-   \n-co'e-      \nelliptisk/uspesifisert relasjon
+ctuca	gismu   \n-ctu-      \nx_1 lærer publikum x_2 i ideer/metode/lære x_3 (du'u) om tema x_4 med metode/pedagogikk x_5 (hendelse)\nOgså instruktør, lærer, instruere, lære bort, professor, pedagog; (adjective:) x_1/x_5 er pedagogisk. Se også {ckule}, {cilre}, {tadni}.
+cukyxratci	lujvo      \nt_1 er en passer som tegner/risser sirkel c_1
+cusku	gismu   \n-cus-   \n-sku-      \nx_1 (agent) uttrykker/sier x_2 (se du'u/tekst/lu'e-konsept) til publikum/mottaker x_3 via medium x_4
+djica	gismu   \n-dji-      \nx_1 ønsker/vil ha/begjærer/higer etter x_2 (hendelse/tilstand) til formål x_3
+djuno	gismu   \n-jun-   \n-ju'o-      \nx_1 vet opplysning x_2 (du'u) om tema x_3 per epistemologi x_4
+gunka	gismu   \n-gun-   \n-gu'a-      \nx_1 [person] arbeider/jobber med x_2 [aktivitet] med målsetning x_3
+jimpe	gismu   \n-jmi-      \nx_1 forstår faktum/opplysning/sannhet x_2 (du'u) om tema x_3; x_1 forstår (fi) x_3
+karce	gismu      \nx_1 er en bil/automobil/kjøretøy [et behjulet motorkjøretøy] for å frakte x_2, som drives på x_3\nSe også {carce}, {marce}, {sabnu} og {xislu}.
+klama	gismu   \n-kla-      \nx_1 kommer/går/forflytter seg til bestemmelsessted x_2 fra opprinnelsessted x_3 via trasé x_4 ved hjelp av transportmiddel x_5
+livla	gismu   \n-lil-      \nx_1 er drivstoff/energikilde for å drive x_2\nSe også {jelca}, {karce}, {nejni}, {xaksu}.
+makfartci	lujvo      \nx_1 er et kompass med nål x_2\nSe også {maksi}, {terfarnilfrica}
+mantygapci	lujvo      \ng_1 er karbonmonoksid\nJf. {mantyslami}
+mantyslami	lujvo      \ns_1 er maursyre\nSe også {mantygapci}
+matne	gismu      \nx_1 er/inneholder smør/margarin fra kilde x_2
+mutce	gismu   \n-tce-      \nx_1 er svært/veldig/særdeles i egenskap x_2 (ka), i retning av ytterpunkt x_3; x_1 er svært x_3 i x_2
+nejni	gismu   \n-nen-      \nx_1 er energi av type x_2 i form x_3\nSe også {kantu}, {lazni}, {livla}, {marji}, {tarmi}.
+pampe'o	lujvo      \npr_1=pe_1 er kjæreste til pr_2=pe_2\nJf. {prami}, {pendo}, {pampe'o}, {cinse}
+pavyseljirna	lujvo      \nx_1 er en enhjørning
+pilno	gismu   \n-pli-      \nx_1 bruker/benytter x_2 [verktøy, apparat, maskin, agent, materiale] til formål/hensikt x_3
+pinxe	gismu   \n-pix-      \nx_1 (agent) drikker drikke/væske x_2 ut av/fra x_3\nSe også {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+prenu	gismu   \n-pre-      \nx_1 er en person/folk [ikke nødvendigvis menneskelig]; x_1 har personlighet/persona
+selcme	lujvo      \nc_2 kalles c_1 av c_3; c_2 heter c_1
+tavla	gismu   \n-tav-   \n-ta'a-      \nx_1 snakker/taler til x_2 om x_3 på språk x_4
+tisycanti	lujvo      \nt_1=c_1 er pølse med t_2 i
+vudvri	lujvo      \nvr_1=vi_1 er en helt/heltemodig pga. å ha gjort vi_2 per standard vr_2=vi_3
+zbasu	gismu   \n-zba-      \nx_1 lager/setter sammen/bygger/tilvirker/skaper x_2 av materialer/deler/komponenter x_3\nSe også {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+zerjbera	lujvo      \nj_1 tyvlåner j_2 fra kilde j_3, som er galt i følge z_2\nJf. {zerle'a}, {jbera}
+zvati	gismu   \n-zva-      \nx_1 er til stede/foregår i/ved/på x_2 (hendelse/sted)
+artikulere	bacru
+uttale : si	bacru
+bar	barja
+drikke : objekt	barja_2
+kro	barja
+pub	barja
+øl	birje
+blågrønn	blari'o
+sjøgrønn	blari'o
+båt	bloti
+drivkraft for skip	bloti_3
+skip	bloti_1
+skipslast	bloti_2
+vanngående fartøy	bloti
+predikat	bridi_1
+predikatargumenter	bridi_3
+predikatrelasjon	bridi_2
+predikatsord	brivla
+kaffe : drikke	ckafi
+holme	cmaplu
+gjøre	co'e
+holde på med	co'e
+noe	co'e
+være	co'e
+passer : instrument	cukyxratci
+medium : noe en kommuniserer via	cusku_4
+mottaker	cusku_3
+si	cusku
+uttrykk : noe som kommuniseres	cusku_2
+uttrykke	cusku
+begjære	djica
+hige	djica
+ønske : ville	djica
+ville	djica
+vite	djuno
+arbeide	gunka
+arbeidsoppgave	gunka_2
+jobbe	gunka
+målsetning : for en arbeidsoppgave	gunka_3
+forstå	jimpe
+bestemmelsessted	klama_2
+komme	klama
+opprinnelsessted	klama_3
+transportmiddel	klama_5
+trasé	klama_4
+kompass	makfartci
+kompassnål	makfartci_2
+karbonmonoksid	mantygapci
+maursyre	mantyslami
+smør	matne
+smørkilde	matne_2
+meget : i stor grad	mutce
+særdeles	mutce
+svært : i stor grad	mutce
+veldig	mutce
+kjæreste	pampe'o
+benytte	pilno
+bruke	pilno
+drikke : ta til seg væske	pinxe
+drikke : væske	pinxe_2
+folk	prenu
+person	prenu
+hete : ha navnet	selcme
+kalles	selcme
+fortelle	tavla
+snakke	tavla
+tale : snakke	tavla
+taler	tavla_1
+tema	tavla_3
+helt	vudvri
+heltedåd	vudvri_2
+heltemodig	vudvri
+konstruksjon : innretning	zbasu_2
+lage	zbasu
+materiale : i sammensetning	zbasu_3
+sammensette	zbasu
+sette sammen	zbasu
+tilvirke	zbasu
+tyvlåne	zerjbera
+foregå	zvati
+fremmøtt	zvati
+sted	zvati_2
+til stede	zvati

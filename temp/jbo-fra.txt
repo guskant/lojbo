@@ -1,0 +1,366 @@
+altamru	fu'ivla      \nx_1 est une palmier dattier/dattier/Phoenix dactylifera L. (arbre ou fruit) de l'espèce / variété x_2.
+angila	fu'ivla      \nx_1 est une anguille de l'espèce / variété x_2
+bacru	gismu   \n-ba'u-      \nx_1 prononce/dit/émet le son (avec sa bouche) x_2\nN'implique pas de volonté de communiquer ni la présence d'une audience. «Dire» se dit plutôt {cusku}. Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+badna	gismu      \nx_1 est une banane d'espèce x_2
+badri	gismu   \n-dri-      \nx_1 est triste/déprimé à propos de x_2 (abstrait)\nVoir aussi {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
+bafcolkercrakre	lujvo      \nx_1=b_1 sont des pattes/rouflaquettes (mèches de cheveux) portées par x_2=kerf_2=kerl_2=c_3.\n{bakfu} {co} {kerlo} {crane} {kerfa}. La longueur de bafcolkercrakre n'est pas celle de cheveux mais celle de mèche.
+bajra	gismu   \n-baj-      \nx_1 court sur x_2 (surface) en se servant de jambe(s)/membre(s) x_3 ayant comme démarche x_4.\nVoir aussi {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+bakfu	gismu   \n-baf-      \nx_1 est un colis/paquet contenant x_2, maintenu ensemble par x_3.\nVoir aussi {daski}, {dakli}, {tanxe}.
+bakni	gismu   \n-bak-      \nx_1 est un(e) vache/boeuf d'espèce x_2.\nVoir également, {danlu}.
+bakri	gismu      \nx_1 est de la craie provenant de x_2 (source) sous forme x_3.\nVoir également {pinsi}, {blabi}, {jilka}.
+baktu	gismu      \nx_1 est un seau/un contenant profond et solide dont le haut est large, contenant x_2 et fait de x_3.\nVoir également {botpi}, {patxu}, {lante}, {lanka}.
+balji	gismu      \nx_1 est un bulbe [partie du corps] de la plante/espèce x_2; (métaphore: rond, gonflé, bossu)\nVoir également {punli}, {batke}.
+balni	gismu      \nx_1 est un balcon/un rebord/une étagère appartenant à la structure/au bâtiment x_2\nVoir également {kajna}.
+balre	gismu   \n-ba'e-      \nx_1 est une lame de l'outil/l'arme x_2.\nVoir également {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+balvi	gismu   \n-bav-      \nx_1 est dans le futur de/plus tard que/après x_2, en ordre chronologique; x_2 est premier; x_1 est deuxième.\nAussi &quot;suite&quot;, &quot;succéder&quot;, &quot;successeur&quot;, &quot;suivre&quot;, &quot;venir après&quot;. Ne peut s'utiliser que pour l'ordre temporel. A la particularité d'être comme l'aoriste grec, que les deux évènements peuvent être simultanés pendant une partie de leur durée, tant que x1 est au moins en partie dans le futur de x2. La valeur de x2 par defaut est le référentiel spacio-temporel actuel: le présent. Voir également {linde}, {cabna}, {purci}, {farna}.
+bancu	gismu   \n-bac-      \nx_1 dépasse/est au-delà de la limite x_2, de x_3, selon la quantité/la propriété x_4 (ni/ka)\nDe l'autre bord d'une limite, mais pas nécessairement directement, ni en ayant la plus courte distance (tel que {ragve}); De plus, {bancu} n'est pas limité à l'espace; Voir également {dukse}, {ragve}, {zmadu}, {kuspe}.
+bandu	gismu   \n-bad-      \nx_1 (évènement) défend/protège x_2 (objet/état) du danger/péril x_3 (évènement)\nAussi &quot;sécuriser&quot;; x1 résiste à x3; Couvert protecteur/bouclier (= {badgai}); Voir également {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra}, {lunbe}, {pulji}.
+banfi	gismu      \nx_1 est un amphibien de type/sorte/espèce x_2\nVoir également {danlu}, {respa}.
+bangu	gismu   \n-ban-   \n-bau-      \nx_1 est une langue/un langage/un dialecte utilisé par le peuple/les personnes/le êtres capables de la parole x_2 afin d'exprimer l'idée/le fait/l'information x_3 (pas une citation).\nVoir également {tance}, {cusku}, {ve} {tavla}, {valsi}, {gerna}, {jufra}, {natmi}, {slaka}.
+banli	gismu   \n-bal-   \n-ba'i-      \nx_1 est grand/grandiose/magnifique/formidable dans la dimension/au niveau de x_2 (ka) selon le standard x_3.\nIndique une grandeur subjective, comparée à la grandeur objective exprimée par {barda}. Synonyme de: extraordinaire, illustre, impressionnant, auguste, spécial, majestueux, dintingué, splendide, imposant. Implique généralement {zabna}, mais l'utilisation de {mabla} peut entraîner une très différente signification. Voir également {barda}, {nobli}, {se} {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}.
+banro	gismu   \n-ba'o-      \nx_1 grandit/grossit/croît, atteignant la forme/taille x_2 depuis la forme/grandeur initiale x_3\nAussi &quot;développer&quot;; x1 devient plus large/plus grand/plus imposant [développement croissant]. Voir également {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}.
+banxa	gismu   \n-bax-      \nx_1 est une banque appartenant à/utilisant le système x_2, pour la fonction bancaire x_3 (évènement).\nVoir également {sorcu}, {zarci}, {canja}, {kagni}.
+banzu	gismu   \n-baz-      \nx_1 suffit à/est suffisant pour x_2 dans les circonstances x_3.\nVoir également {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.
+bapli	gismu   \n-bap-   \n-bai-      \nx_1 [force] force que l'évènement x_2 se produise.\nAussi &quot;contraindre&quot;. Requiert le succès de la force, pas comme le terme en physique, qui se rapproche davantage de {danro}. Voir également {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, {marxa}, {tinsa}, {xarnu}, {bai}.
+barda	gismu   \n-bra-      \nx_1 est gros/large dans la dimension/propriété x_2 (ka) comparé au standard/la norme x_3.\nVoir également {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.
+bargu	gismu   \n-bag-      \nx_1 forme une arche sur/autour de x_2 et est faite de x_3 (matériau).\nAussi &quot;arc&quot;. x2 n'est pas nécessairement un objet, mais peut être un point ou un volume. Voir également {cripu}, {kruvi}, {korcu}, {condi}.
+barja	gismu      \nx_1 est une taverne/un bar servant boissons (nourriture) x_2 au public x_3.\nVoir également {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {se} {pinxe}.
+barkla	lujvo      \nk_1 sort/va à l'extérieur de k_3=b_2 par chemin k_4, moyen de transport k_5
+barna	gismu   \n-ba'a-      \nx_1 est/sont une/des marque(s)/tache(s) sur x_2, de matériau x_3.\n{ba'armo'a} pour la forme/le motif des marques. Voir également {sinxa}, {pixra}, {se} {ciska}, {se} {prina}.
+bartu	gismu   \n-bar-      \nx_1 est à l'extérieur de x_2.\nVoir également {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+basna	gismu      \nx_1 met de l'emphase sur x_2, par l'action x_3.\nAussi &quot;dire avec force&quot;. Voir également {pandi}.
+basti	gismu   \n-bas-      \nx_1 remplace/est un substitut pour/au lieu de x_2, lorsque x_3 (circonstance).\nAussi, &quot;x1 échange de place avec x2&quot;. Voir également {binra}, {ba'i}.
+batci	gismu   \n-bat-      \nx_1 mord/pince x_2 à (spécifique) x_3 avec (dents/doigts) x_4.\n&quot;Mordre au travers de&quot; = {ka'arbatci}, {batygre}; &quot;pincer&quot; = {cinzybatci}; Voir également {denci}, {jgalu}, {guska}, {citka}.
+batke	gismu      \nx_1 est un bouton/une poignée sur/pour x_2, avec but/utilité x_3, fait de matériau x_4.\nVoir également {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+bausmu	lujvo      \nx_1 est la signification de l'expression linguistique x_2 dans la langue x_3 selon l'interprète x_4\nVoir aussi {smuni}, {bangu}.
+bavmi	gismu      \nx_1 est de l'orge d'espèce/type x_2.\nNoter que quasiment toutes les plantes et tous les animaux n'ont pas plus de deux places, dont la deuxième est l'espèce ou le type; Voir également {gurni}.
+baxso	gismu      \nx_1 reflète la culture/langue malaise/indonésienne, en ce qui concerne l'aspect x_2 (ka).\nNoter que toutes les culturelles n'ont pas plus de deux places, dont la deuxième est l'aspect dans laquelle x1 reflète cette culture; Voir également {meljo}, {bindo}.
+bebna	gismu   \n-beb-      \nx_1 est bête/stupide/ridicule dans l'aspect/la propriété x_2 (ka).\nIl n'y a pas de place &quot;selon xN&quot;, il faudrait alors penser à utiliser ma'i lorsque nécessaire, car être bête n'est pas absolu. Voir également {fenki}, {xajmi}, {prije}, {fliba}.
+bemro	gismu   \n-bem-   \n-be'o-      \nx_1 reflète de/représente/fait partie de la culture/la géographie/la nationalité nord-américaine en ce qui concerne l'aspect x_2.\nVoir également {merko}, {kadno}, {xispo}, {mexno}.
+bende	gismu   \n-bed-   \n-be'e-      \nx_1 est une gang/un groupe/une équipe/une bande composée de personnes x_2, guidé par x_3 ayant pour but x_4.\nx1 est une masse. x2 est un ensemble complètement spécifié. Aussi, &quot;orchestre&quot;: {zgibe'e}, {balzgibe'e}; &quot;entreprise&quot;, pas nécessairement une corporation: {cajbe'e}, {venbe'e}. Voir également {gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}.
+bengo	gismu   \n-beg-      \nx_1 reflète/représente la culture bengale en ce qui concerne l'aspect x_2.\nVoir également {xindo}.
+benji	gismu   \n-bej-   \n-be'i-      \nx_1 transfère/transmet/envoie x_2 à x_3, d'origine x_4 par moyen/média x_5.\nAussi &quot;partager&quot;. Aucune alienation (complète) aliénation de l'origine indiquée est impliquée. x5 &quot;porteur&quot;. Voir également {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {be'i}, {bevri}, {mrilu}, {tcana}.
+bersa	gismu   \n-bes-   \n-be'a-      \nx_1 est le fils de père/mère/parents x_2 (pas nécessairement biologiquement).\nAussi &quot;filial&quot;. Voir également {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
+berti	gismu   \n-ber-      \nx_1 est au nord de/septentional à x_2 selon le référentiel x_3.\nVoir également {snanu}, {stici}, {stuna}, {farna}.
+besna	gismu   \n-ben-      \nx_1 est le cerveau (partie du corps) de x_2.\nPeut référer métaphoriquement à l'intelligence et au contrôle mental. 
+betfu	gismu   \n-bef-   \n-be'u-      \nx_1 est l'abdomen de/la partie inférieure du tronc de x_2.\nPeut référer métaphoriquement à une quelconque section centrale, au milieu. Aussi &quot;estomac&quot;, {djaruntyrango} et système disgestif, {befctirangyci'e}. Voir également {cutne}, {livga}, {canti}.
+betri	gismu   \n-bet-      \nx_1 est un tragédie/un désastre/une catastrophe/tragique pour x_2.\nVoir également {badri}, {xlali}, {morsi}, {binra}.
+bevri	gismu   \n-bev-   \n-bei-      \nx_1 transporte/lève/apporte cargaison/objet x_2 à x_3 de x_4 par chemin x_5.\nQue l'objet cesse d'être placé à x2 est impliqué. Voir également {marce}, {muvdu}, {benji}, {klama}.
+bripre	lujvo      \nx_1 est une personne dont le corps exprime des relations prédicatives.\n{bridi} {prenu}
+catlu	gismu   \n-cta-      \nx_1 regarde / observe x_2
+citka	gismu   \n-cti-      \nx_1 mange x_2
+cizra	gismu   \n-ciz-      \nx_1 est étrange/bizarre/déviant/ selon x_2 à propos de x_3 (ka).\nÉgalement étranger, mystérieux, louche, inhabituel, exotique. Voir aussi {ranxi}, {rirci}, {fange}, {banli}.
+ckaji	gismu   \n-kai-      \nx_1 est caractérisé par/manifeste la propriété x_2 (ka)\nVoir {jarco}, {tcini}, et (tcaci} ainsi que {kai}.
+ckuliki	fu'ivla      \nx_1 est un moustique de l'espèce / variété x_2\nVoir aussi {blusfani}
+cliva	gismu   \n-liv-   \n-li'a-      \nx_1 quitte / s'éloigne de x_2 par la route x_3
+cmalu	gismu   \n-cma-      \nx_1 est de petite dimension [ka]  x_2 d'après x_3 (norme/standard)
+cmene	gismu   \n-cme-   \n-me'e-      \nx_1 (zo / li'u) [une citation] est le nom / titre / étiquette que porte x_2 utilisé par x_3 [une personne/communauté]
+cusku	gismu   \n-cus-   \n-sku-      \nx_1 [agent] exprime/dit x_2 à/pour l'audience x_3 par le moyen d'expression x_4\nVoir également {bacru}, {tavla}, {casnu}, {spuda}, {bangu}, {dapma}, {jufra}, {pinka}, {cu'u}.
+derdembi	lujvo      \nx_1 est une cacahuète/arachide de variété x_2\nbeurre d'arachides = derdembi matne
+detke'u	lujvo      \nLa date [jour,semaine,mois,an] x_1=d_1=k_1 est la répétition de la date [jour,semaine,mois,an] du premier évènement x_2=d_2, pour la x_3=k_3-ème, dans le système x_4.\n{detri} zei {krefu}. krefu_2 correspond à la date du premier évènement, mais la place est omise pour la simplicité. x_4 peut indiquer le système de la répétition: un jour de la semaine/du mois; un jour/mois de l'an (anniversaire); un an du centenaire etc. ex.) li renopavo pi'e pano pi'e re detke'u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris (Le 2 octobre 2014 est le 145e anniversaire de la naissance de Mahatma Gandhi compté selon l'an du calendrier grégorien.)
+digno	experimental gismu      \nx1 est une diagonale segment qui relie deux sommets non-consécutifs x2 (non reliés par un côté) de la polygone/dans référentiel x3\nNe pas utiliser ce mot pour les matrices (cf. {daigno}).
+djuno	gismu   \n-jun-   \n-ju'o-      \nx_1 sait x_2 (du'u) sur le sujet / domaine x_3 par épistémologie x_4
+drani	gismu   \n-dra-      \nx_1 est correct / juste / parfait sous l'aspect (ka) x_2 dans la situation / le contexte x_3 d'après x_4 (norme / standard)
+drata	gismu   \n-dat-      \nx_1 n'est pas la même chose que / est différent de x_2 d'après x_3 (norme/standard)
+ernace	fu'ivla      \nx_1 est un hérisson d'espéce x_2\nvoir aussi {jesymabru}
+fau'u	experimental cmavo   \nCOI      \nJe suis désolé(e)!/Désolé(e)!/Pardonnez-moi!\ncf. {fraxu}, {u'u}.
+fekpre	lujvo      \nx_1 (personne) est fou/dérangé selon le standard x_2
+fragari	fu'ivla      \nx_1 est une fraise d'espèce/variété x_2
+gasnu	gismu   \n-gau-      \nx_1 [entité capable d'exercer un choix librement] est la cause de / fait en sorte que se produise x_2
+gastcica	lujvo      \nx_1 (event) est une illusion qui trompe x_2 (personne) à sentir x_3 (ka) dans le sens x_4 dans les conditions x_5\njai gastcica pour un objet x_1; {ganse} {tcica}; {prugastcica}, {narprugastcica}.
+gerku	gismu   \n-ger-   \n-ge'u-      \nx_1 est un chien(ne) de l'espèce / la race x_2
+gleki	gismu   \n-gek-   \n-gei-      \nx_1 est  heureux / joyeux / content / allègre à propos de x_2 (évènement/état).\nVoir aussi {badri}, {cinmo}.
+gugdrxelvo	fu'ivla      \ng_1 est la Suisse
+jboselkei	lujvo      \nx_1=l_1=s_1 est un jeu de joueur x_2=s_2, reflétant la langue/culture/nationalité lojbanic par l'aspect x_3=l_2.\n{lojbo} {se} {kelci}
+jgari	gismu   \n-jai-      \nx_1 saisit/s'empare de/tient/s'agrippe à x_2 par x_3 (partie de x_1) à l'endroit x_4 (partie de x_2).\npoignée de main (= {xanjaisi'u}); tenir dans les mains (= {xanjai}); poignée (= {jaitci}).  Voir aussi {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
+jgena	gismu   \n-jge-      \nx_1 est un noeud dans/entre x_2 (objet/jo'u-objets).\nVoir aussi {pluja}, {julne}, {lasna}, {skori}.
+jimpe	gismu   \n-jmi-      \nx_1 comprends que le fait x_2 (du'u) est vrai à propos du sujet x_3
+jo'au	experimental cmavo   \nCOI3      \nChanger la version/le dialecte de l'analyseur syntaxique/parser.\n{do'u} est le terminateur élidable. Il faut que la morphologie et la grammmaire de cmevla/sumti/selbri qui suit {jo'au} soient conformées à la version 134 de la page « BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG) » sur le site web lojban.org et la grammaire officielle afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec toutes les versions/tous les dialectes de l'analyseur syntaxique/parser du lojban : par exemple, « jo'au jie bu » ainsi que « jo'au xy xi xei » ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. Exemples de la signification : jo'au cylyly xi papipa (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (la peg actuelle http://camxes.lojban.org/ ) ; jo'au iocixes (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
+jundi	gismu   \n-jud-   \n-ju'i-      \nx_1 est attentif / prête attention à x_2
+kamxada	fu'ivla      \nx_1 est un camarade de x_2, unis dans x_3 (ka).\nPlus impersonel que {pendo}, puisque pendo n'indique pas le lien précis entre les personnes. Pourtant, «kamxada» indique un sentiment union important qui le rend différent de {kansa}.
+karkaju	fu'ivla      \nx_1 est un carcajou de variété x_2
+kenyDAS	cmevla      \nle Canada\nCf. {KEnydys}, {kadnygu'e}, {gugdecu'a}.
+kibyse'u	lujvo      \nx_1=k_1=s_1 est un serveur d'Internet pour un client x_2=k_1=s_2 d'un service x_3=s_3.\n-kib- est un rafsi court du gismu expérimental {kibro}. Voir {samseltcana}_2 pour des nodes de réseau, {kibro} {selfu}, {kibdu'a}, {kibycpa}, {kibyca'o}
+klaku	gismu   \n-kak-      \nx_1 pleure x_2 à propos/à cause de x_3 (évènement/état).\nVoir aussi {badri}, {krixa}.
+ko'oi	experimental cmavo   \nUI6      \nimpératif d'attitude\n``{ko}'' est une abréviation de ''{do} {ko'oi}''; sens large que les mots {au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei}; {minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}
+korgretro	lujvo      \nt_1 contrôle g_1=t_2 qui passe g_2=k_1 vers g_3=k_2 de g_4=k_2\nvoir aussi {natmi}, {pagre}, {jaspu}
+krinu	gismu   \n-rin-   \n-ki'u-      \nx_1 justifie x_2
+kurbarile	fu'ivla      \nx_1 est un/du courbaril d'espèce/de varieté x_2\nGrand arbre césalpinioïde du Brésil et de la Guyane qui donne une résine fragrante qui autrefois était fossilisée en ambre.
+lojbo	gismu   \n-lob-   \n-jbo-      \nx_1 reflette la langue/culture/nationalité lojbanic par l'aspect x_2
+mapra	experimental gismu      \nx_1 est une quantité de duvet / peluche / bourre qui a / est de la composition / la structure / caractérisation / substance x_2 ; x_1 est  pelucheux / duveteux  / moelleux / aéré / flou dans la texture.\nVisuel et tactile. x1 est probablement un peu malléable, mais ce mot n'a pas de telles implications en soi; porosité ou moussité est pas non plus implicite. Pourraient également inclure &quot;moelleux&quot;, &quot;comme le coton&quot;, &quot;comme la laine&quot;; une nature fractale pourrait être présent. Pour flou: il n'est pas nécessairement poilu ou velu, mais doit être doux; pas hérissé (ce qui implique la rigidité, raideur, et dureté). Voyez aussi: {ranti}, {rufsu}, {xutla}, {panje}, {dilnu}, {mapni}, {sunla}, {fonmo}, {jduli}, {pesxu}, {marji}.
+melbi	gismu   \n-mel-   \n-mle-      \nx_1 (objet/idée) est beau pour x_2 (observateur) selon x_3 (norme/standard)
+mlongena	fu'ivla      \nx_1 est une aubergine de variété x_2\nvoir aussi {patlu}, {tamca}, {kapsiku}, {labnyjba}
+mribriju	lujvo      \nx_1=b_1 est un bureau de poste des employés x_2=b_2 au lieu x_3=b_3 pour le système postal x_4=m_5.\nVoir aussi {mrilu}, {briju}.
+mutce	gismu   \n-tce-      \nx_1 est beaucoup/très x_2 (ka) [une propriété], en direction x_3\nx3 est peut utilisé car considéré comme positif par défaut. Voir également {milxe}, {traji}, {banli}, {carmi}, {nutli}, {traji}
+narprugastcica	lujvo      \nx_1 (événement) cause un jamais-vu/jamais-senti/jamais-vécu/jamais-visité à x_2 (personne) dans le sens x_3 dans les conditions x_4\njai narprugastcica pour un objet x_1; {pu}{nai}, {ganse} {tcica}; {gastcica}, {prugastcica}
+nelci	gismu   \n-nel-   \n-nei-      \nx_1 adore / apprécie fortement x_2 [un objet / un état]
+nerkla	lujvo      \nx_1=k_1=n_1 entre dans x_2=k_2=n_2 à partir de x_3=k_3 par x_4=k_4 avec moyen de transport x_5.\nVoir également {nenri}, {klama}.
+odbenu	fu'ivla      \nx_1 est un morse de race x_2
+pavyseljirna	lujvo      \nx_1 est une licorne
+pedysi'u	lujvo      \nx_1=s_1 (groupe) sont des amis (chacun étant l'ami de tout autre).\nVersion {jvajvo} de {simpe'o}. Voir aussi {simxu} et {pendo}.
+pendo	gismu   \n-ped-   \n-pe'o-      \nx_1 est l'ami de x_2
+pensi	gismu   \n-pes-   \n-pei-      \nx_1 penser / réfléchir au concept / sujet x_2
+pilno	gismu   \n-pli-      \nx_1 utilise x_2 [un outil, une machine, du materiel…] dans le but de faire x_3
+pi'u	cmavo   \n-piv-      \n conjonction non-logique:  le produit cartésien/ensemble-produit (de la théorie des ensembles)
+ponse	gismu   \n-pos-   \n-po'e-      \nx_1 possède x_2 selon la loi / les coutumes x_3
+pracmu	lujvo      \nj_1 est le capital (facteurs de production) générant de biens/services j_2=c_2.\ncf. {cupra}, {zbasu}, {jdini}.
+prenu	gismu   \n-pre-      \nx_1 est une personne (pas nécessairement un humain) 
+prugastcica	lujvo      \nx_1 (événement) cause un déjà-vu/déjà-senti/déjà-vécu/déjà-visité à x_2 (personne) dans le sens x_3 dans les conditions x_4\njai prugastcica pour un objet x_1; {pu} {ganse} {tcica}; {gastcica}, {narprugastcica}
+ractu	gismu      \nx_1 est un lapin de l'espèce x_2
+ra'oi	experimental cmavo   \nRAhOI      \nmarqueur de rafsi ; il convertit un rafsi en sumti.\nNotez qu'une espace ou une pause est parfois nécessaire avant et/ou après le rafsi. L'analyseur syntaxique zantufa-0.14 et supérieur analyseront ra'oi comme en selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Exemples: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
+rinka	gismu   \n-rik-   \n-ri'a-      \nx_1 [événement/état] est la cause physique de x_2 [événement/état] à condition que x_3 soit remplie
+roi	cmavo   \n-rom-   \n-roi-   \nROI      \nNom qui se joint à un adjectif numéral pour indiquer qu’un fait s’est produit ou s’est répété; Par défaut de temps.
+selbrisle	lujvo      \nx_1 est une unité de tanru.\n{selbri} {selci}
+selklucipra	lujvo      \nx_1=c_1 est un examen/un test/une épreuve permettant de vérifier si x_2=k_2=c_3 appartient à la culture x_3=k_1=c_2\nVoir également {kulnu} et {cipra}.
+sipna	gismu   \n-sip-      \nx_1 est endormi (adjectif);  x_1 dort\nVoir aussi {senva}, {tatpi}, {cikna}, {sanji}.
+skami	gismu   \n-sam-      \nx_1 est un ordinateur qui a pour but x_2
+sutra	gismu   \n-sut-      \nx_1 est rapide à faire x_2 (une action)
+tapydansu	lujvo      \nx_1=s_1=d_1 fait des claquettes (danse) sur l'accompagnement/musique/rythme x_2=d_2.\n{stapa} {dansu}
+tcidu	gismu   \n-tid-      \nx_1 [entité capable d'exercer un choix librement] lit x_2 [un texte] sur une surface/un document x_3
+tolja'e	lujvo      \nla négation de x_1 (évènement/état) est le résultat de x_2 (évènement/état). x_1 est empêché par x_2.\n{to'e} {jalge}. La phrase « lo nu broda cu tolja'e lo nu brode » signifie la même chose que « lo nu na broda cu jalge lo nu brode. »
+tolki'u	lujvo      \nx_1 (évènement/état) est une raison pour la négation de x_2 (évènement/état). x_1 empêche x_2.\n{to'e} {krinu}. La phrase « lo nu broda cu tolki'u lo nu brode » signifie la même chose que « lo nu broda cu krinu lo nu na brode. »
+tolmu'i	lujvo      \nx_1 (évènement/état) est un motif pour la négation de x_2 (évènement/état), par volition de x_3. x_1 empêche x_2.\n{to'e} {mukti}. La phrase « lo nu broda cu tolmu'i lo nu brode » signifie la même chose que « lo nu broda cu mukti lo nu na brode. »
+tolni'i	lujvo      \nx_1 (évènement/état) implique logiquement la négation de x_2 (évènement/état), selon x_3 (règles/système logique). x_1 empêche x_2.\n{to'e} {nibli}. La phrase « lo nu broda cu tolni'i lo nu brode » signifie la même chose que « lo nu broda cu nibli lo nu na brode. »
+tolri'a	lujvo      \nx_1 (évènement/état) cause physiquement la négation de x_2 (évènement/état). x_1 empêche x_2.\n{to'e} {rinka}. La phrase « lo nu broda cu tolri'a lo nu brode » signifie la même chose que « lo nu broda cu rinka lo nu na brode. »
+valsi	gismu   \n-val-   \n-vla-      \nx_1 (citation) [zo] est un mot qui signifie x_2 dans la langue x_3
+vecnu	gismu   \n-ven-   \n-ve'u-      \nx_1 vend x_2 [bien/service/matériel/événement/propriété] au consommateur x_3 pour prix/montant/valeur x_4.\nx1 est un vendeur. &quot;x3 achète x2 de x1&quot; {terve'u}. &quot;x1 est le prix de x2 pour x3&quot; {velve'u}. {fitselve'u} &quot;en vente&quot;. x2 peut être un objet, une masse ou un événement. En particulier, tout achat est un achat de la propriété de posséder l'objet de l'achat. Voir également {prali}, {zarci}, {vamji}, {jdima}, {fepni}, {friti}, {jerna}, {rupnu}.
+viska	gismu   \n-vis-   \n-vi'a-      \nx_1 voit / aperçoit x_2 sous les conditions x_3
+vlipa	gismu   \n-vli-      \nx_1 a le pouvoir de faire en sorte que x_2 sous conditions x_3; x_1 est puissant aspect x_2 sous x_3
+volsmacu	lujvo      \ns_1=v_1 est une chauve-souris (un mammifère volant de l'ordre des chiroptères) de l'espèce / la race s_2
+xabju	gismu   \n-xa'u-      \nx_1 habite / réside / demeure au domicile / foyer / nid x_2
+xaicku	lujvo      \nx_1 est un livre détérioré/site web attaqué par x_2 selon la propriété x_3 (ka).\nVoir aussi {cukta}, {xrani}.
+xanto	gismu      \nx_1 est un éléphant d'espèce x_2\nvoir aussi {mabru}, {barda}
+xruba	gismu   \n-xub-      \nx_1 est une polygonacée/oseille/parelle/rhubarbe / un sarrasin de genre x_2
+zdani	gismu   \n-zda-      \nx_1 est le lieu de résidence (maison, tanière, nid, abri…) de x_2
+zukte	gismu   \n-zuk-   \n-zu'e-      \nx_1 [entité capable d'exercer un choix librement] fait (une action) x_2 dans le but d'obtenir / faire x_3
++COI fau'u	Je suis désolé(e)!/Désolé(e)!/Pardonnez-moi!\ncf. {fraxu}, {u'u}.
++COI3 jo'au	Changer la version/le dialecte de l'analyseur syntaxique/parser.\n{do'u} est le terminateur élidable. Il faut que la morphologie et la grammmaire de cmevla/sumti/selbri qui suit {jo'au} soient conformées à la version 134 de la page « BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG) » sur le site web lojban.org et la grammaire officielle afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec toutes les versions/tous les dialectes de l'analyseur syntaxique/parser du lojban : par exemple, « jo'au jie bu » ainsi que « jo'au xy xi xei » ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. Exemples de la signification : jo'au cylyly xi papipa (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (la peg actuelle http://camxes.lojban.org/ ) ; jo'au iocixes (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
++UI6 ko'oi	impératif d'attitude\n``{ko}'' est une abréviation de ''{do} {ko'oi}''; sens large que les mots {au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei}; {minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}
++RAhOI ra'oi	marqueur de rafsi ; il convertit un rafsi en sumti.\nNotez qu'une espace ou une pause est parfois nécessaire avant et/ou après le rafsi. L'analyseur syntaxique zantufa-0.14 et supérieur analyseront ra'oi comme en selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Exemples: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
++ROI roi	Nom qui se joint à un adjectif numéral pour indiquer qu’un fait s’est produit ou s’est répété; Par défaut de temps.\n
+dattier : fruit/arbre	altamru
+palmier dattier : fruit/arbre	altamru
+anguille : animal	angila
+émetteur : celui qui émet un son avec sa bouche	bacru_1
+émettre : émettre un son avec la bouche	bacru
+prononcer	bacru
+son : son émis avec la bouche	bacru_2
+banane : banane fruit ou banane plantain (utilisée comme un légume)	badna_1
+espèce de banane : espèce de la banane ; par exemple : Gros Michel (Canaries), Grande Naine (Cameroun, Antilles), Payo (Antilles, Amérique centrale), Cavendish (Côte-d'Ivoire)	badna_2
+déprimé	badri
+malheureux : triste	badri
+triste	badri
+pattes : mèches de cheveux	bafcolkercrakre_1
+portant des pattes : mèches de cheveux	bafcolkercrakre_2
+rouflaquettes : mèches de cheveux	bafcolkercrakre
+courir	bajra
+colis	bakfu
+paquet	bakfu
+boeuf	bakni
+vache	bakni
+craie	bakri
+seau	baktu
+bosse	balji
+bulbe	balji
+balcon	balni
+étagère	balni
+rebord	balni
+lame : d'un couteau	balre
+après : le temps	balvi
+futur	balvi
+plus tard	balvi
+excéder	bancu
+défendre	bandu
+protéger	bandu
+sécuriser	bandu
+amphibien	banfi
+grenouille	banfi
+dialecte	bangu
+langage	bangu
+langue	bangu
+formidable	banli
+grandiose	banli
+magnifique	banli
+croître	banro
+grandir	banro
+se développer	banro
+banque	banxa
+institution financiaire	banxa
+suffire	banzu
+effective : ayant la capacité de produire des effets	bapli
+effet : résultat	bapli_2
+force	bapli
+gros	barda
+large	barda
+arche : forme	bargu
+bar : restaurant	barja
+taverne	barja
+sortir	barkla
+marque	barna
+tache	barna
+dehors	bartu
+extérieur	bartu
+mettre de l'emphase	basna
+échanger : mutuellement	basti
+remplacer	basti
+se substituer	basti
+mordre	batci
+pincer	batci
+bouton	batke
+poignée	batke
+signification : d'une expression linguistique	bausmu
+orge	bavmi
+indonésienne	baxso
+malais	baxso
+bête : idiot	bebna
+idiot	bebna
+nord-américain	bemro
+équipe	bende
+gang	bende
+groupe	bende
+leader	bende_3
+bengale	bengo
+envoyer	benji
+transférer	benji
+transmettre	benji
+fils	bersa
+nord	berti
+septentional	berti
+cerveau	besna
+abdomen	betfu
+catastrophe	betri
+désastre	betri
+tragédie : événement	betri
+apporter	bevri
+transporter	bevri
+observer	catlu
+regarder	catlu
+manger	citka
+étrange	cizra
+caractéristique	ckaji
+propriété	ckaji
+moustique	ckuliki
+quitter	cliva
+s'éloigner	cliva
+petit	cmalu
+étiquette	cmene
+nom	cmene
+titre	cmene
+audience : receveur de l'information	cusku_3
+dire	cusku
+expression : information exprimée	cusku_2
+exprimer	cusku
+exprimeur	cusku_1
+médium : format de communication	cusku_4
+mentionner	cusku
+arachide	derdembi
+cacahuète	derdembi_1
+anniversaire	detke'u
+centenaire	detke'u
+millénaire	detke'u
+diagonale : segment de ligne ou une variété linéaire de dimension inférieure; géométrique	digno
+connaître	djuno
+savoir	djuno
+correct	drani
+juste	drani
+parfait	drani
+autre	drata
+différent	drata
+pas la même chose	drata
+hérisson	ernace
+désolé : vocatif	fau'u
+dérangé	fekpre
+fou : personne	fekpre
+fraise : fruit	fragari_1
+causer	gasnu
+faire en sorte	gasnu
+illusion	gastcica_1
+chien : animal	gerku
+chienne : animal	gerku
+race : de chien(ne)	gerku
+heureux	gleki
+saisir	jgari
+tenir : saisir	jgari
+noeud	jgena_1
+comprendre	jimpe
+dialecte d'analyseur syntaxique du lojban	jo'au
+version d'analyseur syntaxique du lojban	jo'au
+attentif	jundi
+prêter attention	jundi
+camarade	kamxada
+carcajou	karkaju
+Canada	kenyDAS
+client : Internet	kibyse'u_2
+serveur : Internet	kibyse'u_1
+service : Internet	kibyse'u_3
+pleurer	klaku
+impératif : d'attitude	ko'oi
+douane	korgretro
+justifier	krinu
+courbaril	kurbarile
+lojban	lojbo
+bourre : duvet, peluche	mapra
+duvet : peluche, bourre	mapra
+duveteux : moelleux, pelucheux	mapra
+moelleux : duveteux	mapra
+peluche : duvet	mapra
+pelucheux : duveteux, moelleux	mapra
+beau	melbi
+belle	melbi
+joli	melbi
+bureau de poste	mribriju_1
+employé des postes	mribriju_2
+poste : bureau de poste	mribriju
+jamais-senti	narprugastcica
+jamais-vécu	narprugastcica
+jamais-visité	narprugastcica
+jamais-vu	narprugastcica
+adorer	nelci
+apprécier	nelci
+entrer	nerkla
+morse : animal	odbenu
+licorne	pavyseljirna
+ami	pedysi'u
+amitié	pendo
+penser	pensi
+réfléchir	pensi
+outil	pilno
+utiliser	pilno
+ensemble-produit : théorie des ensembles	pi'u
+ produit cartésien : théorie des ensembles	pi'u
+posséder	ponse
+capital : facteurs du production	pracmu_1
+personne	prenu
+déjà-senti	prugastcica
+déjà-vécu	prugastcica
+déjà-visité	prugastcica
+déjà-vu	prugastcica
+lapin	ractu
+rafsi	ra'oi
+cause	rinka
+fois : nom commun	roi
+unité de tanru	selbrisle_1
+examen de culture	selklucipra
+dormir	sipna
+ordinateur	skami
+rapide	sutra
+vite	sutra
+claquettes : danse	tapydansu
+danseur de claquettes	tapydansu_1
+rythme/musique de claquettes	tapydansu_2
+lecture	tcidu
+lire	tcidu
+signifier	valsi
+traduire	valsi
+acheter	vecnu
+vendre	vecnu
+apercevoir	viska
+voir	viska
+habiter	xabju
+résider	xabju
+polygonacée	xruba
+domicile	zdani
+maison	zdani
+nid	zdani
+résidance	zdani
+Faire	zukte

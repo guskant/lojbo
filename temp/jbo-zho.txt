@@ -1,0 +1,1961 @@
+a	cmavo   \nA      \n逻辑连词：或 （置于sumti之后）
+a'a	cmavo   \nUI1      \n态度词：刻意-不刻意-避免\n也可指“专心”。相关{jundi},{rivbi}
+a'e	cmavo   \nUI1      \n态度词：警惕-精疲力尽\n相关{sanji},{cikna},{tatpi}
+agbakate	fu'ivla      \nx_1是x_2品种的鳄梨（果或果树）
+ai	cmavo   \nUI1      \n态度词：打算-无决定-拒绝\n相关{termu'i},{terzu'e},{seljdi}
+a'i	cmavo   \nUI1      \n态度词：努力-没有特别努力-停止/休息\n相关{gunka},{troci}
+alfabeta	fu'ivla      \nx_1是用来拼写x_2语言的字母表\n参见：{selyle'u}、{fu'arka}、{anbani}、{abgida}、{abjadu}、{snile'u}
+alzaitu	fu'ivla      \nx_1是x_2品种的橄榄（或橄榄树）
+angeli	fu'ivla      \nx_1是天使
+angila	fu'ivla      \nx_1是x_2品种的鳗鱼/鳝鱼\n参见：同义词{sincykaifi'e}
+a'o	cmavo   \nUI1      \n态度词：希望-绝望\n相关{pacna}
+a'orne	fu'ivla      \nx_1是x_2品种的枫树/槭树\n参见：同义词{ricrxacero}，{na'itsi}（翼果）
+arktik	cmevla      \n北冰洋
+asycy'i'is	cmevla      \nASCII码\n美国信息交换标准码
+au	cmavo   \nUI1      \n态度词：渴望-无所谓-勉强/不情愿\n相关{djica}
+a'u	cmavo   \nUI1      \n态度词：兴趣-无兴趣-反感\n相关{cinri},{selcni}
+auskalerik	cmevla      \n巴斯克\n和西班牙紧密相关的一个自治地区
+babilon	cmevla      \n巴比伦
+bacru	gismu   \n-ba'u-      \nx_1 说出(发声) x_2\n并不暗指存在交流或听众；参见 {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}
+badna	gismu      \nx_1 是属于种类 x_2 的香蕉\n参见 {grute}
+badri	gismu   \n-dri-      \nx_1因为x_2（某件事或某种抽象的东西）感到不开心、郁闷、闷闷不乐、沮丧、消沉、灰心丧气、哀愁、悲哀、伤心、悲伤或者悲痛\n参见{klaku}、{gleki}、{betri}、{cinmo}、{junri}、{uinai}
+bafcolkercrakre	lujvo      \nx_1=b_1 是 x_2=kerf_2=kerl_2=c_3 的鬓角/鬓脚\n{bakfu} {co} {kerlo} {crane} {kerfa}. bafcolkercrakre 的长短指一侧鬓角的,不指一条毛发的.
+bajra	gismu   \n-baj-      \nx_1在x_2路面上用身体上的x_3以x_4的步态走路或跑步\n参见{cadzu}、{klama}、{litru}、{stapa}、{plipe}、{cpare}
+bakfu	gismu   \n-baf-      \nx_1是把x_2用x_3包装/系起来的一束、一捆、一簇、一串、一丛、一包、一组、一块或者一群东西\n参见{daski}（口袋）、{dakli}（包）、{tanxe}（盒子）
+bakni	gismu   \n-bak-      \nx_1是牛，属于种类x_2\n参见 {danlu}
+bakri	gismu      \nx_1是白垩（粉笔），或由白垩组成/含有白垩，来自来源x_2，以结构/形式x_3构成\n参见 {pinsi}, {blabi}, {jilka}.
+baktu	gismu      \nx_1是瓶/罐/瓮（固体，上开口的容器），装有x_2，由材料x_3构成\n参见 {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+balji	gismu      \nx_1是球茎，位于植物体/植物种类x_2上\n参见 {punli}, {batke}.
+balnema	fu'ivla      \nx_1是长须鲸，属于种类x_2\n参见 {orka}
+balni	gismu      \nx_1是建筑物x_2上的阳台/突出的部分\n参见 {kajna}.
+balre	gismu   \n-ba'e-      \nx_1是刀锋/刃，位于工具/武器x_2上\n参见 {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.
+balvi	gismu   \n-bav-      \n在时间顺序上，x_1在x_2之后/未来；x_1是后来的；x_2是过去的\n也指“后续”；只用于形容时间（其它的顺序比较使用{lidne}）；参见 {lidne}, {cabna}, {purci}, {farna}
+bambu	experimental gismu      \nx_1是竹，属于种类x_2\n参见{spati},{tricu}
+bancu	gismu   \n-bac-      \nx_1超越/超过限制/界限x_2，由原来的位置/水平x_3，在数量/性质x_4（ka/ni）上\n不一定是物理上的超越；不一定超越过程中会交叉/相遇；参见 {dukse}, {ragve}, {zmadu}, {kuspe}
+bandu	gismu   \n-bad-      \nx_1（事件）守卫/保护x_2（物体/形态），免受x_3（事件）的威胁/伤害/潜在攻击\n也指“拯救”；x_1抵抗x_3；护盾={badgai}；参见 {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra}, {lunbe}, {pulji}
+banfi	gismu      \nx_1是两栖动物，属于物种x_2\n参见 {danlu}, {respa}.
+bangrnaidjiria	obsolete fu'ivla      \nx_1是x_2用来表示/交流x_3（不是说的话本身）的尼日利亚英语说法\n由{bangu}（语言）、{naidjiria}（尼日利亚）组成。参见：{gliban}（英语，专名）、{glibau}（英语）、{gliglibau}（英国英语）、{merbau}（美国英语）、{xinglibau}（印度英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{kisyglibau}（巴基斯坦英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+bangrxangu	fu'ivla      \nx_1 是朝鲜语
+bangu	gismu   \n-ban-   \n-bau-      \nx_1 是语言/方言, 被x_2 使用, 用于表达/交流x_3 .
+banli	gismu   \n-bal-   \n-ba'i-      \nx_1是伟大的，在性质x_2（ka）上，依据标准x_3\n此伟大是指主观上，客观上的“大”={barda}；也指（可能需要tanru）：了不起/太厉害了等；参见 {barda}, {nobli}, {se} {sinma}, {pluja}, {misno}, {vajni}, {fasnu}, {cizra}, {traji}, {mutce}, {se} {manci}
+banro	gismu   \n-ba'o-      \nx_1成长/扩张到规模/面积/大小x_2，由原规模/面积/大小x_3\n也指：上升/发展；参见{farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}
+banxa	gismu   \n-bax-      \nx_1是银行，被x_2拥有/处于银行系统x_2中，目的是为了实现银行业务/目的x_3（事件）\n参见 {sorcu}, {zarci}, {canja}, {kagni}.
+banzu	gismu   \n-baz-      \nx_1 (对象)是足够/充分的，为目的 x_2 ,在境况 x_3下.
+bapli	gismu   \n-bap-   \n-bai-      \nx_1（力，ka）强迫/逼迫事件x_2发生；x_1决定了性质x_2的出现/显现\n也指：驱使，但需要成功驱使；参见 {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, {bai}, {marxa}, {tinsa}, {xarnu}
+barda	gismu   \n-bra-      \nx_1 是大的，从 x_2 的角度来说，与 x_3 相比。\n参见： {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.
+bargu	gismu   \n-bag-      \nx_1是向着/绕着x_2弯曲的，并且由x_3制造；x_1是绕x_2的拱形/弓形，且由x_3制造\n也指：弧； x_2不必要是指实际的物体，也可能指一个点；参见 {cripu}, {kruvi}, {korcu}, {condi}
+barja	gismu      \nx_1是酒馆/酒吧，提供x_2服务给顾客x_3\n参见 {gusta}, {birje}, {jikru}, {sanmi}, {vanju}, {xotli}, {ckafi}, {se} {pinxe}.
+barna	gismu   \n-ba'a-      \nx_1 是标记/斑点，位于x_2上，由x_3材料构成\n图案标记={ba'armo'a}；参见 {sinxa}, {pixra}, {se} {ciska}, {se} {prina}
+barselonas	cmevla      \n巴塞罗那
+bartu	gismu   \n-bar-      \nx_1在x_2之外；x_1是x_2外部的\n参见 {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.
+basfa	experimental gismu      \nx_1是公共汽车，为了运输x_2，在媒介/道路x_3上，由x_4驱动\n即：{sorprekarce}； {pavloibasfa}=单层巴士； {relyloibasfa}=双层巴士； {jonbasfa}=节式巴士（有多节车厢）
+basna	gismu      \nx_1强调/重点论述什么给x_2通过行动/行为x_3\n也指音节的“重读”；参见 {pandi}
+basti	gismu   \n-bas-      \nx_1取代/替代x_2，在环境/条件/场景x_3中；x_1是替代品\n也指：x_1与x_2交换位置；参见 {ba'i}, {binra}
+batci	gismu   \n-bat-      \nx_1咬/钳/勒紧x_2，在特定的部位x_3，用的工具/道具是x_4\n咬穿={ka'arbatci}/{batygre}；勒/钳={cinzybatci}；参见 {denci}, {jgalu}, {guska}, {citka}.
+batke	gismu      \nx_1是纽扣/扣子，位于物体x_2上/属于物体x_2，为了目的/功能x_3，由材料x_4制成\n参见 {jadni}, {balji}, {punji}, {jgari}, {lasna}.
+bavmi	gismu      \nx_1是一定数量的大麦，属于种族/种类x_2\n参见{gurni}
+baxso	gismu      \nx_1是有关于马来—印度尼西亚共同语言/文化的内容/事物，在x_2方面\n参见 {meljo}, {bindo}.
+bebna	gismu   \n-beb-      \nx_1是愚蠢的，在时间/行为/性质（ka）x_2上；x_1是个傻瓜/白痴/弱智\n参见 {fenki}, {xajmi}, {prije}, {fliba}.
+beiDJIN	cmevla      \n北京
+bekpi	experimental gismu      \nx_1是背部，属于身体部位x_2\n此背部不一定是在身体部位的后面，而应该由身体本身的结构决定；对照参见{trixe},{cutne}
+bemro	gismu   \n-bem-   \n-be'o-      \nx_1是关于北美洲文化/所在地/地理特性等的事物，在x_2方面\n参见 {merko}, {kadno}, {xispo}, {mexno}
+bende	gismu   \n-bed-   \n-be'e-      \nx_1是一个团队/队伍/帮派/组织，由成员x_2构成，被x_3指挥/带领/领导，为了目的x_4而存在/组建\nx_2是一个完全确定的集合；乐队={zgibe'e}；x_3可以指乐队指挥，不一定指乐队经理人（={cajbe'e})；参见{gunma}, {girzu}, {dansu}, {jatna}, {jitro}, {kagni}, {kamni}, {minde}, {ralju}, {cecmu}, {gidva}
+bengo	gismu   \n-beg-      \nx_1是关于孟加拉的/孟加拉国的文化/国家/语言等的事物，在x_2方面\n参见{xindo}
+benji	gismu   \n-bej-   \n-be'i-      \nx_1赠送/传递/发送/传送x_2给接受者x_3，来源于x_4，通过方法/媒介/载体x_5\n也指“分享”；不暗示所有权的转移；参见 {muvdu}, {dunda}, {mrilu}, {nirna}, {xruti}, {cradi}, {tivni}, {preja}, {be'i}, {bevri}, {mrilu}, {tcana}
+benzo	experimental gismu      \nx_1 是 x_2 类型的芳香烃
+bersa	gismu   \n-bes-   \n-be'a-      \nx_1是x_2的儿子（不必要指生物学上的关系）\n参见 {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}
+berti	gismu   \n-ber-      \nx_1是在x_2北方/x_1是北方，方向的参考系为x_3\n参见 {snanu}, {stici}, {stuna}, {farna}
+besna	gismu   \n-ben-      \nx_1是x_2的大脑/脑组织；（可喻为：智力，意志力等）\n参见 {menli}, {stedu}, {rango}, {pensi}
+besto	experimental gismu      \nx_1穿上具有隐喻性质的石棉防护服x_2，抵抗/防止火焰/焦点x_3，在x_4上燃烧/焦点的主题是x_4，来自x_5，他不同意发布信息x6，因为x7，却没意识到此海报本来是要发给x8而不是发给x9（默认jboste），在那里信息被发布以回应邮件x_10，邮件的作者希望结构词类x_11（默认SE）能被扩展到能简明地表达x_12位，该位属于brivla x_13（默认besto），其具有位结构x_14和许多的位，因为一股施虐的心血来潮x_15从brivla制造者x_16的脑中汹涌而出，这个制造者还制造了brivla x_17，其位结构为x_18，使用了许多cmavo x_19（默认zi'o）对此brivla进行加强，目的是为了使brivla x_13更有用，当基于标准x_20时，并且希望他们从未听说besto这个词，因为原因x_21，却未意识到因为原因x_22，它被讽刺挖苦般地提议出来，因为无聊x_23，此无聊属于人x_24，他/她建议以此更好地对抗评判x_25，因为这是相当有趣的，基于标准x_26，但他/她仍然希望它能拥有和x_27（默认du）同样多的位，且似乎也搅和进基于认知伦的sumti x_29之中了，因为他/她知道gismu x_30（默认besto）有基于句子x_31的位结构定义且被用于gismu x_32中的认知论sumti是基于认知论x_33使用的，尽管事实上x_34有用于besto的位x_35（默认1）到位x_36（默认x7）的方法且希望这不会是过于地长而愚蠢的笑话，甚至比笑话x_37还长，比笑话x_38还蠢，但仍然受到了x_39的喜爱——此笑话说关于他们的x_40，基于x_41的见解——但却像根本毫无趣味一样见不到，他倒是很清楚x_43用过这个gismu besto，因为x_45\n一个用于搞笑的 gismu， 来自 http://mw.lojban.org/index.php?title=besto 注意：x_44因为某种原因遗失了
+betfu	gismu   \n-bef-   \n-be'u-      \nx_1是x_2的腹部/肚子\n胃={djaruntyrango};消化道={befctirango}/{befctirangyci'e}，参见{cutne}, {livga}, {canti}
+betka	experimental gismu      \nx_1是甜菜，属于种类x_2
+betri	gismu   \n-bet-      \nx_1是悲剧/灾难/悲剧性的，对于x_2来说\n参见 {badri}, {xlali}, {morsi}, {binra}
+bevri	gismu   \n-bev-   \n-bei-      \nx_1带着/携带/运输x_2给x_3，来自x_4，通过路径x_5\n暗示了所有权是从x_2转移到x_3的，参见 {marce}, {muvdu}, {benji}, {klama}
+bidgug	cmevla      \n印度尼西亚\n简称“印尼”
+bidju	gismu      \nx_1是珠子/卵石/卵球状的物体，由材料x_2构成\n参见 {bolci}, {canre}, {lakse}, {dirgo}.
+bifce	gismu   \n-bic-      \nx_1是蜂，属于物种/种类x_2\n参见 {cinki}, {sfani}, {lakse}.
+bikla	gismu   \n-bik-      \nx_1抽打（突然的暴力行为）\n参见 {skori}, {darxi}.
+bilga	gismu   \n-big-      \nx_1有义务/责任做/成为x_2，基于标准/协议x_3；x_1必须做x_2\n参见 {zifre},{fuzme}
+bilma	gismu   \n-bi'a-      \nx_1生病/虚弱，带有症状x_2，来自疾病x_3\n参见 {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}
+bilni	gismu   \n-bil-      \nx_1是军事化的/严格管制的/有力组织的，被系统x_2，为了目的x_3\n也指：准军事化的；广义上的“军人”不一定是指为了保卫某个国家的军队的一部分（{bilpre}）；参见 {jenmi},{force}, {sonci}, {ganzu}, {pulji}.
+bindo	gismu   \n-bid-      \nx_1是有关于印度尼西亚共同语言/文化的内容/事物，在x_2方面\n参见 {bindo}, {meljo}, {baxso}.
+binra	gismu      \nx_1确保x_2（人）抵抗危险x_3（事件），有益于/有利于x_4（事件）\n也指：x_3损失/损害；参见{bandu}, {cirko}, {betri}, {basti}, {bilma}
+binxo	gismu   \n-bix-   \n-bi'o-      \nx_1 成为/变为/转换/变形为x_2, 在条件x_3的情况下.
+birje	gismu      \nx_1是啤酒，由酿造x_2得来\n参见 {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.
+birka	gismu   \n-bir-      \nx_1是x_2的胳膊/手臂\n手肘={bircidni}；手腕={xanterjo'e}；参见 {jimca}, {janco}, {xance}, {rebla}
+birti	gismu   \n-bit-      \nx_1 肯定 x_2 成立。\n参见： {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}。
+bisli	gismu   \n-bis-      \nx_1是冰/由冰构成，冰的组分/材料包括x_2；（注：此处的冰并不一定指水结晶而成的，也可以指其他化合物降温结晶而成的固体，如二氧化碳结晶形成干冰。）\n组分包括x_2，但x_2可以不是该冰的全部化合物；参见 {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}
+bitmu	gismu   \n-bim-   \n-bi'u-      \nx_1是隔开x_2和x_3的墙/篱，在结构x_4上\n参见 {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}.
+blabi	gismu   \n-lab-      \nx_1是白色的/颜色非常淡的\n可以用来形容其他颜色词，表示淡化的含义，如：粉红={labyxu'e}/{xunblabi}；参见{kandi}, {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+blabruk	cmevla      \n白俄罗斯
+blaci	gismu      \nx_1是玻璃/玻璃制品/含有玻璃，玻璃的物质构成为x_2\n参见{kabri}
+blanu	gismu   \n-bla-      \nx_1是蓝色的\n参见：{skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}。
+bliku	gismu   \n-bli-      \nx_1是块状物（三维结构的物体），有材料x_2构成，包含面/表面/侧面x_3\nx_3的面应包括面数，面积，形状等；（平面）多面体={pitybli}；正多面体={kubybli},{blikybli}；土砖={kitybli}；参见{tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
+bloti	gismu   \n-lot-   \n-blo-   \n-lo'i-      \nx_1 是 艇/舟/船/载具 ,承载x_2, 由 x_3推进.\n参考:{falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
+bluji	experimental gismu      \nx_1是牛仔裤\n参见 {de'emni}, {bukpu}, {palku}, {taxfu}
+bolci	gismu   \n-bol-   \n-boi-      \nx_1是球，由材料x_2构成；x_1是由x_2构成的球状物体\n参见 {bliku}, {cukla}, {bidju}, {gunro}.
+bongu	gismu   \n-bog-   \n-bo'u-      \nx_1是骨，功能是x_2，在身体x_3中\n软骨={ranbo'u}；骷髅骨={bogygreku}；参见{greku}, {denci}, {jirna}, {sarji}.
+bosnan	cmevla      \n波斯尼亚\n前南斯拉夫成员
+botpi	gismu   \n-bot-   \n-bo'i-      \nx_1是瓶/罐/壶（可关闭的容器），装有x_2，由材料x_3构成，带有盖子x_4\n参见 {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.
+boxfo	gismu   \n-bof-   \n-bo'o-      \nx_1是薄片/片状的（二维的，易折叠弯曲），由材料x_2构成\n参见 {plita}, {cinje}, {polje}, {slasi}, {tinci}.
+boxna	gismu   \n-bon-   \n-bo'a-      \nx_1是波，传播媒介为x_2，波形为x_3，波长为x_4，频率为x_5\n参见 {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}.
+bradi	gismu      \nx_1是与x_2敌对的/是x_2的敌人，两者为x_3争斗\n参见 {damba}, {jamna}, {darlu}, {pendo}, {fapro}, {gunta}, {sarji}, {jivna}, {jinga}.
+bratu	gismu      \nx_1是冰雹/冻雨/固态降水，构成中包括物质x_2\n指物质本身，而不是下冰雹的过程；参见 {carvi}, {snime}, {bisli}, {tcima}.
+brazilias	obsolete cmevla      \n巴西
+brazo	gismu   \n-raz-      \nx_1是关于巴西文化/国家/语言等的事物，在x_2方面\n参见 {porto}, {ketco}.
+bredi	gismu   \n-red-   \n-bre-      \nx_1为x_2（事物）做好了准备/准备充分\n参见 {spaji}, {jukpa}.
+bridi	gismu   \n-bri-      \nx_1（du'u）是含有联系/关系x_2的谓语关系，基于论据x_3（集合/序列）\n也指：x_3（完整序列）是以关系x_2联系的；参见 {sumti}, {fancu}.
+brife	gismu   \n-bif-   \n-bi'e-      \nx_1是风，来自方向x_2，风速为x_3；x_1由方向x_2吹来\n参见 {tcima}.
+briju	gismu   \n-bij-      \nx_1是x_2的办公室/工作地点，位于地点x_3\n参见 {jibri}, {gunka}.
+bripre	lujvo      \nx_1 是一个人，用身体表达谓语关系的\n{bridi} {prenu}
+brito	gismu   \n-rit-      \nx_1是关于英国/英联邦的文化/国家等的事物，在x_2方面\n参见 {glico}, {skoto}, {merko}, {ropno}.
+broda	gismu   \n-rod-      \nx_1是第一个可被分配的谓词变量（上下文决定位置结构）\n参见 {bu'a}.
+brode	gismu   \n-bo'e-      \nx_1是第二个可被分配的谓词变量（上下文决定位置结构）
+brodi	gismu      \nx_1是第三个可被分配的谓词变量（上下文决定位置结构）
+brodo	gismu      \nx_1是第四个可被分配的谓词变量（上下文决定位置结构）
+brodu	gismu      \nx_1是第五个可被分配的谓词变量（上下文决定位置结构）
+bruna	gismu   \n-bun-   \n-bu'a-      \nx_1是x_2的兄弟，依据标准/关系x_3（不必要是生理学上的兄弟关系）\n参见 {mensi}, {tunba}, {tamne}, {famti}, {bersa}.
+bruNAIS	cmevla      \n文莱
+budjo	gismu   \n-buj-   \n-bu'o-      \nx_1是关于佛教文化/宗教/理念等的事物，在x_2方面\n参见 {latna}, {lijda}.
+bukpu	gismu   \n-buk-   \n-bu'u-      \nx_1是布，由材料x_2构成\n参见 {mapni}, {matli}, {sunla}, {slasi}, {silka}.
+bumru	gismu   \n-bum-      \nx_1是雾，主要由液体x_2产生\n参见 {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}.
+bunda	gismu   \n-bud-      \nx_1是x_2数量（默认为1）的当地重量单位（非公制单位），标准为x_3，亚单位为x_4\n更多的亚单位可以在后添加x_5.x6……；参见{grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}.
+bunre	gismu   \n-bur-   \n-bu'e-      \nx_1是褐色/棕色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+burcu	gismu   \n-bru-      \nx_1是刷子，为了目的x_2（事件），带有刷毛x_3\n参见 {komcu}, {pinsi}.
+burna	gismu      \nx_1是尴尬的/不自在的/窘迫的，在环境x_2下/关于x_2（谓词子句）时\n参见 {cinmo}.
+byLIN	cmevla      \n柏林
+cabna	gismu   \n-cab-      \nx_1是当前的/当下的/现在的/与x_2同时的（特指时间）\n默认x_2指“当下的时间”，x_1指“现在”；参见 {zvati}, {balvi}, {purci}, {ca},{ca'a}.
+cabra	gismu   \n-ca'a-      \nx_1是机械装置/设备/装备，为了功能x_2，由x_3控制\n参见 {tutci}, {minji}, {finti}; {girzu}, {ganzu}，{pilno}
+cacra	gismu      \n在持续时间长度上，x_1是x_2（数量，默认：1）小时，基于标准x_3\n参见 {junla}, {mentu}, {snidu}, {tcika}, {temci}.
+cadzu	gismu   \n-dzu-      \nx_1走/步行在路面x_2上，用身体上的部位x_3\n参见 {stapa}, {bajra}, {klama}, {litru}.
+cafne	gismu   \n-caf-      \nx_1是经常/反复发生的，基于标准x_2\n参见 {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne}, {piso'iroi}及其它近似的cmavo
+cagna	experimental gismu      \nx_1是伤口，位于身体x_2上的部位x_3，因为原因x_4而被造成\n与{velxai}不同，{cagna}特指机体表面的物理损伤，包括：{ka'arcagna}割伤，{fercagna}皲裂/裂口，{gukcagna}擦伤，{tuncagna}刺伤，{grecagna}戳伤，{batcagna}咬伤，{dancagna}枪伤，{jelcagna}灼伤/烧伤，{da'ercagna}褥疮，{furcagna}坏疽，{daxcagna}挫伤/瘀伤，{camdaxcagna}红肿，{ra'ircagna}慢性伤口/创面等
+cakla	gismu      \nx_1是/含有巧克力/可可；x_1由巧克力/可可组成\n参见 {ckafi}.
+calku	gismu   \n-cak-      \nx_1是壳（坚固的保护性外壳），围绕/包围x_2，由x_3组成\n参见 {pilka}, {skapi}, {gacri}, {bartu}.
+canci	gismu      \nx_1从地点/位置x_2消失，基于感觉器官/设备x_3观察时\n也指离开/走开；参见 {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}.
+cando	gismu   \n-cad-      \nx_1是闲置的/休息的\n指动作；参见 {surla}.
+cangan	cmevla      \n香港\n普通话Xianggang的Lojban化
+cange	gismu   \n-cag-      \nx_1是农场/农庄，位于x_2，由x_3种植，种植作物x_4；x_1是有关于土地的\n种植是指任何有组织的种植活动，不限于农作物的种植；参见 {purdi}, {nurma}, {ferti}, {foldi}, {xarju}.
+canja	gismu   \n-caj-      \nx_1 用x_2交换/交易x_3，交易的另一方为x_4\nx_2/x_3可以指物品/商品/事件（服务）/性质等；具体来说，涉及到所有权时，对于物品/商品的交换物来说，可用 {posycanja} ；参见 {dunda}, {friti}, {vecnu}, {zarci}, {jdini}, {pleji}, {jdima}, {jerna}, {kargu}, {banxa}, {cirko}, {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle};另可参考{jdima}的备注
+canko	gismu   \n-ca'o-      \nx_1是窗/墙上的开口，位于墙体/建筑物/结构x_2上\n参见 {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}.
+canlu	gismu   \n-cal-   \n-ca'u-      \nx_1是空间（至少是一个三维区域），被x_2所占据\n占据= {selca'u}；参见 {kensa}, {bliku}, {kumfa}, {kevna}, {kunti}, {tubnu}, {dekpu}.
+canpa	gismu   \n-cna-      \nx_1是铲/锹，为了挖/掘x_2\n参见 {kakpa}, {guska}, {tutci}.
+canre	gismu   \n-can-      \nx_1是/含有沙子/由沙构成，来源于x_2，物质构成为x_3\n砂轮= {gukcanre}；参见 {bidju}, {rokci}, {zalvi}, {boxna}.
+canti	gismu      \nx_1是x_2的肠道/消化系统\n可比喻：处理中心；参见 {betfu}.
+canxais	cmevla      \n上海
+carce	gismu      \nx_1是车，为了运输x_2，由x_3驱动\n参见 {karce}, {xislu}, {marce}, {matra}.
+carmi	gismu   \n-cam-   \n-cai-      \nx_1是明亮的/光亮的，以性质x_2（ka），在观察者x_3看来\n有光泽的/闪闪发光的={gusycai} 或 {camgu'i};在色彩上，指高的饱和度，与{kandi}相反； 参见 {denmi}, {gusni}, {kandi}, {ruble}, {skari}, {tilju}, {tsali}, {mutce}, {blabi}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
+carna	gismu   \n-car-      \nx_1转动航向/运动矢量x_2至方向x_3，转动角度/指向某点x_4\n旋转= {jincarna}； 参见 {gunro}, {jendu}. 由 Robin Lee Powell 提出的{carna}d的新定义与其旧定义方向兼容：x_1绕转轴x_2转动，在方向x_3上
+carpacib	cmevla      \nROT-13\n回转13位，指一种对26个英文字母进行简单变换加密的办法，不妨译为13位转字法。
+cartu	gismu   \n-cat-      \nx_1是图表/表格，关于x_2，呈现信息/数据x_3\n参见 {platu}.
+carvi	gismu   \n-cav-      \nx_1落雨/洒水至x_2，水来自x_3；x_1是坠落物（不限定为雨）\n参见 {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}.
+casnu	gismu   \n-snu-      \nx_1（通常团体，但也可能个体/jo'u）谈论/讨论/议论主题/话题x_2\n也指聊天、交谈；参见 {bacru}, {cusku}, {darlu}, {tavla}.
+catke	gismu   \n-ca'e-      \nx_1推/挤x_2上某部位x_3\n推动/推移={ca'ermuvgau}；参见 {danre}, {lacpu}
+catlu	gismu   \n-cta-      \nx_1 瞧/看/审视/盯/瞅/注视 x_2.
+catni	gismu   \n-ca'i-      \nx_1对于问题/事物/人x_2是有权的/官方的，基于/源于基础x_3\n参见 {turni}, {tutra}, {krati}, {ca'i}, {jaspu}, {pulji}.
+catra	gismu      \nx_1杀死x_2，通过行动/方式x_3\n参见 {morsi}, {xarci}.
+caxno	gismu   \n-cax-      \nx_1是浅的，在方向/性质x_2上，基于参考点x_3，依据测量标准x_4\n参见 {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}.
+cecla	gismu   \n-cel-   \n-ce'a-      \nx_1发射/射击导弹/火箭/子弹x_2，推进动力是/来自x_3\nx_1指枪/炮/发射器；x_1 发射/投掷（推进力不必限定来自物体内部，比较{renro}）；参见 {renro}, {danti}, {jakne}, {jbama}, {spoja}.
+cecmu	gismu   \n-cem-   \n-ce'u-      \nx_1是生物x_2聚集的群落/聚集地/社区\n参见 {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
+cedra	gismu      \nx_1是年代/时代，由事物/性质/思潮/时间间隔x_2决定/特征化\nx_2内部应当定义边界；如果只是表示一个被特征化的时期，时间区间的本质应当是一个谓词子句，或用tu'a进行标注； 用tu'a标注时，x_2 也可能指那个时代特征化的物品或实例；参见 {ranji}, {temci}, {citsi}.
+cenba	gismu   \n-cne-      \nx_1改变/变化，在性质/数量x_2（ka/ni）上，变化程度为x_3，在环镜/条件x_4下\n不一定有结果，也不一定存在改变的诱因；参见{cenba}无结果的，{galfi}有结果和原因，{stika}无结果但有原因， {stodi}, {zasni}, {binxo}
+censa	gismu   \n-ces-      \nx_1是神圣的/让人敬畏的，对人/民族/文化/宗教/组织x_2来说\n参见 {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.
+centi	gismu   \n-cen-      \nx_1是百分之一个/份[1/100; 1*10^{-2}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+cerda	gismu   \n-ced-      \nx_1是继承者，继承的事物/性质为x_2，来自于被继承者x_3，基于继承规则x_4\n语义上讲，继承 {posycerda}是指继承了事物的所有权{posyselcerda}，即继承的是”loka ponse 某物“，故x_2位应当使用谓词子句或tu'a； 参见 {jgina}.
+cerni	gismu   \n-cer-      \nx_1是早上/上午，在某天x_2，某地x_3\n今晨={cabdeicerni}；明早= {bavlamcerni}；昨天早上= {prulamcerni}/{prulamdeicerni}；参见 {vanci}, {murse}, {tcika}.
+certu	gismu   \n-cre-      \nx_1是专家/专业的/职业的/有技术的，在时间/活动/工作x_2上，基于标准x_3\n也指足以胜任的，熟练的； 参见 {djuno}, {stati}, {kakne}.
+cev	cmevla      \n神\n专名，另参见{jegvon}。两者均不同于泛指神仙的{cevni}。
+cevni	gismu   \n-cev-   \n-cei-      \nx_1是(人群/地域)x_2的神, 享有领地x_3 ; x_1是神圣的.
+cfari	gismu   \n-cfa-      \nx_1（状态/事件/进程）开始/启动\n参见 {sisti}, {krasi}, {fanmo}, {co'acfa}.
+cfika	gismu   \n-fik-   \n-fi'a-      \nx_1是幻想作品，关于主题/主旨x_2，作者为x_3\n也指传说/故事/谎言/不真实的；参见 {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}.
+cfila	gismu   \n-cfi-      \nx_1（ka）是x_2的缺点/缺陷，导致x_3\n参见 {cikre}, {srera}, {fenra}, {fliba}, {prane}.
+cfine	gismu      \nx_1是由x_2材料做成的楔子\n参见 {tutci}.
+cfipu	gismu   \n-fi'u-      \nx_1（事物/状态）让观察者x_2感到困惑/疑惑，因为让人困惑的性质x_3\n参见 {pluja}, {cfipu}, {zunti}.
+ciblu	gismu   \n-blu-      \nx_1是生物x_2的血液\n参见 {risna}, {flecu}.
+cicna	gismu      \nx_1是蓝绿色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}.
+cidja	gismu   \n-dja-      \nx_1是x_2的食物/养料；x_1能够为x_2提供营养物质\n参见 {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.
+cidni	gismu   \n-cid-      \nx_1是关节（如：手肘/膝盖/手指弯曲处），位于肢体x_2上，身体x_3上\n可比喻：弯管；参见 {korcu}, {jarco}, {jganu}.
+cidro	gismu   \n-dro-      \nx_1是氢/由氢构成[H]\n参见 {gapci}, {xukmi}.
+cifnu	gismu   \n-cif-      \nx_1是婴儿/幼崽，属于物种x_2\n也指幼稚的； 参见 {makcu}, {verba}.
+cigla	gismu   \n-cig-      \nx_1是腺/腺体，分泌x_2，属于身体x_3；x_2是腺体x_1的分泌物\n分泌物={selcigla}；参见 {vikmi}, {xasne}.
+cikna	gismu   \n-cik-      \nx_1是警惕的/警觉的\n参见 {sanji}, {sipna}, {tatpi}.
+cikre	gismu      \nx_1修理x_2，为了用途x_3\n修理并不一定指完全的修复，也可能只是修复为了用途x_3需要修复x_2的一部分功能；参见 {cfila}, {spofu}.
+ciksi	gismu   \n-cki-      \nx_1（人）解释x_2（事物/状态/性质）给x_3，使用说辞/借口/原因x_4（du'u）\n借口/原因x_4是被用来解释x_2的详细说明，通常假设其是不明显的，且其逻辑关系存在各种可能（即：jalge, mukti, krinu, rinka, nibli, zukte），但带有自身看法的解释者x_1的存在使得其不能简单地理解为各种已有的逻辑关系； 参见 {cipra}, {danfu}, {jalge}, {jinvi}, {krinu}, {mukti}, {nabmi}, {preti}, {rinka}, {sidbo}, {zukte}, {tavla}.
+cilce	gismu   \n-cic-      \nx_1是野性的/野蛮的/未开化的\n驯服的= {tolcilce}； 参见 {pinfu}, {panpi}, {tarti}.
+cilmo	gismu   \n-cim-      \nx_1是湿润的/潮湿的，带有液体x_2\n参见 {litki}, {lunsa}, {sudga}.
+cilre	gismu   \n-cli-      \nx_1学习/了解x_2（du'u），关于主题/科目x_3，资源x_4（物/事），方法是x_5（事件/进程）\n参见 {ctuca}, {tadni}, {djuno}, {ckule}.
+cilta	gismu   \n-cil-      \nx_1是线/丝，由材料x_2构成\n参见 {fenso}, {nivji}, {skori}, {silka}.
+cimde	gismu      \nx_1（ka）是空间/物体x_2的尺寸/规格，基于标准/模板x_3\n参见 {morna}, {ckilu}, {merli}, {manri}.
+cimni	gismu      \nx_1是无限的/无尽的/恒久的，在性质/规格x_2上，以某种形式/数量x_3\n永久的= {cimnytei}， 不朽的/永恒的= {cimnyteikai}/{temcimni}). 参见 {vitno}, {renvi}, {munje}, {fanmo}, {sisti}.
+cinba	gismu      \nx_1亲/吻x_2于部位x_3\n参见 {ctebi}.
+cindu	gismu      \nx_1是橡树，属于品种/种类x_2\n参见 {tricu}.
+cinfo	gismu      \nx_1是狮，属于品种/种类x_2\n参见 {mlatu}.
+cinje	gismu   \n-cij-      \nx_1是纹/痕/皱褶，位于x_2上\n参见 {korcu}, {polje}, {boxfo}, {boxna}.
+cinJIAN	obsolete cmevla      \n新疆
+cinki	gismu      \nx_1是昆虫/节肢动物，属于品种/种类x_2\n参见 {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}.
+cinla	gismu      \nx_1是薄的，在方向/规格/尺寸x_2上，基于标准x_3\n参见 {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}.
+cinmo	gismu   \n-cni-      \nx_1感受到情绪x_2（ka），关于x_3\n心情={nuncni}，参见： {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki}.
+cinri	gismu   \n-ci'i-      \nx_1是有趣的/对x_2来说；x_1引起x_2的兴趣；x_2对x_1感兴趣\n在x_1位使用tu'a来表示物体中被特指的有趣处；对……感兴趣= {selci'i}；参见 {zdile}, {kucli}, {manci}, {kurji}.
+cinse	gismu   \n-cin-      \nx_1处于表现出其性取向x_3（ka）的活动/状态x_2中，基于标准x_4\n也指：x_1调情；x_3可指：ka（性别/角色），ka（性吸引力）或ka（行为类型）；x_1关于性的；（x_1被x_2调情）={cinfriti}/{cinjikca}；参见 {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}.
+cinta	gismu      \nx_1（材料）是具有物质/颜色x_2的颜料/涂料，在基板/底板x_3上\n参见 {pixra}, {skari}.
+cinza	gismu      \nx_1是钳子/筷子状的工具，为了x_2能够夹起/捏住x_3\n参见 {tutci}.
+cipni	gismu   \n-cpi-      \nx_1是鸟/禽，属于品种/种类x_2\n参见 {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.
+cipra	gismu   \n-cip-      \nx_1（过程/事件）是关于性质/状态x_2的测试/证据/检验，关于主题x_3（个体/集合/团体）\n也指：考试/验证； x_3处为集合时，应当完全指明；参见 {ciksi}, {troci}, {jarco}, {pajni}, {saske}.
+cipyple	lujvo      \np_1 是试卷，其纸张来自 p_2，为了证明属性或状态 c_3，关于主题 c_4\n参见 {cipra}, {pelji}
+cirko	gismu   \n-cri-      \nx_1失去/丢失了x_2（人/物），在位置x_3；x_1失去/脱离状态/特征x_2，在条件/情形x_3下\nx_2可指特定的物体，商品（团体），事件（使用较少），或性质；涉及到所有权的“丢失”={po'ecri}时，丢失的物品/商品={posyselcri}；参见 {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma}, {binra}, {mipri}.
+cirla	gismu      \nx_1是乳酪/由乳酪构成，来源于x_2\n参见 {ladru}.
+ciska	gismu   \n-ci'a-      \nx_1写 x_2 在载体 x_3上, 使用工具 x_4; x_1 书写的人.
+cisma	gismu      \nx_1笑（面部表情）\n因……而笑= {cismyfra}； 参见 {xajmi}, {cmila}, {frumu}.
+ciste	gismu   \n-ci'e-      \nx_1（团体）是系统，由结构x_2交互连接各部分x_3（集合），呈现性质x_4（ka）\nx_1（或x_3）在x_4上存在协作关系，也指网络；x_2 也指 关系/规则；x_3 也指元素（完全指明的集合）；x_4指系统功能/性质 ；参见{ci'e}, {cmima}, {girzu}, {gunma}, {stura}, {tadji}, {munje}, {farvi}, {ganzu}, {judri}, {julne}, {klesi}, {morna}, {tcana}.
+citka	gismu   \n-cti-      \nx_1吃/进食x_2\n参见 {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+citno	gismu   \n-cit-   \n-ci'o-      \nx_1是年轻的/相对时间短的，依据标准x_2\n年龄= {nilnalci'o}；参见 {laldo}, {cnino}, {slabu}, {verba}.
+citri	gismu   \n-cir-      \nx_1是x_2的历史，根据x_3的说法/基于观点x_3\n有历史意义的/在历史上重要的= {cirtermo'i}/{cirvai}；参见 {muzga}.
+citsi	gismu      \nx_1是季节/季节性的，由性质/间隔x_2定义，属于年份x_3\n周年纪念日={citsydei}/{na'arcitsydei}；五十年节（犹太）={mumnoncitsi}； 时间长度由x_2指定，可能每n年发生一次（由x_3指定，默认为1）；当x_2和/或x_3均被限定时，可取{djecitsi},{pavdeicitsi}；也指春/秋分或夏/冬至；参见 {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}.
+civla	gismu   \n-civ-      \nx_1是虱子/跳蚤，属于品种/种类x_2，寄生于x_3上\n参见 {cinki}, {jalra}.
+cizra	gismu   \n-ciz-      \nx_1对x_2来说是陌生的/奇怪的/怪异的，在性质x_3（ka）上\n也指神秘的/古怪的/变异的/诡异的/非同寻常的/与众不同的/外星球的/异域风情的等；参见 {ranxi}, {rirci}, {fange}, {banli}.
+ckabu	gismu      \nx_1是胶/由胶构成，来源于x_2，组成物为x_3\n参见 {pruni}.
+ckafi	gismu   \n-kaf-      \nx_1是咖啡/由咖啡构成，来源于来源/豆子/作物x_2\n参见 {tcati}, brewed from a leaf, {barja}, {cakla}.
+ckaji	gismu   \n-kai-      \nx_1具有性质/尺寸/形状x_2(ka)；x_2是x_1所呈现的状态\n性质/表现/特征/品质= {selkai}； 参见 {kai}, {tcaci}, {tcini}.
+ckana	gismu   \n-cka-      \nx_1是支撑板，由材料x_2构成，为了支撑x_3\n参见 {kamju}, {kicne}, {nilce}, {palta}, {cpana}, {vreta}, {jubme}, {stizu}, {matci}, {zbepi}, {palne}, {sarji}.
+ckape	gismu   \n-cap-      \nx_1是危险的/有害的，对x_2来说，在条件/情形x_3下\nx_1是对x_2有害的事物；参见 te {bandu}, te {kajde}, te {marbi}, se {snura}, se {xalni}.
+ckasu	gismu   \n-cas-      \nx_1嘲笑/嘲弄x_2，关于性质/事物x_3，通过方式/行为x_4\n参见 {cmila}.
+ckeji	gismu   \n-kej-   \n-cke-      \nx_1感觉耻辱/羞耻，在环境/条件/情形x_2下，在x_3面前\n参见 {cinmo}.
+ckiipyris	obsolete cmevla      \n阿尔巴尼亚
+ckiku	gismu   \n-kik-      \nx_1是钥匙，用以解开锁x_2，两者之间具有相关属性x_3\nx_2 也指：紧固装置，机械装置，密码锁= {termifckiku}/{kiktermifra}；x_3指的是钥匙开对应的锁之间的原理/性质如挂锁中的钥匙齿与锁中弹子的对应；参见 {stela}.
+ckilu	gismu   \n-ci'u-      \nx_1（si'o）是计量单位，用来测量/定量x_2（状态）\n参见 {ci'u}, {gradu}, {merli}, {cimde}, {manri}.
+ckini	gismu   \n-ki'i-      \nx_1与x_2是相关的/有联系的，其联系/关系为x_3\n参见 {ki'i}, {ponse}, {srana}, {steci}, {mapti}, {sarxe}, {fange}.
+ckire	gismu   \n-kir-      \nx_1对x_2是充满感激/谢意的，因为事件/状态x_3\n感激之情= {nunckire}/{kamckire}；参见 {cinmo}, {friti}, {pluka}.
+ckule	gismu   \n-kul-   \n-cu'e-      \nx_1是学校/机构，位于x_2，教授课程/科目x_3给x_4，由x_5运营\n也指：学院，大学；参见 {cilre}, {ctuca}, {tadni}.
+ckunu	gismu   \n-ku'u-      \nx_1是松/杉，属于品种/种类x_2，具有球果x_3\n参见 {tricu}.
+cladu	gismu   \n-lau-      \nx_1是大声的/聒噪的，在x_2看来，基于标准x_3\n参见 {savru}.
+clani	gismu   \n-cla-      \nx_1是长的，在尺寸/规格/方向x_2上，基于测量标准x_3\n参见 {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli}, {rotsu}.
+claxu	gismu   \n-cau-      \nx_1缺少/不含有/缺乏x_2\n参见 {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.
+clika	gismu      \nx_1是苔/藓，属于品种/种类x_2，生长在x_3上；x_1是长满苔藓的（形容词）\n参见 {mledi}.
+clira	gismu   \n-lir-      \nx_1（事件）是早的，依据标准x_2\n参见 {lerci}.
+clite	gismu   \n-lit-      \nx_1是有礼貌的，在事件x_2中，依据标准/习俗x_3\n也指：正式的，礼节性的；参见 {ritli}.
+cliva	gismu   \n-liv-   \n-li'a-      \nx_1离开x_2/与x_2分开/脱离，通过路线x_3\n参见 {litru}, {canci}, {vimcu}, {lebna}, {muvdu}.
+clupa	gismu   \n-cup-      \nx_1是由x_2（材料）构成的回路/环路\n索套/绳套={skoclupa}/{saljgeclupa}，不特指何种形状，但需构成环路； 由点集构成的闭合曲线= {cuptai}； 参见 {djine}.
+cmaci	gismu      \nx_1是数学，用以定义/描述x_2\n参见 {mekso}.
+cmalu	gismu   \n-cma-      \nx_1是小的，在性质/维度x_2（ka）上，依据标准x_3\n参见 {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+cmana	gismu   \n-ma'a-      \nx_1是山/丘，突起于地面x_2（团）\n参见 {punli}, {derxi}.
+cmavo	gismu   \n-ma'o-      \nx_1是结构词，属于类x_2，具有意义/功能x_3，用于用途/语言x_4\nx_4可能指特定的用法（嵌入语言中某位置）或一个语言的整体化描述；x_3和x_4可能只是指特定表达中的结构词用法的例证； 表示物体对象的结构词列表= {loi} {ma'oste}； 指示内涵结构结构词列表= {ma'orpoi}/ {ma'orselcmi}/{ma'orselste}；参见 {gismu}, {lujvo}, {gerna}, {smuni}, {valsi}.
+cmeclax	cmevla      \nNameless\n意思是无名，一款匿名邮件软件的名字
+cmene	gismu   \n-cme-   \n-me'e-      \nx_1（被引用的词）是x_2的名字/标题/特定标签，被x_3使用/引用\n也指：x_2被x_3称作x_1；参见 {me'e}, {gismu}, {tcita}, {valsi}, {judri}
+cmila	gismu   \n-mi'a-      \nx_1笑（情感表达）\nx_1笑x_2={mi'afra}；参见 {ckasu}, {frumu}, {xajmi}, {cisma}.
+cmima	gismu   \n-mim-   \n-cmi-      \nx_1是集合x_2中的一个成员/元素；x_1属于组x_2\nx_1可能是完全的/非完全的成员列表；x_2通常由la'i/le'i/lo'i指示，依据集合中共有属性定义，也有可能逐一例举每一个成员；参见 {ciste}, {porsi}, {jbini}, {girzu}, {gunma}, {klesi}, {mei}, {kampu}, {lanzu}, {liste}.
+cmoni	gismu   \n-cmo-   \n-co'i-      \nx_1发出呐喊/咆哮/尖叫x_2（不具有语义的表达），为了表达性质/情绪x_3\n也指：尖叫，大部分动物的叫（如：鸣/吠/嚎等）；参见 {krixa}, {bacru}, {cusku}, {cortu}.
+cnano	gismu   \n-na'o-      \nx_1是基准的/普通的/平均的，在性质/数量x_2（ni/ka）上，在集合x_3中，依据标准x_4\nx_3指完整的集合；参见 {tcaci}, {fadni}, {kampu}, {lakne}, {tarti}, {rirci}.
+cnebo	gismu   \n-neb-   \n-ne'o-      \nx_1是x_2的颈/项/脖子\n参见 {galxe}, {cutne}.
+cnemu	gismu   \n-nem-   \n-ne'u-      \nx_1奖励x_2，因为事件/性质x_3，奖品是x_4\n与“获得报酬”不同，奖励不一定是正面的，但奖励施与者认为其是应当的；正面奖励= {zanyne'u}， 惩罚/负面奖励={malne'u}/{sfane'u}； x_4可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {posne'u}, {posyvelne'u}；参见 {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali}, {dapma}.
+cnici	gismu   \n-nic-      \nx_1是有序的/整齐的，在状态/性质/数量x_2（ka/ni）上\n参见 {cunso}, {kalsa}.
+cnino	gismu   \n-nin-   \n-ni'o-      \nx_1是新的/不熟悉的，对观察者x_2来说，在x_3（ka）方面，依据标准x_4\n参见 {nuzba}, {slabu}, {citno}, se {djuno}.
+cnisa	gismu   \n-nis-      \nx_1是铅（Pb）；x_1是由铅构成的\n参见 {jinme}, {tinci}.
+cnita	gismu   \n-nit-   \n-ni'a-      \nx_1 在x_2的直接垂直下方，以参考系x_3为基准.
+cokcu	gismu   \n-cko-      \nx_1吸入/吸吮x_2，来自x_3，进入x_4；x_1是吸收剂\n参见 {panje}, {sakci}, {lacpu}.
+condi	gismu   \n-con-   \n-cno-   \n-coi-      \nx_1是深的，在长度/方向x_2上，远离参考点x_3，基于标准x_4\n参见 {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
+cortu	gismu   \n-cor-   \n-cro-      \nx_1在x_2位置感觉疼痛\n参见 {cinmo}, {xrani}.
+cpacu	gismu   \n-cpa-      \nx_1得到/获得/收到x_2，来自x_3（不暗示所有权）\n也指取得；获得礼物= {seldu'acpa}；参见 {punji}, {lebna}, {vimcu}.
+cpana	gismu      \nx_1在x_2上面（上表面），基于参考标准/重力方向x_3\nx_1可能是物体或事件；参见 se {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, {punji}, {sarji}, {zbepi}.
+cpare	gismu   \n-par-      \nx_1在x_2表面爬行/匍匐，在x_3方向上，使用肢体/工具x_4\n参见 {klama}, {litru}, {bajra}, {farlu}, {plipe}.
+cpedu	gismu   \n-cpe-      \nx_1请求/诉求/要求得到/发生x_2，来自x_3，使用方式x_4\n命令= {mi'ecpe}；x_4是被使用的表达方式，参见 ve {cusku}；要求可能暗含在谈话/文本/行为之中（如：诉状/情愿通常是用文本，乞求则通常是行为甚至神态；参见 {pikci}, te {preti}, te {frati}, se {spuda}, {danfu}
+cpina	gismu      \nx_1是辣的，对于感官x_2\n让人刺痛的={pecycpina}；参见 {vrusi}, {kukte}, {cidja}, {panci}, {sumne}.
+cradi	gismu      \nx_1使用无线电信号广播/传送信息/信号x_2，通过基站/频率x_3，给接受者x_4\nx_1是广播公司/广播员；参见 {tivni}, {benji}, {tcana}.
+crane	gismu   \n-cra-      \nx_1位于x_2的前面/前方，面对方向/参考系为x_3\nx_3是x_2的基准方向；参见 {sefta}, {flira}, {trixe}, {mlana}, {pritu}, {zunle}.
+creka	gismu   \n-cek-      \nx_1是衬衫/衬衣，材料是x_2\n参见 {taxfu}.
+crepu	gismu   \n-rep-      \nx_1收获/丰收/收割/收集农作物/产品/物品x_2，来自资源/地区x_3\n参见 {critu}, {sombo}, {jmaji}.
+cribe	gismu   \n-rib-      \nx_1是熊，属于品种/种类x_2\n参见 {danlu}, {mabru}.
+crida	gismu   \n-rid-      \nx_1是仙女/精灵/哥布林（各种类人的虚构生物），属于神话/宗教x_2\n也指：妖怪/恶魔/巨人等等比较：{ranmi}尤其指传说中非类人的生物；参见：{lijda})
+crino	gismu   \n-ri'o-      \nx_1是绿色的/青色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.
+cripu	gismu   \n-rip-      \nx_1是桥/跨过式的通道通过/越过x_2，位于x_3和x_4之间（x_3和x_4不存在顺序，一般将终点放在前面）\n参见 {bargu}, {kruca}, {ragve}, {kuspe}.
+crisa	gismu   \n-cis-      \nx_1是夏天（热的季节），属于年份x_2，位置x_3\n参见 {citsi}, {critu}, {dunra}, {vensa}.
+critu	gismu      \nx_1是秋天/秋季（丰收/变冷的季节），属于年份x_2，位置x_3\n参见 {citsi}, {crisa}, {dunra}, {vensa}, {crepu}.
+ctaru	gismu      \nx_1是浪潮（周期性的/循环性的扩展）在x_2上，由x_3导致\n参见 {xamsi}.
+ctebi	gismu   \n-teb-      \nx_1是唇/孔口边缘，位于孔口x_2，位于身体x_3\n参见 {moklu}, {korbi}, {cinba}.
+cteki	gismu   \n-tek-   \n-ce'i-      \nx_1是税，针对货物/行为x_2征收，向x_3征收，征收者为x_4\n也指：关税，供奉，朝贡等；参见 {pleji}, {flalu}, {turni}.
+ctile	gismu      \nx_1是石油，来源于x_2\n参见 {grasu}.
+ctino	gismu   \n-ti'o-      \nx_1是物体x_2的影子/阴影，由光线/光源x_3制造\n参见 {manku}, {gusni}.
+ctuca	gismu   \n-ctu-      \nx_1教授/传授x_2知识/想法/方法x_3(du'u)，关于主题x_4，教授方法为x_5\n也指：指导，教导，老师，导师等等；x_1/x_5是有关于教学的；参见 {ckule}, {cilre}, {tadni}.
+cukla	gismu   \n-cuk-      \nx_1是圆/圆形的物体\n一般指实心的圆，但因为其强调的是“圆”形状，所以其也可能指圆环；参见 {djine}, {ranji}, {bolci}, {tarmi}.
+cukta	gismu   \n-cku-      \nx_1是书，含有内容有关x_2，作者为x_3，读者为x_4，书的载体为x_5\n不一定是纸张构成的书；参见 {cfika}, {prina}, {prosa}, {tcidu}, {papri}.
+culno	gismu   \n-clu-      \nx_1饱含x_2,；x_1被x_2所灌满/充满\n参见 {tisna}, {kunti}, {mulno}, {setca}, {tisna}.
+cumki	gismu   \n-cum-   \n-cu'i-      \nx_1（事件/状态/性质）是可能的，在条件x_2下\n也指：可能发生的事；参见 {lakne}.
+cumla	gismu   \n-cul-      \nx_1是谦虚的/谦逊的，关于x_2（谓词子句）；x_1表现得谦卑，关于x_2\n参见 {cinmo}, {jgira}.
+cunmi	gismu      \nx_1是小米/粟，属于品种/种类x_2\n参见 {gurni}.
+cunso	gismu   \n-cun-   \n-cu'o-      \nx_1是随机的/不可预测的，在条件x_2下，可能的结果分布为x_3\n也指：意外的，偶然的；基于其“不可预测”的含义，有{cuncu'a}, {cunselcu'a}, {cunjdi}, {cunseljdi}；参见 {cnici}, {lakne}, {funca}, {kalsa}, {snuti}.
+cuntu	gismu   \n-cu'u-      \nx_1是事务/有组织的行动，属于x_2（个体/团体）；x_1是x_2的事情\nx_2从事/进行着x_1 （通常是谓词子句）；参见 {jikca}, {srana}.
+cupra	gismu   \n-pra-      \nx_1生产产品x_2；通过过程x_3\n参见 {zbasu}, {farvi}, {gundi}, {jukpa}.
+curmi	gismu   \n-cru-      \nx_1准许/准允x_2（事件），在条件x_3下；x_1授权x_2\n充分条件={crutcini}；条件的准许者= {tcinycru}；参见 {rinju}, {banzu}, {ralte}, {jimte}, {jaspu}, {zifre}.
+curnu	gismu   \n-cur-      \nx_1是无脊椎动物，属于品种/种类x_2\n蜗牛/贝类= {cakcurnu}；海生甲壳类= {xaskemcakcurnu}/{xaskemcakydja}；指广义的无脊椎动物，因为许多多细胞无脊椎动物确实看起来和虫一样；参见 {since}, {silka}.
+curve	gismu   \n-cuv-      \nx_1是纯粹的/纯净的/单纯的，在性质x_2（ka）上\n参见 {prane}, {jinsa}, {manfo}, {sampu}, {sepli}, {traji}, {lumci}, {xukmi}.
+cusku	gismu   \n-cus-   \n-sku-      \nx_1表达/说出内容x_2（sedu'u/lu'e）给x_3，通过媒体/媒介x_4\n参见 {bacru}, {tavla}, {casnu}, {spuda}, {cu'u}, {bangu}, {dapma}, {jufra}, {pinka}.
+cutci	gismu   \n-cuc-      \nx_1是鞋/靴，为了遮蔽/遮挡足/脚/肢体x_2，鞋的材料是x_3\n长靴= {tupcutci}；参见 {smoka}, {taxfu}, {skiji}.
+cutne	gismu   \n-cut-      \nx_1是x_2的胸膛/胸腔/胸部/上肢体干\n参见 {cnebo}, {betfu}, {xadni}, {tanxe}.
+cuxna	gismu   \n-cux-   \n-cu'a-      \nx_1选择x_2，从选项集合/序列x_3中（完整选项集合）\n偏爱/更喜欢= {nelcu'a}；参见 {jdice}, {pajni}, {nelci}.
+dacru	gismu   \n-dac-      \nx_1是抽屉/文件夹，位于结构x_2上，装有/为了装x_3\n参见 {nilce}, {tanxe}.
+dacti	gismu   \n-dai-      \nx_1在某个时空下持续存在的物体；x_1是一个东西\n参见 {marji}, {xanri}.
+dadjo	gismu   \n-daj-      \nx_1是跟道教/道家/道文化相关的，在x_2方面\n参见 {lijda}, {jegvo}.
+dakfu	gismu   \n-dak-      \nx_1是刀，为了切/割x_2，由材料x_3构成\n参见 {denci}, {balre}, {katna}, {tunta}, {forca}, {smuci}, {kinli}.
+dakli	gismu      \nx_1是包/裹，装有x_2，由材料x_3构成\n参见 {daski}袋子, {bakfu}.
+damba	gismu   \n-dab-   \n-da'a-      \nx_1和x_2战斗/战争，在x_3事件上；x_1是战士\n为某物而战斗时，x_3处使用tu'a；参见 {bradi}, {gunta}, {talsa}, {darlu}, {fapro}, {jamna}, {sonci}.
+damri	gismu      \nx_1是打击类乐器，打击器为x_2\n参见 {rilti}, {zgike}.
+dandu	gismu   \n-dad-      \nx_1是悬挂的/悬吊/挂起的，从x_2上，悬挂的联接结构是x_3\n也指依赖于/取决于（原本的意思）；坠饰= {dadja'i}；参见 {lasna}, {jorne}.
+danfu	gismu   \n-daf-      \nx_1是答复/回答/回应，对于问题x_2\n参见 {ciksi}, {frati}, {preti}, {nabmi}, {spuda}施事动词的答复, {cpedu}
+danlu	gismu   \n-dal-   \n-da'u-      \nx_1是动物，属于品种/种类x_2；x_1是有生命的（在生物学上看来）\n参见 {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru}, {bakni}.
+danmark	cmevla      \n丹麦
+danmo	gismu   \n-dam-      \nx_1是烟/雾，来自资源x_2\nx_2可能是火；参见 {pulce}, {gapci}, {sigja}, {bumru}.
+danre	gismu   \n-da'e-      \n力x_1施加在/按压在x_2上\n施事动词的按/压= {da'ergau}/{da'erzu'e}；参见 {catke}, {bapli}, {prina}, {tinsa}.
+dansu	gismu      \nx_1（个体/团体）跳舞，在伴奏/旋律/节奏x_2下\n参见 {bende}, {zgike}, {zajba}.
+danti	gismu   \n-dan-      \nx_1是为了攻击的弹道抛出物（如子弹/火箭弹等），被枪/推进器x_2推进\n也指：炮弹，弹射器的石头，弹射球；参见 {cecla}, {renro}, {jakne}.
+daplu	gismu   \n-plu-      \nx_1是岛/环礁，由x_2构成，在x_3的环绕下\n参见 {lalxu}, {rirxe}, {xamsi}, {dirgo}.
+dapma	gismu   \n-dap-      \nx_1诅咒/咒骂x_2，以命运/结局x_3（事件）\n带有特定表达的咒骂= {dapsku}；参见 {mabla}, {dimna}, {cnemu}, {sfasa}, {dunda}, {cusku}, {cirko}, {jdima}, {di'ai}.
+dargu	gismu   \n-dag-      \nx_1是路，去往x_2，来自x_3，经过路线x_4（x_2与x_3之间可能是无序的）\n参见 {naxle}, {tcana}, {pluta}, {klaji}.
+darlu	gismu   \n-dau-      \nx_1争论，为了立场x_2，反对立场x_3\n参见 {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba}, {bradi}, {tavla}.
+darno	gismu   \n-dar-   \n-da'o-      \nx_1是远的，离x_2，以性质x_3（ka）\n参见 {jibni}.
+darsi	gismu      \nx_1是大胆的/肆无忌惮的，以行为x_2；x_1有胆做/成为x_2（事件/ka）\n也指：x_1英勇的；参见 {virnu}.
+darxi	gismu   \n-dax-   \n-da'i-      \nx_1打/击打x_2，使用打击物/肢体x_3，在位置x_4\n参见 {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}.
+daski	gismu      \nx_1是一袋物品/东西x_2\n参见 {dakli}, {taxfu}, {bakfu}.
+dasni	gismu   \n-das-      \nx_1穿戴x_2，作为x_3类型的服饰\nx_2不必要是服饰（与taxfu不同）；参见 {taxfu}.
+daspo	gismu   \n-spo-      \nx_1（事件）摧毁/毁坏/破坏x_2；x_1是有破坏性的\n参见 {spofu}, {xrani}, {marxa}, {zalvi}, {xaksu}.
+dasri	gismu   \n-sri-      \nx_1是带/条状物，由材料x_2构成\n参见 {djine}.
+datka	gismu      \nx_1是鸭，属于品种/种类x_2\n参见 {cipni}.
+datni	gismu      \nx_1（du'u）是数据/信息，关于x_2，以方法x_3收集\n证据= velji'i datni或只是 {velji'i}, {sidydatni}；参见 {fatci}, {saske}, {vreji}.
+decti	gismu   \n-dec-      \nx_1是十分之一/十的负一次方个/份[10^{-1}]x_2，在x_3方面 （默认是计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+degji	gismu   \n-deg-      \nx_1是手指/脚趾/爪子，位于肢体x_2上，身体x_3上（暗喻：半岛）\n手指= {xandegji}，脚趾= {jmadegji}；参见 {nazbi}, {tamji}, {tance}, {xance}.,
+dejni	gismu   \n-dej-      \nx_1欠x_3债务/义务x_2，为了x_4（服务/贷款等）\n参见 {jbera}, {janta}, {zivle}.
+dekpu	gismu      \nx_1是x_2个（默认1个）当地的容量单位，基于标准x_3，x_4是子单位/亚单位\n加仑= {likydekpu}，夸脱= {likseldekpu}，桶（湿= {likybradekpu}，干={sudbradekpu}），蒲式耳={sudydekpu}，配克= {sudyseldekpu}，杯= {kabrydekpu}，汤匙= {mucydekpu}，茶匙= {mucyseldekpu}；以上的单位可能需要添加gic-以区别英制单位和其它当地单位；更多的子单位可以在其后继续添加x_5,x6……；参见 {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+dekto	gismu   \n-dek-      \nx_1是十个/份[10; 1*10^1]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+delno	gismu   \n-del-   \n-de'o-      \nx_1是x_2个（默认1）发光强度单位的光量，基于标准x_3\n参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+dembi	gismu   \n-deb-      \nx_1是豆/豆科植物的种子，来自植物x_2\n参见 {grute}, {sobde}, {tsiju}.
+denci	gismu   \n-den-   \n-de'i-      \nx_1是x_2的牙齿；x_1是跟牙相关的\n可比喻：{dakfu}, {pagre}, {jgalu}；参见 {moklu}, {dakfu}, {pagre}, {jgalu}, {batci}, {bongu}.
+denmi	gismu   \n-dem-      \nx_1是浓缩的/集中的，在性质x_2（ka）上，处于位置/中心x_3\n参见 {carmi}, {midju}, {viknu}.
+denpa	gismu   \n-dep-   \n-de'a-      \nx_1等待/暂停为了x_2，处于状态x_3，在开始/继续行为/进程x_4之前。\nx_2是事件，通常是点事件；也指：继续x_4. 参见 {dicra}, {fanmo}, {sisti}, {fliba}, {pandi}.
+denpesxu	lujvo      \nx_1 是含成分 x_2 的牙膏
+dertu	gismu   \n-der-   \n-de'u-      \nx_1是/含有土/泥，来源于x_2，含有组分x_3\nx_1是土制的；x_3不需要详尽包含所有组分；参见 {kliti}, {terdi}, {loldi}.
+derxi	gismu   \n-dre-      \nx_1是一堆材料x_2，位于位置x_3\n参见 {cmana}.
+desku	gismu   \n-des-      \nx_1摇晃/晃动/摇动/摆动/颤动/震动，在力x_2的作用下\n近似{desku},{slilu}；指来回的往复运动；参见 {slilu}, {janbe}.
+detri	gismu   \n-det-      \nx_1是事件/状态x_2的时间（年月日），处于位置x_3，基于历法x_4\nx_1位处用pi'e隔开用数字表示的时间单位，或用joi整体化单位值；参见：{de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}.
+dicra	gismu   \n-dir-      \nx_1（事件）中断/断开/停止x_2（事件/进程），由于性质x_3\n也指：干扰/妨碍（某种意义上来说）；参见 {zunti}, {fanza}, {raktu}, {denpa}.
+didni	experimental gismu      \nx_1推论x_2为真，关于x_3，来自基本推论规律x_4\n参见 {nibji'i}, {nusna}, {lanli}, {jdice}, {logji}, {nibli}
+dikca	gismu   \n-dic-      \nx_1是x_2中的电流或电荷，极性/性质为x_3（默认为负极/负电荷）\nx_3处可使用数词和 {ma'u}/{ni'u}同时表示电荷的大小和极性；负电荷= {dutydikca}， 正电荷= {mardikca}，电流= (sel)muvdikca（默认负电流），电荷={klodikca}/{stadikca}；参见 {lindi}, {xampo}, {flecu}, {maksi}, {tcana}.
+diklo	gismu   \n-klo-      \nx_1是限制在地点x_2的事物，范围为x_3；x_1是x_2当地的；x_1是具有地区性的\n指具有范围的特定的位置和值；比如：A打B，那么A打的B上的那个位置呢？也指：x_1是跟某个特定区域/区间相关的，x_2属于更宽的区域/区间x_3；参见：{di'o}, {jibni}, {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}.
+dikni	gismu   \n-dik-      \nx_1是周期性的/有规律/循环的，在性质(ka)/行为x_2上，周期/循环间隔为x_3\n也指：始终如一的； 共鸣/共振= {dikslicai}；参见 {slilu}, {rilti}, {xutla}, {manfo}, {boxna}.
+dilcu	gismu      \nx_1是x_2除以x_3的商，余数为x_4 （x_2是被除数，x_3是除数）\n参见 {frinu}, {fendi}, {katna}, {parbi}, {mekso}.
+dilnu	gismu   \n-dil-      \nx_1是云/云状物，构成物质为x_2，处于空气x_3中，处于高度x_4\n参见 {carvi}, {tcima}.
+dimna	gismu   \n-dim-      \nx_1是x_2的命运/宿命/命中注定\n命中注定的/劫数难逃的= {seldimna}；参见 {dapma}.
+dinju	gismu   \n-dij-   \n-di'u-      \nx_1是建筑物/大厦，具有目的/功能x_2\n参见 {ginka}, {zdani}, {zarci}.
+dinko	gismu   \n-di'o-      \nx_1是钉，具有大小/尺寸x_2（ka），由材料x_3构成\nx_2也可能是ni的谓词子句；参见 {pijne}, {lasna}.
+dirba	gismu   \n-dib-      \nx_1是宝贵的/珍贵的/主观上具有价值的，对x_2来说\nx_1可指物体/商品（团体）/事件/性质；当表示物品/商品，并涉及到所有权时，可用{posydirba}；参见 {tcika}, {kargu}, {vamji}, {vajni}, {pleji}, {jadni}, {jemna}.
+dirce	gismu   \n-di'e-      \nx_1辐射/放射/发射x_2，在条件x_3下\n参见 {gusni}.
+dirgo	gismu   \n-dig-      \nx_1是一滴液体x_2，在环境物质x_3中\n参见 {daplu}, {bidju}.
+ditcu	experimental gismu      \nx_1事件x_2的时间长度/周期\n短rafsi是 -dit-；参见 {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu}, {kuspe}, {krafamtei}
+dizlo	gismu   \n-diz-   \n-dzi-      \nx_1是低的/向下的，在参考结构x_2中，与基准线/标准/参照物x_3比较\n也指：下面的；x_3通常是0标线以上的基准线，或也可是0标线本身；参见 {cnita}, {galtu}, {gapru}, {farna}, {loldi}.
+djacu	gismu   \n-jac-   \n-jau-      \nx_1是水/水一般的\n水生的/水栖的= {jaupli}；参见 {lalxu}, {rirxe}, {xamsi}, {limna}, {litki}, {lumci}, {bumru}, {jinto}.
+djaZAIR	cmevla      \n阿尔及利亚\n来自国名的阿拉伯语读法“贾扎伊尔”，意为岛屿。参见：{jerxo}（关于阿尔及利亚的gismu）。
+djedi	gismu   \n-dje-   \n-dei-      \n在时间长度上，x_1是x_2天（默认1），基于标准x_3；x_1是一日的\n昨天= {prulamdei}，今天= {cabdei}，明天= {bavlamdei}；参见 {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}.
+djica	gismu   \n-dji-      \nx_1渴望/期望/想要x_2（状态/事件），为了目的x_3\n当期望的是某物时，使用po'edji，或者在x_2位使用tu'a；参见 {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}.
+djine	gismu   \n-jin-      \nx_1是由材料x_2构成的环，内径为x_3，外径为x_4\n椭圆= {jincla}；用于各种近似圆的环状物体，甚至不必是闭合的，如：螺旋； 腰带/环带= {jinsru}；参见 {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}.
+djiotis	obsolete cmevla      \n吉奥提\n一个意为光线的印度常见名字
+djunguos	obsolete cmevla      \n中国
+djuno	gismu   \n-jun-   \n-ju'o-      \nx_1知道x_2（du'u），关于主题x_3，基于认知论x_4\n关于认知论的词都含有du'u位；“知道”只是表示知晓相关的内容，不一定需要实践 (= {tadjyju'o})；参考其它“知道/熟悉”：se {slabu}, na'e {cnino}, na'e {fange}；另参见 {du'o}, {krici}, {jinvi}, {cilre}, {certu}, {facki}, {jijnu}, {jimpe}, {senpi}, {smadi}, {kakne}, {birti}, {mipri}, {morji}, {saske}, {viska}.
+donri	gismu   \n-dor-   \n-do'i-      \nx_1是x_2天的白天/白昼，位于地点x_3；x_1是日间的/白天的\n参见 {nicte}, {djedi}, {tcika}.
+dotco	gismu   \n-dot-   \n-do'o-      \nx_1是关于德国的文化/国家/语言等方面的事物，在x_2方面\n参见 {ropno}.
+draci	gismu      \nx_1是戏剧，关于x_2（主题/主旨/故事/情节等），剧本创作者为x_3，观众为x_4，演员为x_5\nx_2可能也指习俗；参见 {finti}, {cukta}, {lisri}, {cfika}.
+drani	gismu   \n-dra-      \nx_1是正确的/恰当的/完美的，在x_2方面（ka），在环境x_3下，基于标准x_4\n参见 {srera}, {mapti}.
+drata	gismu   \n-dat-      \nx_1是不同于x_2的，基于标准x_3；x_1与x_2不同；x_1是另外的事物；\n参见 {mintu}, {frica}.
+drudi	gismu   \n-rud-   \n-dru-      \nx_1是x_2的顶部/上顶/顶端/上端部位\n参见 {bitmu}, {stedu}, {galtu}, {gapru}, {loldi}, {marbi}, {gacri}, {mapku}
+dugri	gismu   \n-dug-      \nx_1是x_2的对数（x_2为真数），底数为x_3\n参见 {tenfa}.
+dukse	gismu   \n-dus-   \n-du'e-      \nx_1是超量的/过量的/超额的/过多的x_2，基于标准x_3\n因过量反而有损的/多而腻的= {maldu'e}/{tolpu'adu'e}；参见 {bancu}, {banzu}, {ricfu}, {zmadu}.
+dukti	gismu   \n-dut-      \nx_1是与x_2相反的/相对的，在性质/程度x_3（性质/si'o）\n参见 {ranxi}, {ragve}, {fatne}.
+dunav	cmevla      \n多瑙河
+dunda	gismu   \n-dud-   \n-du'a-      \nx_1给出/献出x_2给接收者x_3\n也指：补助/补贴；不暗示所有权的转移； x_3可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {posydu'a}, {posyseldu'a} 以示区别；参见 {benji}, {muvdu}, {canja}, {pleji}, {vecnu}, {friti}, {sfasa}, {dapma}, {cnemu}, {prali}.
+dunja	gismu   \n-duj-      \nx_1冻结/凝结/固化/凝固，在温度x_2下，压强x_3下\n参见 {febvi}, {lunsa}, {runme}, {sligu}.
+dunku	gismu   \n-duk-   \n-du'u-      \nx_1是紧张的/忧虑的/苦闷的/有压力的/痛苦的，由x_2引起\n参见 {fengu}, {surla}.
+dunli	gismu   \n-dun-   \n-du'i-      \nx_1与x_2是相同的/相等的/等量的，在性质/尺寸/数量x_3方面\n在数量或性质上相同，并不需要两者具有同一性；参见：{du'i}, {satci}, {frica}, {simsa}, {mintu}.
+dunra	gismu   \n-dur-      \nx_1是冬天/冬季（寒冷的季节），属于年份x_2，地点x_3\n参见 {citsi}, {crisa}, {critu}, {vensa}.
+dzena	gismu   \n-dze-      \nx_1是x_2的长辈/先辈，依据纽带/关系x_3\n参见 {patfu}, {rirni}, {tamne}.
+dzip	cmevla      \n南冰洋\n注意不是“北”冰洋。
+dzipo	gismu   \n-zip-   \n-zi'o-      \nx_1是关于南极洲文化/所在地/地理特性等的事物，在x_2方面\n参见 {ketco}, {friko}, {sralo}, {terdi}.
+facki	gismu   \n-fak-   \n-fa'i-      \nx_1发现/找到x_2（du'u），关于主题/物体x_3；x_1找到物体x_3\n参见 {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
+fadni	gismu   \n-fad-      \nx_1（成员）是普通的/典型的/常见的，在性质x_2上（ka），在成员集合x_3中\nx_2是集合x_3中普偏的/典型的性质；也指：平凡的/平庸的/庸俗的；x_3是完整集合；参见 {cafne}, {rirci}, {kampu}, {lakne}, {tcaci}, {cnano}.
+fagri	gismu   \n-fag-      \nx_1是火/火焰，燃料为x_2，助燃物为x_3（默认为氧气/空气）\n参见 {jelca}, {sacki}.
+falnu	gismu   \n-fan-      \nx_1是帆，收集驱动物质x_2，位于交通工具/载具x_3上\n水轮={jacfanxi'u}；参见 {bloti}.
+famti	gismu      \nx_1是x_2的叔辈的（阿姨/伯伯/舅舅等），基于关系/纽带x_3\n参见 {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}.
+fancu	gismu      \nx_1是函数，映射为定义域x_2到值域x_3，函数关系为x_4\n参见 {mekso}, {bridi}.
+fange	gismu      \nx_1是外来的/异域的/不熟悉的，对x_2来说，在性质x_3（ka）方面\n参见 {cizra}, {jbena}, {ckini}.
+fanmo	gismu   \n-fam-   \n-fa'o-      \nx_1是进程/事件x_2的终结/终点/结束；（不暗示进程/事件的完整度）\nx_1是最终的/最后的/终点； x_1是x_2的末端/终点站； x_1是进程x_2的终止状态/最终状态；x_2止步于/终止于/被终结于x_1处 (= selfa'o)；参见 {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}.
+fanri	gismu      \nx_1是制造x_2的工厂/制造厂，使用制造材料x_3\n参见 {molki}, {gundi}.
+fanta	gismu      \nx_1阻止/停止/抑制/束缚事件x_2发生\n参见 {pinfu}, {bandu}, {zunti}, {rinju}, {jimte}, {bapli}, {rivbi}.
+fanva	gismu      \nx_1翻译文本/话语x_2至目标语言x_3，来自源语言x_4，得到翻译结果x_5\n参见 {cusku}, {bangu}.
+fanza	gismu   \n-faz-      \nx_1（事件）干扰/打扰/烦扰x_2；x_1让x_2分心\n也指：带来混乱；参见 {fengu}, {raktu}, {dicra}, {tunta}, {zunti}, {jicla}.
+fapro	gismu   \n-fap-   \n-pro-      \nx_1反抗对手x_2/与对手x_2（人/力量，个体/团体）争斗，关于x_3\n也指：抵抗；参见 {bandu}, {bradi}, {darlu}, {damba}, {jivna}, {lanxe}, {rivbi}, {sarji}, {xarnu}.
+farlu	gismu   \n-fal-   \n-fa'u-      \nx_1落向x_2，由x_3开始，基于重力阱/参考系x_4\n物体可以旋转下落，在推力作用下下落或在潮汐力影响下下落；（施事的）使/让……落下= {falcru}/{falri'a}；参见 {lafti}, {cpare}, {klama}, {sfubu}.
+farna	gismu   \n-far-   \n-fa'a-      \nx_1是x_2（物体/事件）的方向，基于参考系x_3\nx_2由x_3朝向x_1;参见 {zunle}, {pritu}, {galtu}, {gapru}, {cnita}, {dizlo}, {berti}, {snanu}, {stuna}, {stici}, {purci}, {balvi}, {lidne}.
+farvi	gismu   \n-fav-      \nx_1向x_2发展/进化，由x_3开始，经过阶段x_4\n参见 {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}.
+fasnu	gismu   \n-fau-      \n事件x_1发生；x_1是一个事件\n参见 {fau}, {krefu}, {lifri}, {fatci}, {rapli}, {gasnu}, {zukte}, {banli}
+fatci	gismu   \n-fac-      \n在绝对意义上，x_1（du'u）是事实/真实\n参见 {datni}, {jitfa}, {sucta}, {xanri}, {jetnu}, {fasnu}, {zasti}, {cfika}, {saske}.
+fatne	gismu   \n-fat-   \n-fa'e-      \n序列x_1是与序列x_2反向的/颠倒的；物体x_1与物体x_2是互相颠倒的/反向的\n也指：（某种意义上）对立的；参见 {fa'e}, {dukti}.
+fatri	gismu   \n-fai-      \nx_1是分散在x_2之间的，以份数x_3（x_2/x_3 fa'u）\n也指：传播/扩展/分享/传播；施事的分散= {fairgau}/ {fairzu'e}；参见 {fa'u}, {fendi}, {preja}, {katna}, {tcana}.
+fau'u	experimental cmavo   \nCOI      \n对不起, 请原谅我, 抱歉\n{fraxu}, {u'u}.
+febvi	gismu   \n-feb-      \nx_1沸腾/达到沸点，在温度x_2，压强x_3下\n沸腾（液体翻滚）= {febjicla}；参见 {dunja}, {lunsa}, {runme}.
+femti	gismu   \n-fem-      \nx_1是十的负一十五次方个/份[10^{-15}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+fendi	gismu   \n-fed-      \nx_1分割/切分/分开x_2至各部分/组件/单元x_3，依靠方法/隔离物x_4\n参见 {sepli}, {bitmu}, {fatri}, {dilcu}, {katna}, {frinu}.
+fengu	gismu   \n-feg-   \n-fe'u-      \nx_1憤怒,对 x_2 ,由于 x_3 (行为/状态/属性).
+fenki	gismu   \n-fek-      \nx_1（行为/事件）是疯狂的/发狂的/无理智的/狂乱的，依据标准x_2\n参见 {bebna}, {racli}, {xajmi}.
+fenra	gismu   \n-fer-   \n-fe'a-      \nx_1是x_2上的裂缝/开裂/沟壑\n参见 {kevna}, {cfila}, {jinto}.
+fenso	gismu   \n-fen-   \n-fe'o-      \nx_1将材料x_2（个体/集合）缝合在一起，使用缝合工具x_3，缝合线x_4\nx_2处若为集合，应当全部指明；参见 {cilta}, {jivbu}, {jorne}, {nivji}, {pijne}, {lasna}.
+fepni	gismu   \n-fep-   \n-fei-      \nx_1是数量x_2的货币子单位（角/美分/戈比等），在货币系统x_3中\n也指：芬尼，派萨，第纳尔等；x_1通常指价格/价值/花费；可以在x_4,x_5……位添加额外的二级，三级单位……；参见 {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+fepri	gismu      \nx_1是x_2的肺\n也指：x_1是有关于肺的；参见 {pambe}, {vasxu}.
+ferti	gismu   \n-fre-      \nx_1对x_2的生长/发展是肥沃的/丰饶的/有益的；x_1是富有成效的/多产的\n也指：多产的（包括潜在的或已经表现出的生产力）；参见 {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}.
+festi	gismu   \n-fes-      \nx_1是多余的产品，由行为/事件x_2导致\n也指：屎/粪；浪费/造成多余= {fesygau}/{fesyzu'e}；参见 {xaksu}, {kalci}, {pinca}.
+fetsi	gismu   \n-fet-   \n-fe'i-      \nx_1是女性的/雌性的/母的生物，属于品种/种类x_2，具有证明其为雌性的特征x_3（ka）\n参见 {nakni}.
+figre	gismu   \n-fig-      \nx_1是无花果（树/果），属于品种/种类x_2\n参见 {grute}.
+filso	gismu   \n-fis-      \nx_1是关于巴勒斯坦的文化/国家/语言等的事物，在x_2方面\n参见 {jordo}, {xebro}.
+finpe	gismu   \n-fip-   \n-fi'e-      \nx_1是鱼类，属于品种/种类x_2；可借指像鱼类的水生动物，如：鲸\n参见 {danlu}.
+finti	gismu   \n-fin-   \n-fi'i-      \nx_1 发明/创造/构造/创作x_2 , 为功能/目的x_3, 源自已有元素/主意x_4.
+firca	experimental gismu      \nx_1调情x_2，通过行为x_3\n参见{cinse}, {pamta'a}, {cinjikca}, {mletritra}, {gletu}
+flalu	gismu   \n-fla-      \nx_1是针对x_2问题、为保障或限制x_3的权益、在x_4条件下、由x_5制定的法律\n参见：{javni}、{ritli}、{zekri}、{pulji}、{tinbe}
+flani	gismu      \nx_1是笛/笛状的吹管乐器\n参见 {zgike}.
+flari'a	lujvo      \nr_1=f_5制定r_2=f_1法律以保障或限制f_3在r_3=f_4条件下的权益\nx_1通常是国会等立法机关
+flecu	gismu   \n-fle-      \nx_1是x_2的流/河/流束，流向方向/目标x_3，来自方向/目标x_4\nx_1是流动的x_2；x_2是指流动的气体/液体/流体； x_1奔流向x_3；奔流= {caifle}/{sukfle}；参见 {rirxe}, {senta}不暗示方向, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}.
+fliba	gismu   \n-fli-      \nx_1失败于x_2（状态/事件）；x_1是一个失败者，在事件x_2中\n困惑= {pesfli}, {jmifli}, {dafspufli}, {menfli},（某种意义上来说）；也指 x_2终止/停止，因为x_1失败；参见 {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.
+flira	gismu   \n-fir-      \nx_1是脸/面部的\n参见 {sefta}, {stedu}, {crane}, {mebri}.
+foldi	gismu   \n-flo-   \n-foi-      \nx_1是物质x_2的场；x_1是x_2构成的宽阔的区域\n树林/森林= {ricfoi}，草场/草地= {sasfoi}，灌木林= {spafoi}/{cicyspafoi}；参见 {purdi}, {cange}.
+fonmo	gismu   \n-fom-   \n-fo'o-      \nx_1是由物质x_2上形成的泡沫/水沫，带有物质x_3形成的泡/水沫\n参见 {zbabu}.
+fonxa	gismu   \n-fon-      \nx_1是移动电话收发器/调制解调器，与系统/网络x_2连接\n参见 {tcana}.
+forca	gismu   \n-fro-      \nx_1是叉子/叉状工具，为了目的/功能x_2，带有齿x_3在基座x_4上\n参见 {dakfu}, {smuci}, {komcu}, {tutci}.
+fraso	gismu   \n-fas-      \nx_1是关于法国/高卢的文化/国家/语言等的事物，在x_2方面\n参见 {ropno}.
+frati	gismu   \n-fra-      \nx_1以行为x_2反应/回应/回答刺激/激励x_3，在条件x_4下；x_1是响应的/回应的\nx_3刺激x_1，使其发生反应x_2； 刺激x_3导致响应x_2；刺激= {terfratoi}/{tunterfratoi}； 参见 {preti}, {danfu}, {spuda}, {cpedu}, {tarti}.
+fraxu	gismu   \n-fax-      \nx_1原谅/谅解x_2的行为/状态/行为x_3\n参见 {dunda}, {curmi}, {zungi}.
+frica	gismu   \n-fic-      \nx_1不同于/有区别于x_2，在性质/尺寸/数量x_3上\n参见 {ranxi}, {drata}, {dunli}, {simsa}, {vrici}.
+friko	gismu   \n-fi'o-      \nx_1是关于非洲文化/所在地/地理特性等的事物，在x_2方面\n参见 {ropno}, {xazdo}.
+frili	gismu   \n-fil-      \n行动x_1是简单的/轻松地/容易的，对x_2来说，在条件x_3下；x_2轻松地做x_1\n参见 {nandu}, {sampu}, {zifre}.
+frinu	gismu      \nx_1是分数（数学概念），分子是x_2，分母是x_3； (x_2/x_3)\n参见 {parbi}, {dilcu}, {mekso}, {fendi}.
+friti	gismu   \n-fit-      \nx_1提供x_2给x_3，在条件x_4下\nx_4可能是nu canja, nu pleji 等等； 无条件的给予存在接受的“条件”； x_2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {posfriti}, {posyselfriti； 参见 {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}.
+frumu	gismu   \n-fru-      \nx_1皱眉/愁眉苦脸（面部表情）\nx_1因x_2而皱眉/皱眉作为对x_2的回应= {frufra}；参见 {cmila}, {cisma}.
+fukpi	gismu   \n-fuk-   \n-fu'i-      \nx_1是x_2的复制品/副本/拷贝/克隆，以形式/媒介x_3，以方法x_4（事件）制作\n借词=fu'ivla；参见 {krefu}, {rapli}, {gidva}
+fulta	gismu   \n-ful-   \n-flu-      \nx_1（无动力的）漂浮/悬浮在气体/液体x_2中/上；x_1是有浮力的\n参见 {limna}, {bloti}, {sakli}.
+funca	gismu   \n-fun-   \n-fu'a-      \nx_1（事件/性质）被运气x_2所决定（不暗示好运/厄运）\n参见 {cunso}, {mabla}, {zabna}.
+fusra	gismu   \n-fur-      \nx_1腐烂/腐朽，在发酵/腐烂助剂x_2作用下；x_1是腐烂的/腐朽的\n参见 {birje}, {vanju}, {vifne}.
+fuzme	gismu   \n-fuz-   \n-fu'e-      \nx_1对x_2（行动/结果状态）负有责任，在判断者/评价者x_3看来\n参见 {bilga}.
+gacri	gismu   \n-gai-      \nx_1是用于遮蔽/保护x_2的覆盖物/顶盖\n参见 {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}.
+gadri	gismu   \n-gad-      \nx_1是冠词，标记描述x_2（文本），以语言x_3，带有语义/含义x_4\nx_2是不带冠词的sumti/名词短语；带有冠词的描述= {gadysu'i}；注：“限定词”已成为语言学中可替换冠词的可用成分，但“限定词”包括所有能引入sumti/名词短语的词，不管其是不是冠词，比如：代词所有格（如lemi），数量词（尤其是不确定数量的，如 ci 和su'o），指示词（如：ti, ta, tu）； 逻辑语中的“冠词”只指能引入描述的词（如 selma'o LA 和 LE,以及它们的一些组合形式 lemi, 也可能有lenu）；“冠词”一般是指一个词，但逻辑语显然需要拓广后的含义；参见 {valsi}, {cmavo}.
+galfi	gismu   \n-gaf-   \n-ga'i-      \n事件x_1改变/转化x_2至x_3\n导致，表示有原因和结果的变化； （施事的）改变= {gafygau}/{gafyzu'e}；参见 {stika}无结果, {binxo} 无原因, {cenba} 无结果; {zasni}
+galtu	gismu   \n-gal-   \n-ga'u-      \nx_1是高的/向上的/上面的，在参考结构x_2中，与基准线/标准/参照物x_3比较\n也指：上面的/较高的；参见 {gapru}, {dizlo}, {cnita}, {drudi}, {farna}.
+galxe	gismu      \nx_1是x_2的咽喉/喉咙；（可比喻：狭窄的深洞）\n参见 {cnebo}, {kevna}, {tunlo}.
+ganlo	gismu   \n-ga'o-      \n入口/通道/门x_1是关闭的/不开放的/不可通行的，通道原本通向x_2，对通过者x_3\n通道也可能指半透膜；参见 {kalri}, {pagre}, {canko}, {vorme}, {zunti}.
+ganra	gismu   \n-gan-      \nx_1是宽的，在尺寸/规格x_2上，基于测量标准x_3\n参见 {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}.
+ganse	gismu   \n-gas-   \n-ga'e-      \nx_1（观察者）观察/探测/感受/感觉到刺激物的性质x_2（ka），依靠方法x_3，在条件x_4下\nx_1对x_2是有感觉的；也指：感知/察觉/认知/领悟/识别（不暗示存在反应，不必要任何心智上的处理过程）； 注意其强调的是刺激x_1或被感受到的性质；（{sanji}是被动的“感知”，且并不限于感觉器的输入，也可能只是某种心理上的感受/识别，而与探知的方式无关）；x_3感官/感受信道；参见 {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
+ganti	gismu      \nx_1是x_2的生殖腺（如：卵巢/睾丸/花蕊等）\n产生配偶子（卵子/精子/花粉等）的器官；参见 {plibu}, {sovda}, {pinji}, {gutra}, {mabla}.
+ganxo	gismu   \n-gax-      \nx_1是x_2的屁眼/肛门\n参见 {zargu}, {kalci}, {mabla}, {rinci}.
+ganzu	gismu   \n-gaz-      \nx_1组织x_2（相对混乱）进入/成为x_3，使用组织系统/原则x_4\nx_3也指系统； x_4可能只是表示了x_3组织结构的函数；参见 {ciste}, {morna}, {stura}, {bilni}, {cabra}.
+gapci	gismu   \n-gac-      \nx_1是气态的/气体/水汽/蒸汽，包含物质x_2，在条件x_3（温度/压强）下\nx_3包括温度和压强；参见 {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu}.
+gapru	gismu   \n-gap-      \nx_1在x_2的正上方，在参考系/重力方向x_3下\n参见 {tsani}, {galtu}, {cnita}, {drudi}, {gacri}, {dizlo}, {farna}.
+garna	gismu   \n-gar-      \nx_1是用于支撑x_2的扶手，由材料x_3构成\n参见 {kamju}, {grana}, {tutci}.
+gasnu	gismu   \n-gau-      \nx_1是事件x_2发生的施事原因；x_1做x_2\n参见：{gau}, {gunka}, {zukte}, {rinka}, {fasnu}无施事者, {jibri}, {kakne}, {pilno}
+gaspo	experimental gismu      \nx_1是关于危地马拉的文化/语言等的事物，在x_2方面
+gasta	gismu   \n-gat-      \nx_1是钢/钢制品，含有材料x_2\n参见 {jinme}, {molki}, {tirse}.
+genja	gismu   \n-gej-      \nx_1是植物x_2的根\n参见 {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}.
+gento	gismu   \n-get-   \n-ge'o-      \nx_1是关于阿根廷的文化/国家/语言等的事物，在x_2方面\n参见 {xispo}, {ketco}, {spano}.
+genxu	gismu   \n-gex-      \nx_1是钩子，由材料x_2构成\n参见 {kruvi}, {korcu}.
+gerku	gismu   \n-ger-   \n-ge'u-      \nx_1是狗/犬，属于品种/种类x_2\n参见 {lorxu}, {labno}, {mlatu}.
+gerna	gismu   \n-gen-   \n-ge'a-      \nx_1是语言x_2的语法规则，对于具体句型/文本x_3而言\n参见 {bangu}, {stura}, {cmavo}, {jufra}.
+gidva	gismu   \n-gid-   \n-gi'a-      \nx_1（人/物/事）引导/指导/带领参与者x_2进入/处于事件x_3\n指导者x_1可能提建议/提意见/做表率，但并不必要直接用行动介入具体的事件中；可供指导的事件可能是作为可模仿的事件模式/范例；参见 {jitro}, {ralju}, {sazri}, te {bende}, {jatna}, {fukpi}, {morna}.
+gigdo	gismu   \n-gig-   \n-gi'o-      \nx_1是十亿/十的九次方个/份[10^9]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}. {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+ginka	gismu   \n-gik-      \nx_1是x_2的营地/帐篷/临时住处，处于地点x_3\n参见 {dinju}, {xabju}, {zdani}.
+girzu	gismu   \n-gir-   \n-gri-      \nx_1是串/组/簇/群，具有共同性质x_2，由于集合x_3，集合由关系x_4相互联系\n也指：团队，由……组成/构成； 成员集x_3（成员的完整集合）中包含了组x_1； 群/簇= {kangri}；参见 {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi}, {lanzu}, {liste}, {vrici}.
+gismu	gismu   \n-gim-   \n-gi'u-      \nx_1是逻辑语根词，表达关系x_2, 在参数角色x_3中,  和词缀x_4.
+glare	gismu   \n-gla-      \nx_1是热的，基于标准x_2\n温的= {mligla}，发烧的= {bi'agla}；参见 {lenku}.
+gleki	gismu   \n-gek-   \n-gei-      \nx_1 乐 x_2 (事件/状态).
+gletu	gismu   \n-let-   \n-gle-      \nx_1与x_2性交；x_1日/操/上x_2\n其中x_1与x_2是可互换的；骑式性交= {cpanygle}；参见 {cinse}, {pinji}, {plibu}, {vibna}, {vlagi}, {mabla}, {speni}.
+gliban	cmevla      \n英语\n专名。参见：{glico}（英格兰）、{bangu}（语言）、{glibau}（英语，属gismu）。
+glibau	lujvo      \ng_1=b_1是b_2用来表示/交流b_3（不是说的话本身）的英语说法\n由{glico}（英格兰）、{bangu}（语言）组成。参见：{gliglibau}（英国英语）、{merbau}（美国英语）、{xinglibau}（印度英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{kisyglibau}（巴基斯坦英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+glico	gismu   \n-gic-   \n-gli-      \nx_1是关于英语/说英语的文化/国家/语言等的事物，在x_2方面；\n英格兰={gligu'e}；英式英语={gliglibau}；注：英国/英联邦{brito}与英格兰并不是同一个概念。参见{merko},{sralo},{kadno},{skoto}
+gliglibau	lujvo      \ng_1=b_1是b_2用来表示/交流b_3（不是说的话本身）的英国英语说法\n参见：{gliban}（英语，专名）、{glibau}（英语）、{merbau}（美国英语）、{xinglibau}（印度英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{kisyglibau}（巴基斯坦英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+gluta	gismu   \n-glu-      \nx_1是由材料x_2制成的手套\n露指手套= {degycauglu}； 参见 {taxfu}.
+gocti	gismu   \n-goc-      \nx_1是十的负二十四次方个/份[10^{-24}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}. {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+gotro	gismu   \n-got-      \nx_1是十的二十四次方个/份[10^21]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}. {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+gradu	gismu   \n-rau-      \nx_1是一个层级/量级/等级/层次，基于标准/参考x_2（si'o），具有性质x_3\n也指：级别/极端；x_3尺寸/规格；参见 {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}.
+grake	gismu   \n-gra-      \nx_1具有x_2克的质量（公制单位），基于标准x_3\n参见 {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+grana	gismu   \n-ga'a-      \nx_1是棒/棍/杖/杆，由材料x_2构成\n参见 {garna}.
+grasu	gismu   \n-ras-      \nx_1是油脂/由油脂构成，来源于x_2\n参见 {ctile}, {matne}, {plana}.
+greku	gismu   \n-rek-      \nx_1是决定/承载样式/形式x_2的框架结构/纲要\n参见 {korbi}, {stura}, {tsina}, {bongu}.
+grusi	gismu   \n-rus-      \nx_1是灰色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}.
+grute	gismu   \n-rut-      \nx_1是水果/果实，属于品种/种类x_2\n参见 {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}, {nimre}.
+guanJOUS	obsolete cmevla      \n广州
+gubni	gismu   \n-gub-      \nx_1是团体x_2全体所公开的/公共的/公有的\n参见 {sivni}.
+gugde	gismu   \n-gug-   \n-gu'e-      \nx_1是国家，由人民x_2构成，具有土地/领地/主权区域x_3\n也指：国内的/国家的；参见 {turni}, {natmi}, {jecta}, {tumla}, {tutra}, {lanci}.
+gugl	cmevla      \nGoogle（谷歌）
+gumri	experimental gismu      \nx_1是蘑菇/伞菌，属于品种/种类x_2\n参见 {mledi}, {ledgrute}
+gundi	gismu   \n-gud-      \nx_1是生产制造x_2的工业活动/系统的制造行为，依靠方法/方式/进程x_3\n参见 {cupra}, {fanri}, {rutni}, {zbasu}.
+gunka	gismu   \n-gun-   \n-gu'a-      \nx_1 [人] 劳动/工作, 于x_2 [活动], 目的/对象 x_3.
+gunma	gismu   \n-gum-      \nx_1是由各组件x_2共同组成的团/队/集体\nx_1位呈现出了整个团体具有的性质；团体可能显示出集合中单个成员所不具有的性质，而且单个成员的性质也不必要与团体性质有关；参见 {bende}, {girzu}, {pagbu}, {loi}, {lei}, {lai}, {ciste}, {cmima}, {kansa}, {tinci}, {mulgunma}.
+gunro	gismu   \n-gur-   \n-gu'o-      \nx_1在表面x_2旋转/滚动，转轴为x_3；x_1在打滚/是滚筒\n参见 {bolci}, {carna}, {jendu}, {slanu}.
+gunse	gismu      \nx_1是鹅，属于品种/种类x_2\n参见 {cipni}.
+gunta	gismu   \n-gut-      \nx_1攻击/入侵/进攻/侵犯/侵害x_2，为了目的x_3\n参见 {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
+guonJAUS	obsolete cmevla      \n广州\n粤语发音
+gurni	gismu   \n-gru-      \nx_1是谷物，属于品种/种类x_2\n参见 {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde}, {spati}, {zumri}, {nanba}, {sorgu}.
+guska	gismu   \n-guk-      \nx_1将x_2从x_3上刮掉/擦掉/磨掉/腐蚀掉\n磨掉/研磨/摩擦={mosyguska}；参见 {balre}, {sraku}, {batci}, {canpa}, {mosra}.
+gusni	gismu   \n-gus-   \n-gu'i-      \nx_1 [能量]是光/亮照亮x_2, 从光源x_3发出.
+gusta	gismu      \nx_1是餐厅/饭馆/食堂，提供食物x_2给x_3\n参见 {barja}, {citka}, {kukte}, {sanmi}, {xotli}.
+gutci	gismu   \n-guc-      \nx_1是x_2个当地长度单位（非公制），基于标准x_3，亚单位/子单位为x_4\n英尺/脚长= {jmagutci}，码= {cibjmagutci}；步长= {tapygutci}；英寸/指长= {degygutci}；腕尺= {birgutci}；更多的子单位可以继续添加x_5,x6……；参见 {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}.
+gutra	gismu      \nx_1是x_2的子宫；（可比喻：孕育之处）\n参见 {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}.
+guzme	gismu   \n-guz-   \n-zme-      \nx_1是南瓜属植物/果实，属于品种/种类x_2；如南瓜，甜瓜\n参见 {grute}.
+iaves	cmevla      \n雅威（即耶和华，又有译永为）\n犹太教-基督教-伊斯兰教的神名，本是自有永有、成事者的意思。参见：{jegvon}（耶和华，专名）、{cev}（神，专名）、{cevni}（神袛）、{jegvo}（三教共尊的圣经）、{xebro}（希伯来）、{xriso}（基督教）、{muslo}（伊斯兰）。
+ieRUcaly'im	cmevla      \n耶路撒冷
+island	cmevla      \n冰岛
+italian	obsolete cmevla      \n意大利\n又译“义大利”等。
+jabre	gismu      \nx_1减缓/减速运动/行为x_2，使用设备/机械/原理x_3\n参见 {mosra}.
+jadni	gismu   \n-jad-   \n-ja'i-      \nx_1（物体）装饰/修饰x_2；x_1是装饰x_2的装饰品；x_2是经x_1装饰/修饰过的\n装饰过的/装饰一新的= {selja'i}；参见 {jemna}, {dirba}, {batke}.
+jakne	gismu      \nx_1是火箭（载具），由驱动装置x_2驱动，运输负载x_3\n参见 {cecla}, {danti}, {spoja}.
+jalge	gismu   \n-jag-   \n-ja'e-      \nx_1（行为/事件/状态）是由前提x_2（事件/状态/进程）导致的成果/结果/后果/输出\n也指：x_2引起x_1；求和 = {pi'irja'e}, {sujyja'e}；{mekyja'e}；参见 se {mukti}, te {zukte}, se {rinka}, se {krinu}, se {nibli}, {mulno}, {sumji}, {pilji}, {mekso}, {ja'e}, {ciksi}.
+jalna	gismu      \nx_1是淀粉，来源于x_2，组分包括x_3\n参见 {patlu}, {samcu}.
+jalra	gismu      \nx_1是直翅类昆虫，属于品种/种类x_2；如：蟑螂\n蝗虫/蚱蜢= {pipyjalra}；蟋蟀= {sagjalra}；白蚁= {mantyjalra}/{mudyctijalra}；（直翅目昆虫包括蟋蟀/蚱蜢等，白蚁（等翅目）与直翅目昆虫很接近，但并不属于直翅目）；参见 {cinki}, {civla}, {manti}.
+jamfu	gismu   \n-jaf-   \n-jma-      \nx_1是x_2的脚（身体部位）\n参见 {jicmu}, {genja}, {zbepi}, {tuple}, {jubme}, {xance}, {tamji}.
+jamna	gismu   \n-jam-      \nx_1与x_2战争，为了主权/问题x_3；x_1与x_2交战\n参见 {bradi}, {gunta}, {panpi}, {damba}, {darlu}.
+jan	cmevla      \nJean（名）、张（姓氏）\nJean常译为“让”。
+janbe	gismu   \n-jab-      \nx_1是发出声音/信号x_2的铃/钟\n也指：x_1响铃；参见 {zgike}, {tonga}, {desku}, {slilu}.
+janco	gismu   \n-jan-      \nx_1是肩/关节（身体部位）连接肢体x_2和身体x_3\n参见 {birka}.
+janli	gismu   \n-jal-      \nx_1撞击/碰撞/撞向x_2\n冲撞/对撞={simjanli}，指两个运动的物体相撞；参见 {darxi}.
+jansu	gismu   \n-jas-      \nx_1是外交官，代表政体/国家/政治组织x_2，在协商/谈判x_3中，为了功能/目的x_4\n为了x_3政权，使用tu'a；大使/领事= {raljansu}/{trujansu}；参见 {jecta}, {krati}.
+janta	gismu   \n-jat-      \nx_1是账目/账单/发票，为了货物/服务x_2，发票给予x_3，由x_4给出\n参见 {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}.
+jarbu	gismu      \nx_1是城市/中心城市的城郊x_2\n参见 {nurma}, se {tcadu}, ve {tcadu}.
+jarco	gismu   \n-ja'o-      \nx_1展示/展现/展览/显示x_2（性质）给接受者x_3\n揭露/使显示= {tolmipygau}, {mipyja'o}, {sivja'o}；也指x_1展示x_2（若x_2为物体，则使用{tu'a}，表达了展示的是物体的性质，如果要表达的是物体的“存在性”，则使用“{leka}物体 {cu} {zvati}”）；参见 {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}.
+jarki	gismu   \n-jak-      \nx_1是窄的，在尺寸/规格x_2（第二重要的维度）上，基于测量标准x_3\n参见 {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}.
+jaspu	gismu   \n-jap-      \nx_1是发给x_2的护照/通行证，颁发者/机构为x_3，准许持有人进行活动x_4\n参见 {pikta}, {catni}, {curmi}.
+jatna	gismu   \n-ja'a-      \nx_1是领域x_2的带头人/领导者/负责人\n参见 {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
+javni	gismu   \n-jva-      \nx_1是规则/规矩/规定，要求/强制/规定x_2（事件/状态），在系统/社区/团体x_3中\n也指：规章/惯例/原则/要求等；x_1是规定的/管理的； x_2/x_3是被规定的/被管理的；参见 {flalu}, {ritli}, {ja'i}, {marde}, {tcaci}, {tinbe}, {zekri}.
+jbama	gismu   \n-bam-      \nx_1是使用爆炸材料/原料/原理x_2的炸弹/爆炸装置\n参见 {cecla}, {spoja}.
+jbari	gismu   \n-jba-      \nx_1是浆果（植物/果实），属于品种/种类x_2；如葡萄，西红柿\n参见 {grute}, {tsiju}, {narge}.
+jbena	gismu   \n-jbe-      \nx_1是由x_2生出的/产出的，在时间x_3（生日），地点x_4（出生地）\nx_2生出x_1；x_3：诞生日；参见 {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}.
+jbera	gismu   \n-jer-      \nx_1借用/临时使用x_2，来源于x_3，借用时间长度为x_4\n信用额= {jernu'e}； 像变色龙一样借用/套用别人的性质= {zaskai}, {zasysmitra}, {zasysmitai}；参见 {dejni}, {janta}, {zivle}.
+jbini	gismu   \n-bin-   \n-bi'i-      \nx_1处于范围/界限/限制/限定x_2之中，具有性质x_3（ka）；x_1处于整体x_2之中\nx_2（完整集合，通常是有序的）界定/限制x_1的范围；参见 se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}.
+jboselkei	lujvo      \nx_1=l_1=s_1 是游戏, 游戏者 x_2=s_2 的, 在特征 x_3=l_2 中反应出 [逻辑语的]/逻辑语的语言/文化/国家/社区的特性.\n{lojbo} {se} {kelci}
+jbovlaste	lujvo      \nlo_1=li_1 是逻辑语词典系统 (jbovlaste)\n一个基于 Web 界面的逻辑语词典编辑系统和它的内容。参见 {lojbo}, {valsi}, {liste}, {vlaste}, {vlacku}
+jdari	gismu   \n-jar-      \nx_1是牢固的/顽固的/坚强的，在压力/压迫x_2下，在条件x_3下\n参见 {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
+jdice	gismu   \n-jdi-      \nx_1做决定x_2（du'u），关于x_3（事件/状态）\n参见 {pajni}, {cuxna}, {kanji}, {manri}.
+jdika	gismu      \nx_1减少/递减/减弱/衰退/变小，在性质/数量x_2上，减少量为x_3\n参见 {zenba}, {mleca}, {vimcu}.
+jdima	gismu   \n-di'a-      \nx_1（数量）是x_2的价格/价钱，购买者/消费者为x_3，卖家/销售者为x_4\nx_2 可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posydi'a}/{posyseldi'a}；价格由卖家设定，比较{friti}（价格可能由买家设定}；注意价格与花费/代价不同，花费/代价是指交易中实际的付出，而价格并不一定与实际交易额相等； {vecnu}和{canja}中的花费并不等同于交易物的“实际价值{vamji}”；参见 {canja}, {friti}, {janta}, {jdini}, {kargu}, {pleji}, {dapma}, {vamji} 价值, ve {vecnu}花费, {canja}, {fepni}, {jerna}, {jinga}, {prali}, {rupnu}, {sfasa}, {vamji}.
+jdini	gismu   \n-din-   \n-di'i-      \nx_1是由x_2发行的货币/通货/钱；x_1是有关于货币的/财政的/金融的\n纸币= {pledi'i}；参见 {fepni}, {jdima}, {rupnu}, {sicni}, {canja}.
+jduli	gismu   \n-dul-   \n-jdu-      \nx_1是胶体/半固体/果冻状物体，由物质/材料x_2构成\nx_1是胶状的；参见 {litki}, {sligu}.
+jecta	gismu   \n-jec-   \n-je'a-      \nx_1是政体/政府/政治组织，控制/统治土地/主权范围x_2\nx_1是关于政治的；参见 {gugde}, {tutra}, {turni}, {natmi}, {jansu}, {lanci}, {cecmu}.
+jeftu	gismu   \n-jef-      \n在时间长度上，x_1是x_2周（数量，默认1），基于标准x_3\n标准x_3：一周可能不是七天，应以实际情况区分；本周= {cabjeftu}；下周= {bavlamjeftu}；上周= {prulamjeftu}；参见 {detri}, {djedi}, {masti}, {nanca}.
+jegvo	gismu   \n-jeg-   \n-je'o-      \nx_1是关于亚伯拉罕诸教（犹太教，伊斯兰教，基督教）的文化/国家/语言/宗教等的事物，在x_2方面\n参见 {lijda}, {muslo}, {dadjo}, {xriso}.
+jegvon	cmevla      \n耶和华（又译雅威、永为）\n称呼犹太教、基督教、伊斯兰教等亚伯拉罕诸教共尊的那个神的说法，常译为专名“耶和华”，又译为“耶威”、“雅威”、“耶胡”、“爷火华”，但其实是自有永有、成事者的意思，所以又有意译为“永恒主”或者直接换称“神”、“主”的，新近有意音兼译为“永为”。参见：{iaves}（雅威，专名）、{cev}（神，专名）、{cevni}（神袛）、{jegvo}（三教共尊的圣经）、{xebro}（希伯来）、{xriso}（基督教）、{muslo}（伊斯兰）。
+jelca	gismu   \n-jel-      \nx_1燃烧，在温度x_2下，气体环境x_3中\n默认x_2为常温，x_3为空气；点燃= {jelcfa}；可燃物/易燃物= {jelka'e}/{jelfrili}；参见 {fagri}, {kijno}, {sigja}, {livla}, {sacki}.
+jemna	gismu   \n-jme-      \nx_1是宝石/珍珠/珍宝/玉石，具有样式x_2，来自材料/来源/原石x_3\n珠宝/宝石饰物= {jmeja'i}； 宝石（= x_2, x_3, 或 {jmero'i}, {jmekunra}）；珍珠={selcakyjme}在贝类中生成/{tercakyjme}由贝壳制成；圆球状宝石={boijme}；珍珠母= {cakyjme}；参见 {kunra}, {rokci}, {jadni}, {dirba}, {kargu}, {krili}, {pulji}.
+jenca	gismu   \n-jen-      \nx_1（事件）震惊/惊呆了x_2\n参见 {darxi}, {gunta}, {spaji}.
+jendu	gismu   \n-jed-      \nx_1是轴/锭子，x_2绕其上旋转，由材料x_3构成/具有品质x_3\n参见 se {carna}, {gunro}, {tutci}.
+jenmi	gismu   \n-jem-   \n-jei-      \nx_1（整体）是军队，服务于/效命于x_2（整体），具有功能x_3（行为）\n参见 {bilni}, {sonci}, {xarci}.
+jerna	gismu      \nx_1给予接受者x_2报酬/工资/回报，因为工作/服务x_3（行为）\n也指：x_2获得报酬/得到回报 （= {zanseljerna}或{nemjerna}）；x_2遭受惩罚/得到报应（= {sfaseljerna}, {malseljerna}）；x_3指行为；工作={terjerna}；x_2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyjerna},{posyseljerna}；参见 {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}.
+jersi	gismu   \n-je'i-      \nx_1追赶（物理上）x_2\nx_1在后面跟随x_2；参见 {kavbu}, {rivbi}, {kalte}, {lidne}.
+jerxo	gismu   \n-jex-      \nx_1在x_2方面很阿尔及利亚（体现了阿尔及利亚文化或国民性）\n参见：{friko}（非洲）、{xrabo}（阿拉伯）、{muslo}（伊斯兰）、{fraso}（法兰西）。
+jesni	gismu   \n-jes-      \nx_1是针/针状物，由材料x_2构成\n参见 {konju}, {pijne}, {jipno}, {kinli}.
+jetce	gismu   \n-je'e-      \nx_1是由材料/物质x_2构成的射束/喷射流，由x_3喷出\n参见 {sputu}, {vamtu}.
+jetnu	gismu   \n-jet-   \n-je'u-      \nx_1（du'u）是真的/真实的/真相，给予标准/认知论x_2\n基于认知论的词通常含有du'u位；参见 {stace}, {jitfa}, {fatci}, {birti}, {cfika}.
+jgalu	gismu   \n-ja'u-      \nx_1是x_2的指甲/爪子（身体部位）\n参见 {denci}, {jirna}, {batci}.
+jganu	gismu   \n-jga-      \nx_1是顶点位于x_2的角，具有角度区间x_3（由形成角的两边相对定义）\n也指：x_1有棱角的；x_2角落；参见 {kojna}, {linji}, {konju}, {mokca}.
+jgari	gismu   \n-jai-      \nx_1抓住/握住/紧抓x_2，使用肢体/工具x_3（x_1的一部分），握住点为x_4（x_2的一部分）\n抱/拥抱= {birjai}/{pamjai}； 互相握手= {xanjaisi'u}；握住手= {xanjai}；把手/手柄= {jaitci}；参见 {ralte}, {pencu}, {darxi}, {batke}, {rinju}.
+jgena	gismu   \n-jge-      \nx_1是x_2（物体/jo'u物体）之间的结/纠缠/绞缠/绳结\n打结={jgegau}/{jgezu'e}/{jgeri'a}/{jgela'a}；结点= {jgeterjo'e}；参见 {pluja}, {julne}, {lasna}, {skori}.
+jgina	gismu   \n-gin-      \nx_1是生物x_2的基因/遗传因子，定义性状/行为x_3\n也指：染色体={gincilta}/{ginpoi}；参见 {cerda}.
+jgira	gismu   \n-jgi-      \nx_1对x_2（谓词子句）感到自豪/骄傲/光荣\n自豪= {se'ijgi}, {tolcumla}；当指为某人上不特定的特点感到骄傲时，需要使用tu'a；参见 {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
+jgita	gismu   \n-git-      \nx_1是弦乐器（如：吉他/提琴等），带有琴拔/琴弓/激励器x_2\n也指：琵琶，大提琴，中提琴等；参见 {zgike}.
+jibni	gismu   \n-jbi-      \nx_1靠近/接近x_2，在性质/数量x_3上\n参见 {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu}, {diklo}, {stuzi}.
+jibri	gismu   \n-jib-      \nx_1是x_2的工作/职业/谋生手段\n为……工作/给……打工={selplijibri}；参见 {briju}, {gunka}, {te} {jerna} 指明了回报，不指名雇主；{te} {pilno} 指明了雇佣关系，但不指名回报；{se} {gasnu} 和{se} {zukte}指偶然的活动
+jicla	gismu      \nx_1（物体/事件/力）搅拌/混合流体x_2（液体/固体）\n对流= {nenflejicla}；（施事的）搅拌= {jiclygau}/{jiclyzu'e}；参见 {fanza}, {tunta}, {mixre}.
+jicmu	gismu   \n-cmu-      \nx_1是x_2的基础/基本/基座/基本原理；x_1是x_2的底座/支撑架/底部\nx_2建立在基础x_1上；x_1基础的/基本的/底层的；一般来说，状态/事件可以是另一些状态/事件的基础，而物体则是另一些物体的基础/底基；参见：{ji'u}, {jamfu}, {zbepi}, {genja}, {krasi}.
+jijnu	gismu   \n-jij-      \nx_1凭直觉感受到/凭直觉知道x_2（du'u），关于主题x_3\n关于认知论的词都含有du'u位；参见 {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}.
+jikca	gismu   \n-jik-      \nx_1与x_2进行一些社交行为/x_1对x_2进行交际活动\n参见 {tarti}, {penmi}.
+jikni	experimental gismu      \nx_1是关于经济的；x_1是由经济组分x_2所构成的（生产/运送/消费）\nx_2可能是指国家/地区/劳动力/土地资源/生产资源/交易/分配/消费的商品与服务，它们之间可用JOI相连； {pavmomseljikni}第一产业； {relmomseljikni}第二产业； {cibmomseljikni}第三产业； {vonmomseljikni}第四产业； {gubyseljikni}公有/国有企业； {sivyseljikni}私有企业；{jikseljikni}社会/资源机构/部门；参见 {venci'e}, {selpraci'e}.
+jikru	gismu      \nx_1是/含有的烈酒，蒸馏自x_2\n参见 {barja}, {vanju}, {birje}, {xalka}.
+jilka	gismu   \n-jil-      \nx_1是碱，由组分x_2构成\nx_1是呈碱性的；参见 {sodna}, {bakri}, {sodva}.
+jilra	gismu      \nx_1嫉妒/妒忌x_2，因为x_3（性质ka）\n参见 {cinmo}.
+jimca	gismu   \n-jic-      \nx_1是x_2的枝/肢\n也指：附器；参见 {birka}, {rebla}, {tuple}.
+jimpe	gismu   \n-jmi-      \nx_1了解/理解事实/真相x_2（du'u），关于主题x_3；x_1了解(fi) x_3\n参见 {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.
+jimte	gismu   \n-jit-      \nx_1是x_2的限制/边界/界限/极限，具有性质/范围x_3\n限制/抑制在一定范围内= {jitri'u}/{jitygau}/{jityzu'e}；参见 {ji'e}, {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi}, {fanta}, {jbini}.
+jinci	gismu      \nx_1是修建/剪x_2的剪子\n参见 {katna}.
+jinga	gismu   \n-jig-   \n-ji'a-      \nx_1 (人/团队) 赢得/获胜/获(奖) x_2 从(对手) x_3  手中 在竞争 x_4.\nx_1 是胜利者/获胜者; _x2 奖品/战利品（物质或精神上或象征）; _x3 是对手，可以是任何与_x1争夺_x2的; _x2 可以是特别的物品，一件事，一场比赛，又或者是女朋友，等等。 参见： {cirko}, {jivna}, {talsa}, {cnemu},{prali}, {pleji},{sfasa}, {jdima}, {jerna}, {bradi}, {kargu},{kelci}.
+jinku	gismu      \nx_1是用于x_2抵抗疾病x_3的疫苗/免疫兴奋剂，使用方法x_4接种\n也指：免疫血清；接种={jestu'u}/{veljinku}；参见 {jurme}, {mikce}, {jesni}, {bilma}.
+jinme	gismu   \n-jim-      \nx_1是金属/合金，组分包括x_2\nx_1是金属的；参见 {cnisa}, {gasta}, {lastu}, {margu}, {nikle}, {ransu}, {romge}, {sodna}, {tinci}, {tirse}, {tunka}, {zinki}, {kunra}, {sodva}.
+jinru	gismu   \n-jir-      \nx_1被浸入/没入液体x_2中\n洗浴/洗澡= {jirsezlu'i}；参见 {lumci}, {nenri}, {jinsa}.
+jinsa	gismu   \n-jis-      \nx_1是干净的/纯净的，不含有污渍/秽物x_2，基于标准x_3\n参见 {lumci}, {jinru}, {curve}, {sepli}.
+jinto	gismu      \nx_1是井/泉眼，含有液体x_2，处于位置x_3\n参见 {krasi}, {djacu}, {fenra}.
+jinvi	gismu   \n-jiv-   \n-ji'i-      \nx_1认为x_2（意见/想法du'u）是真实的，关于主题/情形，由于x_4\n关于认知论的词都含有du'u位；参见 {pe'i}, {djuno}, {krici}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo}, {birti}, {pinka}.
+jinzi	gismu   \n-jiz-      \nx_1（性质ka）是x_2身上的与生俱来的/固有的/天生的/遗传的\n参见 {lakne}, {rarna}, {stati}, {ka'e}, {tcaci}.
+jipci	gismu      \nx_1是鸡，属于品种/种类x_2\n参见 {cipni}.
+jipno	gismu   \n-jip-   \n-ji'o-      \nx_1是物体x_2上位置x_3处的一个点（零维结构）\n参见 {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}.
+jirna	gismu      \nx_1是x_2的角\n参见 {jgalu}, {bongu}.
+jisra	gismu      \nx_1是果汁/汁液，来源于/具有类型x_2\n从生物源中榨取/提取的汁液；参见 {pinxe}, {djacu}, {grute}, {stagi}.
+jitfa	gismu   \n-jif-      \nx_1（du'u）是错误的/不真实的，基于标准/认知论/价值观x_2\n关于认知论的词都含有du'u位；参见 {fatci}, {stace}, {jetnu}, {cfika}.
+jitro	gismu   \n-tro-      \nx_1控制/管理/指挥x_2，在x_3（行为/事件/表现）中\nx_2是被控制的方面/个体，在行为/事件x_3中；管理/经营（= {selzuktro}, {selzukfu'e}, {gu'etro}, {gunfu'e}, {xaktro}, {xakfu'e}）；管理者/经理/老板=（ {gunterbe'e}, {gunja'a}, {gunmi'e}, {gunca'i}）；参见 {ji'o}, {bapli}, te {bende}, {gidva}, {jatna}, {macnu}, {minde}, {ponse}, {ralju}, {rinka}, {sazri}, {turni}, {vlipa}, {xance}, {xlura}
+jivbu	gismu      \nx_1编织/纺织x_2，使用原材料x_3\n参见 {fenso}, {nivji}.
+jivna	gismu   \n-jvi-      \nx_1与对手x_2竞争/比赛，在比赛/对抗x_3（事件）中，为了赢得x_4；x_1与x_2对抗\nx_2是对手/敌手/竞争者；x_3比赛/竞赛；x_4奖励/奖金/奖品（可能是内在的/也可能是外在的）；参见 {cnemu}, {jinga}, {talsa}, {bradi}, {fapro}, {kelci}.
+jmaji	gismu   \n-jaj-      \nx_1（团/jo'u）聚集在位置/地点x_2，从位置/地点x_3（团/jo'u）\n也指：焦点/聚集点= {seljmaji}；参见 {crepu}.
+jmifa	gismu      \nx_1是浅滩/沙洲/暗礁，由材料x_2构成，处于水体x_3中\n湍流= {ri'erjmifa}/{ri'ercaxno}；参见 {caxno}.
+jmina	gismu   \n-min-      \nx_1将x_2加上x_3，得到结果x_4\n参见 {zmadu}, {banro}, {sumji}, {zenba}, {setca}.
+jmive	gismu   \n-miv-   \n-ji'e-      \nx_1活着/生存着，基于标准x_2；x_1是生物\nx_1是活的/生物的；参见 {lifri}, {morsi}, {stuzi}, {zvati}, {xabju}.
+jo'au	experimental cmavo   \nCOI3      \n转换语法分析器的版本/方言.\n{do'u}是可以省略的终端词. 在{jo'au}之后的cmevla/sumti/selbri的词法和文法应该适合lojban.org网站的 ``BPFK Section: PEG Morphology Algorithm'' 的第134版本及官方文法, 正是为了{jo'au}构成的自由修饰词组是相容语法分析器的所有版本. 比如说, ``jo'au jie bu'' 和 ``jo'au xy xi xei'' 不是有意义的词组. 在标准使用上, 全文章开头使用{jo'au}词组, 和{fa'o}的用法相反. {jo'au}词组的意义涉及后续部分, 到下一个{jo'au}词组为止. 第一个{jo'au}词组可以出现在文章中途, 意义涉及从开头到下一个{jo'au}词组为止. 有意义的例子: jo'au cylyly xi papipa (官方yacc和jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (现行的peg http://camxes.lojban.org/ ) ; jo'au iocixes (xorxes的zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa的第0.11个版本 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa的2014-11-24版本 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
+jordo	gismu   \n-jor-   \n-jo'o-      \nx_1是关于约旦的文化/国家/语言等的事物，在x_2方面\n参见 {filso}.
+jorne	gismu   \n-jon-   \n-jo'e-      \nx_1连接着/结合着x_2，在连接点x_3；x_1与x_2是联盟\n也指：用扣件/紧固物x_3固定/连接；扣件/使紧固之物= {jo'etci}/{jonvelyla'a}；相连而成的系列物体={jonpoi}；{porjo'e} 指连接的序列中的单个物体；参见 {lasna}, {fenso}, {kansa}, {pencu}, {penmi}.
+jubme	gismu   \n-jub-   \n-jbu-      \nx_1是桌子/平面，又材料x_2构成，由基座/脚腿/基架x_3支撑\n参见 {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}.
+judri	gismu      \nx_1是x_2的坐标/地址，在系统x_3中\n参见 {tcita}, {cmene}, {ciste}, {stuzi}.
+jufra	gismu   \n-juf-   \n-ju'a-      \nx_1（文本）是句子，关于x_2（主题/话题/议论等），以语言x_3\n短语={jufpau}/{suzrelvla}/{suzvla}/{gensle}；参见 {valsi}, {bangu}, {gerna}, {cusku}, {smuni}.
+jugle'u	lujvo      \nx_1是属于x_2系统（繁体字、简化字、注音符号等等）里表示x_3意思的中国字符\n不仅指汉字
+jukni	gismu   \n-juk-      \nx_1是蛛形纲动物/甲壳纲动物，属于品种/种类x_2；如：蜘蛛，螃蟹，龙虾\n参见 {cinki}, {danlu}.
+jukpa	gismu   \n-jup-      \nx_1准备/加工食物x_2，使用加工/烹饪方法x_3\n热加工食物={glajukpa}/{glaterjukpa}；烘烤/烤={tokyjukpa}；油炸/油煎={rasyjukpa}；参见 {cupra}, {bredi}.
+julne	gismu   \n-ju'e-      \nx_1是网/过滤器，允许x_2通过，阻止x_3通过，具有过滤属性x_4\n也指：筛子；参见 {komcu}, {ciste}, {jgena}.
+jundi	gismu   \n-jud-   \n-ju'i-      \nx_1注意/关注x_2；x_1将注意力放到x_2上\n参见 {kurji}, {zvati}.
+jungo	gismu   \n-jug-      \nx_1 在 x_2 方面 反映中国文化/语言\n包括粤、闽、客、湘、赣、北方，等。 参见： {xazdo}.
+junla	gismu   \n-jul-      \nx_1是表/钟/计时器，具有计时单位x_2，精度为x_3，使用计时原理/方法x_4\n参见 {cacra}, {mentu}, {snidu}, {tcika}, {temci}.
+junri	gismu   \n-jur-      \nx_1是严肃的/认真的，对事件/状态/行为x_2\n庄严的/肃穆的/隆重的= {drijunri}/{ri'irjunri}/{tcejunri}；参见 {tilju}, {xalbo}, {badri}, {ritli}.
+junta	gismu      \nx_1是物体x_2的重量，在场x_3中（重力场或其它场）\n参见 {grake}, {linto}, {tilju}, {bunda}.
+jurme	gismu   \n-jum-      \nx_1是单细胞生物（细菌/原生生物等），属于种类/具有定义属性x_2\n参见 {vidru}.
+jursa	gismu   \n-jus-      \nx_1（事件/状态/行为）对x_2来说是剧烈的\n参见 {gunta}, {vlile}.
+jutsi	gismu   \n-jut-      \nx_1是一个物种，属于种x_2，属x_3，……（开放式的树结构分类）\n位并不特定对应某个生物分类等级，基本的原则是：x_1是比x_2更低的分类等级，x_2由低于x_3，以此类推；跳过一个位意味着其中有一个或多个未被特定指明的分类等级；并不特定指林奈动物/植物分类学；参见 {klesi}, {lanzu}.
+juxre	gismu   \n-jux-      \nx_1（行为）是笨拙的/不得当的\n参见 {sluji}, {muvdu}.
+jvinu	gismu   \n-vin-   \n-ji'u-      \nx_1是x_2（物体/地点）的景色，从观测点x_3看来\n参见 {catlu}, {kanla}, {viska}, {canko}, {jarco}.
+jycybyb	cmevla      \nJCB（人名缩写）\n即James Cooke Brown
+ka	cmavo   \n-kam-   \nNU      \n特性/性质指示; x_1 是[bridi]表现出的性质/特性 .
+kabri	gismu      \nx1是杯/碗/盅/钵，盛有x2，以x3为材料制成\n{kabri} 通常用于举起来吃喝，{plata} 不这样使用
+kacma	gismu      \nx_1是相机/摄像设备，将图像x_2记录到媒介x_3中\n参见 {lenjo}.
+kadno	gismu      \nx_1是关于加拿大的文化/国家/语言等的事物，在x_2方面\n参见 {bemro}, {glico}.
+kafke	gismu      \nx_1咳嗽/放屁/打嗝，放出x_2（主要是气体），从孔口x_3放出\n参见 {bilma}, {senci}, {sputu}, {vamtu}.
+kagni	gismu   \n-kag-      \nx_1是公司/企业/合作社，由x_2许可设立/建立，为了目的/用途x_3\n也指：机构/组织（受许可建立）；参见 {kansa}, {kamni}, {banxa}, {bende}.
+kajde	gismu   \n-jde-      \nx_1（事件/经历）警示x_2，关于危险/风险x_3（事件/状态/性质）\n（施事的）警告= {jdegau}/{jdezu'e}；警告/警示（可能不会成功）= {jdetoi}, {jdegautoi}, {jdezuktoi}；参见 {ckape}, {nupre}, {snura}, {tcica}, {xlura}.
+kajna	gismu      \nx_1是架子/柜台，用以支撑/放置x_2，为了目的/用途x_3\n参见 {balni}.
+kakne	gismu   \n-ka'e-      \nx_1有能力做/成为/达到x_2（事件/状态），在条件x_3（事件/状态）下\n有能力/知道怎样做= {plika'e}；参见 {stati}, {certu}, {gasnu}, {ka'e}, {nu'o}, {pu'i}, {djuno}, {zifre}
+kakpa	gismu      \nx_1挖掘x_2，从洞/来源x_3中，使用肢体/工具x_4\n也指：x_1挖入/掘进x_3 （去除材料）；参见 {katna}, {plixa}, {sraku}, {canpa}, {sraku}.
+kalci	gismu      \nx_1是x_2的排泄物/粪便/屎；x_1是糟粕的\n参见 {ganxo}, {pinca}, {vikmi}, {mabla}, {festi}.
+kalri	gismu   \n-kar-      \nx_1（通道/过道）是打开的/未关闭的，允许到达x_2，对通过者x_3来说\n参见 {ganlo}, {pagre}, {canko}, {vorme}.
+kalsa	gismu   \n-kas-      \nx_1是混乱的/混沌的/杂乱的/无序的，在性质x_2（ka）方面\n参见 {cunso}, {cnici}.
+kalte	gismu   \n-kat-      \nx_1狩猎/搜寻/追踪猎物/目标x_2，为了目的x_3\n钓鱼/捕鱼= {fipkalte}；参见 {jersi}, {kavbu}, {sisku}, {rivbi}.
+kamju	gismu      \nx_1是由材料x_2做成的柱子/柱形物\n脊柱= {bogykamju}，椎骨= {kamjybo'u}；参见 {ckana}, {garna}, {sanli}, {slanu}.
+kamni	gismu      \nx_1（团体）是带有任务/目的/用途的委员会，主体由x_3构成\n董事会/托管会/内阁= {trukamni}, {gritrukamni}；参见 {bende}, {kagni}.
+kampu	gismu   \n-kau-      \nx_1（性质ka）是常见的/普通的/普遍的，在集合x_2（完整集合）中\n只应用于完全的普通意义，性质x_1 必须出现在x_2中的每一个成员上；非完全的普通意义见 {fadni} 和 {zilfadni}；参见 {cafne}, {rirci}, {fadni}, {cnano}, {tcaci}, {lakne}, {cmima}, {simxu}.
+kanba	gismu      \nx_1是山羊，属于种类/种族x_2\n参见 {lanme}, {sunla}.
+kancu	gismu   \n-kac-      \nx_1计数/数数集合x_2中的数目至x_3（数字/数量），以计数单位x_4\nx_2是完整集合；参见 {kanji}, {satci}, {merli}.
+kandi	gismu   \n-kad-      \nx_1是昏暗的/黯淡的/不明亮的，在性质x_2（ka）上，对于观测者/接受者来说\n在颜色上可指不饱和/颜色淡/苍白（尽管{blabi}也可指苍白）；参见 {blabi}, {carmi}, {klina}, {linto}, {manku}, {murse}, {ruble}, {skari}, {milxe}, {blanu}, {bunre}, {cicna}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xekri}, {xunre}, {zirpu}.
+kanji	gismu   \n-kaj-      \nx_1计算x_2（值（ni）/状态）数据来源x_3，计算进程为x_4\n参见 {kancu}, {jdice}, {skami}.
+kanla	gismu   \n-kal-      \nx_1 是 x_2的眼睛\n参见：{jvinu}, {kerlo}, {viska}, {kumte}.
+kanpe	experimental gismu      \nx_1预计/预期事件x_2具有可能性x_3（可能性在0-1之间，默认{li} {so'a}：几乎全部）；x_1主观推算事件x_2的可能性为x_3\nx_3的值的大小是x_1的主观估计，同时也是诸如“希望/期望”等词的基本决定因素，尽管kanpe本身并不带有任何“希望”的暗示，带有希望暗示的可能性参考{pacna}；可能性值可用不精确的数词（{li} {piso'u}到{li} {piro}）；参见 {djica}, {pacna}, {lakne}, {cunso}.
+kanro	gismu   \n-ka'o-      \nx_1是健康的，基于标准x_2\n参见 {bilma}, {mikce}.
+kansa	gismu   \n-kan-      \nx_1陪伴x_2/与x_2相伴/是x_2的伙伴，在称述/条件/事业x_3上\nx_1与x_2在一起/相伴；参见 {kagni}, {jorne}, {gunma}, {girzu}, {lasna}.
+kantu	gismu   \n-ka'u-      \nx_1是有关量子的/基本粒子的/最小可测量的，关于性质/运动x_2\n量子波= {bonka'u}；参见 {selci}, {ratni}, {gradu}, {gusni}, {nejni}, {linji}
+kanxe	gismu   \n-kax-      \nx_1是连词，称述/表征x_2（du'u）和x_3（du'u）都是正确的\n参见 {vlina}.
+karbi	gismu   \n-kab-      \nx_1（观察者）比较x_2与x_3，在性质x_4上（ka），以比较关系x_5（状态）来说\n参见 {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}.
+karce	gismu      \nx_1是汽车（轿车/卡车/房车等），用以运载x_2，由x_3驱动\n参见 {carce}, {xislu}, {marce}, {sabnu}.
+karda	gismu      \nx_1是卡片，由材料x_2做成，形状为x_3\nx_3默认是呈直角的；参见 {matci}, {tapla}, {plita}.
+kargu	gismu      \nx_1（物体/性质/事件/货物）是昂贵的/花费大的，对x_2来说，基于标准x_3\nx_1可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用={poskargu}； 参见 {vamji}, {dirba}, {vajni}, {jdima}, {pleji}, {canja}, {jerna}, {jinga}, {jemna}, {sfasa}, {vecnu}.
+karli	gismu      \nx_1是围绕x_2的环形物/环带/环圈（如：戒指/腰带等），由材料x_3做成\n也指：括约肌；参见 {sruri}, {djine}.
+karni	gismu      \nx_1是带有内容x_2的杂志/期刊，由x_3发表，读者为x_4\nx_2可能是主题，但并非所有杂志都有单一主题，所有的杂志对内容都有一定的原则，所以那可能是一个列举清单；参见 {papri}, {pelji}, {tcidu}.
+kartuli	fu'ivla      \nx_1在x_2方面很格鲁吉亚（体现了格鲁吉亚文化或国民性）\n参见：{sakartulos}（格鲁吉亚，专名）
+katna	gismu   \n-ka'a-      \nx_1（工具/刃/力）切/切割x_2（物体）成为碎片x_3\nx_1指某种力时，它是指作为切割刃的力，而不是切割刃的作用力；（施事的）切割= {ka'argau}/{ka'arzu'e}；参见 {kakpa}, {sraku}非侵入式切割; {plixa}, {dakfu}, {jinci}, {porpi}, {spofu}, {tunta}, {xrani}, {fatri}, {fendi}, {balre}, {dilcu}
+kavbu	gismu   \n-kav-      \nx_1捕获/抓取/抓捕x_2，使用陷阱/圈套x_3\n抛接= {rerkavbu}；参见 {jersi}, {kalte}, {pinfu}, {sisku}, se {rinju}.
+kecti	gismu   \n-kec-   \n-ke'i-      \nx_1对x_2感到同情/遗憾，关于x_3（谓词子句）\n参见 {cinmo}, {xendo}.
+kelci	gismu   \n-kel-   \n-kei-      \nx_1玩耍玩物/玩具x_2\n做游戏={ci'erkei}；有竞争地玩={jvikei}；参见 {jivna}, {jinga}, {zdile}.
+kelvo	gismu   \n-ke'o-      \n在温度上，x_1是x_2开尔文（公制单位）的，基于标准x_3\n参见 {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+kenra	gismu   \n-ken-      \nx_1是x_2所患的癌症（恶性病）\n参见 {bilma}, {mikce}, {spita}.
+kensa	gismu   \n-kes-      \nx_1是接近/具有天体/天域的太空\n参见 {canlu}, {munje}, {terdi}, {tsani}.
+kenton	cmevla      \n广州\n旧译Canton的英语读法
+kerfa	gismu   \n-kre-      \nx_1是x_2的毛发/皮毛/头发，处于身体位置x_3\n参见 {skapi}, {sunla}, {pimlu}.
+kerlo	gismu   \n-ker-      \nx_1是x_2的耳/听觉器官\nx_1是关于听觉的；参见 {kanla}, {savru}, {smaji}, {tirna}, {ractu}.
+ketco	gismu   \n-ket-   \n-tco-      \nx_1是关于南美洲文化/所在地/地理特性等的事物，在x_2方面\n参见 {merko}, {xispo}, {brazo}, {gento}, {spano}.
+kevna	gismu   \n-kev-   \n-ke'a-      \nx_1是x_2上的孔/洞/凹陷处；x_2是具有在x_1位置处是有漏洞的\n也指：陷阱/矿洞/凹点/洼地；有凹点的/有洞的= {selke'a}；参见 {fenra}, {kunti}, {canlu}, {canko}, {galxe}, {tubnu}.
+kibro	experimental gismu      \nx_1是有关于网络/互联网/赛博空间的，在x_2方面\n由xorxes.提议的 ，其短rafsi为 -kib-参见{mujysamseltcana}.
+kibyse'u	lujvo      \nx_1=k_1=s_1 是互联网的服务器, 为客户端 x_2=k_1=s_2, 提供服务 x_3=s_3.\n-kib- 是试验的gismu {kibro} 的短 rafsi. 网络节点是 {samseltcana}_2. 查看 {kibro} {selfu}; {kibdu'a}, {kibycpa}, {kibyca'o}.
+kicne	gismu   \n-kic-   \n-ki'e-      \nx_1垫上x_2，使用材料x_3；x_1是垫子/枕头/衬垫，用以支撑x_2，具有填充材料x_3\n参见 {ckana}, {matci}.
+kijno	gismu   \n-kij-      \nx_1是氧/由氧构成[O]\n参见 {jelca}, {vacri}, {vasxu}.
+kilto	gismu   \n-ki'o-      \nx_1是千/十的三次方个/份[10^3]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}, {minli}
+kinda	experimental gismu      \nx_1有一点像/近似x_2，在性质x_3上\n这是个开玩笑的词，主要的用途是与 {kinda} 或{sorta}构成tanru
+kinli	gismu   \n-kil-      \nx_1是尖利的/锋利的，在位置x_2处\n参见 {balre}, {dakfu}, {jesni}.
+kisto	gismu   \n-kis-      \nx_1是关于巴基斯坦/普什图的文化/国家/语言等的事物，在x_2方面\n参见 {xurdo}.
+kisyglibau	lujvo      \ng_1=b_1是b_2用来表示/交流b_3（不是说的话本身）的巴基斯坦英语说法\n由{kisto}（巴基斯坦）、{glico}（英格兰）、{bangu}（语言）组成。参见：{gliban}（英语，专名）、{glibau}（英语）、{gliglibau}（英国英语）、{merbau}（美国英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{xinglibau}（印度英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+klaji	gismu   \n-laj-      \nx_1是位于x_2，通向x_3的道/路/径/街\n也指：走廊；并不特定指两点之间的路径通道，而是提供了到达某处的通路；参见 {naxle}, {panka}, {pluta}, {dargu}.
+klaku	gismu   \n-kak-      \nx_1哭/泣出x_2，因为原因x_3（事件/状态）\n参见 {badri}, {krixa}.
+klama	gismu   \n-kla-      \nx_1 移动到目的地 x_2, 从x_3出发, 经过路径x_4 ,使用方法/交通工具 x_5.
+klani	gismu   \n-lai-      \nx_1是数量，用x_2（量词）进行量化，在规模x_3（si'o）上\n也指：计数；参见：{la'u}, {namcu}.
+klesi	gismu   \n-kle-   \n-lei-      \nx_1（整体/si'o）是x_2中的一个分类/子集，具有性质x_3(ka)\n也指“类/组/属/集”，参见：{le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}
+klina	gismu   \n-kli-      \nx_1（物体/媒介）是清澈的/无障碍的/透明的/通透的，对x_2的传输来说\n也指：明晰的/易懂的； x_2是显然的/明晰的/清楚的（可喻为“易懂的/易于理解的”= {filseljmi}/{filsmu}）；参见 {kandi}, {zunti} - {nalzu'i}不受阻碍的
+kliru	gismu      \nx_1是卤族元素，具体为x_2（氟/氯/碘等）\n默认：氯；参见 {xukmi}.
+kliti	gismu   \n-kit-      \nx_1是粘土，组成物为x_2\n参见 {dertu}, {pesxu}, {staku}.
+klupe	gismu   \n-lup-   \n-lu'e-      \nx_1是螺纹/螺丝钉，为了目的/用途x_2，具有纹x_3（螺距/材质），结构x_4（尺寸/材质）\n也指：螺栓/螺钉；参见 {korcu}, {sarlu}, {tutci}.
+kluza	gismu   \n-luz-      \nx_1（物）是松弛的/宽松的/不紧的，在位置x_3处\n参见 {tagji}, {trati}, {rinju}.
+kobli	gismu   \n-kob-   \n-ko'i-      \nx_1是卷心菜/甘蓝菜，属于品种/种类x_2\n参见 {stagi}.
+kojna	gismu   \n-koj-   \n-ko'a-      \nx_1是一个顶角（三维结构），在x_2上，由材料x_3构成\n也指：顶点； 有的角存在三维空间且不具有顶点，因为其在角边上不连续，比如被截去顶点的角；参见 {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}.
+kokaKOlys	cmevla      \n可口可乐
+kokso	experimental gismu      \nx_1是椰子，属于种族/种类x_2\n参见 {cidja}, {rutrkoko}
+kolme	gismu   \n-kol-   \n-ko'e-      \nx_1是煤，来源于x_2\n参见 {tabno}, {tarla}.
+komcu	gismu   \n-kom-      \nx_1是梳子（多针状结构），由材料x_2做成，具有针/钉/齿x_3\n参见 {julne}, {forca}, {burcu}.
+konju	gismu   \n-kon-   \n-ko'u-      \nx_1是圆锥性的（形状）/圆锥体，由材料x_2做成，具有顶点x_3\n椭圆= {konclupa}；参见 {jesni}, {djine}, {sovda}, {kojna}, {jganu}.
+korbi	gismu   \n-kor-   \n-koi-      \nx_1是x_2的边界/边沿/边缘，紧邻着x_3\n参见：{koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.
+korcu	gismu   \n-kro-      \nx_1是弯曲的/不直的\n参见 {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}.
+korka	gismu   \n-kok-      \nx_1是树皮，属于植物x_2\n参见 {tricu}, {calku}, {skapi}, {stagi}.
+korvo	experimental gismu      \nx_1是乌鸦，属于品种/种类x_2\n参见{cipni}
+kosta	gismu   \n-kos-      \nx_1是由材料x_2制成的外套/夹克/披风（主要指穿在最外面的衣服）\n参见 {pastu}, {sunla}, {taxfu}.
+krali	experimental gismu      \nx_1（ka）是合法的/道德上允许的，被x_2所允许，基于标准x_3\n各种被解释为合法，符合社会规范，道德自由和权利的规范性原则；{rarkrali}自然权利， {flakrali} 法定权利， {xuskrali}言论权利，{zifkrali}自由权，{crukrali} 许可权，{ri'urkrali} 否决权，{sepkrali}个人权利，{gumkrali} 集体权利，{selcemkrali}公民权，{seljeckrali}政治权利，{jiknykrali}经济权利，{jikykrali}社会权利，{klukrali}文化权利， {remkrali}人权，{dalkrali}动物权利；参见 {selfla}, {selzi'e}, {terzi'e}, {selzau}, {selpikta}.
+kramu	gismu      \nx_1是x_2个当地计量单位（非公制单位，默认1），基于标准x_3，x_4为其子单位/亚单位\n其后可依序添加子单位x_5,x6……；参见{rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.
+krasi	gismu   \n-kra-      \nx_1（站点/事件）是x_2（物/事/进程）的起点/始发站/来源\n也指：（某种意义上）根源；x_1最初的/初始的；参见 {fanmo}, {ra'i}, {sabji}, {cfari}, {jipno}, {traji}, {kojna}, {genja}, {jicmu}, {sitna}, {jinto}.
+krati	gismu   \n-ka'i-      \nx_1是x_2的代理/代表/代替，在功用/事件x_3中\n也指：以……的名义；参见：{ka'i}, {jansu}, {catni}, {vipsi}, {pulji}.
+krefu	gismu   \n-ref-   \n-ke'u-      \nx_1（事件）是x_2（谓词子句）的第x_3次重复/循环/再现\n也指：另一/再一；参见 {fukpi}, {rapli}, {cafne}, {fasnu}, {xruti}.
+krici	gismu   \n-kri-      \nx_1相信（无关证据）x_2（du'u）是真实的/正确的，关于主题x_3\n这里的“无关证据”是指没有客观的外部证据；也指：对……给予信任/有信念；参见 {jinvi}, {djuno}, {censa}, {cevni}, {lijda}, {makfa}, {malsi}, {senpi}, {birti}.
+krili	gismu      \nx_1是晶体，由物质x_2构成，在形式/结构/排列x_3上\n物质构成中需包含x_2，但x_2位不需要指明全部构成；参见 {jemna}, {bisli}.
+krinu	gismu   \n-rin-   \n-ki'u-      \nx_1（事件/状态）是导致x_2（事件/状态）的原因/解释/起因\n参见 {ciksi}, {rinka}, {nibli}, {mukti}, se {jalge}, te {zukte}, {ki'u}, {bapli}.
+krixa	gismu   \n-kix-   \n-ki'a-      \nx_1哭/嚎/尖叫出声音x_2\n参见 {klaku}, {bacru}.
+kruca	gismu   \n-kuc-      \nx_1横越过/跨越过/交叉过x_2，在位置x_3处\n参见 {cripu}, {ragve}.
+kruji	gismu   \n-ruj-      \nx_1是乳液/乳状物，由成分x_2构成\n物质构成中需包含x_2，但x_2位不需要指明全部构成；参见 {ladru}, {matne}.
+kruvi	gismu   \n-ruv-   \n-kru-      \nx_1是弯曲的/弯道/曲线，在x_2上，在位置x_3处，由点集/性质x_4定义\nx_1是弯曲的；（x_4是能够有效确定曲线的各种相关属性点集；参见 {korcu}, {bargu}, {genxu}, {linji}, {sirji}.
+kubli	gismu   \n-kub-      \nx_1是立方体/规则多面体，具有维度x_2（默认3），具有面数x_3（默认6)\n参见 {kurfa}，{bliku}，{tanbo}, {tapla}, {tarmi}
+kucli	gismu      \nx_1对x_2感到好奇/有兴趣\n好问的= {retkucli}；参见 {manci}, {sisku}, se {cinri}.
+kufra	gismu   \n-kuf-      \nx_1感到舒适/舒服/安适，在条件/环境x_2下\n参见 {cinmo}.
+kukte	gismu   \n-kuk-      \nx_1是美味的/可口的/好吃的，对观测者/感官x_2来说\nx_1是美食；参见 {gusta}, {ralci}, {vrusi}, {cpina}.
+kulnu	gismu   \n-klu-      \nx_1（思想/风俗/技艺）是民族/国家x_2（团体）的文化；x_1是民族的/人种的\n注意x_2并非个体，文化是由人群所共有，而非来自于个体；参见：{ka'u}, {ku'u}, {natmi}, {cecmu}.
+kumfa	gismu   \n-kum-   \n-ku'a-      \nx_1是建筑物/结构x_2里的房间/一份空间，由墙体/隔离物x_3（团体/jo'u）围成\n也指：室；参见 {bitmu}, {canlu}, {zdani}.
+kumte	gismu      \nx_1是驼，属于品种/种类x_2；如：骆驼，羊驼\n美洲驼/无峰驼= {tcokumte}，双峰驼= {zdokumte}，阿拉伯单峰驼= {rabykumte}；参见 {sunla}, {kanla}, {xirma}, {xasli}.
+kunra	gismu   \n-kun-      \nx_1是矿石/矿物，具有性质/金属x_2，由矿井/矿洞/位置x_3挖出\n参见 {jinme}, {bisli}, {rokci}, {jemna}.
+kunti	gismu   \n-kut-      \n容器x_1是空的，不装有x_2；x_1是中空的\n真空= kunti be roda/so'ada；参见 {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}.
+kurfa	gismu   \n-kur-      \nx_1是直角形的，顶点为x_2，维度为x_3（默认2）\n也指：矩形，方形，正交直线；正方形= {kubykurfa}/{pitkubykurfa}，正方体={kurkubli}，矩形/长方形= {clakurfa}，菱形={sa'orkurfa}/{sa'orpitkubli}；参见 {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.
+kurji	gismu   \n-kuj-   \n-ku'i-      \nx_1照顾/照看x_2（人/物/事）\n也指：照料/保管/看管；x_1是x_2的监护人/照看者；参见 {jundi}, {cinri}, {prami}, {raktu}, {zgana}.
+kurki	gismu      \nx_1是苦的/苦涩的，对观测者/感官x_2来说\n参见 {titla}, {slari}.
+kuspe	gismu   \n-kup-   \n-ku'e-      \nx_1在范围x_2内变动\n也指：连续；参见 {ranji}, {renvi}, {tcena}, {bancu}, {cripu}, {ragve}, {vorme}, {canko}, {bitmu}, {sirji}, {jbini}, {jimte}, {preja}.
+kusru	gismu   \n-kus-      \nx_1（人）对x_2是残酷的/自私的/不友好的\n参见 {xendo}, {jursa}.
+labno	gismu      \nx_1是狼，属于种类x_2\n查看{gerku}
+lacni	experimental gismu      \nx_1是x_2戴的眼镜，为了目的/用途x_3\n包括了用于视觉矫正，护眼，娱乐，装饰等各种眼镜，有的眼镜具有多种作用；参见：{le'otci}/{le'orlacni}矫正型眼镜（可能包括：{tidlacni}阅读眼镜，{xrelacni}双焦和集中混合眼镜）；{badlacni} 护目眼镜（可能包括：{srulacni}护目镜，{solylacni}太阳镜）；{jadlacni} 饰品眼镜（可能包括：{rekmeclacni} 无框眼镜， {solylacni}）； {mincimdylacni}3D眼镜
+lacpu	gismu   \n-lap-   \n-cpu-      \nx_1拉/拽/扯/拖x_2，把手/拉的地方是x_3\n查看{catke},{sakci},{cokcu}
+lacri	gismu   \n-lac-      \nx_1依赖/仰仗/信任x_2能够确保/维持/带来x3（事件/状态）\n查看{minde},{nitcu},{tinbe}
+ladru	gismu   \n-lad-      \nx_1是/含有来源于x_2的奶/乳；x_1是乳制的/乳制品\n查看{lanbi},{mabru},{tatru},{cirla},{kruji}
+lafti	gismu   \n-laf-      \nx_1（力）支撑x_2，支撑点是x_3，处于重力阱x_4中\nx_1可能是一个抽象概念；动词“举起/抬起”={lafmuvgau}；查看{farlu},{plipe}
+lakne	gismu   \n-la'e-      \nx_1（事件/状态/性质）是可能的，在条件x_2下\n查看{cumki},{jinzi},{kampu},{tcaci},{cunso},{fadni},{cnano}
+lakse	gismu   \n-lak-      \nx_1是蜡/蜡制品/蜡状物（加热会变软），来源于x_2\n也可指石蜡。查看{bifce},{ranti},{bidju}
+laldo	experimental gismu      \nx_1是老的/年长的（在时间长度上相对时间长），基于标准x_2\n等同于 {tolci'o}，参见： {citno}, {slabu}}
+lalxu	gismu   \n-la'u-      \nx_1是湖泊/池塘，位于地点/位置x_2\n查看{daplu},{djacu},{rirxe},{xamsi},{zbani}
+lamji	gismu   \n-lam-   \n-la'i-      \nx_1临近x_2（或在x_2旁边，紧靠着x_2)，以性质/序列x_3，方向为x_4\n也指：接触的，临近，紧靠，查看{zvati},{cpana},{jibni},{diklo},{stuzi},{bartu}
+lanbi	gismu      \nx_1是属于种类x_2的蛋白质，由氨基酸序列x_3（序列/jo'u）组成\n相关{ladru},{sovda}
+lanci	gismu      \nx_1是旗，象征x_2，具有图案x_3，用材料x_4制成\n参见 {gugde}, {jecta}.
+lanka	gismu      \nx_1是篮子，装有x_2，由材料x_3做成/编织成\n参见 {vasru}, {baktu}.
+lanli	gismu   \n-lal-      \nx_1分析/仔细检查x_2，使用方法/技术/系统x_3（进程/行为）\n参见 {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
+lanme	gismu   \n-lan-      \nx_1是羊，属于品种/种类x_2\n参见 {kanba}, {sunla}.
+lante	gismu      \nx_1是罐头/密闭容器，用以装易受影响的物质x_2，容器由x_3做成\n参见 {botpi}, {baktu}, {tinci}.
+lanxe	gismu   \n-lax-      \nx_1是平衡的/保持着平衡，在力x_2（团）的作用下\n参见 {midju}, {nutli}，{fapro} ,{nutli}
+lanzu	gismu   \n-laz-      \nx_1（团）是一家/一族的，成员包括x_2，由标准x_3联接/维系而成\n也指：帮派/部落； x_2是x_1中的一个成员；亲戚= lazmi'u - xy mintu y'y leka cmima da poi lanzu；参见 {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
+larcu	gismu   \n-lar-      \nx_1（过程）是艺术（创造性的应用），关于手艺/技艺x_2（行为/想法）\nx_1是艺术的；参见 {finti}, {zbasu}, {stati}.
+lasna	gismu   \n-la'a-      \nx_1将x_2固定/绑定在x_3上，使用固定装置x_4\n不按时绑定之后作为单一物体；x_2与x_3是可互换的。x_3可能指基材，x_2绑定于其上；参见 {jorne}, {fenso}, {jgena}, {batke}, {dinko}, {kansa}.
+lastu	gismu      \nx_1是黄铜（铜锌合金），具有物质构成x_2\nx_1是黄铜制的；参见 {jinme}, {ransu}, {tunka}.
+latmo	gismu   \n-la'o-      \nx_1是关于的拉丁/罗马文化/国家/语言等的事物，在x_2方面\n参见 {ropno}, {fraso}, {spano}, {xispo}, {itlo}.
+latna	gismu      \nx_1是莲/荷，属于种类x_2，象征x_3，在文化/宗教x_4中\n参见 {budjo}, {censa}, {lijda}, {spati}.
+lauDZIS	cmevla      \n老子\n中国古代哲学家“李耳”，不同于表示自称的“老子”
+laus	cmevla      \n老挝\n又译“寮国”
+lazni	gismu      \nx_1（人）是懒惰的，关于活动x_2\n参见 {nejni}, {vreta}, {gunka}.
+lazyzukykei	lujvo      \nk_1过家家\n一种模仿父母的儿童游戏
+lebna	gismu   \n-leb-   \n-le'a-      \nx_1获得/得到x_2（物/性质），从原有者x_3处\n也指：没收/占有；x_1获得了物品x_2的所有权，x_3是原所有人，而不仅仅是来源；参见 {punji}, {cpacu}不暗示所有权的转移, {vimcu} 指转让时不必要有所有权的转移,{canci}, {cliva}
+lelxe	experimental gismu      \nx_1是百合，属于品种/种类x_2\n参见 {rozgu}；其短rafsi为： -lel-
+lenjo	gismu   \n-len-   \n-le'o-      \nx_1是透镜，能将x_2聚焦到焦点x_3，通过方式/材料x_4\nx_1是光学的；聚焦可能是光学的，也可能是其它： x_2可能是光，声音，伦琴射线等等；默认为具有折射光性质的光学透镜；参见 {kacma}, {minra}.
+lenku	gismu   \n-lek-      \nx_1是冷的，基于标准x_2\n参见 {glare}, {bisli}.
+lerci	gismu   \n-lec-      \nx_1（事件）是迟的，基于标准x_2\n参见 {clira}.
+lerfu	gismu   \n-ler-   \n-le'u-      \nx_1（la'e zo BY/字母等）是字母/数字/符号，在字母表/符号集x_2中，代表/表征x_3\n也指： x_1是图符/字符/记号（也指 me'o BY/词-bu），x_2是字符集；（形容词）x_1是字母的/符号的； {sinxa}指更通用的符号；参见 {mifra}, {namcu}, {sinxa}, {pandi}.
+libjo	gismu   \n-lib-      \nx_1是关于利比亚的文化/国家/语言等的事物，在x_2方面\n参见 {friko}, {xrabo}, {muslo}.
+lidne	gismu   \n-li'e-      \nx_1领先于x_2/在x_2前面，在序列x_3中；x_1是先前的；x_2是随后的\n也指： x_1之前的/先驱；x_1带领/作为领头人/指导； x_2之后的/尾随的 ；参见 {li'e}, {balvi}, {ralju}, {rebla}, {purci}用于时间序列, {jersi}, {porsi}, {jatna}, {farna}.
+LIEtuvas	obsolete cmevla      \n立陶宛
+lietuvos	obsolete cmevla      \n立陶宛
+lifri	gismu   \n-lif-   \n-fri-      \nx_1经历/经过x_2（事件/经历）；x_2发生在x_1身上\n也指：x_1对x_2有经验/经历； 暗示被动接受，但不排除积极参与；一段有所回报的经历（奖励或惩罚）：（= {jernyfri}, {zanjernyfri}, {maljernyfri}）；参见 {ri'i}, {jmive}, {fasnu}, {renvi}.
+lijda	gismu   \n-jda-      \nx_1是宗教，有信仰者/信众/追随者x_2，有共同信仰/惯例/信条/教条x_3\n也指：x_1神话/信仰/传统信仰；x_2信徒；x_1, x_2, x_3是跟宗教相关的； x_2是x_1的信徒/追随者； x_2是信条x_3的践行者 （= selterjda）； 教士/牧师/僧侣= {jdaca'i}/{jdaka'i}/{jdaja'a}；有组织的教会= {be'ejda}；宗教集会= {jdabe'e}/{jdagri}；参见 {budjo}, {censa}, {cevni}, {crida}, {dadjo}, {jegvo}, {krici}, {latna}, {malsi}, {marde}, {muslo}, {pruxi}, {ranmi}, {ritli}, {xriso}, {zekri}.
+limna	gismu   \n-lim-      \nx_1游泳，在液体x_2中\n参见 {djacu}, {fulta}, {klama}, {litru}.
+lindi	gismu   \n-lid-      \nx_1是闪电/电弧，击向x_2，从x_3放出\n雷= {lidysna}；参见 {dikca}.
+linji	gismu   \n-lij-   \n-li'i-      \nx_1是线（一维结构），由点集x_2定义\n射线/矢量线={farli'i}/{porli'i}；参见 {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}.
+linsi	gismu   \n-lin-      \nx_1是链/连接，由材料x_2构成，具有连接性质x_3\n参见 {skori}.
+linto	gismu   \n-li'o-      \n在质量/重量上，x_1是轻的，基于标准x_2\n参见 {junta}, {tilju}; se {xalbo}, {kandi} 用于比喻
+lisri	gismu   \n-lis-      \nx_1是故事/传说，关于主题/情节/寓意x_2，由x_3讲诉给读者/受众x_4\n也指：传奇； 不必要是虚构的；x_2 可能只是习俗而非主题；x_3讲诉故事x_1，关于x_2，给x_4（= {selterlisri} ，注意讲故事的人与故事创作者并不等同）；参见 {ranmi}, {cfika}, {skicu}, {prosa}, {pemci}.
+liste	gismu   \n-ste-      \nx_1是清单/登记薄/目录，上有序列/集合x_2，以顺序x_3排列，在媒介x_4中\nx_2需完全确定；参见 {porsi}, {girzu}, {cmima}.
+litce	gismu   \n-lic-      \n在容积上，x_1是x_2升（公制单位，默认为1）的，基于标准x_3\n参见 {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+litki	gismu   \n-lik-      \nx_1是液体，由物质x_2构成，在x_3条件下\n条件包括温度/压力；参见 {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}.
+litru	gismu   \n-li'u-      \nx_1旅行/旅游，通过路线/路径x_2，使用载具/交通工具/方式x_3；x_1是旅行者\nx_2是包含了足已有效确认路径的点；参见 {bajra}, {cadzu}, {cpare}, {tcana}, {klama}, {cliva}, {pluta}, {limna}, {muvdu}.
+livga	gismu      \nx_1是x_2的肝脏（身体部位）\n参见 {rango}, {betfu}.
+livla	gismu   \n-lil-      \nx_1是燃料/能量源，以对x_2供能\n参见 {nejni}, {xaksu}, {jelca}.
+logji	gismu   \n-loj-      \nx_1（规则/方法）是用以解释/概括/推论x_2（du'u）的逻辑\nx_1, x_2关于逻辑的；参见 {nibli}.
+loglo	experimental gismu      \nx_1是关于Loglan的文化/语言等的事物，在x_2方面\n参见 {lojbo}
+loglytuan	obsolete cmevla      \n逻辑语工作者\n这里的“逻辑语”指Loglan，非Lojban。一份早期刊物的名字。又试译为“逻各斯志工”，试以“逻各斯语”对译Loglan，以区分于Lojban惯译的“逻辑语”。
+lojbab	cmevla      \n逻辑鲍勃\n专指Bob LeChevalier君
+lojban	cmevla      \n逻辑语（又译理语）\n不完全同于其前身Loglan（同样是逻辑语的意思）
+lojbo	gismu   \n-lob-   \n-jbo-      \nx_1 在特征 x_2中反应出 [逻辑语的]/逻辑语的语言/文化/国家/社区的特性.
+loldi	gismu   \n-lol-   \n-loi-      \nx_1是x_2的地板/底/地.\n参考：{bitmu}, {drudi}, {dertu}, {dizlo}, {cnita}, {zbepi}, {sarji}, {serti}.
+lorxu	gismu   \n-lor-   \n-lo'u-      \nx_1 是狐 [蓬尾野生犬科动物]，属于种类 x_2\n参见 {gerku}。 (不是“狐狸”)
+losanjylys	cmevla      \n洛杉矶
+lubno	gismu   \n-lu'o-      \nx_1是关于黎巴嫩的文化/国家/语言等的事物，在x_2方面\n参见 {xrabo}.
+lujvo	gismu   \n-luv-   \n-jvo-      \nx_1（文本）是有着意义 x_2，参数 x_3 的复合谓词，由比喻 x_4 构造\n参见 {stura}, {cmavo}, {gismu}, {rafsi}, {smuni}。
+lumci	gismu   \n-lum-   \n-lu'i-      \nx_1清洗/清洁x_2上的秽物/污物x_3，使用清洁材料x_4\n变得清洁/干净={cuvbi'o}/{jisybi'o}；参见 {djacu}, {jinru}, {litki}, {zbabu}, {jinsa}, {curve}.
+lunbe	gismu   \n-lub-      \nx_1是裸露的/裸体的/赤裸的；x_1是没有遮蔽的\n参见 {taxfu}, {bandu}.
+lunra	gismu   \n-lur-      \nx_1 是月球; x_1是行星x_2的主要自然卫星.
+lunsa	gismu   \n-lus-      \nx_1液化到x_2上/中，在温度x_3，压强x_4下；x_1是x_2上的冷凝物（露）\n参见 {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.
+lyndyn	cmevla      \n伦敦
+mabla	gismu   \n-mal-      \nx_1是可恶的/恼火的/糟糕的/低劣的/卑劣的/可悲的/恶劣的，在性质x_2方面，基于标准x_3\n各种脏话；参见 {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.
+mabru	gismu   \n-mab-      \nx_1是哺乳动物，属于品种/种类x_2\n参见 {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.
+macnu	gismu   \n-cnu-      \nx_1（事件/行为/进程）是手动/非自动的，在功用x_2上，在条件x_3下\n参见 {zmiku}, {jitro}.
+madRID	cmevla      \n马德里
+makcu	gismu   \n-ma'u-      \nx_1是成熟的/成年的/已长成的/完全发育的，在发展/生长品质x_2（ka）上\n参见 {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.
+makfa	gismu   \n-maf-      \nx_1是魔法的/超自然的/有魔力的/巫术，对x_2来说，由人/力/神灵x_3施展\n参见 {krici}, {manci}.
+maksi	gismu   \n-mak-      \nx_1是有磁性的，产生磁场x_2\n参见 {dikca}, {trina}, {xlura}.
+malsi	gismu   \n-mas-      \nx_1是寺庙/教堂/神殿/圣祠，属于宗教x_2，位于地点x_3\nx_2可能指某些值得推崇/尊敬/崇拜的事件形式，因此x_1可喻为：纪念碑= {mojmalsi}/{si'armalsi}；参见 {cevni}, {krici}, {lijda}, {ritli}.
+mamta	gismu   \n-mam-      \nx_1是x_2的母亲（不必要是生理学上的母亲）\n参见 {patfu}, {sovda}, {rirni}, {rorci}, {tarbi}, {famti}, {bersa}, {jbena}.
+manci	gismu   \n-mac-      \nx_1对x_2感到惊奇/敬畏/惊异\n参见 {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.
+manfo	gismu      \nx_1（物/事）是均衡的/均匀的，在性质x_2（ka）上\n参见 {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.
+mango	experimental gismu      \nx_1 是 x_2 种类的芒果
+manku	gismu   \n-man-      \nx_1是黑暗的/缺少光照的\n使用{kandi}或{xekri} 形容颜色；参见 {blabi}, {gusni}, {ctino}
+manri	gismu   \n-mar-      \nx_1是参考系/参考标准，用以观察/测量/测定x_2，基于标准x_3\nx_1可能是指物体或si'o想法；参见：{ma'i}, {ckilu}, {merli}, {pajni}, {cimde}, {jdice}, {marde}.
+mansa	gismu      \nx_1满足/具有估值x_2，在性质（ka）/状态x_3上\n参见 {pajni}.
+manti	gismu      \nx_1是蚁，属于种类x_2\n参见 {cinki}, {jalra}.
+mapku	gismu   \n-map-      \nx_1是帽子/头盔/头冠，由材料x_2做成\n参见 {taxfu}, {stedu}, {drudi}.
+mapni	gismu      \nx_1是棉/棉制的\n参见 {bukpu}.
+mapti	gismu   \n-mat-      \nx_1适合/是合适的/相配于x_2，在性质/表象x_3方面。\n查看{satci},{tugni},{sarxe},{drani},{tarmi},{ckini},{mintu}
+marbi	gismu   \n-mra-      \nx_1是避难所/安息所，保护x_2免受危险/威胁x_3\n参见 {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.
+marce	gismu   \n-ma'e-      \nx_1是载具，运载x_2，在表面/媒介x_3上，由x_4驱动\n参见 {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.
+marde	gismu   \n-mad-      \nx_1是x_2（个体/团体）的道德标准/伦理规范，关于情形x_3\nx_1通常是谓词子句，规则或者行为规范；也指原则；道德/良心={sezmarde}；参见 {palci}, {vrude}, {lijda}, {manri}, {javni}, {tarti}, {zekri}.
+margu	gismu   \n-mag-      \nx_1是汞/水银 （可比喻：一定温度下的液态金属）\n参见 {jinme}.
+marji	gismu   \n-maj-   \n-mai-      \nx_1是物质/材料，由组分x_2构成，具有外形/结构形式x_3\nx_1是物质的；参见 {morna}, {mucti}, {nejni}, {tarmi}, {dacti}.
+marna	gismu      \nx_1是大麻/黄麻，属于种类/种族x_2\n参见 {skori}, {tanko}, {sigja}, {xukmi}.
+marxa	gismu   \n-max-      \nx_1（力）粉碎/压碎x_2，成为碎片/碎屑x_3（群）\n参见 {daspo}, {pesxu}, {zalvi}, {bapli}.
+masno	gismu   \n-sno-      \nx_1是做/成为x_2（事件/状态）是慢的/迟钝的/行动迟缓的\n参见 {sutra}.
+masti	gismu   \n-ma'i-      \n在持续时间长度上，x_1是x_2个月（默认为1）的，基于月历标准x_3\n本月= {cabma'i}；下个月= {bavla'ima'i}；上个月= {prula'ima'i}；参见 {detri}, {djedi}, {jeftu}, {nanca}.
+matci	gismu      \nx_1是衬垫/垫子/床垫，由材料x_2做成\n褥子/垫子={kicymatci}；参见 {kicne}, {tapla}, {karda}, {ckana}.
+matli	gismu      \nx_1是亚麻/亚麻制品（材质/布料）\n参见 {bukpu}.
+matne	gismu      \nx_1是黄油/人造奶油/起酥油，来源于x_2\n可食用的固体脂肪，在常温下容易涂抹开； 乳制品奶油= {ladmatne}；参见 {grasu}, {kruji}.
+matra	gismu      \nx_1是发动机/马达，为驱动x_2/为x_2提供能量\n参见 {marce}, {minji}, {carce}.
+mavji	gismu   \n-mav-      \nx_1是燕麦，属于种族/种类x_2\n参见 {gurni}.
+maxri	gismu   \n-xri-      \nx_1是小麦，属于种族/种类\n参见 {gurni}.
+mebri	gismu   \n-meb-      \nx_1是x_2的额头/前额\n参见 {stedu}, {flira}.
+megdo	gismu   \n-meg-      \nx_1是百万/十的六次方个/份[10^6]x_2，在x_3方面 （默认是计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+mekso	gismu   \n-mek-   \n-me'o-      \nx_1（数字/表达式）是数学表达式，由规则/定义x_2方式进行解读\n参见 {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
+melbi	gismu   \n-mel-   \n-mle-      \nx_1对x_2来说、从x_3方面来看、按x_4标准来评价是美的\n不分男女、人物，所以也是英俊、漂亮、可爱、优雅、优美的意思。参照: {pluka}, {xamgu}
+meljo	gismu   \n-mej-      \nx_1是关于马来西亚/马来的文化/国家/语言等的事物，在x_2方面\n参见 {baxso}, {bindo}.
+menli	gismu   \n-men-      \nx_1是身体x_2的理智/精神/智力/意识/心智/灵魂\nx_1是关于心理的/心智的； 多重人格的= so'i {menli}；参见 {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri}, {sevzi}, {xadni}.
+mensi	gismu   \n-mes-   \n-me'i-      \nx_1是x_2的姐妹，依据标准/关系x_3（不一定是生理学上的姐妹关系）\n参见 {bruna}, {tunba}, {tamne}, {famti}.
+mentu	gismu   \n-met-   \n-me'u-      \n在持续时间长度上，x_1是x_2个分钟（默认为1）的，基于标准x_3\n参见 {junla}, {cacra}, {snidu}, {tcika}.
+merko	gismu   \n-mer-      \nx1 在方面 x2 从属于美国文化/语言\n参见 {brito}, {bemro}, {ketco}, {xispo}, {glico}
+merli	gismu   \n-mre-      \nx_1测量/测算/求值x_2（数量），计量单位是x_3，取值范围是x_4（si'o），精度为x_5\n参见 {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+mexno	gismu   \n-mex-      \nx_1是关于墨西哥的文化/国家/语言等的事物，在x_2方面\n参见 {xispo}, {bemro}, {spano}.
+mi'ai	experimental cmavo   \nKOhA3      \n我們
+midju	gismu   \n-mij-      \nx_1是处于x_2的中部的/中央的/中心位置处的\n参见 {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.
+mifra	gismu   \n-mif-      \nx_1是纯文本x_2的编码/密文，基于编码/密码系统x_3；x_1在密码中；x_3是密码\n密码= {termifra}；参见 {mipri}, {lerfu}, {sinxa}.
+mikce	gismu   \n-mic-      \nx_1医治/治疗/护疗x_2的疾病/状况x_3，使用方法/疗法x_4\n也指：x_1,x_4关于医疗的；x_2是x_1的病人/医治对象；x_2被x_1采用方法x_4进行治疗；治愈= {sadmikce}, {sadvelmikce}；痊愈{sadyselmikce}, {ka'orbi'o}；疗法= {velmikce}；参见 {bilma}, {kanro}, {spita}.
+mikri	gismu   \n-mik-      \nx_1是十的负六次方个/份[10^{-6}]x_2，在x_3方面 （默认是计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+milti	gismu   \n-mil-      \nx_1是千分之一/十的负三次方个/份[10^{-3}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+milxe	gismu   \n-mli-      \nx_1是温和的/中等的/不极端的，在性质x_2（ka）上；x_1并不很x_2\n参见 {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}.
+minde	gismu   \n-mid-   \n-mi'e-      \nx_1命令x_2，结果x_3（事件/状态）应当发生；x_1给x_2关于x_3应当发生的命令\nx_1发布命令，x_2执行而做某事x_3；x_1是指挥官/司令员；x_3是关于指令的；参见 {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}.
+minji	gismu   \n-mi'i-      \nx_1是机器，具有用途/功能x_2\n参见 {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.
+minli	gismu      \nx_1是x_2的当地距离单位的（非公制单位），x_3是亚单位/子单位，基于标准x_4\n后可继续添加子单位x_5,x6……； 参见 {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+minra	gismu   \n-mir-      \nx_1反射/回射/反弹x_2（物体/辐射）至观测者/位置x_3，反射物/波为x_4\n也指： x_1是镜子/反射器；x_2可能指光/lu'e可成像的对象；x_4可能是x_2的图像/回声，可能与x_2相同；x_3可能是反射对象的路径；加ka指反射（原理/机制）；参见 {catlu}, {viska}, {lenjo}, {pensi}.
+mintu	gismu   \n-mit-   \n-mi'u-      \nx_1与x_2是相同的/等同的/一样的，基于标准x_3；x_1与x_2是可互易的\n参见 {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, {du}, {simxu}
+mi'o	cmavo   \nKOhA3      \n咱們
+mipri	gismu   \n-mip-      \nx_1将x_2隐藏，以避开x_3，使用隐藏方法x_4；x_2是秘密/机密；x_1将x_2隐藏起来\n躲避/隐藏= {selcri}/{nalterju'o}；秘密={selmipri}；参见 {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.
+mirli	gismu      \nx_1是鹿，属于种族/种类x_2\n参见 {mabru}, {danlu}.
+misno	gismu   \n-mis-   \n-mi'o-      \nx_1（人/物/事）是著名的/知名的/有声望的，对于人群x_2（团）来说；x_1是名人\n也指：周所周知的； 声名狼藉的/臭名昭著的={malmi'o}；也可以用以表示被引用的词句；参见 se {sinma}, {banli}.
+misro	gismu      \nx_1是关于埃及的文化/国家/语言等的事物，在x_2方面\n参见 {friko}, {muslo}, {xrabo}.
+misryle'u	lujvo      \nx_1是属于x_2系统（象形体、圣书体、通俗体等等）里表示x_3意思的埃及字符
+mitre	gismu   \n-tre-      \n在长度上，x_1是x_2米的（公制单位，默认为1），在方向x_3上测量，基于标准x_4\n参见 {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+mixre	gismu   \n-mix-   \n-xre-      \nx_1（团体）是混合物，具有组分/成分x_2\nx_2混合成x_1；x_2在x_1中/是x_1的配方/组分/成分；参见 {salta}, te {runta}, {stasu}, {jicla}, {sanso}.
+mlana	gismu   \n-mla-      \nx_1在x_2旁边/侧边，面向x_3，在观察点x_4看来/基于参考系x_4\nx_4可以是x_2的正面，也可以是背面；参见 {crane}, {trixe}, {pritu}, {zunle}, {korbi}
+mlatu	gismu   \n-lat-      \nx_1 是种类为 x_2 的猫; x_1 是猫\n参见： {cinfo}, {tirxu}, {gerku}.
+mleca	gismu   \n-mec-   \n-me'a-      \nx_1是比x_2少的，在性质/数量x_3（ka/ni）上，少的数量/程度为x_4\n也指：负数= {nonme'a}；参见：{me'a}, {su'o}, {jdika}, {zmadu}, {traji}.
+mledi	gismu   \n-led-      \nx_1是真菌/霉菌/蘑菇/蕈类，属于种类x_2，生长在/寄生在x_3上\n参见 {clika}.
+mluni	gismu   \n-lun-      \nx_1是环绕x_2的卫星，具有特征x_3，环绕参数为x_4\n参见 {plini}, {solri}, {lunra}.
+mokca	gismu   \n-moc-      \nx_1是位于时间/空间区域x_2上的一个点/时刻\nx_1是无穷小量；参见 {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.
+moklu	gismu   \n-mol-   \n-mo'u-      \nx_1是x_2的嘴/口/进食口\nx_1是关于口的；参见 {ctebi}, {denci}, {tance}.
+molki	gismu   \n-mlo-      \nx_1是工业工厂/制造厂，执行进程x_2\n不需要生产产品，不同于{fanri}；谷物磨粉装置={grumlo}；研磨机={zalmlo}, {zalmlotci}, {zalmloca'a}；参见 {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}.
+molro	gismu   \n-mo'o-      \n在物质的量上面，x_1是x_2个摩尔单位的（公制单位，默认1），基于标准x_3\n参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+morji	gismu   \n-moj-   \n-mo'i-      \nx_1想起/记起/记得事实/记忆x_2（du'u），关于主题x_3\n参见：{ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.
+morko	gismu   \n-mor-      \nx_1是关于摩洛哥的文化/国家/语言等的事物，在x_2方面\n参见 {friko}, {xrabo}, {muslo}.
+morna	gismu   \n-mon-   \n-mo'a-      \nx_1是行为/事件x_2的反应/表现，按照计划结构x_3\nx_3是x_1的模范/模型/模式= {termontai}/{termonsi'o}； 图像= {gusmo'a}, {nenmo'a}, {dairmo'a}, {selylenmo'a}, {selmirmo'a}, {velmirmo'a}；这里将-mo'a改为-tai时，是表示概念上的；参见 {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}.
+mors	cmevla      \n莫尔斯、莫尔斯代码、电报、电码\n“莫尔斯”又译“摩斯”，因此又有“摩斯密码”等说法。
+morsi	gismu   \n-mro-      \nx_1是死亡的/不再存活的\n死去/死亡= {mrobi'o}/{co'urji'e}；参见 {jmive}, {catra}, {betri}.
+mosra	gismu   \n-mos-      \nx_1是x_2与x_3之间的摩擦力；（fe）x_2与x_3摩擦\n也指：x_2摩擦x_3 (= {seltermosra}；（非施事的）摩擦= {termosra}；参见 {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}.
+mraigo	fu'ivla      \nx_1是关于威尔士的文化/国家/语言等的事物，在x_2方面
+mraji	gismu      \nx_1是黑麦，属于种类/种族x_2\n参见 {gurni}.
+mribriju	lujvo      \nx_1=b_1 是邮局, 邮局员 x_2=b_2, 位于 x_3=b_3, 为邮政系统 x_4=m_5.\n{mrilu} {briju}
+mrilu	gismu   \n-mri-      \nx_1邮寄x_2给接受者x_3/到地址x_3，从邮局/地址x_4发出，由网络/系统/运输者x_5运送\n也指：x_4邮局/邮箱；参见 {benji},{notci}, {xatra}, {tcana}
+mruli	gismu   \n-mru-      \nx_1（工具）是锤，锤向目标x_2，具有锤头x_3，由x_4推动\n参见 {tutci}.
+mucti	gismu   \n-mut-      \nx_1是非物质的/无形的\n参见 {marji}, {menli}, {pruxi}, {sidbo}.
+mudri	gismu   \n-mud-      \nx_1是木材/木制品，来自树/树种x_2\n参见 {tricu}, {stani}.
+mukti	gismu   \n-muk-   \n-mu'i-      \nx_1（行为/事件/状态）是行为/事件x_2的动机，遵循x_3的意志/想法\n也指：x_3被鼓动做x_2，被动机x_1鼓动；（注：BAI可能适用于解释行为x_2发生的某种原因）；参见：{mu'i}, {nibli}, te {zukte}, se {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura})
+mulno	gismu   \n-mul-   \n-mu'o-      \nx_1（事件）是完整的/已经完成的/做完的；x_1变得完整，在性质x_2上，基于标准x_3\n也指：完美的/完全的/整体的；参见 {fanmo}, {culno}, {pagbu}, {xadba}, {prane}, {jalge}, {sumji}, {munje}, {sisti}, {xadni}.
+mumbais	cmevla      \n孟买
+mumvlabivli'i	lujvo      \nx_1 是五言律诗, 平仄 x_2, 押韻在 x_3.\n{mu} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {zelvlabivli'i}
+mumvlavonli'i	lujvo      \nx_1 是五言绝句, 平仄 x_2, 押韻在 x_3.\n{mu} {valsi} {vo} {linji}; {zelvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}
+munje	gismu   \n-muj-   \n-mu'e-      \nx_1是宇宙（一切/所有），具有范围/领域x_2，由规则/定理x_3定义\n也指：世界；宇宙是指能够涵盖所有领域的系统；如：论域（在特定论述中使用全部术语的完整集合），鸟类世界，动物世界； x_3 是定义了宇宙的基本规则，借此以区分其它宇宙或非宇宙；参见 {ciste}, {plini}, {kensa}, {mulno}.
+mupli	gismu   \n-mup-      \nx_1是具有基本属性x_2的样本/例子/范例，属于集合x_3\n参见：{mu'u}, {pixra}.
+murse	gismu      \nx_1是曙暮光/破晓时分/黄昏，,处于日期x_2，地点x_3\n晨影/破晓= {cermurse}；暮光/黄昏= {vacmurse}；参见 {cerni}, {kandi}, {vanci}.
+murta	gismu   \n-mur-   \n-mu'a-      \nx_1是窗帘/幕布/百叶窗，用以遮蔽孔洞x_2，由材料x_3制成\n参见 {canko}, {vorme}.
+muslo	gismu   \n-mus-      \nx_1是关于伊斯兰/穆斯林/古兰经的文化/国家/语言等的事物，在x_2方面\n也指：穆斯林；参见 {jegvo}, {lijda}.
+mutce	gismu   \n-tce-      \nx_1 在属性x_2(ka),趋向x_3方面超出平常; x_1 在x_2上非常x_3.
+muvdu	gismu   \n-muv-   \n-mu'u-      \nx_1（物体）移向目的地/接受者x_2，来自原地x_3，仅有路径/路线x_4\n也指：移动/运动（与不动相反的状态）= {comymu'u}；经过了{muvdu}的物体将不再处于原位（除非又回到原地）；（施事的）使……移动= {muvgau}/{muvzu'e}；（非施事的及物的）移动= {muvri'a}；自行推动= {sezmuvgau}；运动对象的一部分={pagmu'u}；有移动的部分={muvypau}/{muvyselpau}；虚表运动/似动运动= {mlumu'u}；参见 {rinci}, {klama}, {litru}, {cliva}, {fatri}; {dunda}, {benji}（施事的运动，但不必要暗示对来源的疏远）, {preja}, {bevri}, {vimcu}
+muzga	gismu   \n-muz-      \nx_1是博物馆/陈列馆，用以珍藏（可能会展览）x_2，在位置x_3处\n参见 {citri}.
+nabmi	gismu   \n-nam-      \nx_1（事件/状态）是x_2所遭遇的问题/困难/困境，在环境/任务x_3中\n也指: x_1是需要x_2考虑的事情；参见 {preti}, {danfu}, {ciksi}, {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}, {raktu}.
+nakni	gismu   \n-nak-      \nx_1是女性的/雌性的/母的生物，属于品种/种类x_2，具有证明其为雌性的特征x_3\n参见 {fetsi}, {bersa}.
+nalci	gismu   \n-na'i-      \nx_1是x_2的翅膀\n参见 {cipni}, {pimlu}, {rebla}.
+namcu	gismu   \n-nac-   \n-na'u-      \nx_1（li）是数字/数据/数量；只代表数值，不表示其表征的含义\n参见 {lerfu}, {mekso}, {klani}.
+nanba	gismu   \n-nab-      \nx_1是面包（不论发酵与否），由谷物x_2制成\n参见 {gurni}, {panlo}, {toknu}.
+nanca	gismu   \n-na'a-      \n在持续时间长度上，x_1是x_2个年（默认为1）的，基于标准x_3；x_1是年度的\n今年= {cabna'a}；明年= {bavlamna'a}；去年= {prulamna'a}；参见 {detri}, {djedi}, {jeftu}, {masti}.
+nandu	gismu   \n-nad-      \nx_1是困难的/艰难的/具有挑战性的，对x_2来说，在条件x_3下\n参见 {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.
+nanfi'oglibau	lujvo      \nx_1是x_2用来表示/交流x_3（不是说的话本身）的南非英语说法\n由{snanu}（南）、{friko}（非洲）、{glico}（英格兰）、{bangu}（语言）组成。参见：{gliban}（英语，专名）、{glibau}（英语）、{gliglibau}（英国英语）、{merbau}（美国英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{xinglibau}（印度英语）、{kisyglibau}（巴基斯坦英语）、{bangrnaidjiria}（尼日利亚英语）等。
+nanla	gismu      \nx_1是男孩/少年（未成年的男性），年纪为x_2，基于成熟标准x_3\n参见 {nixli}, {verba}, {nanmu}, {bersa}.
+nanmu	gismu   \n-nau-      \nx_1是男性/男人/男性形状的人（不必要是成年人）\n参见 {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+nanvi	gismu   \n-nav-      \nx_1是百万分之一/十的负九次方个/份[10^{-9}]的x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+narge	gismu   \n-nag-      \nx_1是坚果，属于物种/种类x_2，带有壳x_3，仁x_4\n参见 {grute}, {stagi}, {jbari}, {midju}.
+narju	gismu   \n-naj-      \nx_1是橙色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.
+natfe	gismu   \n-naf-   \n-na'e-      \nx_1（du'u）否定/驳斥x_2（du'u），基于规则/逻辑x_3\n例外= {nafmupli}；（施事的）否定/驳斥/反对={nafxu'a}/{tolxu'a}；参见 {nibli}, {tugni}, {zanru}, {xusra}.
+natmi	gismu   \n-nat-   \n-nai-      \nx_1是由人民x_2构成的族群/国家（人民共享有历史和文化）\n参见 {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.
+navni	gismu      \nx_1是惰性气体，具体为x_2（氦/氖/氩/氪/氙）\n默认为氖；参见 {xukmi}, {gapci}.
+naxle	gismu   \n-nax-   \n-xle-      \nx_1是管道，通往x_2，来自x_3，通过路径x_4\nx_2/x_3可能是无相对顺序的；参见 {pluta}, {rirxe}, {klaji}, {dargu}.
+nazbi	gismu   \n-naz-   \n-zbi-      \nx_1是x_2的鼻（身体部位），带有通孔x_3\n也指：关于鼻的；参见 {degji}, {panci}, {sumne}, {tance}.
+nederland	cmevla      \n尼德兰\n意为“低地”，即常说的“荷兰”。
+nejni	gismu   \n-nen-      \nx_1是能量，属于类型x_2，具有构成x_3\n射线/能量束/光波束= {nenli'i}；参见 {marji}, {tarmi}, {kantu}, {lazni}, {livla}.
+nelci	gismu   \n-nel-   \n-nei-      \nx_1喜欢/喜爱/喜好x_2（物体/状态）\n参见 {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna}, {pendo}.
+nenri	gismu   \n-ner-   \n-ne'i-      \nx_1处于x_2内部/里面（完全处于边界之内）\n暗示完全包含；参见 se {vasru}不必要完全包含, {jbini}, {zvati}, {cpana}, {sruri}, {senta}, {snuji}, {bartu}, {diklo}, {jibni}, {jinru}, {setca}
+nibli	gismu   \n-nib-   \n-ni'i-      \nx_1是行为/事件/状态x_2的十分条件，基于规则/逻辑系统x_3\n参见 {natfe}, {rinka}, {mukti}, {krinu},{ni'i}, {jalge}, {logji}.
+nicte	gismu   \n-cte-      \nx_1是x_2天的晚上/夜晚，位于地点x_3；x_1是夜间的/夜晚的\n今晚={cabycte}；明晚={bavlamcte}（注：有时候今晚尚处于未来，但仍然使用{cabycte}；昨晚={prulamcte}；参见 {donri}, {djedi}, {tcika}.
+nikle	gismu   \n-nik-      \nx_1是镍/其他抗氧化的/不生锈的金属\n参见 {jinme}.
+nilce	gismu   \n-ni'e-      \nx_1（家具物品，如：柜子，桌子等）供应给x_2（位置），具有用途/功能x_3\n参见 {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.
+nimre	gismu      \nx_1是柑橘（植物/果实），属于品种/种类x_2\n参见 {grute}, {slari}, {slami}, {xukmi}.
+ninmu	gismu   \n-nim-   \n-ni'u-      \nx_1是女性/女人/女性形状的人（不必要是成年人）\n参见 {nanmu}, {remna}, {prenu}, {makcu}, {nixli}.
+nipon	cmevla      \n日本\n参加：{ponjo}、{pongu'e}
+nirna	gismu   \n-nir-      \nx_1是x_2的神经（身体部位），带有通孔x_3\nx_1是关于神经的/神经系统的；参见 ve {benji}.
+nitcu	gismu   \n-tcu-      \nx_1需要/依赖x_2（被需要的），为了用途/行为/过程阶段x_3\n不暗示缺少；参见 {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}.
+nivji	gismu   \n-niv-      \nx_1编织x_2（衣/布），使用原料/线/丝x_3\n参见 {cilta}, {fenso}, {jivbu}, {pijne}.
+nixli	gismu   \n-nix-   \n-xli-      \nx_1是女孩（未成年的女性），年纪为x_2，基于成熟标准x_3\n参见 {nanla}, {verba}, {ninmu}.
+nobli	gismu   \n-nol-   \n-no'i-      \nx_1是神圣的/高贵的/精华的，处于文化/社会x_2下/基于标准x_2\n也指：上层阶级；默认为x_2是社会/文化基础，当是其它基础时（如：自认为高贵），需要指明；参见 {banli}.
+noreg	cmevla      \n挪威
+norgo	experimental gismu      \nx_1是关于挪威的文化/国家/语言等的事物，在x_2方面\n实验性gismu.
+notci	gismu   \n-not-   \n-noi-      \nx_1是消息/通知/信息/备忘录，关于主题x_2，作者为x_3，目标受众/受者为x_4\n强调简洁的，单一的或可识别的主题；接受者是弱定义的，只是说明了目标接受者而非实际接受者； {xatra}不具有单一主题而是包含内容；备忘录= {mojnoi}；参见 {xatra}, {nuzba}, {mrilu}, {morji}.
+nu,IORK	cmevla      \n纽约
+nukni	gismu   \n-nuk-      \nx_1是品红色的/紫红色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.
+nupre	gismu   \n-nup-   \n-nu'e-      \nx_1许诺/允诺/威胁/保证x_2（时间/状态）的发生/到来，接受者为x_3\n参见 {kajde}, {xusra}.
+nurma	gismu   \n-num-      \nx_1是农村，位于/属于x_2；x_1是乡村的/农村的\n参见 {jarbu}, {rarna}, {tcadu}, {cange}.
+nusna	experimental gismu      \nx_1诱导/引导x_2关于x_3，使用特定的事实x_4\n参见 {didni}, {nibji'i}, {biglogji}, {krilogji}
+nutli	gismu   \n-nul-   \n-nu'i-      \nx_1是中立的/不偏向任何一方，在冲突/纠纷x_2中\n也指：x_2冲突/纷争 （x_2不限定于分歧，它实际上是指具有中间值的标量/分布值的一种表现形式）；参见 {midju}, {lanxe}, {milxe}, {mutce}, {no'e}.
+nuzba	gismu   \n-nuz-      \nx_1（du'u）是新闻/新资讯，关于主题x_2，来源于x_3，给接收者x_4\n参见 {cnino}, {notci}.
+nuzlo	experimental gismu      \nx_1是关于新西兰的文化/国家/语言等的事物，在x_2方面\n参见 {glico}, {sralo}.
+osteraix	cmevla      \n奥地利
+otan	cmevla      \n北约\n即北大西洋公约组织
+OTa,uas	cmevla      \n渥太华
+pacna	gismu   \n-pa'a-      \nx_1期望/希望/盼望x_2（事件），期望值为x_3（在0-1之间）；x_1希望x_2发生\nx_1对x_2抱有希望； x_2被x_1所希望发生；x_3的值是x_1所认为的主观可能值；也可使用不精确的值来表示：{li} {piso'u}' 至 '{li} {piro}' 或者 {sotpa'a}至{sorpa'a}至{sojypa'a}；参见 {djica}.
+pagbu	gismu   \n-pag-   \n-pau-      \nx_1是x_2的部分/组分（整体/团体）；x_2有部分是x_1\n部分的= {selpau}；参见 {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}.
+pagre	gismu   \n-gre-      \nx_1通过/穿过通道/介质/障碍物x_2，到达目的地一侧x_3，来源处一侧为x_4\n两个方向都通过= {rolfargre}或 pagre ... .i so'ivo'ivo'u；参见 {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve}.
+pajni	gismu   \n-pai-      \nx_1裁决/裁判/判决问题x_2；x_1是裁判\nX2位：若包括jei = 规则{jetpai}，若包括ni = 估值{lairpai}，若包括ka = 估计/估量{kairpai}/{vampai}，若包括nu = 仲裁/裁判{faurpai}；包含了决定/裁决的评价={paijdi}, {jetpaijdi}, {lairpaijdi}, {kairpaijdi}, {vampaijdi}, {faurpaijdi}；陪审团/评判委员会= {pairkamni}；担任评判员/陪审员={kamnypai}作为团体x_1的一部分；参见 {cuxna}, {jdice}, {vajni}, {cipra}, {zekri}, {manri}, {mansa}.
+palci	gismu   \n-pac-      \nx_1是邪恶的/堕落的/不道德的，基于标准x_2\n参见 {zekri}, {vrude}, {xlali}, {marde}, {mabla}.
+palku	gismu   \n-pak-      \nx_1是裤子，由材料x_2制成\n参见 {taxfu}, {pastu}, {skaci}.
+palma	experimental gismu      \nx_1是棕榈树，属于品种x_2\n参见 {tricnrarekake}, {tricu}, {kokso}, {grasu}, {narge}
+palne	gismu      \nx_1是浅一点的容器（如：托盘/盘子等），用以装盛x_2，由材料x_3制成\n参见 {tansi}, {patxu}, {palta}, {ckana}.
+palpi	experimental gismu      \nx_1用触须触碰/感受x_2（表面结构）\n参见 {pencu}, {sefta}, {ganse}
+palta	gismu      \nx_1是平浅的食物摆放太（如：盘子/碟子），由材料x_2制成\n参见 {ckana}, {palne}, {kabri}, {tansi}, {ckana}.
+paludizm	cmevla      \n疟疾
+pambe	gismu      \nx_1是水泵/注射器/打气筒（工具/设备），泵压流体x_2进入x_3，来自x_4，使用方式x_5\n流体x_2可以气体或液体等；x_5可能指某种力；泵通常会产生压强梯度，如x_3是低压强区，x_4是高压强区；参见 {gapci}, {litki}, {rinci}, {fepri} 可比喻为气泵, {risna}可比喻为液泵, {rinci}, {tutci})
+pamga	experimental gismu      \nx_1是木瓜，属于物种/种类x_2\n参见 {grute}
+panci	gismu   \n-pan-      \nx_1是由x_2发出的气味，由探测器/感受者x_3感知到\n对观察者来说，未被察觉的气味发射源等价于是无味的；参见 {nazbi}, {sumne}, {cpina}, {vrusi}.
+pandi	gismu   \n-pad-      \nx_1强调/着重x_2（某表达），使用符号/词x_3，得到语法/语义效果x_4\n参见 {lerfu}, {basna}, {denpa}.
+panje	gismu      \nx_1是疏松多孔的；x_1是海绵/海绵制品\n也比喻为珊瑚，多孔芝士；参见 {cokcu}
+panka	gismu      \nx_1是公园，由团体/政府/公司x_2所有/托管/管理，用以目的x_3\n参见 {sorcu}, {zdile}, {klaji}, {purdi}.
+panlo	gismu   \n-pa'o-      \nx_1是一薄片x_2（团体）\n参见 {spisa}, {pagbu}, {nanba}.
+panpi	gismu   \n-pap-      \nx_1与x_2和平相处\n参见 {jamna}, {sarxe}, {smaji}, {tugni}, {cilce}, {jamna}
+panra	gismu      \nx_1与x_2是平行的，其仅在性质x_3（ka;jo'u/fa'u）上有所不同，基于标准/几何学x_4\nx_1平行于x_2；x_1与x_2相同，x_3是两者之间唯一的不同点； x_1近似于x_2 ；平行也包含：（在大量性质上）非常相似，只有少量的不同；参见 {pa'a}, {mintu}, {simsa}, {girzu}, {vrici}.
+pante	gismu   \n-pat-      \nx_1抗议/反对/抱怨x_2（事件/状态），向接受者x_3表达，采取行动x_4\nx_4处应该是事件或tu'a；参见 {xarnu}.
+panzi	gismu   \n-paz-      \nx_1是亲代x_2的子代婴儿/幼崽/新生儿（生物学上的）\n参见 {grute}, {verba}, {bersa}, {tixnu}, se {rorci}, {patfu}.
+papri	gismu      \nx_1是大量页面x_2中的一页（物理上的；书页/文件等）\n页面（一页纸的一面）= {paprysfe}/{paprysfelai}；充满文字的页面= {papryseltcidu}/{paprytcidylai}；参见 {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}.
+parbi	gismu   \n-pab-      \nx_1（me'o，分数，小数）是数量x_2比数量x_3的比率/比值 [x_2:x_3]\nx_1是比例的/分数的； x_2分子/被除数；x_3分母/除数；参见 {frinu}, {dilcu}, {mekso}.
+parji	experimental gismu      \nx_1是x_2的寄生虫/寄生物\n参见 {civla}, {cipnrkuku}, {xidnora}
+pasifik	cmevla      \n太平洋
+pastu	gismu   \n-pas-      \nx_1是长袍/斗篷（长而覆盖全身的服饰），由材料x_2制成\n套装/连体服= {paspalku}；参见 {kosta}, {taxfu}, {palku}.
+patfu	gismu   \n-paf-   \n-pa'u-      \nx_1是x_2的父亲（不必要是生理学上的父亲）\n参见 {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}.
+patlu	gismu      \nx_1是土豆/马铃薯（一种可食用块茎），属于种类/品种x_2\n{samcu}是指不用块茎的眼繁殖后代的块茎； 参见 {genja}, {jalna}, {samcu}.
+patxu	gismu   \n-pax-      \nx_1是盆/壶/罐/缸/桶/瓮（一种较深的容器），用以盛装x_2，由材料x_3制成/具有性质x_3\n参见 {tansi}, {palne}, {baktu}, {botpi}
+pekin	cmevla      \n北京\n威妥玛拼音Peking的Lojban化
+pelglar	cmevla      \n黄热病
+pelji	gismu   \n-ple-      \nx_1是纸，来源于x_2\n纸张= {plekarda}/{plebo'o}；参见 {karni}, {papri}, {prina}.
+pelxu	gismu   \n-pel-      \nx_1是黄色的/金色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.
+pemci	gismu   \n-pem-      \nx_1是诗/韵文，关于主题/主旨/情节x_2，作者为x_3，目的是写给x_4\nx_2 可能指习俗而非主题；参见 {prosa}, {rimni}, {rilti}, {finti}, {lisri}, {sanga}.
+penbi	gismu   \n-peb-      \nx_1是笔，使用墨水x_2，使用过程x_3应用\n参见 {ciska}, {pinsi}, {xinmo}, {pimlu}.
+pencu	gismu   \n-pec-   \n-pe'u-      \nx_1触摸x_2，使用x_3（x_1上的某位置），触摸位置为x_4（x_2上某位置）\n参见 {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}.
+pendo	gismu   \n-ped-   \n-pe'o-      \nx_1是x_2的朋友；x_2以朋友相待x_1\n参见 {bradi}, {xendo}, {nelci}, {prami}, {bradi}.
+penmi	gismu   \n-pen-   \n-pe'i-      \nx_1遇到/偶遇x_2，在地点/位置x_3\n参见 {jorne}, {jikca}, {pencu}.
+pensi	gismu   \n-pes-   \n-pei-      \nx_1考虑/思考/思索主题/内容x_2\n也指：x_1思考的/考虑周到的（某种意义上）； x_2 是关于想法的；参见 {pe'i}, {jijnu}, {menli}, {morji}, {sidbo}, {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}.
+perli	gismu   \n-per-      \nx_1是梨，属于品种/种类x_2\n参见 {grute}.
+peRUV	cmevla      \n秘鲁\n注意“秘”不读mì而读bì
+pesxu	gismu   \n-pex-      \nx_1是膏（软而湿润的固体，如：面团/泥巴等），由组分x_2做成\n组分包括x_2，但不必要全部指明；参见 {marxa}, {kliti}, {tarla}.
+petso	gismu   \n-pet-      \nx_1是十的十五次方个/份[10^15]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}
+pezli	gismu   \n-pez-      \nx_1是植物x_2的叶\n参见 {tricu}, {papri}, {spati}.
+picti	gismu   \n-pic-      \nx_1是十的负十二次方个/份[10^{-12}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+pijne	gismu      \nx_1是针/别针/钉，用以固定/刺穿x_2，具有性质x_3/用材料x_3制成\n参见 {jesni}, {nivji}, {fenso}, {dinko}, {tutci}.
+pikci	gismu      \nx_1祈求/乞求/恳求/哀求（谦卑/谦逊的请求）x_2，为了x_3\nx_2是被求助者/恩人/施主/保护人； x_3是恩惠/支持/礼物/救济品；参见 {cpedu}, {pindi}.
+pikta	gismu      \nx_1是票据，授予x_2特权/权力做/成为x_3（事件/状态），在条件x_4下\n参见 {jaspu}.
+pilda	experimental gismu      \nx_1是苍白的\n参见 {kandi}, {blabi}, {grusi}
+pilji	gismu   \n-pi'i-      \nx_1是x_2乘x_3的乘积（x_2是被乘数，x_3是乘数）\n参见 {mekso}, {sumji}, {rapli}, {jalge}.
+pilka	gismu   \n-pil-   \n-pi'a-      \nx_1是x_2的外壳/皮肤/外皮/外表面\n参见 {grute}, {calku}, {skapi}, {pilka}, {gacri}
+pilno	gismu   \n-pli-      \nx_1使用x_2（工具/器械/代理/材料），为了达到目的/实现功能x_3\n也指：运用； x_2是有用的/被x_1用来做x_3；使用/雇佣= {le'ipli}/{lejyplicu'a}；参见{tutci}, {cabra}, {minji}, {gasnu}, {zukte}, {pi'o}, {sazri}, {jibri})
+pimlu	gismu   \n-pim-   \n-pi'u-      \nx_1是生物/动物x_2的羽毛\n参见 {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.
+pinca	gismu      \nx_1是x_2的尿\n参见 {vikmi}, {xasne}, {kalci}, {mabla}, {festi}.
+pindi	gismu   \n-pid-      \nx_1是贫穷的/贫困的/贫乏的，在（货物/财产/性质）x_2方面；x_1缺少x_2\nx_2是缺乏的，对x_1来说；参见 {ricfu}, {claxu}, {nitcu}, {pikci}.
+pinfu	gismu   \n-pif-      \nx_1是x_2的囚犯/俘虏，被以方式/力量x_3控制/囚禁/限制\n参见 {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}.
+pinji	gismu      \nx_1是x_2的阴蒂/阴茎（突出的生殖器官）\n阳物/阴茎= {nakpinji}，阴蒂= {fetpinji}；参见 {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla}, {ganti}.
+pinka	gismu   \n-pik-      \nx_1（文本）是评论/评价/观察报告，关于主题x_2，由x_3所表达，给读者/受者x_4\n也指：x_3说出/给出评价x_1，关于x_2（= terselpinka）；参见 {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}.
+pinsi	gismu   \n-pis-      \nx_1是笔，使用书写/图画材料x_2，具有结构/支撑材料x_3\n也指：毛笔/笔刷；铅笔/炭笔= {tabypinsi}；参见 {ciska}, {penbi}, {burcu}, {bakri}
+pinta	gismu   \n-pin-      \nx_1是水平的，在重力环境/参考系x_2中\n参见 {sraji}, {plita}, {xutla}.
+pinxe	gismu   \n-pix-      \nx_1喝/饮/吸入饮料x_2，从容器/来源x_3中\n参见 {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.
+pipno	gismu   \n-pi'o-      \nx_1是键盘乐器（如：钢琴/电子琴/管风琴）\n参见 {zgike}.
+piton	cmevla      \nPython语言\n一门编程语言，得名自英国喜剧《巨蟒与圣杯》。
+pixra	gismu   \n-pir-   \n-xra-      \nx_1是图画/图片，画有图案x_2，由艺术家/创作者x_3创作在媒介x_4上\n也指：x_1是图画的/图像的；绘画= {xraselci'a}；x_1画x_2 = {xraci'a}/{xraci'a}；图像= {xratai}；照片={kacmyxra}；拍照= {kacmyterxra}/ {kacmyxragau}/ {kacmyxrazu'e}；浮雕= {blixra}；参见 {ciska}, {cinta}, {prina}, {mupli}, {barna}, {skina}.
+plana	gismu      \nx_1是肥胖的/过胖的（非常厚实/肿大），基于标准x_2\n参见 {cinla}, {rotsu}, {barda}, {punli}, {grasu}.
+plank	cmevla      \n普朗克
+platu	gismu   \n-pla-      \nx_1计划/规划/安排x_2（具体计划内容/概要），以期实现/达到/进行x_3\nx_2指计划/设计；对象的结构和布局将表示为状态x_3； 参见 {cartu}.
+pleji	gismu   \n-lej-   \n-le'i-      \nx_1给付酬劳/报酬/赔偿/款项x_2给接受者/收款人x_3，因为货物/服务x_4\nx_4可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posle'i},{posyvelyle'i} ；租借= {jerle'i}/{lejyjbera}；参见 {canja}, {cnemu}, {friti}, {kargu}, {vecnu}, {jdima}, {prali}, {jerna}, {sfasa}, {dunda}, {jinga}, {dapma}, {jdima}, {cirko}, {dirba}
+plibu	gismu   \n-pib-      \nx_1是x_2的外阴部位\n参见 {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}.
+plini	gismu      \nx_1是绕x_2旋转的行星，具有行星特性x_3，轨道参数为x_4\n参见 {lunra}, {mluni}, {terdi}, {solri}, {munje}.
+plipe	gismu   \n-pip-   \n-pi'e-      \nx_1跳向x_2，从x_3处，达到高度x_4，由x_5所驱动\n参见 {klama}, {bajra}, {stapa}, {cpare}, {lafti}.
+plise	gismu      \nx_1是苹果，属于品种/种类x_2\n参见 {grute}.
+plita	gismu   \n-pit-      \nx_1是平面（二维结构/形状），由点集x_2（集合）定义；x_1是平的\nx_1是二维的/平面的；x_2是足以定义此平面的点集；参见 {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}.
+plixa	gismu   \n-lix-      \nx_1耕/犁x_2，使用工具x_3，由x_4驱动\n参见 {kakpa}, {sraku}, {katna}, {skuro}.
+plixau	lujvo      \nx_1=p_2对x_2=p_1在x_3=p_3方面有用\n区分：x_1是有用，x_3是可用。参见：{selplika'e}。由{pilno}（用）+{xamgu}（好）组合而成。
+pluja	gismu   \n-luj-      \nx_1是复杂的/难解的，在x_2方面（ka），基于标准x_3\n也指：紊乱的/让人困惑的；参见 {cfipu}, {banli}, {sampu}, {jgena}.
+pluka	gismu   \n-puk-   \n-pu'a-      \nx_1 （事件）让 x_2（观察者） 在条件 x_3下满意\n参见{rigni}, cmavo list {pu'a}, {melbi}, {nelci}, {prami}.
+pluta	gismu   \n-lut-   \n-lu'a-      \nx_1是路线/航道/道路，通向x_2，由来处x_3，由点集x_4（集合）所定义\n路径仅仅起连接起点与终点的作用，而并不特定指任一某种通路；x_4是足有有效确认路径的点集；参见 {litru}, {naxle}, {tcana}, {dargu}, {klaji}, ve {klama}; {tadji}, {zukte}, {klama}, {pagre})
+pocli	experimental gismu      \nx_1展现出其是在道德上没有价值的（卑贱的/低俗的/下贱的/迂腐的），对于x_2来说，在x_3方面\n也指：粗俗的/低贱的/虚伪的
+polje	gismu   \n-plo-      \nx_1（力）折叠x_2，在位置x_3处/形成折痕x_3\n（施事的）折叠= {plogau}/{plozu'e}；在x_3处使用基数词或{rapli}来表示多次折叠；参见 {korcu}, {cinje}, {boxfo}, {boxna}.
+polno	gismu   \n-pol-      \nx_1 在x_2方面反映了大洋洲的民族、国家、语言、地域\n参见 {sralo}, {daplu}, {xamsi}.
+polskas	cmevla      \n波兰\n参见：{gugdrpolska}（波兰）
+ponjo	gismu   \n-pon-   \n-po'o-      \nx_1是关于日本的文化/国家/语言等的事物，在x_2方面\n参见 {xazdo}, {daplu}.
+ponse	gismu   \n-pos-   \n-po'e-      \nx_1拥有x_2，基于法律/传统x_3；x_1是x_2的所有者/主人\n（注：基于不同的文化和法律，人们对所有权的理解可能不尽相同）；参见 {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
+porpi	gismu   \n-pop-   \n-po'i-      \nx_1破裂/碎裂/粉裂成碎片/碎块x_2\n参见 {xrani}, {spofu}, se {katna}.
+porsi	gismu   \n-por-   \n-poi-      \nx_1（有序集合）以规则/参照x_2排序，在无序集合x_3中\nx_1是有序的（集合需全部指明）；参见 {po'i}, {lidne}, {liste}, {cmima}.
+porto	gismu   \n-pot-      \nx_1是关于葡萄牙的文化/国家/语言等的事物，在x_2方面\n参见 {brazo}.
+potybau	lujvo      \np_1=b_1是b_2用来表达或传达b_3（意义，不是指说话用的语句本身）的葡萄牙语说法\n由{bangu}（语言）和Portugal（葡萄牙）结合而成。参见{razbau}（巴西葡语）。
+prali	gismu   \n-pal-      \nx_1是属于/给予x_2的利益/利润/好处/收获，以此作为行为/进程x_3的结果\n也指：x_2受益于x_3；x_1 可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用 {selposprali} ；参见 {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}.
+prami	gismu   \n-pam-   \n-pa'i-      \nx_1爱/强烈地喜欢x_2（物体/状态）\n也指：x_1爱上了x_2；x_1是x_2的爱人（某种意义上）；x_2是x_1所爱的；参见 {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.
+prane	gismu   \n-pa'e-      \nx_1是完美的/无瑕疵的/顶级的，在性质x_2方面（ka）\n也指：无差错的；参见 {manfo}, {curve}, {traji}, {cfila}, {mulno}.
+prefere	fu'ivla      \nx_1 宁愿 x_2 而不愿 x_3
+preja	gismu   \n-pej-   \n-pe'a-      \nx_1扩展/扩张/延展至x_2，从原状态x_3\n参见 {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
+prenu	gismu   \n-pre-      \nx_1是一个人（不一定是人类）；x_1具有人的特性\n参见 {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+preti	gismu   \n-ret-   \n-rei-      \nx_1（加括号的文本）是问题/提问，关于主题x_2，由x_3所表达/提出，给读者/受者x_4\n参见 {nabmi}, {danfu}, {ciksi}, {frati}, {spuda}, {cpedu}.
+prije	gismu   \n-pij-      \nx_1是智慧的/明智的，在问题x_2（谓词子句）上，对于观察者x_3来说\n参见 {bebna}.
+prina	gismu   \n-pri-      \nx_1是印迹/图案，在表面x_2上，使用工具/物件x_3按压上\n参见 {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.
+pritu	gismu      \nx_1位于x_2的右边，面向/基于参考系x_3\n也指：x_3是x_2选取方向的标准；参见 {ri'u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}.
+prosa	gismu   \n-ros-   \n-ro'a-      \nx_1是散文，关于主旨/主题/内容x_2，由作者x_3书写，为了读者x_4\nx_2可能指习俗而非主题；参见 {cfika}, {lisri}, {cukta}, {pemci}, {finti}.
+pruce	gismu   \n-ruc-   \n-ru'e-      \nx_1是进程/加工过程，输入为x_2，输出/结果为x_3，经过步骤/阶段x_4\nx_2资源/来源 （={selru'e}, 但也可{ru'etci}，以及由（ru'er-/ruc- or selru'e-/selruc- ）所修饰的{selxaksu}, {selsabji}, {livla}；参见 {pu'e}, {farvi}, {tadji}, {grute}, {tcini}.
+pruni	gismu   \n-pun-      \nx_1是有弹力的/可伸缩的\n参见 {ckabu}, {tcena}.
+pruxi	gismu   \n-rux-   \n-ru'i-      \nx_1是关于鬼魂的/幽灵的；x_1是幽灵似的/空气似的\n也指：灵魂= {ruxse'i}；参见 {censa}, {lijda}, {mucti}, {xadni}.
+pulce	gismu   \n-puc-   \n-pu'e-      \nx_1是尘土/沉积物，来自x_2，沉积在表面/媒介x_3上\n参见 te {zalvi}, {danmo}, {purmo}, {sligu}.
+pulji	gismu      \nx_1是警察/公安/执法者，执行法律/规则/准则x_2\n作为政府/权利的代理人= {ca'irpulji}/{ka'irpulji}；作为警察力量= {puljysoi}，作为{puljyselsoi}的一部分；武装警察/武警/军警= {jempulji}, {bilpulji}；参见 {catni}, {sonci}, {bilni}, {flalu}, {bandu}, {jemna}, {zekri}, {krati}.
+pulni	gismu      \nx_1是滑轮，用以实现功能/作用x_2，绕轴x_3转动\n参见 {tutci}, {xislu}, {vraga}.
+punji	gismu   \n-puj-   \n-pu'i-      \nx_1将x_2放置/安置在平面/位置x_3上/处\n参见 {cpacu}, {lebna}, {cpana}, {batke}, {setca}.
+punli	gismu   \n-pul-      \nx_1是突出物/突出部，在x_2上/中/里，由材料x_3组成\nx_1是肿胀的；参见 {balji}, {cmana}, {plana}.
+purci	gismu   \n-pur-   \n-pru-      \n在时间顺序上，x_1在x_2之前/过去；x_1是之前的；x_2是之后的\n只能用于表示时间上的“之前”，用{lidne}可表示其它的“之前”；x_1在x_2之前开始，但在x_2时一直持续= {cfaprucabna}；x_1在x_2开始前已经停止={fampru}；x_1在x_2开始前已经完成= {mulpru}；参见 {lidne}, {balvi}, {cabna}, {farna}.
+purdi	gismu   \n-pud-      \nx_1是农田/耕地，属于家庭/团体/农民x_2，种植有作物x_3\n树园/果树园= {ricpurdi}；参见 {foldi}, {cange}, {panka}.
+purmo	gismu   \n-pum-   \n-pu'o-      \nx_1是材料x_2的粉末\n面粉/谷粉/麦粉= {grupu'o}, {xripu'o}；参见 {pulce}, {zalvi}.
+pyd	cmevla      \n西藏\n旧称“吐蕃”（有读tùfān，有读tùbó）
+racli	gismu      \nx_1（行为）是理智的/神智正常的，基于标准x_2\n参见 {fenki}.
+ractu	gismu      \nx_1是兔，属于品种/种类x_2\n参见 {mabru}, {kerlo}.
+radno	gismu   \n-ra'o-      \n在角度测量上，x_1是x_2幅度的（公制单位，默认为1），基于标准x_3\n以“角度”测量={julra'o}；赤经天文测量={cacryra'o}；参见 {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+rafsi	gismu   \n-raf-      \nx_1是前缀/后缀/缀词/组合结构，用以构成词/内容x_2，结构/性质为x_3，在语言x_4中\n参见 {valsi}, {lujvo}, {pagbu}.
+ragve	gismu   \n-rav-      \nx_1位于沟壑/界线x_2的另一边，与x_3相对；x_1与（fi）是相反的/对面的\n也指：x_1在另一边（越过/跨过zo'e）；参见 {dukti}, {kuspe}, {bancu}, {kruca}, {cripu}, {pagre}.
+rakso	gismu      \nx_1是关于伊拉克的文化/国家/语言等的事物，在x_2方面\n参见 {xrabo}.
+raktu	gismu   \n-ra'u-      \nx_1（人/事/物/情形）给x_2带来麻烦/困扰，因为产生了困难/难题x_3\n也指：折磨/具有破坏性的/让人讨厌的；x_1/x_3是x_2需要考虑的事/让x_2感到困扰；参见 {dicra}, {fanza}, {zunti}, {kurji}, {xanka}, {nabmi}.
+ralci	gismu   \n-rac-      \nx_1是脆弱的/易碎的/微妙的/微弱的，在性质x_2上（ka）\n易被损坏或渲染不够有效；参见 {jdari}, {ranti}, {tsali}, {milxe}, {kukte}.
+ralju	gismu   \n-ral-      \nx_1是x_2（集合）中的最主要的/领导/主席/负责人，具有性质x_3（ka）\n主要产品= {ralselpra}；将军/总统/主席/领导人= {ralja'a}/{ralterbe'e}；;添加不同的部件可以区别它们；也指：主要的，首要的；x_2是完整指明的集合；参见 {vajni}, te {bende}, {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju}.
+ralte	gismu   \n-ra'e-      \nx_1保有/维持x_2在其所有之下\n参见 {cirko}, {rinju}, {ponse}, {jgari}, {pinfu}, {stali}, {curmi}.
+randa	gismu   \n-rad-      \nx_1向x_2（力量/代理人）投降/屈服，在条件/环境x_3下\n参见 {jdari}, {renvi}, {ranti}, se {bapli}.
+rango	gismu   \n-rag-      \nx_1是物种/生物/个体x_2的身体器官，具有功能/作用x_3\n参见 {besna}, {livga}.
+ranji	gismu   \n-ra'i-      \nx_1（事件/状态）继续/持续进行，在时间区间x_2内；状态x_1是持续性的，在x_2上\n参见 {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba}, {preja}, {tcena}.
+ranmi	gismu   \n-ram-      \nx_1是神话/传说/具有象征意义的文化故事，关于x_2（内容/事件/主人公等），在神话主题x_3下，属于文化x_4\n也指：x_1童话/关于神话的用于形容传说/故事中的非人形生物= {ramda'u}；童话= {veryranmi}；参见 {lijda}, {lisri}, {crida}.
+ransu	gismu      \nx_1是青铜/青铜制品，包含组分x_2\n参见 {jinme}, {tunka}, {lastu}.
+ranti	gismu   \n-ran-      \nx_1是柔软的/可塑的/易弯曲的，在力x_2的作用下，在条件x_3下\n参见 {ralci}, {jdari}, {lakse}, {randa}, {gradu}.
+ranxi	gismu   \n-rax-      \nx_1是与期待x_2相反的/说反话的，在状态/性质x_3方面\n参见 {dukti}, {frica}, {cizra}.
+ra'oi	experimental cmavo   \nRAhOI      \nrafsi的标记. 把rafsi变为sumti.\n要注意在这个rafsi的前后时常需要留出空白或休止. 語法分析器zantufa-0.14和更高版本分析ra'oi作为selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). 例: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
+rapli	gismu   \n-rap-      \nx_1（行为）是重复的，重复次数为x_2（数量）\n重复练习= {rapyzu'e}/{rapxelcli}/{rapyzukmo'i}；参见 {roi}, {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}.
+rarna	gismu   \n-rar-      \nx_1是自然发生的/本能的/直觉上的/不是刻意意识的\n参见 {rutni}, {jinzi}, {nurma}, {stati}.
+ratcu	gismu      \nx_1是鼠，属于品种/种类x_2\n参见 {smacu}.
+ratni	gismu   \n-rat-      \nx_1是元素/原子序数x_2的原子，属于同位素x_3/原子量为x_3\n参见 {kantu} 基本单元的性质和行为；{selci}基本物理单元，通常是团体
+rebla	gismu   \n-reb-      \nx_1是x_2的尾巴/辫子\n参见 {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}.
+rectu	gismu   \n-rec-   \n-re'u-      \nx_1是肉/肉制品，来源于x_2（动物）\n参见 {sluji}.
+remna	gismu   \n-rem-   \n-re'a-      \nx_1是人类，属于品种/种类x_2\n参见 {nanmu}, {ninmu}, {prenu}.
+renro	gismu   \n-rer-   \n-re'o-      \nx_1投掷/扔出x_2，在/向方向x_3 （推动力来自x_1内部）\n参见 {cecla}更常见的术语, {danti}
+renvi	gismu   \n-rev-   \n-re'i-      \nx_1经历/持续忍受/经受过x_2，持续时间长度为x_3；x_1从经历x_2中幸存下来，该经历的持续时间长度为x_3\nx_1是持久的/坚韧的；参见 {ranji}, {kuspe}, {randa}, {lifri}, {stali}, {temci}.
+respa	gismu   \n-res-      \nx_1是两栖类动物，属于品种/种类x_2\n参见 {danlu}, {banfi}, {since}.
+ricfu	gismu   \n-rif-   \n-cfu-      \nx_1富有/饱含/拥有大量x_2（财富/物品/所有物等）\n参见 {solji}, {banzu}, {dukse}, {pindi}.
+rigni	gismu   \n-rig-      \nx_1让 x_2 反感，在 x_3条件下\n参见{djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}.
+rijno	gismu   \n-rij-      \nx_1是银/由银构成[Ag]\n参见 {solji}.
+rilti	gismu   \n-ril-      \nx_1（序列/非文本类引述）是旋律/韵律/节拍，属于音乐/表现形式x_2\n有一定是周期性/有规律的模式；参见 {damri}, {pemci}, {tonga}, {zgike}, {slilu}, {dikni}, {sanga}, {morna}.
+rimni	gismu   \n-rim-      \nx_1与x_2押韵，在语言/语音学x_3中，韵脚为x_4（ka）\n广义上的押韵包括任何听起来契合的音；参见 {pemci}, {sanga}.
+rinci	gismu      \n流体/液体x_1流出自x_2，经过管道/过滤器x_3，在力x_4的作用下\nx_4通常指重力；参见 {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe}.
+rinju	gismu   \n-ri'u-      \nx_1受到x_2的抑制/约束，在事件x_3方面；x_1是受抑制的/拘束的\n也指：x_2是x_1的阻碍/约束；x_2阻碍/约束/抑制x_1，以免其x_3；（施事的）抑制/约束={ri'urgau}/{ri'urzu'e}；参见 {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}.
+rinka	gismu   \n-rik-   \n-ri'a-      \nx_1 (事件/状态)导致/是物理原因,   对效果x_2 (事件/状态)而言,.在情况 x_3下.
+rinsa	gismu      \nx_1问候/问好/欢迎x_2，以礼节x_3（行为）\n参见 {friti}, {coi}, {co'o}
+rirci	gismu      \nx_1（集合中的元素）是稀有的/罕见的/鲜见的/非典型的，在性质x_2（ka）上，在集合x_3中\nx_3是完整指明的集合；参见 {cizra}, {fadni}, {cafne}, {kampu}, {cnano}
+rirni	gismu   \n-rir-      \nx_1养育/抚养x_2\n参见 {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}.
+rirxe	gismu   \n-ri'e-      \nx_1是江/河，具有河岸x_2，流域为x_3，流向x_4\n参见 {flecu}, {senta}, {daplu}, {djacu}, {lalxu}, {xamsi}, {rinci}, {naxle}
+rismi	gismu   \n-ris-      \nx_1是稻谷，属于种类/品种x_2\n参见 {gurni}.
+risna	gismu      \nx_1是x_2的心脏\nx_1是关于心脏的；（情感/情绪上的）心={cnise'i}；参见 {pambe}, {ciblu}.
+ritli	gismu   \n-ri'i-      \nx_1是仪式/典礼，为了目的x_2，基于传统x_3/在社区x_3中，具有形式/规则x_4\nx_4惯例/约束条件等；参见 {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}.
+rivbi	gismu   \n-riv-      \nx_1躲避/避免/躲藏/逃避事件x_2，通过行为/状态x_3\n也指：绕行/避让；（x_1通常是物体，也可能是事件）；参见 {bandu}, {fanta}, se {jersi}, {sisku}, {kalte}, {fapro}.
+robin	cmevla      \n罗宾
+rokci	gismu   \n-rok-   \n-ro'i-      \nx_1是石/石制品，具有形式/组分x_2，来自地点x_3\n物质构成中需包含x_2，但x_2位不需要指明全部构成；参见 {kunra}, {jemna}, {canre}.
+romas	cmevla      \n罗马
+romge	gismu   \n-rog-      \nx_1是高反射的/锃亮的金属表面，属于金属x_2（通常指铬）\n参见 {jinme}.
+romlo	experimental gismu      \nx_1是关于吉普赛的文化/国家/语言等的事物，在x_2方面\n参见 {kulnu}, {xindo}
+ropno	gismu   \n-ron-   \n-ro'o-      \nx_1是关于欧洲文化/所在地/地理特性等的事物，在x_2方面\n参见 {brito}.
+rorci	gismu   \n-ror-      \nx_1与x_3共同生出/生育x_2 （x_1与x_3不存在特定的性别顺序）\n参见 {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}.
+rotsu	gismu   \n-rot-   \n-tsu-   \n-ro'u-      \nx_1是厚的，在规格/方向x_2上，基于标准x_3\n也指：矮胖的；参见 {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}.
+rozgu	gismu   \n-roz-   \n-zgu-      \nx_1是玫瑰，属于品种/种类x_2\n参见 {spati}, {xunre}.
+ruble	gismu   \n-rub-   \n-ble-      \nx_1是虚弱的/脆弱的/微弱的，在性质/质量/品质x_2（ka）方面，基于标准x_3\n参见 {carmi}, {vlipa}, {tsali}, {kandi}, {kandi}, {milxe}.
+rufsu	gismu   \n-ruf-      \n在质地/规整性上，x_1是粗糙的/不规整的\n规整的/精细的= {tolrufsu}). 参见 {xutla}, {tengu}, {vitci}.
+runme	gismu   \n-rum-      \nx_1融化/溶化（固体变成液体），在温度x_2，压强x_3下\n参见 {dunja}, {febvi}, {lunsa}, {bisli}.
+runta	gismu      \nx_1（溶质）溶解在溶剂x_2中，成为溶液x_3，在条件x_4下\n悬浊液= {pucyteryrunta}, {pu'exre}；参见 {litki}, {mixre}, {sligu}, {sudga}.
+rupnu	gismu   \n-rup-   \n-ru'u-      \nx_1是以主要货币单位（如：元/美元/卢布等）计量的，具有数量x_2，属于货币体系x_3\n也指：英镑，法郎，马克，日元，比特币单位等；x_1一般指价格/花费/价值；参见 {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.
+rusko	gismu   \n-ruk-   \n-ru'o-      \nx_1是关于俄罗斯的文化/国家/语言等的事物，在x_2方面\n参见 {softo}, {slovo}.
+rutni	gismu   \n-run-      \nx_1是人造的/人工制品\n参见 {rarna}, se {zbasu}, {gundi}, {slasi}.
+sabji	gismu   \n-sab-      \nx_1（来源）提供/供应/供给x_2（货物/供应品）给接收者x_3\n（施事的）提供={sabgau}/{sabzu'e}；参见 {krasi}, {sorcu}.
+sabnu	gismu      \nx_1是载具x_2的舱\n参见 {bloti}, {marce}, {vinji}, {karce}.
+sacki	gismu      \nx_1是火柴，由原料x_2制成\n参见 {fagri}, {jelca}.
+saclu	gismu      \nx_1（me'o，十进制/二进制数）是分数x_2（me'o）的等值小数形式（具有相同的数值），以进制x_3（数量）计数\n将分数转换为等值的小数；参见 {namcu}, {frinu}.
+sadjo	gismu   \n-djo-      \nx_1是关于沙特阿拉伯的文化/国家/语言等的事物，在x_2方面\n参见 {xrabo}.
+sakartulos	cmevla      \n格鲁吉亚\n美国乔治亚州的英文跟格鲁吉亚的英文相同，但是在Lojban里词源词形都完全不同。参见：{kartuli}（格鲁吉亚，属gismu）
+sakci	gismu   \n-sak-      \nx_1是真空/相对低压的流体/气体x_2，相对于高压x_3\n吸取流体/物体= {sakcpu}/{sakmuvgau}；参见 {cokcu}, {lacpu}, {flecu}.
+sakli	gismu   \n-sal-      \nx_1在x_2上滑动/滑行/滑移\nx_2对x_1来说是滑的；参见 {mosra}, {fulta}, {skiji}, {xutla}.
+sakta	gismu   \n-sat-      \nx_1是糖/糖制品（可食用的甜的），来自来源x_2，具有组分x_3\n也指：蔗糖，果糖，葡萄糖，乳糖等；糖精/糖的替代品={basysakta}/{satybasti}/{ticysakta}；物质构成中需包含x_3，但x_3位不需要指明全部构成；参见 {silna}, {titla}.
+salci	gismu   \n-sla-      \nx_1庆祝/庆贺x_2（事件/谓词子句），通过行为/活动/聚会x_3\nx_3（与nunsla）纪念活动/祭典/庆典；并不限于表示“庆祝”的场合，葬礼={mrobixsla}；参见 {sinma}, {jbena}.
+salpo	gismu   \n-sa'o-      \nx_1倾斜/歪斜了角度x_2，基于水平面/参照标准x_3\n也指：陡峭= {tcesa'o}；参见 {kurfa}, {tutci}.
+salta	gismu      \nx_1（团）是色拉/沙拉（食物），具有组分/成分x_2\nx_2作为x_1的一部分/配方/组分；参见 {mixre}, {stasu}.
+samcu	gismu      \nx_1是可食用的淀粉根（如：芋头/木薯等），属于种族/种类x_2\n参见 {patlu}, {genja}, {jalna}.
+sampu	gismu   \n-sap-      \nx_1是简单的/不复杂的，在性质x_2（ka）方面\n参见 {pluja}, {curve}, {frili}, {manfo}.
+sance	gismu   \n-sna-      \nx_1是由x_2发出的声音\nx_2发生声响；参见 {savru}, {tirna}, {voksa}, {siclu}, {slaka}.
+sanga	gismu   \n-sag-   \n-sa'a-      \nx_1歌唱x_2（音乐/歌曲/声音）给听者x_3\n歌曲/旋律/乐曲= {sagzgi}/{ralsagzgi}；和声= {saxsagzgi}； 和声= {saxsa'a}；歌曲={selsa'a}； 参见 {pemci}, {rimni}, {rilti}, {siclu}.
+sanji	gismu   \n-saj-      \nx_1对x_2（物体/谓词子句）是有意识的；x_1知晓/清楚x_2（物体/谓词子句）\n知晓暗示的是头脑中的某些过程，而不仅仅是感官探测，也可能指仅有头脑进程而无实际感知的“知晓”；参见 {menli}, {morji}, {ganse}, {sipna}, {cikna}.
+sanli	gismu   \n-sa'i-      \nx_1站立（垂直站立）在表面x_2上，使用的肢体/支撑体x_3\nx_1站立着/站起来；x_1是竖立的/直立的； x_1弯曲/弯腰/弯折={krosa'i}/{krosa'ibi'o}/{plosa'i}；参照系是近似垂直的表面，而非重力场；参见 {kamju}, {sraji}, {tuple}, {zbepi}, {sarji}.
+sanmi	gismu   \n-sai-      \nx_1（团）是一餐/一顿饭，包括菜肴x_2\nx_2是x_1中的菜肴；参见 {barja}, {stasu}, {gusta}, {sanso}.
+sanso	gismu      \nx_1是酱，具有用途x_2，包含组分x_3\nx_3是x_1中的组分/配方；参见 {sanmi}, {mixre}, {stasu}.
+santa	gismu      \nx_1是伞/罩，保护x_2免受x_3侵扰/伤害/攻击，由x_4材料制成，x_5支撑\n参见 {carvi}, {solri}.
+sarcu	gismu   \n-sa'u-      \nx_1是必要的/必需的，为了继续进程/状态x_2，在条件x_3下\n也指：必需品/先决条件/必要条件；参见 {sau}, {nitcu}.
+sarji	gismu   \n-sra-      \nx_1支持/支撑/帮助x_2抵抗力/对立方x_3，通过方式x_4\n也指：援助/帮助；x_1是可靠的/可信赖的/可支撑的（这种“可靠性”可能是暂时的，且这并非通常意义上的“可靠”）；x_2是物体/事件；参见 {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana}, {loldi}, {sanli}, {selfu}.
+sarlu	gismu      \nx_1是螺旋/螺旋状的事物（如：螺纹，漩涡），范围为x_2，维度为x_3\n参见 {klupe}, {korcu}, {tarmi}.
+sarni	experimental gismu      \nx_1是三角形，具有角/顶点x_2，边/尺寸x_3\n参见 {cibjgatai}
+sarxe	gismu   \n-sax-      \nx_1与x_2是和谐的/协调的，在性质x_3（ka）上\n参见 {satci}, {panpi}, {mapti}, {tugni}, {ckini}.
+saske	gismu   \n-ske-      \nx_1（事实）是关于主题x_2的科学 ，基于方法论x_3\n不限于基于所谓科学方法得到的科学，而包括其他经过一致的方法检验过的知识；参见 {datni}, {fatci}, {djuno}, {cipra}, {pensi}, {jimpe}.
+satci	gismu      \nx_1（测量/匹配）是精确地/准确的，以精密度x_2来说，在性质/数量x_3（ka/ni）上\n参见 {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.
+satre	gismu   \n-sa'e-      \nx_1抚摸/抚弄x_2，使用x_3\n爱抚= {pamsa'e}；参见 {mosra}, {pencu}.
+saupaulos	cmevla      \n圣保罗
+savru	gismu   \n-sav-   \n-vru-      \nx_1是噪声/嘈杂（通过感官输入的无用的信息），对于x_2来说，通过感官/感受器x_3\n参见 {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}.
+sazri	gismu   \n-saz-      \nx_1驱动/推动x_2（器官/机械）的运行，具有作用/用途/功能/目的x_3\n参见 {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}.
+sefta	gismu   \n-sfe-      \nx_1是物体x_2的表面，位于x_3一边，具有边界x_4\n也指：x_4界线/边界；参见 {crane}, {flira}, {plita}, {bliku}.
+selbrisle	lujvo      \nx_1 词组的基本组成单元\n{selbri} {selci}
+selci	gismu   \n-sle-      \nx_1是x_2的基本组成单元 （x_1不可分，如：细胞/原子等）\nx_2通常具有团体属性；参见 {kantu}, {ratni}, {gradu}
+selfu	gismu   \n-sef-   \n-se'u-      \nx_1服务/服侍x_2，采用的服务方式是x_3（行为）；x_1是服务员，为x_2提供服务x_3\n参见 {sidju}, {sarji}, {gunka}.
+selsa'a	lujvo      \nx_1 是一首由 x_2 演唱的歌曲，其听众为 x_3
+semto	gismu   \n-sme-      \nx_1是关于闪米特的文化/国家/语言等的事物，在x_2方面；可借指“中东”\n闪米特包括阿拉伯，希伯来，阿拉姆，埃塞俄比亚等；参见 {xrabo}.
+senci	gismu   \n-sec-      \nx_1打喷嚏\n参见 {bilma}, {kafke}.
+senpi	gismu   \n-sen-      \nx_1怀疑/质疑x_2（du'u）是真实的\n也指：x_2是可疑的/值得怀疑的；参见 {jinvi}, {krici}, {djuno}, {birti}.
+senta	gismu   \n-set-      \nx_1是由材料x_2构成的一层（形状/构造），在结构/连续体/组成物x_3中\n参见 {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}.
+senva	gismu   \n-sev-   \n-sne-      \nx_1梦到x_2（事实/想法/事件/状态）；x_2是x_1的梦/幻想\n幻梦/梦境= {selsne}；参见 {sipna}, {xanri}.
+sepli	gismu   \n-sep-   \n-sei-      \nx_1与x_2是分开的/隔离的，被隔离物x_3（如：墙/沟等）隔开\n也指：冷漠的/冷淡的= {jiksei}；孤单/单独= {rolsmisei} 意味着与其所有的同类都不同；{pavysei}只有一个的孤单（不能用于谈论多个都孤单的人）；参见 {bitmu}, {snuji}, {senta}, {fendi}, {curve}, {jinsa}, {bitmu}, {marbi}.
+serti	gismu   \n-ser-      \nx_1是阶梯/楼梯/台阶，用于攀爬建筑物x_2，具有阶数x_3\n参见 {stapa}, {loldi}, {senta}.
+sesre	experimental gismu      \nx_1是关于苏联的文化/国家/语言等的事物，在x_2方面\n{softo}并不是指苏联；另外，俄罗斯帝国，苏维埃联邦，俄罗斯联邦是三个不同的国家，而CIS（独立国家联合体，即独联体）并非是一个国家；参见 {softo}, {rusko}, {vukro}, {slovo}, {gugdesu'u}, {soviet}.
+setca	gismu   \n-se'a-      \nx_1将x_2植入/置入/放入/插入x_3的内部/其它成员x_3之间\n也指：塞满/填充/充满；但插入并不意味着会填满；注射= {je'erse'a}；注射器/针(= {se'arterje'e}, {je'erse'atci}, {jestu'u},{tu'urjesni}；参见 {rinci}, {tisna}, {punji}, {jbini}, {nenri}, {jmina}, {culno}, {kunti}, {catlu}.
+sevzi	gismu   \n-sez-   \n-se'i-      \nx_1是x_2的自我/自身/自我认知\n参见 {mi}, {prenu}, {menli}, {jgira}.
+sfani	gismu      \nx_1是苍蝇，属于物种/种类x_2\n参见 {cinki}, {bifce}.
+sfasa	gismu   \n-sfa-      \nx_1惩罚x_2，因为其违反/触犯了x_3（事件/状态/行为），惩罚措施为x_4（行为/状态）\n也指：责罚/惩戒；x_4罚金；参见 {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima}, {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.
+sferies	obsolete cmevla      \n瑞典
+sfofa	gismu   \n-sfo-      \nx_1是沙发\n参见 {nilce}.
+sfubu	gismu   \n-sub-   \n-su'u-      \nx_1俯冲向x_2，由x_3\n参见 {farlu}
+siclu	gismu   \n-sil-      \nx_1（声音来源）鸣笛/吹哨发出声音/韵律/调子x_2\n参见 {sance}, {tonga}, {sanga}, {zgike}, {savru}.
+sicni	gismu   \n-si'i-      \nx_1是硬币，由x_2发行，具有币值x_3，由组分x_4（如：金/银）构成\n参见 {fepni}, {jdini}, {rupnu}.
+sidbo	gismu   \n-sib-   \n-si'o-      \nx_1（想法的谓词子句）是一个主意/想法/思考，关于x_2，思考者为x_3\nx_1是概念的/构思的/构想的/想法的；参见 {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, {si'o}.
+sidju	gismu   \n-dju-      \nx_1帮助人/物x_2实现/完成/达到x_3（事件/行为）\n参见 {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.
+sigja	gismu   \n-sig-      \nx_1是香烟/卷烟，由烟草/可吸燃物质x_2制成，制造者为x_3\n参见 {danmo}, {jelca}, {tanko}, {marna}.
+silka	gismu   \n-sik-      \nx_1是丝绸/丝织物，由x_2生产制造\n参见 {curnu}, {bukpu}, {cilta}.
+silna	gismu      \nx_1是盐，来源于x_2，具有组分x_3\n参见 {sakta}.
+simlu	gismu   \n-mlu-      \nx_1 好像具有特性 x_2 ,对观察者 x_3而言，在x_4的情况下.
+simsa	gismu   \n-smi-      \nx_1和x_2在特性/数量x_3 (ka/ni)上相似; x_1看起来象/表现出来和x_2相似.\n x_1是x_2的镜像; x_1和x_2相似; 参考： {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici}.
+simxu	gismu   \n-sim-   \n-si'u-      \nx_1（集合）含有相互地x_2（事件）的元素；（x_1至少映射1个以上的sumti）\n成员集x_1中的成员相互做x_2；集合x_1对其每一个成员做同样的事情x_2；参见 {kampu}, {mintu}.
+since	gismu      \nx_1是蛇，属于品种/种类x_2\n参见 {curnu}, {danlu}, {respa}, {vindu}.
+SINgapur	cmevla      \n新加坡\n简称“新”；又译“星加坡”，简称“星”。
+sinma	gismu   \n-si'a-      \nx_1尊敬/高规格的对待x_2（受尊重的对象）\nx_2是受人尊敬的；参见 {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.
+sinso	gismu      \n在三角函数上，x_1是角度/反正弦x_2的正弦\n参见 {tanjo}.
+sinxa	gismu   \n-sni-      \nx_1是符号/标志，表达/代表意义/含义x_2，给观察者x_3\nx_1有意义的/有象征性的；x_1表示x_2；行动的信号={sniti'i}；内涵/含义= se {sibyti'isni}, {sibyti'ismu}；参见 {lerfu}, {tcita}, {barna}, {mifra}, {smuni}.
+sipna	gismu   \n-sip-      \nx_1睡觉/是已睡去的\n参见 {senva}, {tatpi}, {cikna}, {sanji}.
+sirji	gismu   \n-sir-      \nx_1是x_2与x_3之间直接的/线性的部分/间隔；x_1是线性的\n参见 {korcu}, {linji}, {kruvi}, {kuspe}.
+sirxo	gismu   \n-six-      \nx_1是关于叙利亚的文化/国家/语言等的事物，在x_2方面\n参见 {xrabo}.
+sisku	gismu   \n-sis-      \nx_1寻找/搜寻x_2，在集合x_3（完整集合）之中\n如果寻找的是物体或事件，在x_2位使用tu'a；参见 {cirko}, {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.
+sisti	gismu   \n-sti-      \nx_1停止/终止/停下活动/进程/状态x_2（不一定完成）\n参见 {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
+sitna	gismu   \n-sit-      \nx_1引用/引述x_2（来源）中的信息/陈诉x_3（du'u）\n参见 {krasi}.
+sivni	gismu   \n-siv-      \nx_1是个人的/私人的/非公开的，对x_2来说\n也指：x_1是隐私/秘密（某种意义上）；x_2对x_1知情；不知情可在x_2位添加na'e(bo)：{nalselsivni}；参见 {gubni}, {mipri}.
+skaci	gismu      \nx_1是裙，由材料x_2制成\n参见 {taxfu}, {palku}, {pastu}
+skami	gismu   \n-sam-      \nx_1是计算机/电脑，具有用途/功能x_2\n参见 {kanji}, {minji}, {pensi}.
+skapi	gismu   \n-kap-      \nx_1是皮/毛皮/皮革，来自x_2\n参见 {pilka}, {calku}, {kerfa}.
+skari	gismu   \n-ska-      \nx_1显示出颜色/色彩x_2，对观察者x_3来说，在条件x_4下；x_1是呈现x_2颜色的\n条件包括背景光照，滤镜等等；参见 {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}.
+skicu	gismu   \n-ski-      \nx_1描述/谈论x_2（物体/事件/状态）给接收者x_3，具体描述内容为x_4（性质）\n参见 {lisri}, {tavla}.
+skiji	gismu   \n-sij-      \nx_1是雪橇/溜冰鞋等，用于在表面x_2（材料）上滑行，支撑着溜滑者/货物x_3\n参见 {sakli}, {marce}, {cutci}.
+skina	gismu   \n-kin-      \nx_1是关于x_2（主题/情节/事物）的电影/影片，制作者为x_3，观看者为x_4\nx_2可能只是惯例而非主题； 卡通/动画= {selxraci'a} {skina}；电视节目/电视剧={tivyskina}当忽略时长和内容等不同时；参见 {tivni}, {vidni}, {pixra}, {finti}.
+skori	gismu   \n-sko-      \nx_1是绳/线/缆，由材料x_2制成\n参见 {cilta}, {jgena}, {marna}, {bikla}, {linsi}.
+skoto	gismu   \n-kot-   \n-ko'o-      \nx_1是关于盖尔/苏格兰的文化/国家/语言等的事物，在x_2方面\n关于爱尔兰的= {sicko'o}，苏格兰的= {sunko'o}，凯尔特的= {dzeko'o}，威尔士的= {nanko'o}，布列塔尼的= {fasko'o}；因为苏格兰/盖尔只是凯尔特的北部分支，所以可能需要使用某个fu'ivla来表示“关于凯尔特的”；国家主义者可能也会要求使用单独的fu'ivla表示“关于爱尔兰的”；参见 {brito}, {glico}.
+skuro	gismu   \n-ku'o-      \nx_1是表面/物体x_2上的凹槽/壕沟/沟渠\n参见 {plixa}.
+slabu	gismu   \n-sau-      \nx_1是被x_2所熟悉的/了解的/认识的，在性质x_3（ka）方面，基于标准x_4\n也指：老的；但它并非包含了所有“老的”含义，而是表示使用/存在了一定时间的（x_2为世界/生命/存在等= loi nu {zasti}，在使用中常被省略）； slabu不是“年轻的”的反义词，年老的= {nalci'o}/{tolci'o}；而是指“新的”的反义词= {tolni'o}；古老的= {tcesau}；存在的时间/年纪= {nilsau}；x_2习惯于x_1（= {selsau}；历史的/具有历史意义的= {cirsau}/{cirselcedra}/{vaipru}；参见 {clani}, {citno}, {cnino}, se {djuno}, {citno}, {djuno})
+slaka	gismu      \nx_1是语言x_2的音节\n参见 {sance}, {valsi}, {bangu}.
+slami	gismu      \nx_1是酸，具有组分x_2；x_1是酸性的 （化学概念）\n物质构成中需包含x_2，但x_2位不需要指明全部构成;参见 {slari}, {nimre}.
+slanu	gismu      \nx_1是圆柱状的，构成材料为x_2\n参见 {kamju}, {gunro}.
+slari	gismu   \n-sar-      \nx_1是酸味的，对观察者x_2来说\n参见 {slami}, {titla}, {kurki}, {nimre}.
+slasi	gismu   \n-las-      \nx_1是塑料，具有组分/属于类型x_2\n参见 {rutni}, {boxfo}, {bukpu}.
+sligu	gismu   \n-lig-      \nx_1是固体，具有物质/组分x_2，在条件x_3下\n条件包括温度和压强；参见 {runta}, {litki}, {gapci}, {jdari}, {dunja}, {pulce}, {jduli}.
+slilu	gismu   \n-sli-      \nx_1以速率/频率x_2，在集合/状态序列x_3（完整集合）之间来回振荡/摇摆\n也指：往复运动；参见 {dikni}, {rilti}, {morna}, {desku}, {slilu}, {janbe}, {boxna}.
+sliri	gismu      \nx_1是硫（S）/硫制品\n参见 {xukmi}, {panci}, {pelxu}.
+slovo	gismu   \n-lov-   \n-lo'o-      \nx_1是关于斯拉夫的文化/国家/语言等的事物，在x_2方面\n参见 {softo}, {rusko}, {vukro}.
+sluji	gismu   \n-slu-      \nx_1是肌肉，用以控制x_2，属于身体x_3\n参见 {rectu}, {xadni}, {zajba}.
+sluni	gismu      \nx_1是葱/洋葱/青葱，属于品种/类型x_2\n参见 {stagi}.
+smacu	gismu      \nx_1是老鼠，属于品种/种类x_2\n参见 {ratcu}.
+smadi	gismu      \nx_1推测/猜测x_2（du'u）为真，关于主题x_3\n也指：x_1预料x_2为真；x_1假想x_2为真；关于认知论的词都含有du'u位；参见 {djuno}, {facki}, {jijnu}, {sruma}.
+smaji	gismu   \n-sma-      \nx_1（来源）是安静的/寂静的，在观察点x_2看来，基于标准x_3\n参见 {kerlo}, {panpi}, {savru}, {tirna}.
+smaka	experimental gismu      \nx_1品尝/感受到味道x_2\n参见 {tasta}, {vrusi}, {ganse}, {palpi}, {viska}
+smani	gismu      \nx_1是猿/猴/星星，属于种族/种类x_2\n参见 {mabru}, {danlu}.
+smela	experimental gismu      \nx_1是李属类水果（如：李/桃/杏/樱桃等），属于种族/种类x_2\n梅子/紫李={zirsmela}，樱桃={xunsmela}，桃={najysmela}，杏={pelsmela}，扁桃={ri'orsmela}，野李/黑刺李={blasmela}；参见 {rutrprunu}, {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {perli}, {rozgu}
+smoka	gismu   \n-smo-      \nx_1是袜/袜子，由材料x_2制成\n参见 {cutci}, {taxfu}.
+smuci	gismu   \n-muc-      \nx_1是勺子/汤匙/铲，具有用途x_2，由材料x_3制成\n参见 {dakfu}, {forca}, {tutci}.
+smuni	gismu   \n-mun-   \n-smu-      \nx_1是x_2的含义/内涵/阐释/解释，对于接受者/观察者x_3来说\n参考意义/指涉意义 （={selsni}/{snismu}）；参见 {jimpe}, {sinxa}, {valsi}, {tanru}, {gismu}, {lujvo}, {cmavo}, {jufra}.
+snada	gismu   \n-sad-      \nx_1完成/做完x_2，作为努力/尝试/辛苦x_3的结果\n也指：x_1达成x_2；x_1是成功的；x_2（事件/状态/成就）；参见 {fliba}, {troci}, {jgira}.
+snanu	gismu   \n-nan-      \nx_1是在x_2南方/x_1是南方，方向的参考系为x_3\n参见 {berti}, {stuna}, {stici}, {farna}.
+snidu	gismu   \n-nid-      \n在持续时间长度上，x_1是x_2个秒钟（默认为1）的，基于标准x_3\n参见 {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+snile'u	lujvo      \nx_1是x_2书写系统里表示x_3意思的符号\n参见：{jugle'u}、{misryle'u}
+snime	gismu   \n-si'e-      \nx_1是雪\n参见 {bratu}, {carvi}, {bisli}.
+snipa	gismu   \n-nip-      \nx_1坚持x_2,；x_1是粘性的/粘着的\nx_1是表面粘性的，x_2不必要具有粘性；参见 {tarla}, {viknu}.
+snuji	gismu   \n-nuj-      \nx_1是三明治/三明治状的/有层次的（不特指食物），有x_2被夹在x_3之间\n参见 {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
+snura	gismu   \n-nur-   \n-nu'a-      \nx_1是安全的（不会受到伤害/攻击），在威胁/危险x_2（事件）下\n参见 {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}.
+snuti	gismu   \n-nut-      \nx_1（事件/状态）是偶然发生的/不是刻意的/意外的，由其中x_2部分表现出；x_1是意外/突发事件\n参见 {zukte}, {cunso}.
+sobde	gismu   \n-sob-   \n-so'e-      \nx_1是大豆/黄豆，属于种类/品种x_2\n参见 {dembi}, {gurni}.
+sodna	gismu      \nx_1是碱金属，具体为x_2（默认为：钠）\n也指：锂，钾，铯等；参见 {jilka}, {jinme}.
+sodva	gismu   \n-sod-      \nx_1是碳酸饮料，具有口味/属于品牌x_2\n也指：软饮料（不含酒精的饮料）；参见 {jilka}, {jinme}.
+softo	gismu   \n-sof-      \nx_1是关于沙皇俄国/前苏联/独联体俄罗斯的文化/国家/语言等的事物，在x_2方面\n参见 {rusko}, {vukro}, {slovo}.
+sol	cmevla      \n首尔
+solji	gismu   \n-slo-      \nx_1是金（Au）/金制品\n参见 {ricfu}, {rijno}, {narju}, {pelxu}.
+solri	gismu   \n-sol-      \nx_1是太阳，被行星x_2环绕（默认地球），行星上有种族x_3；x_1是有关于太阳的\n若行星上存在生物种族，它指的该生物正存在于其上的行星，而非该生物的起源星球；参见 {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}.
+sombo	gismu   \n-som-   \n-so'o-      \nx_1播种/种植x_2（植物/作物），在位置x_3处、\n参见 {crepu}, {tsiju}.
+sonci	gismu   \n-son-   \n-soi-      \nx_1是属于军队x_2的士兵/战士/军人\n参见 {bilni}, {damba}, {jenmi}, {xarci}, {pulji}.
+sorcu	gismu   \n-soc-   \n-sro-      \nx_1是（物质/能源）x_2的储备/储藏/补给品/贮藏，在储藏室/仓库x_3中\nx_3不必要是容器，也可能是地点/位置等；参见 {panka}, {vreji}信息的存储; {sabji}, {banxa}
+sorgu	gismu   \n-sog-      \nx_1是高粱/黍，属于品种/种类x_2\n参见 {gurni}.
+sorta	experimental gismu      \nx_1近似是/做x_2（nu/ka），在条件x_3下\n这是一个的词，用于与{kinda}或{sorta}构成tanru
+sovda	gismu   \n-sov-   \n-so'a-      \nx_1是生殖细胞/配偶子（如：卵子/精子/花粉/禽蛋等），来自有机体x_2\n卵形的= {pevyso'aseltai}/{claboi}，卵/卵子= {fetso'a}，禽蛋= {cpifetso'a}/{cpiso'a}，鸡蛋={jipcyfetso'a}/{jipcyso'a}；如果已经受精，可使用 {tsiju}/{tarbi}；参见 {ganti}, {gutra}, {mamta}, {patfu}, {rorci}, {tsiju}, {lanbi}, {tarbi}, {djine}, {konju}, {tarbi}
+spaji	gismu   \n-paj-      \nx_1（事件/行为谓词子句）惊讶到x_2；x_1是出乎意料的，对x_2来说\n期望/预期/在意料之中= {nalspaji}；警报={tepspaji}；参见 {manci}, {jenca}, {bredi}, {suksa}.
+spali	gismu      \nx_1擦亮表面/物体x_2，使用擦亮剂x_3，擦用工具x_4\n参见 {mosra}, {sraku}, {xutla}.
+spano	gismu   \n-san-      \nx_1是关于西班牙/说西班牙语的文化/国家/语言等的事物，在x_2方面\n{spano}只限定于指西班牙相关的，对比{xispo}；（可参考 glico 与 merko/sralo/brito/kadno之间的比较）；西班牙= {sangu'e}；西班牙的西班牙语/卡斯提尔语= {sansanbau}；参见 {xispo}, {ketco}, {mexno}, {gento}.
+spati	gismu   \n-spa-      \nx_1是植物，属于品种/种类x_2\nx_1是关于植物的；参见 {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba}, {xrula}, {pezli}, {srasu}.
+speni	gismu   \n-spe-      \nx_1与x_2结婚；x_1是x_2的配偶，基于法律/习俗/传统/体系/协定x_3\n参见 {prami}, {gletu}.
+spero	experimental gismu      \nx_1是关于世界语的文化/国家/语言等的事物，在x_2方面
+spisa	gismu   \n-spi-      \nx_1（物体/物质）是物质x_2上的一块/一部分\n参见 {pagbu}.
+spita	gismu      \nx_1是治疗病人x_2的医院，病人患有疾病/带有伤口x_3\n收容所（特指在x_2填入lenu mrobi'o ）= {mrospita}； 参见 {bilma}, {mikce}.
+spofu	gismu   \n-pof-   \n-po'u-      \nx_1是破裂的/崩坏的/不可用的，对于功用x_2来说\n（施事的}使……破裂/打破= {pofygau}/{pofyzu'e}；（非施事的）因为某个原因而意外破裂= {pofyja'e}/{nutpo'uja'e}；参见 {daspo}, {katna}, {porpi}, {se} {xrani}, {cikre}.
+spoja	gismu   \n-poj-   \n-po'a-      \nx_1分解/破裂/燃烧/衰变成碎片/组件/能量x_2\n参见 {cecla}, {jakne}, {jbama}.
+spuda	gismu   \n-spu-      \nx_1对x_2（人/物/事/情形/刺激）做出回应/回答/回复x_3\nx_3指答复/回应/响应；如果x_2位是人/物，使用tu'a是对此人/物的某种行为的回应，但如果人/物本身是刺激源，则不需要tu'a；参见 {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.
+sputu	gismu   \n-put-   \n-pu'u-      \nx_1吐唾液/吐痰x_2（主要是液体），从x_3到x_4\n痰/唾液/唾沫={molselpu'u}；参见 {jetce}, {kafke}, {vamtu}.
+sraji	gismu   \n-raj-      \nx_1是竖直的，基于标准/重力方向/参考系x_2\n参见 {sanli}, {pinta}.
+sraku	gismu   \n-rak-      \nx_1（用于刮擦/侵蚀/腐蚀/切割的物体/工具）刮擦/侵蚀/腐蚀/切割x_2；\n参见 {guska}, {katna}, {mosra}, {plixa}, {kakpa}, {spali}
+sralo	gismu      \nx_1是关于澳大利亚的文化/国家/语言等的事物，在x_2方面\n参见 {glico}.
+sralybau	lujvo      \ng_1=b_1是b_2用来表示/交流b_3（不是说的话本身）的澳大利亚英语说法\n由{sralo}（澳大利亚）、{bangu}（语言）组成。参见：{gliban}（英语，专名）、{glibau}（英语）、{gliglibau}（英国英语）、{merbau}（美国英语）、{xinglibau}（印度英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{kisyglibau}（巴基斯坦英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+srana	gismu   \n-ra'a-      \nx_1与x_2是相关的/有联系的/有关联的；x_1相关于/关系到x_2\n参见 {ra'a}, {ckini}, {ponse}, {steci}.
+srasu	gismu   \n-sas-      \nx_1是草叶，属于品种/种类x_2\n草地/草坪= {sasfoi}；参见 {spati}.
+srera	gismu   \n-sre-      \nx_1做事件x_2是错误的/谬误的，在条件/环境x_3下，基于标准x_4\n参见 {drani}, {cfila}, {fliba}
+srito	gismu      \nx_1是关于梵语的文化/国家/语言等的事物，在x_2方面\n参见 {xindo}, {xurdo}.
+sruma	gismu   \n-ru'a-      \nx_1假设/假定/猜测x_2（du'u）为真，关于主题x_3\n关于认知论的词都含有du'u位；参见 {smadi}, {birti}.
+sruri	gismu   \n-rur-   \n-sru-      \nx_1环绕/保卫/围绕x_2，在方向/尺寸/范围x_3上\n{jinsru}=x_1环绕/保卫x_2的环/圈（在某些维度上完全封闭）；参见 {karli}, {senta}, {snuji}, {vanbi}, se {nenri}, se {jbini}, {bartu}, {djine}.
+stace	gismu   \n-sac-      \nx_1对x_2是诚实的/坦白的/率直的，关于问题/事实x_3\n也指：直白的/直接的；参见 {tcica}, {jetnu}, {jitfa}, {mipri}.
+stagi	gismu      \nx_1是可食用的部分x_2，属于植物x_3；x_1是蔬菜\n包括水果和坚果等几乎所有可食用的植物；（非水果）蔬菜={nalrutstagi}；参见 {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga}, {tamca}.
+staku	gismu   \n-tak-      \nx_1是x_2制作的陶瓷，具有组分x_3，形式/结构x_4\n由烤粘土或其它非金属固体制成；物质构成中需包含x_3，但x_3位不需要指明全部构成；参见 {kliti}.
+stali	gismu   \n-sta-      \nx_1保留/忍受/容忍/停留在x_2\n参见 {vitno}, {zasni}, {ralte}, {stodi}, {xabju}, {stuzi}, {renvi}.
+stani	gismu      \nx_1是枝干/秆/茎，属于植物/物种x_2\n参见 {tuple}, {mudri}.
+stapa	gismu   \n-tap-      \nx_1在表面x_2上行走/踩踏，使用肢体x_3\n参见 {bajra}, {plipe}, {cadzu}, {serti}.
+stasu	gismu      \nx_1是汤/什锦菜/杂烩，配料包括x_2\nx_2是x_1的配方/组分/配料；参见 {sanmi}, {mixre}, {salta}, {sanso}.
+stati	gismu      \nx_1在做/成为x_2方面是有天分的/有天赋的\n参见 {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.
+steba	gismu   \n-seb-      \nx_1对x_2（谓词子句）感到挫折\n参见 {cinmo}.
+steci	gismu   \n-tec-   \n-te'i-      \nx_1（ka）是x_2上特别的/特殊的/特一的/具有特别的属性的，x_2位于集合x_3之中\n也指：奇怪的/特有的；x_3是完全指明的的集合；参见 {srana}, se {ponse}, {ckini}, {tcila}, {tutra}.
+stedu	gismu   \n-sed-      \nx_1是头（身体部位）\n骷髅头= {sedbo'u}；参见 {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku}.
+stela	gismu   \n-tel-      \nx_1是锁/封条/封印，用以锁住x_2，使用上锁原理x_3\n参见 {ckiku}.
+stero	gismu   \n-te'o-      \n在立体角度量上，x_1是x_2个球面度（默认为1）的，基于标准x_3\n参见 {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+stici	gismu   \n-sic-      \nx_1是在x_2西方/x_1是西方，方向的参考系为x_3\n参见 {stuna}, {berti}, {snanu}, {farna}.
+stidi	gismu   \n-sid-   \n-ti'i-      \nx_1（人）建议/提议主意/行为x_2给接收者x_3；x_1（事件）激发出x_2（灵感等）给x_3\n给人带来灵感/提出建议/带来启发的事件= {faurti'i}/{sidyfau}；参见 {ti'i}, {tcica}, {xlura}.
+stika	gismu   \n-tik-      \nx_1（事件）调整/调节/改变x_2（ka/ni），在数量/程度x_3方面\n不指明结果，指明变化原因；（施事的）调整={tikygau}/{tikyzu'e}；参见：{cenba}不指明变化原因， {galfi}指明因果，{binxo}不指明原因但指明结果，{zasni}, {stodi}.
+stizu	gismu   \n-tiz-      \nx_1是用于坐的家具（如：椅子/凳子/沙发等）\n参见 {nilce}, {zutse}, {jubme}, {ckana}.
+stodi	gismu   \n-sto-      \nx_1是不变的/恒定的，在性质x_2（ka）上，在刺激/条件x_3下\n也指：稳定的/稳固的/坚定的；参见 {cenba}, {stika}, {stali}, {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}.
+stuna	gismu   \n-sun-      \nx_1是在x_2东方/x_1是东方，方向的参考系为x_3\n参见 {stici}, {berti}, {snanu}, {farna}.
+stura	gismu   \n-tur-   \n-su'a-      \nx_1是由x_2（集合/系统等）构成的组织/机构/结构\nx_2位若为集合，则应全部指明；参见 {ganzu}, {morna}, {ciste}, {lujvo}, {greku}, {gerna}.
+stuzi	gismu   \n-tuz-   \n-stu-      \nx_1是x_2（物/事）的固有的位置/地点\n通常用于形容那些位置固定的事物；参见 {tu'i}, {jmive}, {diklo}, {zvati}, {tcini}, {xabju}, {jibni}, {judri}, {lamji}, {mokca}, {stali}.
+sucta	gismu   \n-suc-      \nx_1（si'o）是x_2（具体的事）的概述/摘要，基于规则x_3\n参见 {fatci}, {xanri}.
+sudga	gismu   \n-sud-      \nx_1是干燥的，不含有液体x_2\n参见 {cilmo}, {litki}, {runta}.
+sufti	gismu   \n-sfu-      \nx_1是x_2的蹄（身体部位）\n参见 {xirma}.
+suksa	gismu   \n-suk-      \nx_1（事件/状态）是突然的/急剧改变，在阶段/位置点x_2，在进程/性质/用途x_3上\n也指：突发的/不连续的；参见 {spaji}, {vitci}, {vlile}.
+sumji	gismu   \n-suj-      \nx_1是x_2加上x_3的和（数学概念）\n参见 {jmina}, {jalge}, {mulno}, {pilji}.
+sumne	gismu      \nx_1闻/嗅/依据气味探测x_2；x_2是有气味的，对于x_1来说\n参见 {nazbi}, {panci}, {cpina}, {ganse}, {zgana}.
+sumti	gismu   \n-sum-   \n-su'i-      \nx_1是谓词x_2的项，填入位x_3（种类/数字）\nx_1位与x_2位均为文本；参见 {bridi}, {darlu}, {gismu}.
+sunga	gismu   \n-sug-      \nx_1是蒜，属于种类/品种x_2\n参见 {stagi}.
+sunla	gismu   \n-sul-      \nx_1是毛/毛制品，来自动物/物种/来源x_2\n参见 {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}.
+suomen	obsolete cmevla      \n芬兰
+suomis	obsolete cmevla      \n芬兰
+surla	gismu   \n-sur-      \nx_1做/成为x_2是自在的/闲的/休息的/空闲的\n参见 {dunku}, {tatpi}, {cando}, {vreta}.
+sutra	gismu   \n-sut-      \nx_1是做/成为x_2（事件/状态）是快的/快速的\n参见 {masno}.
+suzyn	cmevla      \n苏珊\n音译人名，又译“苏姗”
+tabno	gismu   \n-tab-      \nx_1是碳（C）/含碳的；x_1是有机物的\n参见 {kolme}.
+tabra	gismu      \nx_1是铜管乐器（如：圆号/长号/喇叭等）\n参见 {zgike}.
+tadji	gismu      \nx_1（过程）是做事件x_2的方法/技术/方式/途径，在条件x_3下\n也指：模式/道路； 实施的方法= {tratadji}；模式= {montadji}/{tadjymo'a}/{platadji}/{tadjypla}；参见 {ciste}, {pruce}, {zukte}, {pluta}, {ta'i}.
+tadni	gismu   \n-tad-      \nx_1学习x_2/是x_2的学生；x_1是学生/关于学者的\n参见 {ckule}, {cilre}, {ctuca}.
+tagji	gismu   \n-tag-      \nx_1是紧的/紧密的x_2，在尺寸/方向x_3上，在位置x_4\n参见 {trati}, {jarki}, {kluza}, {rinju}.
+taibeis	cmevla      \n台北
+tai,UAN	cmevla      \n台湾
+taksi	experimental gismu      \nx_1是出租车\n参见 {aftobuso}, {tcadu}, {karce}
+talsa	gismu   \n-tal-      \nx_1（人）挑战x_2，在性质x_3上\n参见 {jinga}, {damba}, {darlu}, {jivna}, {nandu}有挑战性的事件或情形
+tamca	gismu      \nx_1是番茄/西红柿，属于品种/种类x_2\n参见 {grute}, {stagi}.
+tamji	gismu   \n-taj-      \nx_1是拇指/大脚趾，长在肢体x_2上，属于人/动物x_3\n拇指={xantamji}；大脚趾={jmatamji}；参见 {degji}, {tance}, {xance}, {jamfu}.
+tamne	gismu      \nx_1是x_2的堂/表兄弟姐妹，依据标准/关系x_3（不一定是家庭成员，默认为同一代人）\n也可能是具有比喻性质的兄弟姐妹；参见 {dzena}, {famti}, {mensi}, {bruna}, {tunba}.
+tanbo	gismu   \n-ta'o-      \nx_1是板（三维的矩形结构），由材料x_2制成\n参见 {bliku}, {kubli}.
+tance	gismu   \n-tac-      \nx_1是x_2的舌头（身体部位）\nx_1是关于舌头的/舌状的；参见 {moklu}, {bangu}, {nazbi}, {tamji}, {degji}.
+tanjo	gismu      \n在三角函数上，x_1是角度/反正切x_2的正切\n参见 {sinso}.
+tanko	gismu      \nx_1是烟草，属于物种/种类x_2\n参见 {sigja}, {marna}.
+tanru	gismu   \n-tau-      \nx_1是由x_2修饰x_3得到的词组（二元结构），具有含义x_4，在用例/用法x_5中\nx_2与x_3都是文本或si'o；参见 {gismu}, {smuni}.
+tansi	gismu   \n-tas-      \nx_1是一种较浅的容器（如：盆/桶/锅等），用于装盛x_2，具有属性/构造材料x_3\n也指：碗；参见 {baktu}, {palne}, {palta}, {patxu}, {kabri}通常端起来使用的容器, {botpi}.
+tanxe	gismu   \n-tax-   \n-ta'e-      \nx_1是盒/箱，用于装x_2，由材料x_3制成\n参见 {bakfu}, {botpi}, {cutne}, {dacru}.
+tapla	gismu      \nx_1是小块片状的物体，由材料x_2构成，具有形状x_3，厚度x_4\n应当是三维物体，第三维相对于其它两维要明显短薄；“街区”也是一个概念上的块状物；近似二维的块状物/卡片= {taplytai}/{kardytai}；线圈={lijyclupa} ；参见 {bliku}, {kubli}, {matci}, {karda}, {bliku}, {kurfa}, {matci}, {plita}, {tarmi}
+tapydansu	lujvo      \nx_1=s_1=d_1 跳踢踏舞，在伴奏/旋律/节奏 x_2=d_2 下\n{stapa} {dansu}
+tarbi	gismu      \nx_1是胚胎/胚芽/受精卵/结合子，来自母本x_2，父本x_3\n参见 {gutra}, {mamta}, {patfu}, {sovda}, {rorci}, {tsiju}, {grute}.
+tarci	gismu   \n-tar-      \nx_1是恒星，具有属性x_2\n参见 {solri}, {tsani}.
+tarla	gismu      \nx_1是沥青/柏油，来源于x_2\n参见 {kolme}, {pesxu}, {snipa}.
+tarmi	gismu   \n-tam-   \n-tai-      \nx_1（典范/模式）是x_2（物体/表现/谓词子句）的概念上的形式/形状\nx_1是数学或者理论上的理想范式，x_2是显示其的物体或事件实例；对比：圆形物= {cukseltai}，圆={cuktai}而只是用cukla则易产生歧义；模型= {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}；参见 {nejni}, te {marji}, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}.
+tarti	gismu   \n-tra-      \nx_1以方式x_2（事件/性质）进行行为/动作，在条件x_3下\nx_1是行为的；参见 {cnano}, {frati}, {tcaci}, {cilce}, {jikca}, {marde}.
+taske	gismu      \nx_1想要喝饮料/液体x_2；x_1是口渴的\n参见 {nitcu}, {djica}, {xagji}, {pinxe}.
+tasmi	experimental gismu      \nx_1是行为/事件x_2发生的方式\n逻辑语一直缺少一个gismu来表达“x_1是x_2发生的方式”，后来{tai}被用于表达此意，但因为BAI需要建立在brivla（通常是gismu）的基础上，于是{tamsmi}被发明了出来；所以{tasmi} 才是{tai}真正对应的brivla；参见 {tai}, {tamsmi}
+tasta	experimental gismu      \nx_1是x_2的味道\n参见 {smaka}, {vrusi}, {kukte}, {krumami}, {silna}
+tatpi	gismu   \n-ta'i-      \nx_1是累的/疲倦的/劳累的，因为劳动/情形x_2（事件）；x_1需要/想要休息\n参见 {cikna}, {sipna}, {surla}.
+tatru	gismu   \n-tat-      \nx_1是x_2的乳房/乳头（身体部位）\n乳头={tatyji'o}；参见 {ladru}, {mabru}.
+tavla	gismu   \n-tav-   \n-ta'a-      \nx_1 用 x_4（语言）来说 x_3这件事给 x_2 听\n并不限于口头演讲 参见：{bacru}, cusku for actual expression, {casnu}, {darlu}, {skicu}, {ciksi}, {bangu}.
+taxfu	gismu   \n-taf-   \n-ta'u-      \nx_1是服饰，为了给x_2（性别/物种/身体部位等）穿戴，具有功能/用途x_3\n也指：x_2可穿戴x_1；指可用作服饰的物体，而非那些正好被穿在身上的服饰{dasni}；参见 {creka}, {cutci}, {daski}, {dasni}, {gluta}, {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}.
+tcaci	gismu   \n-cac-      \nx_1是x_2的习俗/习惯，在条件x_3下\n也指：x_1是常见的/司空见惯的；参见 {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}.
+tcadu	gismu   \n-tca-      \nx_1是城镇，具有城区范围x_2，在政治单位x_3中，服务于周边区域x_4（城市总范围，包括城市辖区内的农村地区）\nx_1是关于城镇的；参见 {jarbu}, {nurma}, {cecmu}.
+tcana	gismu      \nx_1是传输/交通/分配系统/网络x_2中的节点/站点\n参见 {dargu}, {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa}, {dikca}, {fatri}.
+tcati	gismu      \nx_1是茶，浸泡/酿造自植物x_2（叶片/花瓣等）\n参见 {ckafi}.
+tcena	gismu   \n-ten-      \nx_1伸展/延展/扩展到范围x_2，在维度/尺寸x_3方面，从原范围x_4\n参见 {kuspe}, {pruni}, {preja}, {ranji}, {trati}.
+tcica	gismu   \n-tic-      \nx_1（事件/经历）误导/愚弄/欺骗x_2进入状态/事件x_3中\n（施事的）愚弄/误导/欺骗={ticygau}/{ticyzu'e}；x_3可能是x_2某一部分上的行为或状态；不暗示有害的目的或结果；{malticyzu'e}具有有害的目的或结果；自欺= {sezytcica}；误导/欺骗……进入某种行为/状态= {ticyxlu}；误导的信条= {tickri}；欺骗/说谎= {ticysku}/{jifsku}；无恶意的谎言={zanticysku}；参见 {stace}, {xlura}, {stidi}, {kajde}.
+tcidu	gismu   \n-tid-      \nx_1阅读x_2（文本），从阅读材料/文档x_3中；x_1是阅读者\n参见 {ciska}, {cukta}, {karni}.
+tcika	gismu      \nx_1（时分秒）是事件/状态x_2的时,刻，在日期x_3，在位置x_4\nx_1位的时间单位可由由pi'e连接的数字构成，也可由由joi连接的各单位值连接而成；参见 {ti'u}, {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci}, {vanci}, {dirba}, {mokca}.
+tcila	gismu   \n-til-      \nx_1是x_2的细节描述/特写/详情\n参见 {diklo}, {steci}.
+tcima	gismu   \n-tim-   \n-ti'a-      \nx_1是地点/区域x_2处的天气/气候；x_1是关于气象的\n气候= {citsyti'a}, {timymo'a}；参见 {brife}, {bumru}, {carvi}, {dilnu}, {bratu}.
+tcini	gismu      \nx_1（状态/性质）是x_2所处的环境/条件/情形\n指物体/事件/进程阶段/状态所处的环境或情形，可能只是暂时的；参见 {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji}, {zasni}.
+tcita	gismu      \nx_1是x_2的标签/标注，展现信息x_3\n参见 {sinxa}, {cmene}, {judri}.
+tcunCIN	cmevla      \n重庆
+temci	gismu   \n-tem-   \n-tei-      \nx_1是时间间隔/长度/区间，从时刻/事件x_2到时刻/事件x_3\n年龄/持续时间= {niltei}；参见 {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.
+tenfa	gismu   \n-tef-      \nx_1是底数为x_2，指数为x_3的指数结果\n参见 {dugri}.
+tengu	gismu   \n-teg-   \n-te'u-      \nx_1（ka）是x_2的结构\n参见 {rufsu}, {xutla}.
+terdi	gismu   \n-ted-      \nx_1是种族x_2的母星（默认为地球）；x_1是关于地球的\n参见 {lunra}, {plini}, {solri}, {kensa}, {tsani}, {dertu}.
+terpa	gismu   \n-tep-   \n-te'a-      \nx_1害怕/恐惧/畏惧x_2（事件/tu'a 物体）\n也指：x_1对x_2感到恐惧；x_2是可怕的/吓人的/让人畏惧的；参见 {snura}, {xalni}, {xanka}, {virnu}.
+terto	gismu   \n-tet-      \nx_1是十的十二次方个/份[10^12]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+tienjin	obsolete cmevla      \n天津
+tigni	gismu   \n-tig-      \nx_1表演x_2（节目）给观众x_3\n参见 {jarco}.
+tikpa	gismu   \n-tip-      \nx_1踢x_2上的位置x_3，用来踢的脚/腿是x_4\n参见 {tunta}, {darxi}.
+tilju	gismu   \n-tij-      \nx_1是重的/沉重的（在质量/重量上），基于标准x_2\n参见 {linto}, {carmi}, se {junri}用于比喻, {bunda}, {junta}
+tinbe	gismu   \n-tib-      \nx_1服从/听从命令/规则x_2，由x_3发布/颁布；x_1是顺从的\n参见 {minde}, {lacri}, {javni}, {flalu}, {zekri}.
+tinci	gismu      \nx_1是锡/由锡构成[Sn]\n参见 {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}.
+tinsa	gismu      \nx_1是僵硬的/僵直的/顽固的/不可弯曲的，在方向x_2上，对抗力x_3，在条件x_4下\n也指：坚固的；并不限于指物理上的力量，也可指精神的刚度，意志的强度； 参见 {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}.
+tipyboi	lujvo      \nx_1 是用 x_2 材料制成的足球
+tirna	gismu   \n-tin-      \nx_1听见x_2，在背景/噪声环境x_2中；x_2是可被听见的；x_1是关于听觉的\n参见 {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+tirse	gismu   \n-tir-      \nx_1是铁/由铁构成[Fe]\nx_1是铁的/含铁的；参见 {jinme}, {gasta}, {molki}.
+tirxu	gismu      \nx_1是虎/豹，属于品种/种类x_2，带有花色x_3\n指具有斑纹特征（豹纹/虎斑）的大型猫科动物；参见 {mlatu}.
+tisna	gismu   \n-tis-      \nx_1（物体）被材料x_2充满/充塞/填充；x_2被注入x_1中\n暗示结果是：产生一定的填充/充满；（施事的）填充 = {tisyse'a}/{tisygau}/{tisyzu'e}；充气={gacytisna}，（施事的）充气={gacyse'a}；充液/灌注液体= {liktisna}，（施事的）灌注液体={likse'a}；参见 {culno}, {kunti}, {rinci}, {setca}.
+titla	gismu   \n-tit-      \nx_1是甜的，对于观察者x_2来说\n参见 {sakta}, {slari}, {kurki}.
+tivni	gismu   \n-tiv-      \nx_1广播节目x_2，通过信道/媒介x_3，给节目接收者x_4；（可指广播广播和电视节目）\n也指：x_1广播者/广播公司/广播员；x_2节目安排（团体）/节目（个体）；参见 {cradi}, {skina}, {vidni}, {benji}, {tcana}.
+tixnu	gismu   \n-tix-   \n-ti'u-      \nx_1是x_2的女儿（不必要一定是生物学上的女儿）\n参见 {bersa}, {panzi}.
+togygu'i	lujvo      \ng_1 是来自 g_3 而照射于 g_2 的, 有着 t_4 的激光
+toknu	gismu   \n-tok-      \nx_1是用以烘烤/加热/干燥x_2的烤箱/炉/灶\n参见 {nanba}.
+toldi	gismu   \n-tod-      \nx_1是蝶/蛾，属于品种/种类x_2\n参见 {cinki}.
+tolja'e	lujvo      \n非x_1(事件/状态)是由前提x_2(事件/状态)导致的成果/结果/后果/输出. x_1被阻碍x_2.\n{to'e} {jalge}. ``lo nu broda cu tolja'e lo nu brode'' 和 ``lo nu na broda cu jalge lo nu brode'' 是同义的.
+tolki'u	lujvo      \nx_1(事件/状态)是导致非x_2(事件/状态)的原因/解释/起因. x_1阻碍x_2.\n{to'e} {krinu}. ``lo nu broda cu tolki'u lo nu brode'' 和 ``lo nu broda cu krinu lo nu na brode'' 是同义的.
+tolmu'i	lujvo      \nx_1(事件/状态)是非x_2(事件/状态)的动机，遵循x_3的意志/想法. x_1阻碍x_2.\n{to'e} {mukti}. ``lo nu broda cu tolmu'i lo nu brode'' 和 ``lo nu broda cu mukti lo nu na brode'' 是同义的.
+tolni'i	lujvo      \nx_1(事件/状态)是非x_2(事件/状态)的十分条件，基于规则/逻辑系统x_3. x_1阻碍x_2.\n{to'e} {nibli}. ``lo nu broda cu tolni'i lo nu brode'' 和 ``lo nu broda cu nibli lo nu na brode'' 是同义的.
+tolri'a	lujvo      \nx_1(事件/状态)物理上导致非x_2(事件/状态)的发生. x_1阻碍x_2.\n{to'e} {rinka}. ``lo nu broda cu tolri'a lo nu brode'' 和 ``lo nu broda cu rinka lo nu na brode'' 是同义的.
+tolvut	cmevla      \n狂犬病\n参见：{tolvutu}（狂犬病，属gismu）
+tolvutu	fu'ivla      \nx_1患了狂犬病，看起来x_2（症状）\n参见：{tolvut}（狂犬病，专名）
+tonga	gismu   \n-tog-   \n-to'a-      \nx_1是频率/音高x_2的声音的音色/音调，来源于x_3\n参见 {rilti}, {zgike}, {janbe}, {siclu}.
+tordu	gismu   \n-tor-   \n-to'u-      \nx_1是短的，在尺寸/规格/方向x_2上，基于测量标准x_3\n参见 {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
+torni	gismu   \n-ton-   \n-to'i-      \nx_1在力/负荷/扭力x_2的作用下扭曲/扭转\n参见 {tinsa}, {trati}.
+traji	gismu   \n-rai-      \nx_1是最高级的，在性质x_2（ka）上，是最x_3的（ka，默认为ka zmadu），在集合/范围x_4中\n也指：x_1是最x_3的，在性质x_2上，比较范围x_4中；x_1是x_4中最x_3的；参见 {rai}, {jimte}, {milxe}, {mutce}, {banli}, {curve}, {fanmo}, {krasi}, {manfo}, {prane}
+trano	gismu      \nx_1是氮/含氮的/氮化物（如：氨/硝酸盐等）\n参见 {vacri}.
+trati	gismu      \nx_1是紧绷的/绷紧的/拉紧的，在方向x_2上\n参见 {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
+trene	gismu   \n-ren-   \n-re'e-      \nx_1是火车/有轨车，由车厢x_2（团）组合而成，沿轨道/铁道x_3运行，由x_4驱动\n火车/地铁={tu'unre'e}；地铁/有轨电车= {lajre'e}；过山车= {dadre'e}；缆车= {cildadre'e}；参见 {tcana}.
+tricu	gismu   \n-ric-      \nx_1是树，属于物种/种类x_2\n参见 {cindu}, {ckunu}, {pezli}, {mudri}, {spati}.
+trina	gismu   \n-tri-      \nx_1吸引/诱惑x_2（人/事），通过性质x_3（ka）\n也指：x_1是诱人的，对x_2来说；参见 {djica}, {nelci}, {rigni}, {xlura}, {maksi}.
+trixe	gismu   \n-rix-   \n-ti'e-      \nx_1在x_2背后/后面，基于参考系x_3 （x_2面对x_3）\n也指：x_3是x_2取向的标准；脊柱= {rixybo'u}/{rixybo'ukamju}；参见 {crane}, {rebla}, {mlana}, {pritu}, {zunle}.
+troci	gismu   \n-toc-   \n-toi-      \nx_1尝试做/达到/完成x_2（状态/事件/性质），通过行为/方法x_3\n也指：试验；参见 {fliba}, {snada}, {cipra}.
+troneim	cmevla      \n特隆赫姆（又译特伦汗）\n挪威第三大城市，教育、科技、医药研究中心。
+tsali	gismu   \n-tsa-      \nx_1是强的/有力的，在性质/品质x_2上，基于标准x_3\n参见 {ralci}, {ruble}, {carmi}, {vlipa}.
+tsani	gismu   \n-tan-      \nx_1是位置x_2处的天空\n参见 {gapru}, {kensa}, {tarci}, {terdi}.
+tsapi	gismu      \nx_1是辅料/佐料/调料/调味品，能带来风味/影响x_2\n也指：x_1给x_2（tu'a）加味；参见 {vrusi}.
+tsiju	gismu   \n-tsi-      \nx_1是有机体x_2的种子/孢子（身体部位），能繁殖/产生子代/后代x_3\n也指：胚细胞/受精卵；暗示具备自我发育的潜力；参见 {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda}.
+tsina	gismu   \n-sin-      \nx_1是位于x_2处/上的平台，以支撑x_3，由材料x_4做成\nx_3物体/事件；参见 {greku}, {jubme}.
+tubnu	gismu   \n-tu'u-      \nx_1是管/管道，由材料x_2制成，空心材料为x_3\n也指：管状物；参见 {kevna}, {canlu}.
+tugni	gismu   \n-tug-   \n-tu'i-      \nx_1同意/赞成人/派别x_2的意见/观点x_3（du'u），关于问题x_4\n参见 {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}.
+tujli	gismu   \n-tuj-      \nx_1是郁金香，属于物种/种类x_2\n参见 {spati}.
+tumla	gismu   \n-tum-   \n-tu'a-      \nx_1是土地/是与地形/地势有关的\n参见 {vacri}, {xamsi}, {tutra}不限定于土地, {gugde}, {xamsi}
+tunba	gismu   \n-tub-      \nx_1是x_2的兄弟姐妹，依据标准/关系x_3\n参见 {bruna}, {mensi}, {tamne}.
+tunka	gismu   \n-tuk-      \nx_1是铜/由铜构成[Cu]\n参见 {jinme}, {lastu}, {ransu}.
+tunlo	gismu   \n-tul-   \n-tu'o-      \nx_1吞咽\nx_1吞咽食物/饮料；被吞下= {tulpinxe}, {tulcti}, {ctitu'o}； 吞下/咽下= {galxycti}, {galxynerbi'o}, {galxygre}；参见 {citka}, {pinxe}, {galxe}.
+tunta	gismu   \n-tun-      \nx_1（物体）刺/戳x_2\n（施事的）刺/戳= {tungau}/{tunzu'e}；参见 {balre}, {dakfu}, {darxi}, {fanza}, {jicla}, {katna}, {tikpa}.
+tuple	gismu   \n-tup-   \n-tu'e-      \nx_1是x_2的腿（身体部位）\n参见 {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.
+turko	experimental gismu      \nx_1是关于土耳其的文化/国家/语言等的事物，在x_2方面
+turni	gismu   \n-tru-      \nx_1管辖/管理/统治人民/领土/产业x_2\nx_2位不需要全部指明被统治/管理的事物；统治/支配= {noltru}；君主={nolraitru}； 纯粹民主= {roltrusi'o}；代议民主={rolka'itrusi'o}；总督={ka'itru}；纯粹共产主义= {kaurpo'esi'o}；董事会/指导委员会= {trukamni}；政府= {trugunma}/{trugri}/{truci'e}；参见 {catni}, {minde}, {tutra}, {jecta}, {gugde}, {ponse}, {jitro}.
+tutci	gismu   \n-tci-      \nx_1是为了做x_2（体现功能）的工具/道具/器具\n参见 {cabra}, {minji}, se {pilno}, {zukte}, {sazri}；基本的工具类型： {salpo}, {pulni}, {cfine}, {klupe}, {jendu}, {xislu}, {vraga}, {smuci}, {dakfu}；特征： {balre}, {mruli}, {cinza}, {garna}, {pijne}, {pambe}, {canpa}, {pilno}, {vraga}
+tutra	gismu   \n-tut-      \nx_1是由x_2所控制的/属于x_2的领土/产业/领域/空间\n参见 {catni}, {turni}, {jecta}, {gugde}, {ponse}, {steci}, {tumla}.
+tyrontos	cmevla      \n多伦多
+uacintyn	cmevla      \n华盛顿
+UAcintyn	cmevla      \n华盛顿
+ueb	cmevla      \n网络（台湾惯译作网路）\n不同于“网页”
+uikipedias	obsolete cmevla      \n维基百科\n“维基”是一种技术，单用并不专指“维基百科”
+uikis	cmevla      \n维基（又意译为“共笔”等）\n一种网页技术
+vacri	gismu   \n-var-      \nx_1是行星x_2上的空气/大气层，具有组分x_3\n参见 {gapci}, {kijno}, {trano}, {tumla}, {vasxu}, {xamsi}.
+vajni	gismu   \n-vaj-   \n-vai-      \nx_1（物/事）对x_2（人/事）是重要的，在x_3方面/由于原因x_3（nu/ka）\n也指：x_1关系到x_2，在x_3方面；参见 {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}.
+valsi	gismu   \n-val-   \n-vla-      \nx_1 是有着意义 x_2的词，从属于语言 x_3 (形容性：x_1 是词)\n参见 {slaka}, {bangu}, {cmavo}, {cmene}, {gismu}, {jufra}, {rafsi}, {smuni}
+vamji	gismu   \n-vam-   \n-va'i-      \nx_1（ni）是x_2的价值，对于x_3来说，具有用途/增值价值x_4\n也指：x_2价值x_1，对x_3来说；x_2是有价值的；成就奖励={nemselva'i}；获得应得的回报= {vamselne'u}；x_2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyva'i},{posyselva'i}；参见 {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu}, {pleji}, {vajni}；查看{jdima}的备注中关于花费/价格/价值的区别。
+vamtu	gismu   \n-vat-      \nx_1吐出/呕吐/反刍出x_2；x_1将x_2吐出来\nx_2是非气态的；参见 {rigni}, {jetce}, {kafke}, {sputu}.
+vanbi	gismu   \n-vab-      \nx_1（个体/团体）是x_2所在环境/氛围\nx_1是外界的/周遭环境的；参见 {va'o}, {sruri}, {jibni}, {jbini}, {ferti}, {tcini}.
+vanci	gismu   \n-vac-      \nx_1是傍晚/晚上（通常指结束工作直到睡眠那段时间），属于日期/天x_2，位置x_3\n今晚= {cabvanci}；明晚= {bavlamvanci}；昨晚= {prulamvanci}；参见 {cerni}, {murse}, {tcika}.
+vandani	fu'ivla      \nx_1 是一种完蛋
+vanju	gismu   \n-van-      \nx_1是葡萄酒/果酒，来自葡萄/水果x_2\n参见 {barja}, {birje}, {xalka}, {jikru}, {fusra}.
+varcavas	cmevla      \n华沙\n波兰首都
+vasru	gismu   \n-vas-   \n-vau-      \nx_1包含/含有/包括x_2在里面；x_1是装有x_2的容器\n参见 {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}.
+vasxu	gismu   \n-vax-   \n-va'u-      \nx_1呼吸x_2（气体）\n参见 {fepri}, {kijno}, {vacri}.
+vecnu	gismu   \n-ven-   \n-ve'u-      \nx_1（卖家）卖/销售x_2（货物/服务/商品）给买家x_3，价格/交换物/花费为x_4\n也指：x_1是售货员/销售员； x_3从x_1处购买x_2；x_4是x_2的价格；待售= {fitselve'u}/{selvenfriti}；x_2可指特定的物品/商品（团体）/事件/性质；语义上讲，在涉及物体/商品的所有权的转移时，使用{posyve'u}, {posyselve'u}参见 {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci}, {vamji}, {jdima}, {fepni}, {friti}, {jerna}, {rupnu}；查看{jdima}的备注中关于花费/价格/价值的区别。
+vedli	experimental gismu      \nx_1记得经历x_2（li'i）\n暗示x_1经历过x_2；参见 {morji}, {lifri}；建议其短rafsi为： -ve'i-
+venfu	gismu   \n-vef-      \nx_1报复x_2（人），因为事件x_3（nu），采取手段x_4（nu）\n也指：报仇；x_1是报复的/有复仇心的；参见 {sfasa}, {cnemu}.
+vensa	gismu   \n-ves-      \nx_1 是 x_2 年在地点 x_3 的春天; (adjective:) x_1 如春\n参见 {citsi}, {crisa}, {critu}, {dunra}.
+verba	gismu   \n-ver-   \n-ve'a-      \nx_1是年纪/年龄为x_2的孩子/幼崽，基于成熟标准x_3\n不必要是人类；参见 {cifnu}, {makcu}, {citno}, {panzi}, {nanla}, {nixli}, se {rirni}, {bersa}.
+vibna	gismu   \n-vib-      \nx_1是x_2的阴道（身体部位）\n参见 {cinse}, {gletu}, {pinji}, {plibu}, {vlagi}, {mabla}.
+vidni	gismu      \nx_1是显示器/屏幕，具有功能x_2\n参见 {skina}, ve {tivni}.
+vidru	gismu   \n-vir-      \nx_1是病毒，属于种类/具有属性x_2，能够感染x_3\n参见 {jurme}.
+vifne	gismu   \n-vif-      \nx_1是新鲜的/未损坏的\n参见 {fusra}.
+vikmi	gismu   \n-vim-   \n-vi'i-      \nx_1（身体）排出废物x_2，从来源x_3，以方式/路径x_4\n参见 {cigla}, {kalci}, {pinca}, {xasne}.
+viknu	gismu   \n-vik-      \nx_1是浓的/粘滞的，在条件x_2下\n参见 {denmi}, {snipa}.
+vimcu	gismu   \n-vic-   \n-vi'u-      \nx_1从x_3中减去/扣去x_2，留下结果/剩余物/残留物x_4\n也指：侵吞/没收；暗示了所有权的转让；参见 {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}.
+vindu	gismu   \n-vid-      \nx_1对x_2来说是有毒的；x_1是毒素/毒药\n参见 {since}.
+vinji	gismu   \n-vij-      \nx_1是飞行器/飞机，用于运载x_2，由x_3驱动\n参见 {vofli}, {sabnu}.
+vipsi	gismu   \n-vip-      \nx_1是副职的，在x_2方面（ka，组织原则等），从属于主职x_3；x_1是副的x_3\n也指：副官/助理；参见 {krati}, {sidju}.
+virnu	gismu   \n-vri-      \nx_1是勇敢的/英勇的/有胆量的，在行为x_2（事）中，基于标准x_3\n参见 {terpa}, {darsi}.
+viska	gismu   \n-vis-   \n-vi'a-      \nx_1看见x_2，在条件x_3下\n也指：x_1关于视觉的；x_3可能包括环境光/背景光等（背景光会对被观察物产生影响；参见 {catlu}, {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
+vitci	gismu   \n-vit-      \nx_1是无规律的/偶然的，在性质/行为x_2方面\n参见 {ranji}, {rufsu}, {suksa}.
+vitke	gismu   \n-vi'e-      \nx_1是x_2的客人/访客，在位置x_3处/事件x_3中；x_1拜访/访问x_2（人）/x_3（位置/事件）\n参见 {friti}, {klama}, {zasni}, {xabju}, {zvati}.
+vitno	gismu   \n-vi'o-      \nx_1是永恒的/长存的，在性质x_2（ka）方面，基于标准x_3\n也指：永久的/不灭的；参见 {stodi}, {cimni}, {zasni}, {manfo}, {stali}.
+vlagi	gismu   \n-lag-      \nx_1是x_2的阴户（身体部位）\n参见 {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}.
+VLANDeren	cmevla      \n佛兰德斯\n中世纪欧洲一伯爵领地, 包括现比利时的东佛兰德省和西佛兰德省以及法国北部部分地区
+vlile	gismu   \n-vil-      \nx_1（时间/状态）是暴力的\n参见 {suksa}, {jursa}.
+vlina	gismu      \nx_1是逻辑变换/分析，表示x_2（du'u）和/或x_3（du'u）为真\n参见 {kanxe}, {a}, {ja}, {gi'a}, {gu'a}.
+vlipa	gismu   \n-vli-      \nx_1具有引发x_2的力量，在条件x_3下；x_1是强大的，在x_2方面，在条件x_3下\n也指：强有力的/控制/掌握；参见 {tsali}, {jitro}, {ruble}.
+vofli	gismu   \n-vol-   \n-voi-      \nx_1飞/飞行，使用抬升/推进方式x_2\n参见 {cipni}, {klama}, {vinji}.
+voksa	gismu   \n-vok-   \n-vo'a-      \nx_1是个体x_2的声音\n参见 {sance}, {tirna}, {bacru}.
+vorme	gismu   \n-vor-   \n-vro-      \nx_1是x_2与x_3之间的门，属于结构/建筑物x_4\n实心门={vrogai}/{vrobi'u}/{vrozu'itci}；参见 {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe}.
+vraga	gismu   \n-vra-      \nx_1是杠杆，用于用途/功能/活动x_2，其支点为x_3，力臂为x_4\n参见 {tutci}, {pulni}.
+vreji	gismu   \n-rej-   \n-vei-      \nx_1是x_2（数据/事实/du'u）的记录/记载，关于x_3（物/事），保存于媒介x_4上\n参见 {sorcu}, {datni}, {papri}.
+vreta	gismu   \n-vre-      \nx_1躺/卧在x_2上\n参见 {cpana}, {surla}, {zutse}, {ckana}, {lazni}.
+vrici	gismu      \nx_1（集合/团体/个体）是各种各样的/混杂的/多样的，在性质x_2（ka）上\n参见 {klesi}, {girzu}, {frica}, {simsa}, {panra}.
+vrude	gismu   \n-vud-   \n-vu'e-      \nx_1是善良的/有德的/圣洁的/正直的，基于标准x_2\n神圣的= {cesyvu'e}；美德=ka {vrude}；参见 {palci}, {xamgu}, {marde}, {zabna}.
+vrusi	gismu   \n-vus-   \n-vu'i-      \nx_1（ka）是x_2的味道/口味；x_2尝起来像x_1\n也指：x_2调味x_1的味道；x_1是x_2调过味的味道={tsapyvu'i}；{vrusi}可能是味觉和嗅觉叠加后的味道；参见 {kukte}, {tsapi}, {cpina}, {panci}.
+vukro	gismu   \n-vur-   \n-vu'o-      \nx_1是关于乌克兰的文化/国家/语言等的事物，在x_2方面\n参见 {slovo}, {softo}.
+xabju	gismu   \n-xa'u-      \nx_1居住在位置/巢穴/住所/栖息地x_2；x_1是居住地x_2处的居民\n参见 {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}.
+xadba	gismu   \n-xab-      \nx_1是x_2的一半，基于标准x_3\n参见 {mulno}, {pagbu}.
+xadni	gismu   \n-xad-      \nx_1是x_2的身体/肉体/尸身；x_1是关于肉体的\n参见 {menli}, {pruxi}, {sluji}, {mulno}, {cutne}.
+xagji	gismu      \nx_1渴望x_2；x_1想要食物/燃料x_2\n参见 {cidja}, {citka}, {djica}, {nitcu}, {taske}.
+xagri	gismu      \nx_1是具有簧片x_2的簧片乐器（如：单簧管/双簧管/萨克斯管等）\n参见 {zgike}.
+xaicku	lujvo      \nx_1 是被x_2毁坏的书/攻击的网站,在性质x_3（ka）上.\n参见{cukta},{xrani}.
+xajmi	gismu   \n-xam-      \nx_1是滑稽的/可笑的，对x_2来说，在x_3方面（nu/ka）；x_3是x_1上x_2觉得可笑/滑稽的地方\nx_1是喜剧演员/表演者= {xampre}/{xamseljibri}专业的喜剧演员；x_1可以是人/物/谓词子句；参见 {bebna}, {cisma}, {cmila}, {fenki}, {zdile}.
+xaksu	gismu   \n-xak-      \nx_1用尽/耗尽x_2（资源）\n浪费= {fesxaksu}/{dusxaksu}；参见 {citka}, {festi}, {daspo}, {livla}, {pinxe}.
+xalbo	gismu      \nx_1是轻率的/轻浮的，关于x_2（谓词子句）\n参见 {junri}, {linto}.
+xalka	gismu   \n-xal-      \nx_1是酒精/酒，属于类型x_2，来自于来源/加工过程x_3\n参见 {birje}, {jikru}, {vanju}.
+xalni	gismu      \nx_1（人）对x_2（事件/状态）感到恐慌/惶恐\n参见 {ckape}, {snura}, {terpa}, {xanka}.
+xamgu	gismu   \n-xag-   \n-xau-      \nx_1（物/事）有利于/有益于x_2，基于标准x_3\n可行的= {mlixau}, {norxau}, {xaurselcru}；参见 {melbi}, {xlali}, {vrude}, {zabna}.
+xampo	gismu   \n-xap-   \n-xa'o-      \n在电流单位上，x_1是x_2安培的（公制单位），基于标准x_3\n参见 {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+xamsi	gismu   \n-xas-      \nx_1是海/洋/大气层，位于星球x_2上，是由流体x_3构成；x_1是关于海的\n大气层= {varxamsi}/{varsenta}；参见 {daplu}, {djacu}, {lalxu}, {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}.
+xance	gismu   \n-xan-   \n-xa'e-      \nx_1是x_2的手（身体部位）\nx_1是关于手的/手动的；参见 {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji}.
+xanka	gismu      \nx_1是焦虑的/不安的，关于x_2（抽象），在条件x_3下\n参见 {xalni}, {terpa}, {raktu}.
+xanri	gismu   \n-xar-      \nx_1（内容）存在于x_2的想象之中/是x_2所幻想出来的\n也指：x_1是精神的/不真实的（某种意义上）；注意x_1是被想象出来的但并不确定它是否真实存在；此深思熟虑的定义可以确保人们在谈论想象之物时不必要声明其是否真实存在；参见 {fatci}, {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
+xanto	gismu      \nx_1是象，属于品种/种类x_2\n参见 {mabru}, {barda}.
+xarci	gismu   \n-xac-   \n-xa'i-      \nx_1是武器，被用来攻击/对抗x_2，使用者为x_3\n枪/炮={celxa'i}；参见 {jenmi}, {sonci}, {catra}.
+xarju	gismu   \n-xaj-      \nx_1是猪，属于品种/种类x_2\n母猪={fetxarju}；公猪= {nakyxarju}；猪肉= {xajre'u}；仔猪/小猪= {citxarju}；参见 {mabru}, {cange}.
+xarnu	gismu      \nx_1是顽固的/倔强的/固执的，在对抗/反对x_2方面，关于x_3（事件/状态）\nx_2可能指人/条件状态/力； 本质是意志上的抗拒；参见 {tinsa}, {pante}, {bapli}, {fapro}.
+xasli	gismu      \nx_1驴，属于品种/种类x_2\n参见 {xirma}, {kumte}.
+xasne	gismu      \nx_1是身体x_2的汗液/汗水，由腺体/器官x_3分泌\n参见 {pinca}, {vikmi}, {cigla}.
+xatra	gismu   \n-xa'a-      \nx_1是目标接收者为x_2的信函/信件，来自作者/发出者x_3，具有内容x_4\n注意{notci}与{xatra}位顺序不同；{xatra}强调的是作者与接受者之间的交流，而非内容；信件的内容可以很容易地被归类为某一主题；参见 {ciska}, {mrilu}, {papri}
+xatsi	gismu   \n-xat-      \nx_1是十的负一十八次方个/份[10^{-18}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xecto}, {xexso}, {zepti}, {zetro}.
+xazdo	gismu   \n-xaz-   \n-zdo-      \nx_1 在 x_2方面反映了亚洲语言/文化/地域\n参见 {polno}, {friko}, {jungo}, {rusko}, {ropno}.
+xebni	gismu   \n-xen-   \n-xei-      \nx_1讨厌/厌恶/憎恨x_2（物体/谓词子句）；对x_1来说，x_2是惹人讨厌的；x_1对x_2充满恨意\n参见 {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
+xebro	gismu   \n-xeb-   \n-bro-      \nx_1是关于犹太/希伯来/以色列的文化/国家/语言等的事物，在x_2方面\n参见 {filso}.
+xecto	gismu   \n-xet-   \n-cto-      \nx_1是一百/十的二次方个/份[10^2]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xexso}, {zepti}, {zetro}.
+xedja	gismu   \n-xej-   \n-xe'a-      \nx_1是x_2的下巴/颌（身体部位）\n参见 {stedu}.
+xekri	gismu   \n-xek-   \n-xe'i-      \nx_1是黑色的/颜色很深的\n参见 {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.
+xelso	gismu   \n-xes-      \nx_1是关于希腊的文化/国家/语言等的事物，在x_2方面\n参见 {latmo}, {ropno}.
+xelvet	cmevla      \n瑞士\n参见：{gugdrxelvo}（瑞士，属gismu）
+xendo	gismu   \n-xed-   \n-xe'o-      \nx_1（人）对x_2是友善的/友好的，以行动/行为x_3\n参见 {cinmo}, {kecti}, {pendo}, {kusru}.
+xenru	gismu   \n-xer-   \n-xe'u-      \nx_1后悔/懊悔x_2（谓词子句）；x_1对于x_2是充满悔意的\nx_1对x_2感到懊悔= {zugyxe'u}；参见 {u'u}, {zungi}
+xexso	gismu   \n-xex-      \nx_1是十的十八次方个/份[10^18]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}. {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {zepti}, {zetro}.
+xin	cmevla      \n印度洋\n参见：{xingu'e}（印度）
+xindo	gismu   \n-xin-      \nx_1是关于印地语的文化/国家/语言等的事物，在x_2方面\n默认不包括乌尔都；{xingu'e}暗示了印度（巴拉特）国籍；参见 {srito}, {xurdo}, {bengo}.
+xinglibau	lujvo      \nx_1是x_2用来表示/交流x_3（不是说的话本身）的印度英语说法\n由{xindu}（印度）、{glico}（英格兰）、{bangu}（语言）组成。参见：{gliban}（英语，专名）、{glibau}（英语）、{gliglibau}（英国英语）、{merbau}（美国英语）、{kadnyglibau}（加拿大英语）、{sralybau}（澳大利亚英语）、{kisyglibau}（巴基斯坦英语）、{nanfi'oglibau}（南非英语）、{bangrnaidjiria}（尼日利亚英语）等。
+xinmo	gismu   \n-xim-      \nx_1是墨水/墨汁，具有颜色x_2，被用于书写设备/工具x_3\n参见 {penbi}.
+xirma	gismu   \n-xir-   \n-xi'a-      \nx_1是马，属于物种/种类x_2\n参见 {sufti}, {xasli}, {kumte}.
+xislu	gismu   \n-xil-   \n-xi'u-      \nx_1是设备/载具上的轮子，由材料x_3制成/具有属性x_3\n参见 {carce}, {karce}, {pulni}, {tutci}.
+xispo	gismu   \n-xip-      \nx_1是关于美洲的西班牙相关的文化/国家/语言等的事物，在x_2方面\n指说西班牙语的拉丁美洲诸国，不包括巴西/圭亚那；参见 {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
+xlali	gismu   \n-xla-      \nx_1对x_2坏/不好，基于标准x_3；对x_2来说，x_1是卑鄙的/不可接受的\n注意区别坏人和让人感觉坏的事件，如lenu ko'a gasnu cu xlali并不是等价于 ko'a {xlali}；参见 {palci}, {mabla}, {xamgu}, {betri}.
+xlura	gismu   \n-xlu-      \nx_1诱导/影响x_2进入行为/状态x_3，通过诱饵/恐吓/影响x_4\nx_4是诱人的；x_3可能是行为，状态或试图进入某行为/状态的尝试；参见 {djica}, {mukti}, {trina}, {jitro}, {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
+xonkon	cmevla      \n香港\n港英拼法Hong Kong的Lojban化。参见：同样是表示香港但是语源不同的专名{cangan}。
+xorbo	experimental gismu      \nx_1是关于Xorban的文化/国家/语言等的事物，在x_2方面\n实验中的gismu
+xotli	gismu   \n-xol-   \n-xoi-      \nx_1是旅店/旅社/客栈，位于地点x_2，由x_3运营\n参见 {barja}, {gusta}.
+xrabo	gismu   \n-rab-      \nx_1是关于说阿拉伯语的文化/国家/语言等的事物，在x_2方面\n参见 {sadjo}, {semto}, {lubno}, {rakso}, {sirxo}.
+xrani	gismu   \n-xai-      \nx_1（事件）伤害/毁坏x_2，在性质x_3（ka）上，造成了伤害/伤口x_4（状态）\n参见 {cortu}, {daspo}, {spofu}, {katna}, {porpi}.
+xriso	gismu   \n-xis-   \n-xi'o-      \nx_1是关于基督教的文化/国家/语言等的事物，在x_2方面\n参见 {jegvo}, {lijda}.
+xrison	cmevla      \n基督
+xruba	gismu   \n-xub-      \nx_1是蓼科植物，属于物种/种类x_2\n参见 {spati}.
+xruki	gismu   \n-xuk-      \nx_1是火鸡，属于物种/种类x_2\n参见 {cipni}.
+xrula	gismu   \n-rul-      \nx_1是花朵，属于物种/种类x_2\n参见 {spati}.
+xruti	gismu   \n-xru-      \nx_1将x_2退回到原位置/状态x_3，从位置/状态x_4；x_1将x_2移回x_3，从x_4处\n也指：x_2撤退/返回到x_3；x_3可能指位置/人/事件/情形/状态；“后者”可以用{krefu}或{rapli}表示；而其原因可以使用{rinka}/{rikygau}；参见 {benji}, {krefu}, {rapli}, {rinka}；特别备注：注意该词的两个版本的不同定义
+xrvatsk	cmevla      \n克罗地亚
+xukmi	gismu   \n-xum-   \n-xu'i-      \nx_1是化学物质x_2（个体/团体），具有纯度x_3\n参见 {curve}, {cidro}, {marna}, {nimre}.
+xunre	gismu   \n-xun-   \n-xu'e-      \nx_1是红色的/深红色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu}, {zirpu}.
+xurdo	gismu   \n-xur-   \n-xu'o-      \nx_1是关于乌尔都语的文化/国家/语言等的事物，在x_2方面\n参见 {kisto}, {srito}, {xindo}.
+xusra	gismu   \n-xus-   \n-xu'a-      \nx_1断言/声称/声明x_2（du'u）为真\n也指：x_1称述/声明/支持x_2；参见 {natfe}命题式非施事词, {nupre}
+xutla	gismu   \n-xul-      \nx_1是平滑的/平整的/光滑的\n参见 {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}.
+xyngon	cmevla      \n香港\n按照“香港”的粤语发音造的词。Lojban的专名命名非常语音主义，选择不同的发音可能意味着对概念理解的不同。参见：{cangan}、{xonkon}。
+zabna	gismu   \n-zan-   \n-za'a-      \nx_1是好的/优秀的/出色的/杰出的/极佳的/突出的，在性质x_2方面，基于标准x_3\n参见 {mabla}, {xamgu}, {funca}, {vrude}, {banli}.
+zajba	gismu   \n-zaj-      \nx_1表演体操x_2；x_1是表演体操项目x_2的体操运动员\n参见 {sluji}, {dansu}.
+zalvi	gismu   \n-zal-      \nx_1（个体/团体的硬表面）将x_2研磨/磨成粉末x_3\n可能需要{mosra}构成 tanru；参见 {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}.
+zanru	gismu   \n-zar-   \n-zau-      \nx_1赞成x_2（物/事）\n参见 {zau}, {natfe}.
+zarci	gismu   \n-zac-   \n-zai-      \nx_1是销售/贩卖/交易x_2的商店/市场/交易所，由x_3运营\n此概念指的是交易/销售的场所，且相对于小商铺，其更倾向于指较大型的市场，但其并不排除前者；小商铺/小商店= {zaisle}；x_3可能包括了拥有者/运营者甚至包括顾客，但大部分情况下专指运营者；参见 {vecnu}, {canja}, {dinju}, {banxa}.
+zargu	gismu   \n-zag-   \n-za'u-      \nx_1是x_2的臀部/屁股（身体部位）\n参见 {ganxo}, {mabla}.
+zasni	gismu   \n-zas-      \nx_1是临时的/暂时的/不会长存的，在性质x_2（ka）方面，基于标准x_3\n也指：短暂的/转瞬即逝的；参见 {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini}, {vitke}.
+zasti	gismu   \n-zat-   \n-za'i-      \nx_1是真实的/实际存在的，对于x_2来说，基于认知论x_3\n关于认知论的词都含有du'u位；参见 {fatci}, {xanri}.
+zbabu	gismu   \n-bab-      \nx_1是肥皂/香皂，来源于x_2，具有组分x_3\n参见 {lumci}, {fonmo}.
+zbani	gismu      \nx_1是海岸线/海滨线x_2上的海湾\n参见 {lalxu}, {xamsi}.
+zbasu	gismu   \n-zba-      \nx_1制造/装配/生产x_2，使用材料/部件/组分x_3\n不能用以表示因果关系；参见 {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+zbepi	gismu   \n-zbe-      \nx_1是支撑x_2（物/事）的支架/底座/基座/基础，由材料x_3构成/具有性质x_3\n托盘= {lafyzbe}；参见 {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}.
+zdani	gismu   \n-zda-      \nx_1是x_2的巢穴/洞府/房子/窝\n家= {tercnizda}；家/房子= {zdadi'u}；参见 {dinju}, {ginka}, {kumfa}, se {xabju}.
+zdifri	lujvo      \nx_1=z_2=l_1享受x_2=z_1=l_2\n查看{zdile},{lifri}
+zdile	gismu   \n-zdi-      \nx_1是有趣的，对于x_2来说，在性质x_3方面；x_3是x_2觉得的x_1上的有趣性质\n也指: x_1 occupies x_2 pleasantly; x_1 is fun for x_2; x_2 is amused by x_1; x_2 has fun (at) doing x_1; x_1 is an amusement/entertainment/game for x_2. 参见 {cinri}, {panka}, {xajmi} for funny, {kelci}.
+zekri	gismu   \n-zer-   \n-zei-      \nx_1（事件/状态）是罪行，对于民族/文化/法官/陪审团x_2来说\n禁忌/忌讳={kluzei}/{cacyzei}；罪/罪孽= {madzei}/{jdamadzei}；异端/邪说={jdazei}；参见 {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji}, {tinbe}.
+zelvlabivli'i	lujvo      \nx_1 是七言律诗, 平仄 x_2, 押韻在 x_3.\n{ze} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {mumvlabivli'i}
+zelvlavonli'i	lujvo      \nx_1 是七言绝句, 平仄 x_2, 押韻在 x_3.\n{ze} {valsi} {vo} {linji}; {mumvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}
+zenba	gismu   \n-zen-   \n-ze'a-      \nx_1增加/增大/增强，在性质/数量x_2上，减少量为x_3\n参见 {jdika}, {zmadu}, {banro}, {jmina}.
+zepti	gismu   \n-zep-      \nx_1是十的负二十一次方个/份 [10^{-21}]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zetro}
+zetro	gismu   \n-zet-      \nx_1是十的二十一次方个/份[10^21]x_2，在x_3方面（默认为计量单位）\n参见 {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}.
+zgana	gismu   \n-zga-      \nx_1观察/注视x_2，使用方式/感官x_3，在条件x_4下\n注视/凝视/观察={vi'azga}；守卫/守护人/看守/岗哨={zgaku'i}/{jdeku'i}；参见 {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
+zgike	gismu   \n-zgi-   \n-gi'e-      \nx_1是由行为/事件x_2导致/产生的音乐\n事件x_2可能是人演奏乐器，演唱音乐，音乐器件的运行/震动等；乐器={zgica'a}；演奏乐器={zgica'apli}/{zgiterca'a}/{selzgigau}/{selzgizu'e}；歌曲= {sagzgi}/{selsa'a}；歌声={zgivo'a}；创作音乐= {finzgi}；参见 {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
+zifre	gismu   \n-zif-   \n-zi'e-      \nx_1是自由的，去做x_2（事件/状态），在条件x_3下\n也指：不受拘束的，独立的，由意志自由的；参见 {pinfu}, {rinju}, {bilga}, {curmi}, {kakne}, {frili}.
+zimbabues	obsolete cmevla      \n津巴布韦
+zinki	gismu   \n-zin-   \n-zi'i-      \nx_1是锌/由锌构成[Zn]\n参见 {jinme}.
+zirpu	gismu   \n-zir-   \n-zi'u-      \nx_1是紫色的\n参见 {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
+zivle	gismu   \n-ziv-   \n-vle-      \nx_1将资源x_2投资于投资品x_3中，预期获得回报/利润x_4（物/事）\nx_1投资者；x_2是x_1的投入资产；债券= {jertervle}；参见 {prali}, {canja}, {jbera}, {dejni}, {ponse}.
+zmadu	gismu   \n-zma-   \n-mau-      \nx_1是超过x_2的，在性质/数量x_3（ka/ni）上，差距/差额为x_4\n正数={nonmau}；参见 {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}.
+zmiku	gismu   \n-zmi-      \nx_1是自动的，具有功能x_2，在条件x_3下\n参见 {macnu}.
+zukte	gismu   \n-zuk-   \n-zu'e-      \nx_1采取行动x_2，以达到/完成目的/目标x_3\n也指：施事的/在意志作用下干某事；参见 {zu'e}, {bapli}, {gunka}, {jalge}, {krinu}, {mukti}, {rinka}, {snuti}, {gasnu}, {fasnu}, {minji}, {prenu}, {ciksi}, {jibri}, {pilno}, {pluta}, {tadji}, {tutci}.
+zumri	gismu   \n-zmu-      \nx_1是玉米，属于物种/种类x_2\n参见 {gurni}.
+zungi	gismu   \n-zug-      \nx_1感到负罪/悔恨，对于x_2(抽象)\n参考cmavo list {u'u}, {cinmo}, {xenru}, {zekri}
+zunle	gismu   \n-zul-      \nx_1在x_2的左侧，相对于参考物x_3\nx_3是x_2的方向标准。 参考: {zu'a} ， {pritu} ， {mlana} ， {crane} ， {trixe} ， {farna}。
+zunti	gismu   \n-zun-   \n-zu'i-      \nx_1（事件/状态）干扰x_2（事件/状态/过程），归因于性质x_3（ka）；x_1由于其性质x_3而对x_2产生干扰\n也指：阻碍/妨碍/阻塞；不必要产生中断；参见 {fanta}, {dicra}, {fliba}, {fanza}, {raktu}, {klina}, {bandu}, {cfipu}, {ganlo}.
+zutse	gismu   \n-zut-   \n-tse-      \nx1坐在x2上\n参见 {stizu}, {cpana}, {vreta}。
+zvati	gismu   \n-zva-      \nx1(事/物)存在/附着/出现于(事/物)x2
++A a	逻辑连词：或 （置于sumti之后）\n
++UI1 a'a	态度词：刻意-不刻意-避免\n也可指“专心”。相关{jundi},{rivbi}
++UI1 a'e	态度词：警惕-精疲力尽\n相关{sanji},{cikna},{tatpi}
++UI1 ai	态度词：打算-无决定-拒绝\n相关{termu'i},{terzu'e},{seljdi}
++UI1 a'i	态度词：努力-没有特别努力-停止/休息\n相关{gunka},{troci}
++UI1 a'o	态度词：希望-绝望\n相关{pacna}
++UI1 au	态度词：渴望-无所谓-勉强/不情愿\n相关{djica}
++UI1 a'u	态度词：兴趣-无兴趣-反感\n相关{cinri},{selcni}
++COI fau'u	对不起, 请原谅我, 抱歉\n{fraxu}, {u'u}.
++COI3 jo'au	转换语法分析器的版本/方言.\n{do'u}是可以省略的终端词. 在{jo'au}之后的cmevla/sumti/selbri的词法和文法应该适合lojban.org网站的 ``BPFK Section: PEG Morphology Algorithm'' 的第134版本及官方文法, 正是为了{jo'au}构成的自由修饰词组是相容语法分析器的所有版本. 比如说, ``jo'au jie bu'' 和 ``jo'au xy xi xei'' 不是有意义的词组. 在标准使用上, 全文章开头使用{jo'au}词组, 和{fa'o}的用法相反. {jo'au}词组的意义涉及后续部分, 到下一个{jo'au}词组为止. 第一个{jo'au}词组可以出现在文章中途, 意义涉及从开头到下一个{jo'au}词组为止. 有意义的例子: jo'au cylyly xi papipa (官方yacc和jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (现行的peg http://camxes.lojban.org/ ) ; jo'au iocixes (xorxes的zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa的第0.11个版本 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa的2014-11-24版本 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
++NU ka	特性/性质指示; x_1 是[bridi]表现出的性质/特性 .\n
++KOhA3 mi'ai	我們\n
++KOhA3 mi'o	咱們\n
++RAhOI ra'oi	rafsi的标记. 把rafsi变为sumti.\n要注意在这个rafsi的前后时常需要留出空白或休止. 語法分析器zantufa-0.14和更高版本分析ra'oi作为selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). 例: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
+或	a
+专心	a'a
+刻意	a'a
+警惕	a'e
+警戒	a'e
+鳄梨	agbakate_1
+鳄梨品种	agbakate_2
+打算	ai
+拒绝	ai
+努力	a'i
+字母	alfabeta
+字母表	alfabeta_1
+用字母来拼写的语言	alfabeta_2
+橄榄	alzaitu_1
+橄榄品种	alzaitu_2
+橄榄树	alzaitu
+天使	angeli
+鳗鱼	angila_1
+鳗鱼品种	angila_2
+鳝鱼	angila
+希望	a'o
+绝望	a'o
+枫木	a'orne
+枫树	a'orne_1
+枫树品种	a'orne_2
+槭树	a'orne
+北冰洋	arktik
+ASCII	asycy'i'is
+兴趣	a'u
+有趣	a'u
+巴斯克	auskalerik
+巴比伦	babilon
+说	bacru
+说出	bacru
+说话内容	bacru_2
+说话者	bacru_1
+香蕉	badna_1
+不开心的事	badri_2
+不开心的人	badri_1
+伤心	badri
+哀愁	badri
+悲伤	badri
+悲哀	badri
+悲痛	badri
+沮丧	badri
+消沉	badri
+灰心丧气	badri
+郁闷	badri
+闷闷不乐	badri
+留鬓角	bafcolkercrakre_2
+鬓脚	bafcolkercrakre
+鬓角	bafcolkercrakre_1
+步态	bajra_4
+行人	bajra_1
+行走	bajra
+走路	bajra
+走路时用的肢节	bajra_3
+跑步	bajra
+路面	bajra_2
+包装	bakfu
+包装用品	bakfu_3
+包裹	bakfu_1
+所包装的物品	bakfu_2
+尼日利亚英语	bangrnaidjiria
+尼日利亚英语说法	bangrnaidjiria_1
+尼日利亚话	bangrnaidjiria
+用尼日利亚英语来表达的东西	bangrnaidjiria_3
+说尼日利亚英语的人	bangrnaidjiria_2
+朝鲜语	bangrxangu
+语言	bangu
+ 足 	banzu
+大 : 与“小”相对	barda
+巴塞罗那	barselonas
+类型	benzo_2
+芳香烃	benzo
+印尼	bidgug
+印度尼西亚	bidgug
+化	binxo
+变	binxo
+变化;变形结果	binxo_2
+变形条件	binxo_3
+变形物	binxo_1
+肯定	birti
+白俄罗斯	blabruk
+蓝色	blanu
+蓝色的东西	blanu_1
+舟	bloti
+船	bloti
+ 艇	bloti_1
+波斯尼亚	bosnan
+巴西	brazilias
+文莱	bruNAIS
+柏林	byLIN
+上海	canxais
+13位转字法	carpacib
+ROT-13	carpacib
+回转13位	carpacib
+盯	catlu
+看	catlu
+瞧	catlu
+神	cev
+上帝	cevni
+新疆	cinJIAN
+主题	cipyple_4
+测试卷	cipyple
+纸张来源	cipyple_2
+被证明状态	cipyple_3
+试卷	cipyple
+写	ciska
+刻	ciska
+阿尔巴尼亚	ckiipyris
+Nameless	cmeclax
+下	cnita
+下面	cnita
+丹麦	danmark
+成分	denpesxu
+牙膏	denpesxu
+牙膏成分	denpesxu
+阿尔及利亚	djaZAIR
+吉奥提	djiotis
+中国	djunguos
+多瑙河	dunav
+南冰洋	dzip
+原谅	fau'u
+对不起	fau'u
+抱歉	fau'u
+愤怒	fengu
+创作	finti
+创造	finti
+发明	finti
+法律	flalu
+立法	flari'a
+关闭	ganlo
+关闭的	ganlo_1
+达不到的 : 关闭	ganlo_2
+通不過的 : 关闭	ganlo_3
+乐	gleki
+快乐	gleki
+高兴	gleki
+英文 : 语言	gliban
+用英语来表达的东西	glibau_3
+英语	glibau
+英语说法	glibau_1
+说英语的人	glibau_2
+用英国英语来表达的东西	gliglibau_3
+英国英语	gliglibau
+英国英语说法	gliglibau_1
+说英国英语的人	gliglibau_2
+Google	gugl
+谷歌	gugl
+劳动	gunka
+工人/劳动者	gunka_1
+工作	gunka
+工作对象	gunka_3
+活动内容	gunka_2
+广州	guonJAUS
+亮	gusni
+光	gusni
+永为	iaves
+永恒主	iaves
+雅威	iaves
+•耶路撒冷	ieRUcaly'im
+冰岛	island
+意大利	italian
+张 : 姓氏	jan
+让 : 音译人名	jan
+爷火华	jegvon
+耶和华	jegvon
+体现阿尔及利亚特色的方面	jerxo_2
+阿尔及利亚特色	jerxo_1
+赢	jinga
+逻辑语语法分析器的方言	jo'au
+逻辑语语法分析器的版本	jo'au
+中国字	jugle'u_1
+中国字种类	jugle'u_2
+字义	jugle'u_3
+汉字	jugle'u
+反映方面	jungo_2
+JCB : 人名缩写	jycybyb
+性质	ka
+特性	ka
+眼睛	kanla
+格鲁吉亚	kartuli
+客户端 : 互联网	kibyse'u_2
+服务 : 互联网	kibyse'u_3
+服务器 : 互联网	kibyse'u_1
+巴基斯坦英语	kisyglibau
+巴式英语	kisyglibau
+交通工具/方式	klama_5
+出发地	klama_3
+出发地/来自	klama_3
+去	klama
+来	klama
+目的地	klama_2
+目的地/去处	klama_2
+移动	klama
+行者	klama_1
+路径	klama_4
+路径/经由	klama_4
+可口可乐	kokaKOlys
+狼	labno
+拉	lacpu_1
+拉，扯，拽，拖	lacpu
+拉的位置	lacpu_3
+被拉	lacpu_2
+依赖	lacri
+信任	lacri
+乳制品	ladru
+乳汁	ladru
+举	lafti
+支撑	lafti
+可能	lakne
+蜡	lakse
+池	lalxu
+湖	lalxu
+临近	lamji
+紧靠	lamji
+蛋白质	lanbi
+老子	lauDZIS
+寮国	laus
+老挝	laus
+过家家	lazyzukykei
+立陶宛	lietuvos
+逻各斯志工	loglytuan
+逻辑语工	loglytuan
+逻辑语工作者	loglytuan
+逻辑鲍勃 : 绰号	lojbab
+理语	lojban
+逻辑语	lojban
+地	loldi
+地板	loldi
+底	loldi
+犬科	lorxu
+狐	lorxu_1
+种类	lorxu_2
+洛杉矶	losanjylys
+复合	lujvo
+比喻	lujvo_4
+词缀	lujvo
+卫星	lunra
+月	lunra
+月亮	lunra
+月球	lunra
+伦敦	lyndyn
+马德里	madRID
+芒果	mango
+芒果种类	mango_2
+合适	mapti
+配	mapti
+优美	melbi
+可爱	melbi
+审美标准	melbi_4
+审美角度	melbi_3
+欣赏者	melbi_2
+漂亮	melbi
+美丽	melbi
+美人	melbi_1
+英俊	melbi
+事物	merko_1
+我們	mi'ai
+咱們	mi'o
+埃及文	misryle'u_1
+埃及文字义	misryle'u_3
+埃及文种类	misryle'u_2
+猫	mlatu
+摩斯	mors
+摩斯密码	mors
+电报	mors
+电码	mors
+莫尔斯	mors
+莫尔斯代码	mors
+邮局	mribriju_1
+邮局员	mribriju_2
+孟买	mumbais
+五言律诗	mumvlabivli'i_1
+五言绝句	mumvlavonli'i_1
+押韻	mumvlavonli'i_3
+十分	mutce
+非常	mutce
+南非英语	nanfi'oglibau
+南非英语说法	nanfi'oglibau_1
+用南非英语来表达的东西	nanfi'oglibau_3
+说南非英语的人	nanfi'oglibau_2
+尼德兰	nederland
+荷兰	nederland
+日本	nipon
+挪威	noreg
+纽约	nu,IORK
+奥地利	osteraix
+NATO	otan
+北大西洋公约组织	otan
+北约	otan
+渥太华	OTa,uas
+疟疾	paludizm
+太平洋	pasifik
+北京	pekin
+黄热病	pelglar
+秘鲁	peRUV
+Python : 编程语言	piton
+Python语言 : 编程语言	piton
+普朗克	plank
+好使	plixau
+好用	plixau
+有用	plixau
+用品	plixau_1
+用户	plixau_2
+用途	plixau_3
+大洋洲 : 大陆	polno
+波兰	polskas
+意思 : 语义	potybau_3
+葡萄牙语	potybau
+葡萄牙语说法	potybau_1
+葡语	potybau
+说葡萄牙语的人	potybau_2
+吐蕃	pyd
+西藏	pyd
+rafsi	ra'oi
+作呕 : 不愉快	rigni
+反感	rigni
+因	rinka
+罗宾 : 音译人名	robin
+罗马	romas
+圣保罗	saupaulos
+不可分	selci
+原子	selci
+基本组成单元	selci
+细胞	selci
+听众	selsa'a_3
+歌手	selsa'a_2
+歌曲	selsa'a
+瑞典	sferies
+仿佛	simlu
+好像	simlu
+似	simsa
+相像	simsa
+新加坡	SINgapur
+符号	snile'u_1
+符号意义	snile'u_3
+表意文字	snile'u_2
+汉城	sol
+首尔	sol
+澳大利亚英语	sralybau
+澳式英语	sralybau
+澳洲话	sralybau
+芬兰	suomis
+苏姗 : 音译人名	suzyn
+苏珊 : 音译人名	suzyn
+台北	taibeis
+台湾	tai,UAN
+踢踏舞	tapydansu
+踢踏舞的旋律/节奏	tapydansu_2
+踢踏舞者	tapydansu_1
+说 : 告诉	tavla
+重庆	tcunCIN
+天津	tienjin
+足球	tipyboi
+狂犬病	tolvutu
+狂犬病人	tolvutu_1
+狂犬病症状	tolvutu_2
+特伦汗 : 音译地名	troneim
+特隆赫姆 : 音译地名	troneim
+多伦多	tyrontos
+华盛顿	UAcintyn
+万维网	ueb
+网 : 信息技术	ueb
+网络 : 信息技术	ueb
+网路	ueb
+Wikipedia	uikipedias
+维基百科	uikipedias
+共笔	uikis
+维基	uikis
+华沙	varcavas
+春 : 季节	vensa
+弗兰德斯	VLANDeren
+亚洲	xazdo
+亚洲的	xazdo
+亚细亚	xazdo
+瑞士	xelvet
+印度洋	xin
+印度英语	xinglibau
+印度英语说法	xinglibau_1
+印式英语	xinglibau
+用印度英语来表达的东西	xinglibau_3
+说印度英语的人	xinglibau_2
+基督	xrison
+克罗地亚	xrvatsk
+香港	xyngon
+享受	zdifri
+七言律诗	zelvlabivli'i_1
+七言绝句	zelvlavonli'i_1
+津巴布韦	zimbabues
+悔恨	zungi
+负罪感	zungi
+左	zunle
+坐	zutse
+在	zvati

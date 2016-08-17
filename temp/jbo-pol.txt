@@ -1,0 +1,305 @@
+bacru	gismu   \n-ba'u-      \nb_1 wydaje/wyraża/wokalizuje dźwięk b_2.\nCf. {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.
+badna	gismu      \nb_1 to banan/bananowate [owoc/roślina] z gatunku b_2.\nCf. {grute}.
+badri	gismu   \n-dri-      \nb_1 jest smutny/markotny/w depresji o b_2 (abstrakcja).\nCf. {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
+bajra	gismu   \n-baj-      \nx_1 biegnie po powierzchni x_2 używając kończyn x_3 chodem/biegiem/sposobem chodzenia x_4.\nPatrz też {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
+bakfu	gismu   \n-baf-      \nx_1 jest pakunkiem/paczką/wiązanką/bryłą/tobołkiem [kształt] zawierającym x_2, trzymanym razem przez x_3.\nPatrz też {daski}, {dakli}, {tanxe}.
+bakni	gismu   \n-bak-      \nx_1 jest krową/sztuką bydła/wołem/[bykiem/cielęciem] gatunku/rasy x_2.\nPatrz też {danlu}.
+bakri	gismu      \nx_1 jest pewną ilością/zawiera/jest zrobiony z kredy ze źródła x_2 w kształcie x_3.\nPatrz też {pinsi}, {blabi}, {jilka}.
+baktu	gismu      \nx_1 jest wiadrem/kubłem/puszką/głębokim, solidnym, szerokim u góry pojemnikiem z zawartością x_2, zrobionym z materiału x_3.\nPatrz też {botpi}, {patxu}, {tansi}, {lante}, {lanka}.
+balji	gismu      \nx_1 jest bulwą/cebulką [część ciała] rośliny/gatunku x_2; [metafora: okrągły, pękaty].\nPatrz też {punli}, {batke}.
+balni	gismu      \nx_1 jest balkonem/nawisem/gzymsem/parapetem/półką na budynku/strukturze x_2.\nPatrz też {kajna}.
+balre	gismu   \n-ba'e-      \nx_1 jest ostrzem narzędzia/broni x_2
+balvi	gismu   \n-bav-      \nx_1 jest późniejsze niż x_2
+barda	gismu   \n-bra-      \nx_1 jest wielkie/duże w cechach/wymiarach x_2 (ka) według normy x_3.\nCf. {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.
+beiDJIN	cmevla      \nPekin
+bersa	gismu   \n-bes-   \n-be'a-      \nx_1 to syn matki/ojca/rodziców x_2 [nie koniecznie biologicznych].\nCf. {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.
+bi	cmavo   \n-biv-      \ncyfra / numer: 8 (cyfry) [osiem].
+bie,uaRUC	obsolete cmevla      \nBiałoruś.
+bivmast	cmevla      \nsierpień.\nCf. {cinfyma'i}, {bivmasti}.
+bruna	gismu   \n-bun-   \n-bu'a-      \nx_1 to brat x_2 poprzez więzi x_3; [nie konicznie biologiczny].\nCf. {mensi}, {tunba}, {tamne}, {famti}, {lanzu}.
+byLIN	cmevla      \nBerlin.
+canxais	cmevla      \nSzanghaj
+ci	cmavo   \n-cib-      \ncyfra / numer: 3 (cyfra) [trzy].
+cibdei	lujvo      \nx_1 to środa w tygodniu x_2 według kalendarza x_3.
+cibmast	cmevla      \nmarzec.\nCf. {fipma'i}, {cibmasti}.
+cirla	gismu      \nx_1 jest pewną ilością/zawiera ser/twaróg ze źródła x_2.
+citka	gismu   \n-cti-      \nx_1 je/konsumuje/spożywa x_2.\nCf. {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.
+cmalu	gismu   \n-cma-      \nx_1 jest małe/drobne w cechach/wymiarach x_2 (ka) według normy x_3.\nCf. {caxno}, {cinla}, {jarki}, {tordu}, {barda}.
+cnino	gismu   \n-nin-   \n-ni'o-      \nx_1 jest nowy/nieznany dla obserwatora x_2 pod względem cechy x_3 (ka), według standardu x_4; x_1 jest nowością.
+crino	gismu   \n-ri'o-      \nx_1 jest zielony [przymiotnik koloru].
+cusku	gismu   \n-cus-   \n-sku-      \nx_1 wyraża/mówi x_2 (sedu'u/tekst/lu'e) do słuchacza x_3 przez medium x_4.\nCf. {bacru}, {tavla}, {casnu}, {spuda}.
+danfu	gismu   \n-daf-      \nx_1 jest odpowiedzią/rozwiązaniem na pytanie/problem x_2.
+danlu	gismu   \n-dal-   \n-da'u-      \nx_1 to zwierzę/stworzenie gatunku x_2.\nCf. {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru}, {bakni}.
+daumast	cmevla      \npaździernik.\nCf. {laxma'i}, {pavnonmasti}.
+dilis	cmevla      \nDilli.
+djunguos	obsolete cmevla      \nChiny\nCf. {jugygu'e}.
+do	cmavo   \n-don-   \n-doi-      \npro-sumti: ty/wy, słuchacz(e); można sprecyzować w wołaczu\nWołacz: {doi}
+dotco	gismu   \n-dot-   \n-do'o-      \nx_1 odzwierciedla niemiecką/germańską kulturę/narodowość/język w aspekcie x_2.
+dotygu'e	lujvo      \nd_1=g_1 to Niemcy.\nCf. {dotco}, {gugde}.
+dunda	gismu   \n-dud-   \n-du'a-      \nx_1 [dawca] daje/darowuje dar/prezent x_2 biorcy/beneficjentowi x_3 [bez płatności/wymiany].
+fasygu'e	lujvo      \nf_1=g_1 to Francja.\nCf. {fraso}, {gugde}.
+feimast	cmevla      \nlistopad.\nCf. {rebjukma'i}, {pavypavmasti}.
+fraso	gismu   \n-fas-      \nx_1 odzwierciedla francuską/galijską kulturę/narodowość/język w aspekcie x_2.
+gaimast	cmevla      \ngrudzień.\nCf. {celma'i}, {pavrelmasti}.
+ganse	gismu   \n-gas-   \n-ga'e-      \nx_1 czuje/odczuwa cechy bodźca x_2 (ka) poprzez x_3 w warunkach x_4.\nCf. {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}.
+gerku	gismu   \n-ger-   \n-ge'u-      \nx_1 to pies [suka]/psowate z gatunku/rasy x_2.\nCf. {lorxu}, {labno}, {tcakali}, {ko'otli}.
+gleki	gismu   \n-gek-   \n-gei-      \nx_1 jest szczęśliwy/wesoły/radosny z powodu x_2 (zdarzenie/stan).
+gligu'e	lujvo      \ngl_1=gu_1 to Anglia.\nCf. {glico}, {gugde}, {ritygu'e}.
+gugdrpolska	fu'ivla      \nx_1 to Polska\nCf. {polskas}.
+gugdrtalia	obsolete fu'ivla      \nx_1 to Włochy (kraj).\nCf. {italias}.
+gunka	gismu   \n-gun-   \n-gu'a-      \nx_1 (osoba) pracuje nad x_2 (aktywność) z celem x_3
+gunta	gismu   \n-gut-      \nx_1 atakuje x_2 mając na celu x_3
+ieRUcaly'im	cmevla      \nJeruzalima.
+Indias	obsolete cmevla      \nIndie\nCf. {xingu'e}.
+italias	obsolete cmevla      \nWłochy.\nCf. {gugdrtalia}.
+jimpe	gismu   \n-jmi-      \nx_1 rozumie/pojmuje fakt/prawdę x_2 na temat/o podmiocie x_3.\nCf. {djuno}, {jijnu}. 
+jugygu'e	lujvo      \nj_1=g_1 to Chiny.\nCf. {jungo}, {gugde}, {djunguos}.
+kadnygu'e	lujvo      \nx_1=g_1 to Kanada.\nCf. {KEnydys}, {kenyDAS}.
+karce	gismu      \nx_1 to samochód/ciężarówka/ furgonetka [pojazd napędzany silnikiem] do transportu x_2, napędzany przez x_3.\nCf. {carce}, {xislu}, {marce}, {sabnu}, {sorprekarce}, {bevma'e}.
+kenyDAS	cmevla      \nKanada.\nCf. {kadnygu'e}, {gugdecu'a}.
+KEnydys	cmevla      \nKanada.
+klama	gismu   \n-kla-      \nx_1 przychodzi/idzie do x_2 od x_3 przez x_4 korzystując z x_5.\nCf. {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}.
+lanzu	gismu   \n-laz-      \nx_1 (masa) to rodzina/klan z członkami składającymi się z x_2 związani z sobą według standardu x_3. .\nCf. {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
+lietuvos	obsolete cmevla      \nLitwa.
+mamta	gismu   \n-mam-      \nx_1 to matka x_2; x_1 rodzi/matkuje/zachowuje się jak matka wobec x_2; [nie koniecznie biologiczna].\nCf. {patfu}, {sovda}, {rirni}, {rorci}, {tarbi}, {famti}, {bersa}, {jbena}.
+melbi	gismu   \n-mel-   \n-mle-      \nx_1 jest piękne/śliczne/ładne dla x_2 w zakresie x_3 (ka) według standardu x_4.\nCf. {pluka}, {xamgu}.
+mensi	gismu   \n-mes-   \n-me'i-      \nx_1 to siostra x_2 poprzez więzi x_3; [nie koniecznie biologiczne].\nCf. {bruna}, {tunba}, {tamne}, {famti}, {lanzu}.
+mergu'e	lujvo      \nm_1=g_1 to Stany Zjednoczone Ameryki.\nCf. {merko}, {gugde}.
+merko	gismu   \n-mer-      \nx_1 odzwierciedla kulturę/narodowość/dialekt Stanów Zjednoczonych/amerykański w aspekcie x_2.
+mi	cmavo   \n-mib-      \npro-sumti: ja/mówca/autor; identyfikowane samowołaczem.\nSamowołacz ma budowę &quot;{mi'e} [cmene/sumti/selbri]&quot;, np. &quot;mi'e karol&quot;
+milxe	gismu   \n-mli-      \nx_1 jest umiarkowane w cechach/wymiarach x_2 (ka).\nCf. {rai}, {jimte}, {traji}, {mutce}, {zmadu}, {mleca}. 
+mlatu	gismu   \n-lat-      \nx_1 to kot/ kotowate z gatunku/rasy x_2.\nCf. {cinfo}, {tirxu}, {tirxrpardu}, {tirxronka}.
+mu	cmavo   \n-mum-      \ncyfra / numer: 5 (cyfry) [pięć].
+mumbais	cmevla      \nBombaj.
+mumdei	lujvo      \nx_1 to piątek w tygodniu x_2 według kalendarza x_3.
+mumymast	cmevla      \nmaj.\nCf. {bakma'i}, {mumymasti}.
+mutce	gismu   \n-tce-      \nx_1 jest wybitne w cechach/wymiarach x_2 (ka) ku skrajności x_3.\nCf. {rai}, {jimte}, {milxe}, {traji}, {zmadu}, {mleca}. 
+nanla	gismu      \nx_1 to chłopiec [młody człowiek płci męskiej] wieku x_2 niedojrzały według standardu x_3. \nCf. {nixli}, {verba}, {nanmu}, {bersa}, {lanzu}.
+nanmu	gismu   \n-nau-      \nx_1 to mężczyzna/osobnik płci męskiej [nie koniecznie dorosły].\nCf. {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.
+ninmu	gismu   \n-nim-   \n-ni'u-      \nx_1 to kobieta/osobnik płci żeńskiej [nie koniecznie dorosła].\nCf. {nanmu}, {remna}, {prenu}, {makcu}, {nixli}.
+nixli	gismu   \n-nix-   \n-xli-      \nx_1 to dziewczyna [młody człowiek płci żeńskiej] wieku x_2 niedojrzała według standardu x_3. \nCf. {nanla}, {verba}, {ninmu}.
+no	cmavo   \n-non-      \ncyfra / numer: 0 (cyfry) [zerowy].
+nondei	lujvo      \nx_1 to niedziela w tygodniu x_2 według kalendarza x_3.
+nu,IORK	cmevla      \nNowy Jork.
+pa	cmavo   \n-pav-      \ncyfra / numer: 1 (cyfra) [jeden].
+patfu	gismu   \n-paf-   \n-pa'u-      \nx_1 to ojciec x_2; x_1 płodzi/ojcuje/zachowuje się jak ojciec wobec x_2; [nie koniecznie biologiczny].\nCf. {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}.
+pavdei	lujvo      \nx_1 to poniedziałek w tygodniu x_2 według kalendarza x_3.
+pavmast	cmevla      \nstyczeń.\nCf. {kanbyma'i}, {pavmasti}.
+pelxu	gismu   \n-pel-      \nx_1 jest zółty/złocisty.
+pendo	gismu   \n-ped-   \n-pe'o-      \nx_1 jest przyjacielem x_2.
+pensi	gismu   \n-pes-   \n-pei-      \nx_1 myśli/rozważa/rozmyśla na temat/o koncepcji x_2.\nCf. {jijnu}, se {nabmi}.
+plise	gismu      \nx_1 jest jabłkiem [owoc] gatunku/odmiany x_2.
+polskas	cmevla      \nPolska\nCf. {gugdrpolska}.
+pongu'e	lujvo      \np_1=g_1 to Japonia.\nCf. {ponjo}, {gugde}.
+prenu	gismu   \n-pre-      \nx_1 to istota [nie koniecznie ludzka]; x_1 ma osobowość.\nCf. {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
+re	cmavo   \n-rel-      \ncyfra / numer: 2 (cyfra) [dwa].
+reldei	lujvo      \nx_1 to wtorek w tygodniu x_2 według kalendarza x_3.
+relmast	cmevla      \nluty.\nCf. {jaurbeima'i}, {relmasti}.
+remna	gismu   \n-rem-   \n-re'a-      \nx_1 to istota ludzka/człowiek; x_1 jest ludzkie/człowiecze.\nCf. {nanmu}, {ninmu}, {prenu}.
+ritygu'e	lujvo      \nb_1=g_1 to Wielka Brytania.\nCf. {brito}, {gugde}, {gligu'e}, {kotygu'e}.
+rukygu'e	lujvo      \nr_1=g_1 to Rosja.\nCf. {rusko}, {gugde}.
+sangu'e	lujvo      \ns_1=g_1 to Hiszpania.\nCf. {spano}, {gugde}.
+sipna	gismu   \n-sip-      \nx_1 spi.\nCf. {senva}, {tatpi}, {cikna}, {sanji}.
+slovensk	cmevla      \nSłowacja.
+so	cmavo   \n-soz-      \ncyfra / numer: 9 (cyfry) [dziewięć].
+sozmast	cmevla      \nwrzesień.\nCf. {xlima'i}, {sozmasti}.
+tcaci	gismu   \n-cac-      \nx_1 jest zwyczajem/rytuałem praktykowanym przez x_2 w warunkach x_3.
+tcesk	cmevla      \nCzechy.
+ti	cmavo   \n-tif-      \npro-sumti: to, tutaj; wskazuje na rzecz/miejsce blisko mówiącego
+tirna	gismu   \n-tin-      \nx_1 słyszy x_2 pzy szumie tła x_3; x_2 jest słyszalny.\nCf. {kerlo}, {sance}, {smaji}, {savru}, {voksa}, {ganse}, {zgana}.
+tixnu	gismu   \n-tix-   \n-ti'u-      \nx_1 to córka matki/ojca/rodziców x_2 [nie koniecznie biologicznych].\nCf. {verba}, {bersa}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}.
+tokios	obsolete cmevla      \nTokio.
+traji	gismu   \n-rai-      \nx_1 jest najbardziej ekstremalne w cechach/wymiarach x_2 (ka; domyślnie ka zmadu) w skrajności x_3 (ka) w zbiorze x_4.\nCf. {rai}, {jimte}, {milxe}, {mutce}, {zmadu}, {mleca}. 
+uacintyn	cmevla      \nWaszyngton.
+varcavas	cmevla      \nWarszawa
+viska	gismu   \n-vis-   \n-vi'a-      \nx_1 widzi/postrzega/ogląda x_2 w warunkach x_3.\nCf. {catlu}, {jvinu}, {kanla}, {minra}, {simlu}, {djuno}, {jimpe}, {zgana}, {ganse}.
+vo	cmavo   \n-von-      \ncyfra / numer: 4 (cyfra) [cztery].
+vondei	lujvo      \nx_1 to czwartek w tygodniu x_2 według kalendarza x_3.
+vonmast	cmevla      \nkwiecień.\nCf. {lanma'i}, {vonmasti}.
+vurgu'e	lujvo      \nv_1=g_1 to Ukraina.\nCf. {vukro}, {gugde}.
+xa	cmavo   \n-xav-      \ncyfra / numer: 6 (cyfry) [sześć].
+xamgu	gismu   \n-xag-   \n-xau-      \nx_1 jest dobre/korzystne dla x_2 według standardu x_3.\nCf. {melbi}, {xlali}, {vrude}, {zabna}.
+xavdei	lujvo      \nx_1 to sobota w tygodniu x_2 według kalendarza x_3.
+xavmast	cmevla      \nczerwiec.\nCf. {matsi'uma'i}, {xavmasti}.
+xingu'e	lujvo      \nx_1=g_1 to Indie.\nCf. {xindo}, {gugde}, {Indias}.
+xlali	gismu   \n-xla-      \nx_1 jest złe/niekorzystne dla x_2 według standardu x_3.\nCf. {palci}, {mabla}, {xamgu}, {betri}.
+xunre	gismu   \n-xun-   \n-xu'e-      \nx_1 jest czerwory/purpurowy/rumiany/rudy [przymiotnik koloru].
+zbasu	gismu   \n-zba-      \nx_1 produkuje/składa/buduje x_2 z materiałów/części x_3.\nCf. {cupra}, {larcu}, {rutni}, {finti}, {gundi}.
+zdani	gismu   \n-zda-      \nx_1 to dom/gniazdo/miejsce stałego pobytu dla/zamieszkałe przez x_2.\nCf. {dinju}, {ginka}, {kumfa}, {selxa'u}.
+ze	cmavo   \n-zel-      \ncyfra / numer: 7 (cyfry) [siedem].
+zelmast	cmevla      \nlipiec.\nCf. {mlajukma'i}, {zelmasti}.
+zo'e	cmavo      \npro-sumti: elipsa/nieokreślona wartość; posiada pewną wartość przy której bridi jest prawdziwe
+zvati	gismu   \n-zva-      \nx_1 jest w / znajduje się na / jest w x_2
+wokalizować	bacru
+wydawać : dźwięk	bacru
+wyrażać : dźwięk	bacru
+banan	badna
+bananowate	badna
+markotny	badri
+smutny	badri
+biec	bajra
+biegać	bajra
+paczka : pakunek	bakfu
+bydło	bakni
+byk : samiec bydła	bakni
+krowa	bakni
+kreda : minerał	bakri
+wiadro	baktu
+bulwa	balji
+balkon	balni
+gzyms	balni
+parapet	balni
+ostrze	balre_1
+duże	barda
+wielkie	barda
+Bejdżing	beiDJIN
+Pekin : stolica Chin	beiDJIN
+syn	bersa
+8 : osiem	bi
+Białoruś	bie,uaRUC
+sierpień	bivmast
+brat	bruna_1
+Berlin : w Niemczech	byLIN
+Szanghaj	canxais
+3 : trzy	ci
+środa	cibdei_1
+marzec	cibmast
+ser	cirla
+jeść	citka
+konsumować 	citka
+spożywać	citka
+drobne	cmalu
+małe	cmalu
+nieznany	cnino
+nowość	cnino_1
+nowy	cnino
+zielony	crino
+mówić	cusku
+wyrażać : mówić	cusku
+odpowiedź	danfu
+rozwiązanie	danfu
+stworzenie : forma życia	danlu
+zwierzę	danlu
+październik	daumast
+ty : druga oaoba liczby pojedynczej	do
+wy	do
+germański	dotco
+niemiecki	dotco
+Niemcy : kraj	dotygu'e_1
+biorca	dunda_3
+dawać	dunda
+dawca	dunda_1
+prezent	dunda_2
+Francja	fasygu'e_1
+listopad	feimast
+francuski	fraso
+galijski	fraso
+grudzień	gaimast
+czuć	ganse
+odczuwać	ganse
+pies : zwierzę domowe	gerku
+suka : samica psa	gerku
+szczęśliwy	gleki
+Anglia	gligu'e_1
+Polska	gugdrpolska
+cel : cel pracy	gunka_3
+agresor	gunta_1
+obiekt ataku : to co jest atakowane	gunta_2
+Jeruzalima	ieRUcaly'im
+Włochy  : kraj	italias
+pojmować	jimpe
+rozumieć	jimpe
+Chiny	jugygu'e_1
+pojazd	karce
+samochód	karce
+Kanada	kenyDAS
+iść 	klama
+przychodzić 	klama
+klan	lanzu
+rodzina	lanzu_1
+Litwa	lietuvos
+matka	mamta
+ładne	melbi
+piękne	melbi
+śliczne	melbi
+siostra	mensi_1
+Stany Zjednoczone. : Ameryki	mergu'e
+Stany Zjednoczone Ameryki	mergu'e_1
+ja	mi
+łagodne	milxe
+umiarkowane	milxe
+kot : małe zwierzę domowe	mlatu
+kot domowy : Felis silvestris catus	mlatu
+5 : pięć	mu
+Bombaj	mumbais
+Mumbai	mumbais
+piątek	mumdei_1
+maj	mumymast
+bardzo	mutce
+wybitne	mutce
+chłopiec	nanla_1
+mężczyzna	nanmu
+osobnik płci męskiej 	nanmu
+kobieta	ninmu
+osobnik płci żeńskiej 	ninmu
+dziewczyna	nixli_1
+niedziela	nondei_1
+Nowy Jork	nu,IORK
+1 : jeden	pa
+ojciec	patfu
+poniedziałek	pavdei_1
+styczeń	pavmast
+żółty	pelxu
+przyjaciel	pendo_1
+myśleć	pensi
+myśli	pensi
+rozmyśla	pensi
+rozmyślać	pensi
+rozważa	pensi
+rozważać	pensi
+jabłko	plise
+Japonia	pongu'e_1
+istota : forma życia	prenu
+2 : dwa	re
+wtorek	reldei_1
+luty	relmast
+człowiek	remna
+istota ludzka	remna
+Wielka Brytania	ritygu'e_1
+Rosja	rukygu'e_1
+Hiszpania	sangu'e_1
+spać 	sipna
+Słowacja	slovensk
+9 : dziewięć	so
+wrzesień	sozmast
+rytuał	tcaci
+zwyczaj	tcaci
+Czechy	tcesk
+to : rzecz blisko mówiącego	ti
+słyszeć	tirna
+córka	tixnu
+Tokio	tokios
+najbardziej	traji
+najmniej	traji
+Waszyngton	uacintyn
+Warszawa	varcavas
+oglądać	viska
+postrzegać	viska
+widzieć	viska
+4 : cztery	vo
+czwartek	vondei_1
+kwiecień	vonmast
+Ukraina	vurgu'e_1
+6 : sześć	xa
+dobre : korzystne	xamgu
+korzystne	xamgu
+sobota	xavdei_1
+czerwiec	xavmast
+Indie	xingu'e
+czerwony	xunre
+budować	zbasu
+produkować	zbasu
+składać : montować	zbasu
+7 : siedem	ze
+lipiec	zelmast
+coś : niesprecyzowany obiekt	zo'e
