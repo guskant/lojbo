@@ -6,10 +6,15 @@ How to apply.
 
 2. put the file 20150109.diff in the same folder as stardict-tools-3.0.1.tar.bz2.
 
-3. on the command line, 
+3. Apply the patch itself. On the command line,
 $ cd [path to the folder above]
 $ tar xvf stardict-tools-3.0.1.tar.bz2
+
+If on Linux:
 $ patch -p1 < 20150109.diff
+
+If on OS X:
+$ patch -p1 < 20160428-os-x.diff
 
 4. install the stardict-tools-3.0.1:
 $ cd stardict-tools-3.0.1
@@ -31,7 +36,11 @@ Notes.
 3. For usage of stardict-tools, read 
 http://stardict-4.sourceforge.net/HowToCreateDictionary 
 
+4. In OS X, using Homebrew, you need to install `mysql`
+$ brew install mysql
+Then, when running `configure`:
+$ CPPFLAGS=-I/usr/local/include/mysql ./configure
 
-Contact about the patch (don't ask me anything about stardict or the tools):
+Contact about the patch (don't ask us anything about stardict or the tools):
 gusni.kantu@gmail.com
-
+adria.garriga@gmail.com
