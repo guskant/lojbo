@@ -340,7 +340,6 @@ fatci	gismu   	-fac-		      	x_1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (ab
 fatne	gismu   	-fat-   	-fa'e-	      	x_1 [Folge] ist in umgekehrter Reihenfolge vergleichen mit x_2 [Folge]; x_1 (Objekt) ist umgekehrt in Bezug auf x_2 (Objekt)
 fatri	gismu   	-fai-		      	x_1 wird verteilt/zugemessen/zugewiesen unter x_2 mit Anteilen/Portionen/Teilen x_3; (x_2/x_3 fa'u)
 febvi	gismu   	-feb-		      	x_1 kocht/siedet/verdampft bei Temperatur x_2 und Druck x_3
-fegli	experimental gismu			      	x_1 ist hässlich/unschön laut Empfindung von x_2 in Aspekt x_3 (ka)	Siehe auch: {melbi}, {mabla}, {pante}, {xlali}, {nelci}, {pluka}, {to'e}
 femti	gismu   	-fem-		      	x_1 ist 10^{-15} von x_2 in Dimension/Aspekt x_3 (Default: Einheiten)
 fendi	gismu   	-fed-		      	x_1 (Handelnder) teilt x_2 in Teile/Abschnitte x_3 mit Methode/Aufteilung x_4
 fengu	gismu   	-feg-   	-fe'u-	      	x_1 ist ärgerlich auf/verärgert über x_2 wegen x_3 (Aktion/Zustand/Eigenschaft)
@@ -354,7 +353,7 @@ festi	gismu   	-fes-		      	x_1 ist/sind Abfallprodukt(e) von x_2 (Ereignis/Akt
 fetsi	gismu   	-fet-   	-fe'i-	      	x_1 ist ein Weibchen der Spezies x_2 mit weiblicher Eigenschaft/weiblichen Eigenschaften x_3 (ka); x_1 ist weiblich
 figre	gismu   	-fig-		      	x_1 ist eine Feige [Frucht/Baum] von Art/Gattung/Sorte x_2
 filso	gismu   	-fis-		      	x_1 repräsentiert palästinensische Kultur/Nationalität in Aspekt x_2
-finpe	gismu   	-fip-   	-fi'e-	      	x_1 ist ein Fisch der Art x_2 [auch Haie, andere Wirbeltiere im Wasser].	Siehe auch {danlu}.
+finpe	gismu   	-fip-   	-fi'e-	      	x_1 ist ein Fisch von Art/Gattung x_2 [metaphorische Ausdehnung auf Haie und im Wasser lebende Wirbeltiere außer Fischen]	Siehe auch {danlu}.
 finti	gismu   	-fin-   	-fi'i-	      	x_1 erfindet/erschafft/komponiert/verfasst x_2 für die Funktion/den Zweck x_3 aus den existierenden Elementen/Ideen x_4.	x_1 ist kreativ/erfinderisch.  Siehe auch Cmavo-Liste {fi'e}, {ciska}, {pemci}, {zbasu}, {larcu}, {prosa}, {skina}.
 flalu	gismu   	-fla-		      	x_1 ist ein Gesetz und schreibt x_2 (Zustand/Ereignis) vor für Gemeinschaft x_3 unter Bedingungen x_4 und ist erstellt von x_5 (Gesetzgeber)
 flani	gismu			      	x_1 ist eine Flöte/Pfeife [flötenartiges Musikinstrument, eventuell mit Rohrblatt]
@@ -426,7 +425,7 @@ gunka	gismu   	-gun-   	-gu'a-	      	x_1 (Person) arbeitet an x_2 (Aktivität/A
 gunma	gismu   	-gum-		      	x_1 ist eine Masse/ein Team/ein Aggregat/ein Ganzes und besteht aus Einzelteilen x_2, als Ganzes betrachtet
 gunro	gismu   	-gur-   	-gu'o-	      	x_1 rollt auf/gegen Oberfläche x_2 und rotiert auf Achse x_3; x_1 ist ein Roller
 gunse	gismu			      	x_1 ist eine Gans/[ein Gänserich] der Art/Gattung x_2.	Siehe auch {cipni}.
-gunta	gismu   	-gut-		      	x_1 (Person/Masse) greift x_2 an/dringt in x_2 ein/übt Aggression an Opfer x_2 aus mit Ziel x_3
+gunta	gismu   	-gut-		      	x_1 (Person/Masse) greift x_2 an/dringt in x_2 ein/übt Aggression an Opfer x_2 aus mit Ziel/Absicht x_3.	Siehe auch {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}.
 gurni	gismu   	-gru-		      	x_1 ist Getreide/Korn von Pflanze/Art x_2
 guska	gismu   	-guk-		      	x_1 (Klinge/Schaber) kratzt/schabt/schleift x_2 von x_3
 gusni	gismu   	-gus-   	-gu'i-	      	x_1 [Energie] ist Licht/Beleuchtung und erleuchtet x_2 aus Lichtquelle x_3
@@ -648,7 +647,7 @@ larcu	gismu   	-lar-		      	x_1 (Prozess) ist eine Kunst [kreative Anwendung] v
 lasna	gismu   	-la'a-		      	x_1 (Handelnder) befestigt/verbindet/heftet/zurrt x_2 an x_3 fest mit Befestigung/Halter/Klammer x_4
 lastu	gismu			      	x_1 ist eine Menge an/enthält/besteht aus Messing [Kupfer-Zink-Legierung] von Zusammensetzung unter anderem x_2
 latmo	gismu   	-la'o-		      	x_1 repräsentiert das/die lateinisch/römische/romanische Kultur/Reich/Sprache in Aspekt x_2
-latna	gismu			      	x_1 ist ein Lotus, eine Pflanze/Blume/ein Kraut von Art/Gattung x_2 und symbolisiert x_3 für Kultur/Religion x_4
+latna	gismu			      	x_1 ist ein Lotus, eine Pflanze/Blume/ein Kraut von Art/Gattung x_2 und symbolisiert x_3 für Kultur/Religion x_4	Siehe auch {budjo}, {censa}, {lijda}, {spati}.
 lazni	gismu			      	x_1 (Person) ist faul/vermeidet Arbeit/Mühe bezüglich Tätigkeit x_2
 lebna	gismu   	-leb-   	-le'a-	      	x_1 nimmt/bekommt x_2 (Objekt/Eigenschaft) von x_3 (Besitzer)
 lenjo	gismu   	-len-   	-le'o-	      	x_1 ist eine Linse/Glas [fokussierende Form] und richtet x_2 auf Fokus x_3 mit Mittel/Material x_4
@@ -748,7 +747,7 @@ mledi	gismu   	-led-		      	x_1 ist ein Pilz/Schimmel/Schwamm/Trüffel von Art/
 mluni	gismu   	-lun-		      	x_1 ist ein Satellit/Trabant/Mond und umkreist x_2 mit Eigenschaften x_3 und Umlaufbahn-Parametern x_4
 mokca	gismu   	-moc-		      	x_1 ist ein Punkt/Moment [0-dimensionale Form] an/in Ort/Zeit x_2
 moklu	gismu   	-mol-   	-mo'u-	      	x_1 ist ein/der Mund/die Mundhöhle [Körperteil] von x_2; (Im übertragenen Sinn: Eingang/Einlass für Verbrauch)
-molki	gismu   	-mlo-		      	x_2 ist eine Mühle/Fabrik/Gießerei/Industrieanlage/[Fließband] und führt Prozess x_2 durch
+molki	gismu   	-mlo-		      	x_1 ist eine Mühle/Fabrik/Gießerei/Industrieanlage/[Fließband] und führt Prozess x_2 durch.
 molro	gismu   	-mo'o-		      	x_1 ist x_2 Mol [metrische Einheit] an Stoffmenge (Default: 1) gemäß Standard x_3
 morji	gismu   	-moj-   	-mo'i-	      	x_1 erinnert/entsinnt sich an Tatsachen/Erinnerung x_2 (du'u) über Thema x_3
 morko	gismu   	-mor-		      	x_1 repräsentiert marokkanische Kultur/Nationalität in Aspekt x_2
@@ -767,6 +766,7 @@ mupli	gismu   	-mup-		      	x_1 ist ein Beispiel/Vorbild/Muster/eine Probe/Dars
 murse	gismu			      	x_1 ist die [astronomische] Dämmerung/Sonnenauf-/untergang/Morgenröte/Abendrot von Tag x_2 an Ort x_3
 murta	gismu   	-mur-   	-mu'a-	      	x_1 ist eine Gardine/Blende/Jalousie/ein Vorhang zum Verdunkeln/Verdecken von Öffnung x_2 und aus Material x_3
 muslo	gismu   	-mus-		      	x_1 gehört zur islamischen/muslimischen/koranischen Kultur/Religion/Nation in Aspekt x_2
+mutce	gismu   	-tce-		      	x_1 ist sehr/extrem/äußerst x_2 (ka); x_1 hat in hohem Maße die Eigenschaft x_2 (ka).	Siehe auch {milxe}, {traji}, {banli}, {carmi}, {nutli}.
 muvdu	gismu   	-muv-   	-mu'u-	      	x_1 (Objekt) bewegt sich zu Ziel/Empfänger x_2, [weg] von Ursprung x_3 über Pfad/Route x_4
 muzga	gismu   	-muz-		      	x_1 ist ein Museum und bewahrt [und stellt möglicherweise aus] x_2 an Ort x_3
 nabmi	gismu   	-nam-		      	x_1 (Ereignis/Zustand) ist ein Problem für/aufgetreten bei x_2 in Situation/Aufgabe/Vorhaben x_3
@@ -1035,7 +1035,7 @@ skuro	gismu   	-ku'o-		      	x_1 ist ein Graben/Schlitz/eine Furche/Rille/Kerbe
 slabu	gismu   	-sau-		      	x_1 ist bekannt/gewohnt/geläufig/vertraut für Betrachter x_2 in Merkmal x_3 (ka) gemäß Standard x_4
 slaka	gismu			      	x_1 ist eine Silbe in Sprache x_2
 slami	gismu			      	x_1 ist eine Menge an/enthält/besteht aus Säure von Zusammensetzung x_2; (Adjektiv:) x_1 ist säurehaltig
-slanu	gismu			      	x_1 ist ein Zylinder [Form] aus Material x_2
+slanu	gismu			      	x_1 ist ein Zylinder [Form] aus Material x_2.	Siehe auch {kamju}, {gunro}.
 slari	gismu   	-sar-		      	x_1 ist sauer/beißend für Wahrnehmenden x_2
 slasi	gismu   	-las-		      	x_1 ist eine Menge an/enthält/besteht aus Plastik/Kunststoff/Polymer von Typ/aus Monomeren/Komponenten x_2
 sligu	gismu   	-lig-		      	x_1 ist fest/ein Feststoff von Zusammensetzung/Material unter anderem x_2 unter Bedingungen x_3
@@ -1104,6 +1104,7 @@ stedu	gismu   	-sed-		      	x_1 ist ein/der Kopf [Körperteil] von x_2; [im üb
 stela	gismu   	-tel-		      	x_1 ist ein Schloss/Siegel/eine Sperre zum Verschließen von x_2 mit Verschlussmechanismus x_3
 stero	gismu   	-te'o-		      	x_1 ist x_2 Steradiant [metrische Einheit] an Raumwinkel (Default: 1) gemäß Standard x_3
 stici	gismu   	-sic-		      	x_1 ist westlich/der Westen von x_2 gemäß Referenzrahmen x_3
+stidi	gismu   	-sid-   	-ti'i-	      	x_1 schlägt x_2 (du'u) vor; x_1 macht Vorschlag x_2.	Siehe auch {tcica} und {xlura}.
 stika	gismu   	-tik-		      	x_1 (Ereignis) passt an/gleicht an/reguliert/verändert x_2 (ka/ni) in/um Menge/Grad x_3
 stizu	gismu   	-tiz-		      	x_1 ist ein Stuhl/Sitz/Sessel/Hocker/eine Bank, ein Möbelstück zum Sitzen
 stodi	gismu   	-sto-		      	x_1 ist konstant/invariant/gleich bleibend in Eigenschaft x_2 (ka) als Antwort auf Reiz/Bedingungen x_3

@@ -5,20 +5,20 @@ a'anai	cmavo-compound			   	UI*1      	actitudinal: atención - desatención - e
 abu	bu-letteral			   	BY*      	letra a
 a'e	cmavo			   	UI1      	actitudinal: alerta - agotamiento	Ver también {sanji},  {cikna},  {tatpi}.
 a'enai	cmavo-compound			   	UI*1      	actitudinal: alerta - agotamiento
-ai	cmavo			   	UI1      	actitudinal: intención - indecisión - rechazo/denegación	Ver también {termu'i},  {terzu'e},  {seljdi},  {selcu'a}.
 a'i	cmavo			   	UI1      	actitudinal: esfuerzo - ningún esfuerzo especial - reposo	Ver también {gunka},  {slunandu},  {guksurla},  {troci},  {selprogunka}.
+ai	cmavo			   	UI1      	actitudinal: intención - indecisión - rechazo/denegación	Ver también {termu'i},  {terzu'e},  {seljdi},  {selcu'a}.
 a'icu'i	cmavo-compound			   	UI*1      	actitudinal: esfuerzo - ningún esfuerzo especial - reposo
 aicu'i	cmavo-compound			   	UI*1      	actitudinal: intención - indecisión - rechazo/denegación
-ainai	cmavo-compound			   	UI*1      	actitudinal: intención - indecisión - rechazo/denegación
 a'inai	cmavo-compound			   	UI*1      	actitudinal: esfuerzo - ningún esfuerzo especial - reposo
+ainai	cmavo-compound			   	UI*1      	actitudinal: intención - indecisión - rechazo/denegación
 a'o	cmavo			   	UI1      	actitudinal: esperanza - desesperación	Ver también {pacna}.
 a'onai	cmavo-compound			   	UI*1      	actitudinal: esperanza - desesperación
-au	cmavo			   	UI1      	actitudinal: deseo - indiferencia - rechazo	Ver también {djica}.
 a'u	cmavo			   	UI1      	actitudinal: interés - desinterés - repulsión	Ver también {cinri},  {selcni}.
+au	cmavo			   	UI1      	actitudinal: deseo - indiferencia - rechazo	Ver también {djica}.
 a'ucu'i	cmavo-compound			   	UI*1      	actitudinal: interés - desinterés - repulsión
 aucu'i	cmavo-compound			   	UI*1      	actitudinal: deseo - indiferencia - rechazo
-aunai	cmavo-compound			   	UI*1      	actitudinal: deseo - indiferencia - rechazo
 a'unai	cmavo-compound			   	UI*1      	actitudinal: interés - desinterés - repulsión
+aunai	cmavo-compound			   	UI*1      	actitudinal: deseo - indiferencia - rechazo
 ba	cmavo			   	PU      	dirección/relación de tiempo verbal: será (selbri); después de (sumti); por defecto tiempo futuro
 ba'a	cmavo			   	UI2      	evidencial: anticipación - experiencia - recuerdo	Ver también {bavykri},  {lifri},  {morji}.
 ba'acu'i	cmavo-compound			   	UI*2      	evidencial: anticipación - experiencia - recuerdo
@@ -27,19 +27,19 @@ baba	cmavo-compound			   	PU*      	tiempo verbal: irá a ser; (tiempo/modal)
 baca'a	cmavo-compound			   	PU*      	tiempo verbal: realidad futura; aspecto modal
 baca'o	cmavo-compound			   	ZAhO*      	tiempo verbal: estará siendo; (tiempo/modal)
 ba'e	cmavo			   	BAhE      	indicador de énfasis; indica que la siguiente palabra es especialmente enfatizada
-bai	cmavo			   	BAI      	bapli modal, 1er argumento (forzado por)              forzadamente; compelido por fuerza ...
 ba'i	cmavo			   	BAI      	basti modal, 1er argumento                            reemplazado por ...
+bai	cmavo			   	BAI      	bapli modal, 1er argumento (forzado por)              forzadamente; compelido por fuerza ...
 ba'o	cmavo			   	ZAhO      	aspecto verbal: habiendo concluído la acción; perfecto              |     |----
 bapu	cmavo-compound			   	PU*      	tiempo verbal: habrá sido; (tiempo/modal)
-bau	cmavo			   	BAI      	bangu modal, 1er argumento                            en lenguaje ...
 ba'u	cmavo			   	UI3      	discursivo: exageración - exactitud - minimización	Ver también {satci},  {dukse}.
+bau	cmavo			   	BAI      	bangu modal, 1er argumento                            en lenguaje ...
 ba'ucu'i	cmavo-compound			   	UI*3      	discursivo: exageración - exactitud - minimización
 ba'unai	cmavo-compound			   	UI*3      	discursivo: exageración - exactitud - minimización
 be	cmavo			   	BE      	adhiere un sumti (por defecto x_2) a un selbri; usado en descripciones
 be'a	cmavo			   	FAhA1      	locación/dirección; al norte de
 be'e	cmavo			   	COI      	vocativo: pedido para enviar/hablar
-bei	cmavo			   	BEI      	separa varios sumti acoplados a un selbri; usado en descripciones
 be'i	cmavo			   	BAI      	benji modal, 1er argumento (enviador)                 enviado por ...
+bei	cmavo			   	BEI      	separa varios sumti acoplados a un selbri; usado en descripciones
 be'o	cmavo			   	BEhO      	terminador elisible: fin de sumti acoplado en una descripción específica
 be'u	cmavo			   	UI5      	modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad	Ver también {claxu},  {nitcu},  {mansa}.
 be'ucu'i	cmavo-compound			   	UI*5      	modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad/hartazgo
@@ -73,19 +73,19 @@ caba'o	cmavo-compound			   	ZAhO*      	tiempo verbal: ha sido; (tiempo/modal)
 caca'a	cmavo-compound			   	PU*      	tiempo verbal: realidad presente; aspecto modal
 caca'o	cmavo-compound			   	ZAhO*      	tiempo verbal: está siendo; (tiempo/modal)
 ca'e	cmavo			   	UI2      	evidencial: definición	Ver también {mitcu'a},  {mitsmu}.
-cai	cmavo			   	CAI      	actitudinal: gran intensidad
 ca'i	cmavo			   	BAI      	catni modal, 1er argumento                            por autoridad de ...
+cai	cmavo			   	CAI      	actitudinal: gran intensidad
 cajeba	cmavo-compound			   	PU*      	tiempo verbal: durante y después; (tiempo/modal)
 ca ma	cmavo-compound			   	PU*      	pregunta por una hora/fecha/evento; simultaneo con ¿qué?
 ca'o	cmavo			   	ZAhO      	aspecto verbal: acción en curso; continuativo                                    |-----|
 capu'o	cmavo-compound			   	ZAhO*      	tiempo verbal: está por ser; (tiempo/modal)
-cau	cmavo			   	BAI      	claxu modal, 1er argumento                            carecido por ...
 ca'u	cmavo			   	FAhA2      	locación/dirección; frente a
+cau	cmavo			   	BAI      	claxu modal, 1er argumento                            carecido por ...
 ce	cmavo   	-cec-		   	JOI      	conector no lógico: enlace de conjunto, no ordenado; formando un conjunto
 ce'a	cmavo			   	LAU      	cambio de letra: sigue indicador de un nuevo tipo de letra (ej. itálica, manuscrita)
 ce'e	cmavo			   	CEhE      	acopla términos en un grupo
-cei	cmavo			   	CEI      	asignación de selbri variable; asigna pro-bridi de serie broda a un selbri
 ce'i	cmavo   	-cez-		   	PA3      	dígito/número: \\% porcentaje, centésimos
+cei	cmavo			   	CEI      	asignación de selbri variable; asigna pro-bridi de serie broda a un selbri
 ce'o	cmavo   	-ce'o-		   	JOI      	conector no lógico: enlace de secuencia ordenada; 
 ce'u	cmavo			   	KOhA8      	indica la posición del poseedor de una propiedad
 ci	cmavo   	-cib-		      		dígito/número: 3 (dígito) (tres)
@@ -103,8 +103,8 @@ ci'u	cmavo			   	BAI      	ckilu modal, 1er argumento                           
 co	cmavo   	-col-		   	CO      	inversion de tanru; permite sumti pospuestos del modificador sin acople de sumti
 co'a	cmavo   	-co'a-		   	ZAhO      	aspecto verbal: comienzo de la acción; ingresivo                   >|<    |
 co'e	cmavo   	-com-   	-co'e-	   	GOhA      	relación elíptica/no especificada
-coi	cmavo			   	COI      	vocativo: saludo/hola
 co'i	cmavo			   	ZAhO      	aspecto verbal: acción puntual; logrativo;   >|<
+coi	cmavo			   	COI      	vocativo: saludo/hola
 coico'o	cmavo-compound			   	COI*      	vocativo: saludo al pasar
 co'o	cmavo			   	COI      	vocativo: adios
 co'u	cmavo   	-co'u-		   	ZAhO      	aspecto verbal: fin de la acción, incluso sin completar; egresivo      |  >< |
@@ -121,17 +121,17 @@ da'a	cmavo   	-daz-		   	PA4      	dígito/número: todos excepto n; todos menos
 da'amoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte todos-menos-1 en selbri ordinal; x_1 es penúltimo entre x_2 según regla x_3
 da'aremoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte todos-menos-2 en selbri ordinal; x_1 es antepenúltimo entre x_2 según regla x_3
 da'e	cmavo			   	KOhA2      	pro-sumti: expresión futura; "Te lo dirá mañana. ESO va a estar bueno."
-dai	cmavo			   	UI5      	modificador de actitudinal: empatía; muestra los sentimientos de otro	Ver también {cnijmi}.
 da'i	cmavo			   	UI3      	discursivo: suposición - de hecho	Ver también {sruma}.
+dai	cmavo			   	UI5      	modificador de actitudinal: empatía; muestra los sentimientos de otro	Ver también {cnijmi}.
 da'inai	cmavo-compound			   	UI*3      	discursivo: suponiendo - de hecho
 da'o	cmavo			   	DAhO      	discursivo: cancela asignaciones de pro-sumti/pro-bridi
-dau	cmavo			   	PA2      	dígito/número: dígito hexadecimal A (decimal 10) (diez)
 da'u	cmavo			   	KOhA2      	pro-sumti: una expresión pasada; "Ella no podía saber que ESO sería cierto."
+dau	cmavo			   	PA2      	dígito/número: dígito hexadecimal A (decimal 10) (diez)
 de	cmavo			   	KOhA1      	pro-sumti con cuantificación existencial: existe algo 2 (generalmente restringido)
 de'a	cmavo			   	ZAhO      	aspecto verbal: comienzo de una pausa en la acción, a ser retomada; pausativo
 de'e	cmavo			   	KOhA2      	pro-sumti: una expresión futura próxima
-dei	cmavo			   	KOhA2      	pro-sumti: esta expresión
 de'i	cmavo			   	BAI      	detri modal, 1er argumento (para cartas)              fechado ...
+dei	cmavo			   	KOhA2      	pro-sumti: esta expresión
 denpa bu	bu-letteral			   	BY*      	letra: carácter "." de lojban
 de'o	cmavo			   	VUhU3      	operador matemático binario: logaritmo; (log/ln a en base b); por defecto base 10 or e
 de'u	cmavo			   	KOhA2      	pro-sumti: una expresión reciente
@@ -146,8 +146,8 @@ do	cmavo   	-don-   	-doi-	   	KOhA3      	pro-sumti: tú/usted(es); identificad
 do'a	cmavo			   	UI3      	discursivo: generosidad - parsimonia	Ver también {dunda}.
 do'anai	cmavo-compound			   	UI*3      	discursivo: generosamente - parsimoniosamente
 do'e	cmavo			   	BAI      	modal elíptico/no específico
-doi	cmavo			   	DOI      	vocativo genérico; identifica al interlocutor de quien habla; elisible después de COI
 do'i	cmavo			   	KOhA2      	pro-sumti: expresión elíptica/no especificada
+doi	cmavo			   	DOI      	vocativo genérico; identifica al interlocutor de quien habla; elisible después de COI
 doido'u	cmavo-compound			   	DOI*      	vocativo genérico para dirigirse a alguien;
 do'o	cmavo			   	KOhA3      	pro-sumti: tú/usted(es) \\& otros no especificados
 do'u	cmavo			   	DOhU      	terminador elisible: fin de vocativo (a menudo elisible)
@@ -166,11 +166,11 @@ e'anai	cmavo-compound			   	UI*1      	actitudinal: permiso - prohibición
 ebu	bu-letteral			   	BY*      	letra e
 e'e	cmavo			   	UI1      	actitudinal: competencia - incompetencia/inhabilidad	Ver también {kakne},  {certu}.
 e'enai	cmavo-compound			   	UI*1      	actitudinal: competencia - incompetencia/inabilidad
-ei	cmavo			   	UI1      	actitudinal: obligación - libertad	Ver también {bilga},  {zifre}.
 e'i	cmavo			   	UI1      	actitudinal: restricción - independencia - desafío/resistencia a restricción	Ver también {selri'u},  {seljimte}.
+ei	cmavo			   	UI1      	actitudinal: obligación - libertad	Ver también {bilga},  {zifre}.
 e'icu'i	cmavo-compound			   	UI*1      	actitudinal: restricción - independencia - desafío/resistencia
-einai	cmavo-compound			   	UI*1      	actitudinal: obligación - libertad
 e'inai	cmavo-compound			   	UI*1      	actitudinal: restricción - independencia - desafío/resistencia
+einai	cmavo-compound			   	UI*1      	actitudinal: obligación - libertad
 enai	cmavo-compound			   	A*      	conector lógico entre sumti: x pero no y
 e'o	cmavo			   	UI1      	actitudinal: pedido - pedido negativo	Ver también {cpedu},  {pikci}.
 e'onai	cmavo-compound			   	UI*1      	actitudinal: pedido - pedido negativo
@@ -180,11 +180,11 @@ e'unai	cmavo-compound			   	UI*1      	actitudinal: sugerencia - abandona sugere
 fa	cmavo			   	FA      	indicador de posición de sumti: indica 1ra posición de sumti
 fa'a	cmavo			   	FAhA4      	locación/dirección; hacia/en dirección a
 fa'e	cmavo			   	BAI      	fatne modal, 1er argumento                            hacia atrás; al revés de ...
-fai	cmavo			   	FA      	indicador de posición de sumti: indica un sumti fuera de la estructura numerada de posiciones; usado en conversiones modales
 fa'i	cmavo			   	VUhU2      	operador matemático unitario: recíproco; inverso multiplicativo; (1/a)
+fai	cmavo			   	FA      	indicador de posición de sumti: indica un sumti fuera de la estructura numerada de posiciones; usado en conversiones modales
 fa'o	cmavo			   	FAhO      	fin de texto incondicional; fuera de la gramática regular
-fau	cmavo			   	BAI      	fasnu modal, 1er argumento (no causal)                en el evento de ...
 fa'u	cmavo			   	JOI      	conector no lógico: respectivamente; asociación ordenada distributiva
+fau	cmavo			   	BAI      	fasnu modal, 1er argumento (no causal)                en el evento de ...
 fau'u	experimental cmavo			   	COI      	¡Lo siento!	cf. {fraxu}, {u'u}.
 fe	cmavo			   	FA      	indicador de posición de sumti: indica 2da posición de sumti
 fe'a	cmavo			   	VUhU3      	operador matemático binario: raíz enésima de; potencia inversa (a elevado a la potencia 1/b)
@@ -198,8 +198,8 @@ fe'enoroi	cmavo-compound			   	ROI*      	modificador de intervalo espacial: en 
 fe'epu'o	cmavo-compound			   	ZAhO*      	aspecto verbal espacial: incoativo espacial; hasta el borde de ...
 fe'eroroi	cmavo-compound			   	ROI*      	modificador de intervalo espacial: en todos lados, en cada lugar
 fe'eza'o	cmavo-compound			   	ZAhO*      	aspecto verbal espacial: superfectivo espacial; continuando demasiado más allá de ...
-fei	cmavo			   	PA2      	dígito/número: dígito hexadecimal B (decimal 11) (once)
 fe'i	cmavo			   	VUhU1      	operador matemático n-ario: dividido por; operador de división; ((((a / b) / c) / ...))
+fei	cmavo			   	PA2      	dígito/número: dígito hexadecimal B (decimal 11) (once)
 fe'o	cmavo			   	COI      	vocativo: cambio y fuera (fin de la discusión)
 fe'u	cmavo			   	FEhU      	terminador elisible: fin conversión de selbri a modal; generalmente elisible
 fi	cmavo			   	FA      	indicador de posición de sumti: indica 3ra posición de sumti
@@ -212,8 +212,8 @@ fi'u	cmavo			   	PA3      	dígito/número: barra de fracción; por defecto "/n"
 fo	cmavo			   	FA      	indicador de posición de sumti: indica 4ta posición de sumti
 fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #6 (especificado por goi)
 fo'e	cmavo   	-fo'e-		   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #7 (especificado por goi)
-foi	cmavo			   	FOI      	terminador: fin de lerfu compuesto; nunca elisible
 fo'i	cmavo   	-fo'i-		   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #8 (especificado por goi)
+foi	cmavo			   	FOI      	terminador: fin de lerfu compuesto; nunca elisible
 fo'o	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #9 (especificado por goi)
 fo'u	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #10 (especificado por goi)
 fu	cmavo			   	FA      	indicador de posición de sumti: indica 5ta posición de sumti
@@ -227,19 +227,19 @@ fy	cmavo			   	BY2      	letra f
 ga	cmavo			   	GA      	conector lógico preposicionado: o (con gi)
 ga'a	cmavo			   	BAI      	zgana modal, 1er argumento                            para observador ... ; con testigo ...
 ga'e	cmavo			   	BY1      	cambia a mayúsculas
-gai	cmavo			   	PA2      	dígito/número: dígito hexadecimal C (decimal 12) (doce)
 ga'i	cmavo			   	UI5      	modificador de actitudinal/honorífico: alteza - igual rango - sumisión; usado con alguien the rango menor	Ver también {gapru},  {cnita}.
+gai	cmavo			   	PA2      	dígito/número: dígito hexadecimal C (decimal 12) (doce)
 ga'icu'i	cmavo-compound			   	UI*5      	modificador de actitudinal/honorific: alteza - igual rango - sumisión; usado con alguien de igual rango
 ga'inai	cmavo-compound			   	UI*5      	modificador de actitudinal/honorific: alteza - igual rango - sumisión; usado con alguien de mayor rango
 ganai	cmavo-compound			   	GA*      	conector lógico preposicionado: condicional/sólo si (con gi)
 ga'o	cmavo			   	GAhO      	marcador de intervalo cerrado; modifica intervalos en conectores no lógicos; incluye límites
-gau	cmavo			   	BAI      	gasnu modal, 1er argumento caso agente/actor          con agente activo ...
 ga'u	cmavo			   	FAhA2      	locación/dirección; encima de
+gau	cmavo			   	BAI      	gasnu modal, 1er argumento caso agente/actor          con agente activo ...
 ge	cmavo			   	GA      	conector lógico preposicionado: y (con gi)
 ge'a	cmavo			   	VUhU0      	operador matemático: expresión matemática nula
 ge'e	cmavo			   	UI6      	actitudinal: emoción elíptica/no específica; ningún sentimiento en especial
-gei	cmavo			   	VUhU2      	operador matemático trinario: orden de magnitud/valor/base; (b * (c elevado a la potencia a))
 ge'i	cmavo			   	GA      	conector lógico preposicionado: pregunta (con gi)
+gei	cmavo			   	VUhU2      	operador matemático trinario: orden de magnitud/valor/base; (b * (c elevado a la potencia a))
 ge'o	cmavo			   	BY1      	cambia letras a alfabeto griego
 ge'u	cmavo			   	GEhU      	terminador elisible: fin de frases relativas de GOI; generalmente elisible en frases no complejas
 gi	cmavo			   	GI      	conector lógico preposicionado: introduce el segundo término
@@ -253,8 +253,8 @@ gi'u	cmavo			   	GIhA      	conector lógico entre bridi-tail: sea o no que
 go	cmavo			   	GA      	conector lógico preposicionado: bicondicional/sii/si y sólo si (con gi)
 go'a	cmavo			   	GOhA      	pro-bridi: repite un bridi reciente (usualmente no uno de los dos últimos)
 go'e	cmavo			   	GOhA      	pro-bridi: repite el anteúltimo bridi
-goi	cmavo			   	GOI      	asignación de sumti; usado para definir/asignar pro-sumti de serie ko'a/fo'a; latín 'sive'
 go'i	cmavo			   	GOhA      	pro-bridi: bridi precedente; en respuesta a una pregunta por sí o por no, repite la oración como afirmación
+goi	cmavo			   	GOI      	asignación de sumti; usado para definir/asignar pro-sumti de serie ko'a/fo'a; latín 'sive'
 go'ira'o	cmavo-compound			   	GOhA*      	pro-bridi: bridi precedente; repite oración, actualizando valores de hablante/oyente
 gonai	cmavo-compound			   	GA*      	conector lógico preposicionado: o exclusivo (con gi)
 go'o	cmavo			   	GOhA      	pro-bridi: repite un bridi futuro, normalmente el siguiente
@@ -269,21 +269,21 @@ gu'onai	cmavo-compound			   	GUhA*      	conector lógico preposicionado entre c
 gu'u	cmavo			   	GUhA      	conector lógico preposicionado entre componentes de tanru: sea o no que (con gi)
 gy	cmavo			   	BY2      	letra g
 i	cmavo			   	I      	enlace de oración; continúan oraciones sobre el mismo tema; normalmente elisible para nuevo hablante
-ia	cmavo			   	UI1      	actitudinal: creencia - escepticismo - descreimiento	Ver también {krici},  {jinvi}.
 i'a	cmavo			   	UI1      	actitudinal: aceptación - culpa	Ver también {nalna'e},  {nalpro},  {no'epro},  {nalzugjdi}.
+ia	cmavo			   	UI1      	actitudinal: creencia - escepticismo - descreimiento	Ver también {krici},  {jinvi}.
 iacu'i	cmavo-compound			   	UI*1      	actitudinal: creencia - escepticismo - descreimiento
-ianai	cmavo-compound			   	UI*1      	actitudinal: creencia - escepticismo - descreimiento
 i'anai	cmavo-compound			   	UI*1      	actitudinal: aceptación - culpa
+ianai	cmavo-compound			   	UI*1      	actitudinal: creencia - escepticismo - descreimiento
 ibu	bu-letteral			   	BY*      	letra i
-ie	cmavo			   	UI1      	actitudinal: acuerdo - desacuerdo	Ver también {tugni}.
 i'e	cmavo			   	UI1      	actitudinal: aprobación - no aprobación - desaprobación	Ver también {zanru}.
+ie	cmavo			   	UI1      	actitudinal: acuerdo - desacuerdo	Ver también {tugni}.
 i'ecu'i	cmavo-compound			   	UI*1      	actitudinal: aprobación - no aprobación - desaprobación
-ienai	cmavo-compound			   	UI*1      	actitudinal: acuerdo - desacuerdo
 i'enai	cmavo-compound			   	UI*1      	actitudinal: aprobación - no aprobación - desaprobación
-ii	cmavo			   	UI1      	actitudinal: miedo - seguridad	Ver también {terpa},  {snura}.
+ienai	cmavo-compound			   	UI*1      	actitudinal: acuerdo - desacuerdo
 i'i	cmavo			   	UI1      	actitudinal: juntos - privacidad	Ver también {kansa},  {gunma},  {sivni},  {sepli}.
-iinai	cmavo-compound			   	UI*1      	actitudinal: miedo - seguridad
+ii	cmavo			   	UI1      	actitudinal: miedo - seguridad	Ver también {terpa},  {snura}.
 i'inai	cmavo-compound			   	UI*1      	actitudinal: juntos - privacidad
+iinai	cmavo-compound			   	UI*1      	actitudinal: miedo - seguridad
 ija	cmavo-compound			   	JA*      	conector lógico entre oraciones: o
 ijanai	cmavo-compound			   	JA*      	conector lógico entre oraciones: si
 ije	cmavo-compound			   	JA*      	conector lógico entre oraciones: y
@@ -293,20 +293,20 @@ ijo	cmavo-compound			   	JA*      	conector lógico entre oraciones: bicondicion
 ijonai	cmavo-compound			   	JA*      	conector lógico entre oraciones: o exclusivo
 iju	cmavo-compound			   	JA*      	conector lógico entre oraciones: sea o no que
 inaja	cmavo-compound			   	JA*      	conector lógico entre oraciones: condicional/sólo si
-io	cmavo			   	UI1      	actitudinal: respeto - falta de respeto	Ver también {sinma}.
 i'o	cmavo			   	UI1      	actitudinal: apreciación - envidia	Ver también {ckire},  {jilra}.
-ionai	cmavo-compound			   	UI*1      	actitudinal: respeto - falta de respeto
+io	cmavo			   	UI1      	actitudinal: respeto - falta de respeto	Ver también {sinma}.
 i'onai	cmavo-compound			   	UI*1      	actitudinal: apreciación - envidia
-iu	cmavo			   	UI1      	actitudinal: amor - indiferencia - odio	Ver también {prami}.
+ionai	cmavo-compound			   	UI*1      	actitudinal: respeto - falta de respeto
 i'u	cmavo			   	UI1      	actitudinal: familiaridad - misterio	Ver también {slabu},  {nalni'o},  {kufra}.
+iu	cmavo			   	UI1      	actitudinal: amor - indiferencia - odio	Ver también {prami}.
 iucu'i	cmavo-compound			   	UI*1      	actitudinal: amor - indiferencia - odio
-iunai	cmavo-compound			   	UI*1      	actitudinal: amor - indiferencia - odio
 i'unai	cmavo-compound			   	UI*1      	actitudinal: familiaridad - misterio
+iunai	cmavo-compound			   	UI*1      	actitudinal: amor - indiferencia - odio
 ja	cmavo   	-jav-		   	JA      	conector lógico entre componentes de tanru: o
 ja'a	cmavo			   	NA      	afirmador lógico de bridi; alcance sobre todo el bridi
 ja'e	cmavo			   	BAI      	jalge modal, 1er argumento                            con resultado ...; resultando por lo tanto ...
-jai	cmavo   	-jax-		   	JAI      	convierte posición modal (preposicionada) en 1er argumento; el 1er argumento se mueve a la posición FA adicional 	Ver también {fai}.
 ja'i	cmavo			   	BAI      	javni modal, 1er argumento (según estándar 1)         ordenadamente; según regla ...
+jai	cmavo   	-jax-		   	JAI      	convierte posición modal (preposicionada) en 1er argumento; el 1er argumento se mueve a la posición FA adicional 	Ver también {fai}.
 jaica	cmavo-compound			   	SE*      	convierte posición de tiempo verbal en 1er argumento; el anterior 1er argumento se mueve a posición adicional	 Ver también {fai}.
 jaigau	cmavo-compound			   	SE*      	hace x_1 el agente de un bridi; el anterior 1er argumento se mueve a posición adicional (fai)
 jaivi	cmavo-compound			   	SE*      	convierte posición de locación en 1er argumento; el anterior 1er argumento se mueve a posición adicional (fai	)
@@ -315,9 +315,9 @@ jau	cmavo			   	PA2      	dígito/número: dígito hexadecimal D (decimal 13) (t
 je	cmavo   	-jev-   	-jve-	   	JA      	conector lógico entre componentes de tanru: y
 je'a	cmavo			   	NAhE      	afirmación escalar; niega negación escalar: ¡Claro que sí!
 je'e	cmavo			   	COI      	vocativo: recibido (reconocimiento) - reconocimiento negativo; usado para reconocer ofertas y agradecimientos
-je'enai	cmavo-compound			   	COI*      	vocativo: recibido (reconocimiento) - reconocimiento negativo; No te escuché
-jei	cmavo   	-jez-		   	NU      	abstractor: abstractor de valor de verdad; x_1 es el valor de verdad de (bridi) según epistemología x_2
+je'enai	cmavo-compound			   	COI*      	vocativo: recibido (reconocimiento) - reconocimiento negativo (No te escuché)
 je'i	cmavo			   	JA      	conector lógico entre componentes de tanru: conn question
+jei	cmavo   	-jez-		   	NU      	abstractor: abstractor de valor de verdad; x_1 es el valor de verdad de (bridi) según epistemología x_2
 jenai	cmavo-compound			   	JA*      	conector lógico entre componentes de tanru: x pero no y
 je'o	cmavo			   	BY1      	cambia letras a alfabeto hebreo
 je'u	cmavo			   	UI3      	discursivo: verdad - falsedad	Ver también {jetnu}.
@@ -333,8 +333,8 @@ ji'u	cmavo			   	BAI      	jicmu modal, 1er argumento (assumptions);            
 jo	cmavo   	-jov-		   	JA      	conector lógico entre componentes de tanru: bicondicional/sii/si y sólo si
 jo'a	cmavo			   	UI3a      	discursivo: afirmación metalinguistica	Ver también {drani}.
 jo'e	cmavo   	-jom-		   	JOI      	conector no lógico: unión de conjuntos
-joi	cmavo   	-jol-   	-joi-	   	JOI      	conector no lógico: conjunción colectiva; y, junto con, formando un grupo
 jo'i	cmavo			   	JOhI      	une operandos matemáticos en una matríz
+joi	cmavo   	-jol-   	-joi-	   	JOI      	conector no lógico: conjunción colectiva; y, junto con, formando un grupo
 joibu	bu-letteral			   	BY*      	letra: ampersand character; especially used in standing for a mixed connective
 jonai	cmavo-compound			   	JA*      	conector lógico entre componentes de tanru: o exclusivo
 jo'o	cmavo			   	BY1      	cambia letras a alfabeto arábigo
@@ -355,16 +355,16 @@ jy	cmavo			   	BY2      	letra j
 ka	cmavo   	-kam-		   	NU      	abstractor: abstractor de propiedad/cualidad; x_1 es una cualidad/propiedad exhibida por (bridi)
 ka'a	cmavo			   	BAI      	klama modal, 1er argumento                            ido por ...
 ka'e	cmavo			   	CAhA      	aspecto modal: capacidad innata; posiblemente no realizada
-kai	cmavo			   	BAI      	ckaji modal, 1er argumento                            caracterizando a ...
 ka'i	cmavo			   	BAI      	krati modal, 1er argumento                            representado por ...
+kai	cmavo			   	BAI      	ckaji modal, 1er argumento                            caracterizando a ...
 ka'o	cmavo			   	PA5      	dígito/número: imaginario i; raíz cuadrada de -1
-kau	cmavo			   	UI3a      	discursivo: marca el foco de una pregunta indirecta: "sé QUIÉN fue al mercado"
 ka'u	cmavo			   	UI2      	evidencial: sé culturalmente (mito o costumbre)	Ver también {kluju'o}.
+kau	cmavo			   	UI3a      	discursivo: marca el foco de una pregunta indirecta: "sé QUIÉN fue al mercado"
 ke	cmavo   	-kem-		   	KE      	comienza grupo en tanru, etc; anula agrupmiento normal de tanru por izquierda
 ke'a	cmavo			   	KOhA7      	pro-sumti: sumti relativizado (objeto de cláusula relativa)
 ke'e	cmavo   	-kep-   	-ke'e-	   	KEhE      	terminador elisible: fin de grupo en tanru (generalmente elisible)
-kei	cmavo   	-kez-		   	KEI      	terminador elisible: fin de bridi de abstracción (a menudo elisible)
 ke'i	cmavo			   	GAhO      	marcador de intervalo abierto; modifica intervalos en conectores no lógicos; excluye límites
+kei	cmavo   	-kez-		   	KEI      	terminador elisible: fin de bridi de abstracción (a menudo elisible)
 ke'o	cmavo			   	COI      	vocativo: repita
 ke'u	cmavo			   	UI3      	discursivo: repitiendo - continuando	Ver también {refbasna},  {krefu},  {rapli},  {velde'a}.
 ke'unai	cmavo-compound			   	UI*3      	discursivo: repitiendo - continuando
@@ -380,8 +380,8 @@ ki'u ma	cmavo-compound			   	BAI*      	pregunta por una explicación racional/j
 ko	cmavo			   	KOhA3      	pro-sumti: tú/ustedes (imperativo); haz que sea cierto
 ko'a	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas \\#1 (especificado por goi)
 ko'e	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas \\#2 (especificado por goi)
-koi	cmavo			   	BAI      	korbi modal, 1er argumento (bordeado por)             limitado por ...
 ko'i	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas #3 (especificado por goi)
+koi	cmavo			   	BAI      	korbi modal, 1er argumento (bordeado por)             limitado por ...
 ko'o	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas \\#4 (especificado por goi)
 ko'u	cmavo			   	KOhA4      	pro-sumti: él/ella/ello/ellos/ellas \\#5 (especificado por goi)
 ku	cmavo			   	KU      	terminador elisible: fin de descripción, modal, o sumti de negación; a menudo elisible
@@ -396,19 +396,19 @@ la'a	cmavo			   	UI3      	discursivo: probablemente - improbablemente	Ver tambi
 la'anai	cmavo-compound			   	UI*3      	discursivo: probabilidad - improbabilidad
 la'e	cmavo			   	LAhE      	el referente de (señalador indirecto); usa el referente de un sumti como sumti
 la'edi'u	cmavo-compound			   	KOhA*      	pro-sumti: el referente de la expresión anterior; el estado descripto: "ESO fué divertido"
-lai	cmavo			   	LA      	descriptor de nombre: el grupo de los llamados ... ; acepta nombre o descripción de selbri
 la'i	cmavo			   	LA      	descriptor de nombre: el conjunto de los llamados ... ; acepta nombre o descripción de selbri
+lai	cmavo			   	LA      	descriptor de nombre: el grupo de los llamados ... ; acepta nombre o descripción de selbri
 la'o	cmavo			   	ZOI      	nombre no lojbánico; el sumti resultante es tratado como un nombre
-lau	cmavo			   	LAU      	cambio de letra: sigue signo de puntuación o especial
 la'u	cmavo			   	BAI      	klani modal, 1er argumento (cantidad)                 cuantificando ...; siendo una cantidad de ...
+lau	cmavo			   	LAU      	cambio de letra: sigue signo de puntuación o especial
 la'u ma	cmavo-compound			   	BAI*      	pregunta por una cantidad; ¿cuánto?
 le	cmavo			   	LE      	descriptor no verídico: el/cada uno de los descriptos como ...
 le'a	cmavo			   	BAI      	klesi modal, 1er argumento (conjunto escalar)         en/de categoría ...
 ledo	cmavo-compound			   	LE*      	descriptor posesivo/asociativo: el descripto como ..., tuyo/de ustedes
 le'e	cmavo   	-lem-		   	LE      	descriptor no verídico: el estereotipo de los descriptos como ...
 le go'i	cmavo-compound			   	KOhA*      	pro-sumti de descripción: el valor de x_1 del bridi previo
-lei	cmavo			   	LE      	descriptor no verídico: el grupo de los descriptos como ...
 le'i	cmavo			   	LE      	descriptor no verídico: el conjunto de los descriptos como ...
+lei	cmavo			   	LE      	descriptor no verídico: el grupo de los descriptos como ...
 le jaica	cmavo-compound			   	LE*      	descripción: marca descripción que extrae el tiempo verbal del brdi de la descripción
 le jaigau	cmavo-compound			   	LE*      	descripción: marca descripción que extrae el agente del selbri de la descripción
 le jaivi	cmavo-compound			   	LE*      	descripción: marca descripción que extrae la locación del bridi de la descripción
@@ -438,8 +438,8 @@ li'u	cmavo			   	LIhU      	terminador elisible: fin de cita; raramente elisible
 lo	cmavo			   	LE      	descriptor verídico: uno(s) que realmente es/son ...
 lo'a	cmavo			   	BY1      	cambia letras a alfabeto lojbánico (romano)
 lo'e	cmavo   	-lom-		   	LE      	descriptor verídico: el/los típico(s) que realmente es/son ...
-loi	cmavo			   	LE      	descriptor verídico: un grupo de los que realmente son ...
 lo'i	cmavo			   	LE      	descriptor verídico: el conjunto de los que realmente son ...
+loi	cmavo			   	LE      	descriptor verídico: un grupo de los que realmente son ...
 lo'o	cmavo			   	LOhO      	terminador elisible: fin de sumti de expresión matemática; fin de conversión mex-a-sumti; generalmente elisib	le
 lo'u	cmavo			   	LOhU      	comienzo de cita de texto cuestionable o fuera de contexto; el texto debe consistir de palabras en lojban, pero no necesariamente gramaticalmente correcto
 lu	cmavo			   	LU      	comienzo de cita; el texto citado debe ser gramáticalmente correcto
@@ -452,19 +452,18 @@ ly	cmavo			   	BY2      	letra l
 ma	cmavo			   	KOhA7      	pro-sumti: pregunta de sumti (qué/quién/cómo/por qué/dónde/etc.); llenar apropiadamente el espacio de sumti
 ma'a	cmavo			   	KOhA3      	pro-sumti: yo/nosotros & tú/usted(es) & otros no especificados
 ma'e	cmavo			   	BAI      	marji modal, 1er argumento                            material en objeto/sustancia ...
-mai	cmavo			   	MAI      	sufijo ordinal de expresión; convierte número en ordinal, como un número de ítem o párrafo
 ma'i	cmavo			   	BAI      	manri modal, 1er argumento (según estándar 2)         en marco de referencia ...
+mai	cmavo			   	MAI      	sufijo ordinal de expresión; convierte número en ordinal, como un número de ítem o párrafo
 ma'o	cmavo			   	MAhO      	convierte operando de cadena de letras u otra expresión matemática en operador
-mau	cmavo			   	BAI      	zmadu modal, 1er argumento (un mayor)                 excedido por ...
 ma'u	cmavo			   	PA3      	dígito/número: signo más; número positivo
+mau	cmavo			   	BAI      	zmadu modal, 1er argumento (un mayor)                 excedido por ...
 me	cmavo			   	ME      	convierte sumti en selbri/elemento de tanru; x_1 es uno de los referentes de (sumti); x_1 es una instancia de (	sumti)
 me'a	cmavo			   	BAI      	mleca modal, 1er argumento (un menor)                 superando a ...
 medomoi	cmavo-compound			      		x_1 es tuyo entre x_3 por regla/relación x_3; x_1 es tu x_3 por regla/relación x_3; 
 me'e	cmavo			   	BAI      	cmene modal, 1er argumento (requiere cita)            con nombre ...; llamado ...
 me'e ma	cmavo-compound			   	BAI*      	pregunta por un nombre; ¿qué nombre?; requiere nombre citado como respuesta
-mei	cmavo   	-mem-   	-mei-	   	MOI      	convierte número en selbri cardinal; x_1 es un grupo de (n) miembros de x_2, uno de los cuales es x_3
 me'i	cmavo			   	PA3      	dígito/número: menor que; no todo (me'i[ro])
-memimoi	cmavo-compound			      		x_1 es mío entre x_2 por regla/relación x_3; x_1 es mi x_2 por regla/relación x_3
+mei	cmavo   	-mem-   	-mei-	   	MOI      	convierte número en selbri cardinal; x_1 es un grupo de (n) miembros de x_2, uno de los cuales es x_3
 me'o	cmavo			   	LI      	la expresión matemática (no evaluada); convierte expresión matemática no evaluada en sumti
 me'u	cmavo			   	MEhU      	terminador elisible: fin de sumti convertido en selbri; generalmente elisible
 mi	cmavo   	-mib-		   	KOhA3      	pro-sumti: yo/nosotros; identificado por autovocativo "mi'e"
@@ -479,8 +478,8 @@ mo	cmavo			   	GOhA      	pro-bridi: pregunta de bridi/selbri/brivla
 mo'a	cmavo   	-mob-		   	PA4      	dígito/número: demasiado pocos; subjetivo
 mo'aroi	cmavo-compound			   	ROI*      	modificador de intervalo: demasiado pocas veces
 mo'e	cmavo			   	MOhE      	convierte sumti en operando; ejemplo: (3 manzanas) + (3 manzanas) = ¿qué?
-moi	cmavo   	-mom-   	-moi-	   	MOI      	convierte número en selbri ordinal; x_1 es el (n)-ésimo miembro de x_2 ordenado según regla x_3
 mo'i	cmavo   	-mov-		   	MOhI      	marca movimiento en el espaciotiempo
+moi	cmavo   	-mom-   	-moi-	   	MOI      	convierte número en selbri ordinal; x_1 es el (n)-ésimo miembro de x_2 ordenado según regla x_3
 mo'ibe'a	cmavo-compound			   	FAhA*      	movimiento espacial: hacia el norte
 mo'ibu'u	cmavo-compound			   	FAhA*      	movimiento espacial: hasta
 mo'ica'u	cmavo-compound			   	FAhA*      	movimiento espacial: hacia adelante
@@ -522,24 +521,24 @@ mu'onai	cmavo-compound			   	COI*      	vocativo: cambio - sigue más
 mu'u	cmavo			   	BAI      	mupli modal, 1er argumento                            ejemplificado por ...
 my	cmavo			   	BY2      	letra m
 na	cmavo   	-nar-		   	NA      	negador de bridi; alcance sobre todo el bridi; negación lógica en algunos compuestos de cmavo
-na.a	cmavo-compound			   	A*      	conector lógico entre sumti: condicional/sólo si
 na'a	cmavo			   	BY1      	cancela todos los cambios de alfabeto
+na.a	cmavo-compound			   	A*      	conector lógico entre sumti: condicional/sólo si
 na'e	cmavo   	-nal-		   	NAhE      	negador contrario escalar: otro que ...; no ...; se implica una escala o conjunto
 na'efa'a	cmavo-compound			   	FAhA*      	dirección espacial: no hacia
 na'epu'i	cmavo-compound			   	CAhA*      	aspecto modal: no ha sido y tal vez no pueda;
 nagi'a	cmavo-compound			   	GIhA*      	conector lógico entre bridi-tail: condicional/sólo si
 nago'i	cmavo-compound			   	GOhA*      	selbri: repite el bridi precedente negándolo; valores pro-asignados permanecen sin cambio
-nai	cmavo			   	NAI      	adherido a cmavo para negarlo; varios significados relacionados a la negación
 na'i	cmavo			   	UI3a      	discursivo: negación metalinguistica	Ver también {naldra},  {nalmapti}.
+nai	cmavo			   	NAI      	adherido a cmavo para negarlo; varios significados relacionados a la negación
 naja	cmavo-compound			   	JA*      	conector lógico entre componentes de tanru: condicional/sólo si
 na'o	cmavo			   	TAhE      	modificador de intervalo: característica/típicamente
 na'onai	cmavo-compound			   	TAhE*      	modificador de intervalo: atípicamente
-nau	cmavo			   	CUhE      	tiempo verbal: referencia absoluta al espaciotiempo actual
 na'u	cmavo			   	NAhU      	convierte selbri a operador; usado para crear operadores a base de fu'ivla, lujvo, etc.
+nau	cmavo			   	CUhE      	tiempo verbal: referencia absoluta al espaciotiempo actual
 ne	cmavo			   	GOI      	marcador de frase relativa no restrictiva: que por cierto está asociado con ...
 ne'a	cmavo			   	FAhA3      	locación/dirección; junto a
-nei	cmavo			   	GOhA      	pro-bridi: repite bridi actual
 ne'i	cmavo			   	FAhA3      	locación/dirección; dentro de
+nei	cmavo			   	GOhA      	pro-bridi: repite bridi actual
 ne'o	cmavo			   	VUhU3      	operador matemático unitario: factorial; (a!)
 ne'u	cmavo			   	FAhA1      	locación/dirección; al sur de
 ni	cmavo   	-nil-		   	NU      	abstractor: abstractor de cantidad; x_1 es una cantidad de (bridi) medida en escala x_2
@@ -553,8 +552,8 @@ no	cmavo   	-non-		      		dígito/número: 0 (dígito) (cero)
 no'a	cmavo			   	GOhA      	pro-bridi: repite el bridi en el cual está incluído
 noda	cmavo-compound			   	KOhA*      	sumti cuantificado: nada en absoluto (a menos que sea restringido)
 no'e	cmavo   	-nor-   	-no'e-	   	NAhE      	negador escalar medio: punto neutral entre je'a y to'e; "no realmente"
-noi	cmavo			   	NOI      	cláusula relativa no restrictiva; adjunta bridi subordinado con información incidental a un sumti
 no'i	cmavo			   	NIhO      	discursivo: párrafo nuevo; resume tópico previo
+noi	cmavo			   	NOI      	cláusula relativa no restrictiva; adjunta bridi subordinado con información incidental a un sumti
 nomo'o	cmavo-compound			   	MAI*      	discursivo: ceroésima sección/capítulo; prólogo
 no'o	cmavo			   	PA5      	dígito/número: valor típico/promedio
 noroi	cmavo-compound			   	ROI*      	modificador de intervalo: nunca, ninguna vez
@@ -575,10 +574,10 @@ o'anai	cmavo-compound			   	UI*1      	actitudinal: orgullo - modestia/humildad 
 obu	bu-letteral			   	BY*      	letra o
 o'e	cmavo			   	UI1      	actitudinal: cercanía - distancia	Ver también {cnijbi},  {cnikansa}.
 o'enai	cmavo-compound			   	UI*1      	actitudinal: cercanía - distancia
-oi	cmavo			   	UI1      	actitudinal: queja - placer	Ver también {pante},  {pluka},  {kufra}.
 o'i	cmavo			   	UI1      	actitudinal: precaución - apresuramiento	Ver también {capyrivbi},  {capfanta},  {srerivbi},  {srefanta},  {naldarsi},  {seljde}.
-oinai	cmavo-compound			   	UI*1      	actitudinal: queja - placer
+oi	cmavo			   	UI1      	actitudinal: queja - placer	Ver también {pante},  {pluka},  {kufra}.
 o'inai	cmavo-compound			   	UI*1      	actitudinal: precaución - apresuramiento
+oinai	cmavo-compound			   	UI*1      	actitudinal: queja - placer
 oire'e	cmavo-compound			   	UI*1      	actitudinal: queja espiritual/religiosa
 oiro'a	cmavo-compound			   	UI*1      	actitudinal: queja social
 oiro'e	cmavo-compound			   	UI*1      	actitudinal: queja mental (confusión, excesivo trabajo mental)
@@ -599,8 +598,8 @@ pabi	cmavo-compound			   	PA*      	número/cantidad: 18 (dieciocho)
 paci	cmavo-compound			   	PA*      	número/cantidad: 13 (trece)
 pa'e	cmavo			   	UI3      	discursivo: justicia - prejuicio	Ver también {tcinydracu'a},  {tcinydrapai},  {vudypai}.
 pa'enai	cmavo-compound			   	UI*3      	discursivo: justicia - prejuicio
-pai	cmavo			   	PA5      	dígito/número: pi (aproximadamente 3.1416...)
 pa'i	cmavo			   	VUhU2      	operador matemático binario: razón; (la razón entre a y b)
+pai	cmavo			   	PA5      	dígito/número: pi (aproximadamente 3.1416...)
 paki'o	cmavo-compound			   	PA*      	número/cantidad: 1,000
 pamai	cmavo-compound			   	MAI*      	discursivo: primera expresión
 pamei	cmavo-compound			   	MOI*      	selbri cuantificado: convierte 1 en selbri cardinal; x_1 es un solo/único x_2
@@ -618,8 +617,8 @@ pare	cmavo-compound			   	PA*      	número/cantidad: 12 (doce)
 paremei	cmavo-compound			   	MOI*      	selbri cuantificado: convierte 12 en selbri cardinal; x_1 es una docena de x_2
 paroi	cmavo-compound			   	ROI*      	modificador de intervalo: una vez, una única vez
 paso	cmavo-compound			   	PA*      	número/cantidad: 19 (diecinueve)
-pau	cmavo			   	UI3a      	discursivo: indicador de pregunta	Ver también {preti}.
 pa'u	cmavo			   	BAI      	pagbu modal, 1er argumento                            con componente ...
+pau	cmavo			   	UI3a      	discursivo: indicador de pregunta	Ver también {preti}.
 paunai	cmavo-compound			   	UI*3      	discursivo: pregunta retórica
 pavo	cmavo-compound			   	PA*      	número/cantidad: 14 (catorce)
 paxa	cmavo-compound			   	PA*      	número/cantidad: 16 (dieciseis)
@@ -627,8 +626,8 @@ paze	cmavo-compound			   	PA*      	número/cantidad: 17 (diecisiete)
 pe	cmavo			   	GOI      	marcador de frase relativa restrictiva: aquel asociado con ...; posesivo/asociativo impreciso
 pe'a	cmavo   	-pev-		   	UI3c      	indica discurso figurativo/no literal/metafórico
 pe'e	cmavo			   	PEhE      	marca el conector siguiente como unión de grupo de términos
-pei	cmavo			   	CAI      	actitudinal: pregunta actitudinal;
 pe'i	cmavo			   	UI2      	evidencial: opinión (declaración subjetiva)	Ver también {jinvi}.
+pei	cmavo			   	CAI      	actitudinal: pregunta actitudinal;
 pe'o	cmavo			   	PEhO      	indicador de operador preposicionado (notación polaca)
 pe'u	cmavo			   	COI      	vocativo: por favor
 pi	cmavo   	-piz-		   	PA3      	dígito/número: punto de raíz (base numerica); por defecto decimal
@@ -652,8 +651,8 @@ pisu'o	cmavo-compound			   	PA*      	número: algo de
 pi'u	cmavo   	-piv-		   	JOI      	conector no lógico: producto cruzado; producto cartesiano de conjuntos
 po	cmavo			   	GOI      	marcador de frase relativa restrictiva: aquel que es específico a ...; posesivo normal físico/legal
 po'e	cmavo			   	GOI      	marcador de frase relativa restrictiva: aquel que pertenece a ... ; posesión inalienable
-poi	cmavo			   	NOI      	cláusula relativa restrictiva; adjunta bridi subordinado con información identificatoria a un sumti
 po'i	cmavo			   	BAI      	porsi modal, 1er argumento (en orden)                 secuencialmente; en la secuencia ...
+poi	cmavo			   	NOI      	cláusula relativa restrictiva; adjunta bridi subordinado con información identificatoria a un sumti
 po'o	cmavo			   	UI3b      	discursivo: sólo, solamente, únicamente: el único caso relevante	Ver también {pamei},  {mulno},  {frica}.
 po'u	cmavo			   	GOI      	marcador de frase relativa apositiva restrictiva: aquel que es lo mismo que ...
 pu	cmavo			   	PU      	dirección/relación de tiempo verbal: fué (selbri); antes de (sumti); por defecto tiempo pasado
@@ -678,11 +677,11 @@ py	cmavo			   	BY2      	letra p
 ra	cmavo			   	KOhA5      	pro-sumti: un sumti reciente, anterior al último según las reglas de cuenta hacia atrás
 ra'a	cmavo			   	BAI      	srana modal, 1er argumento                            concerniendo ... (generalmente más específico)
 ra'e	cmavo			   	PA3      	dígito/número: repetición de dígitos
-rai	cmavo			   	BAI      	traji modal, 1er argumento                            con superlativo ...
 ra'i	cmavo			   	BAI      	krasi modal, 1er argumento                            de fuente/orígen/punto de partida ...
+rai	cmavo			   	BAI      	traji modal, 1er argumento                            con superlativo ...
 ra'o	cmavo			   	RAhO      	marca GOhA para indicar actualización contextual de todos los pro-asignados en el bridi referido
-rau	cmavo			   	PA4      	dígito/número: suficientes; bastantes; subjetivo
 ra'u	cmavo			   	UI3      	discursivo: principalmente - igualmente - incidentalmente	Ver también {ralju},  {vajni}.
+rau	cmavo			   	PA4      	dígito/número: suficientes; bastantes; subjetivo
 ra'ucu'i	cmavo-compound			   	UI*3      	discursivo: principalmente - igualmente - incidentalmente
 raumei	cmavo-compound			   	MOI*      	selbri cuantificado: convierte suficiente en selbri cardinal; x_1 son suficientes x_2
 raumoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte suficiente en selbri ordinal; x_1 es suficientésimo entre x_2 según regla x_3
@@ -717,8 +716,8 @@ ro'anai	cmavo-compound			   	UI*4      	categoría emocional: social - antisocia
 roda	cmavo-compound			   	KOhA*      	sumti con cuantificación universal: todo (a menos que sea restringido)
 ro'e	cmavo			   	UI4      	categoría emocional: mental - descerebrado	Ver también {menli}.
 ro'enai	cmavo-compound			   	UI*4      	categoría emocional: mental - descerebrado
-roi	cmavo   	-rom-   	-roi-	   	ROI      	convierte número en modificador de intervalo cuantificado; por defecto temporal
 ro'i	cmavo			   	UI4      	categoría emocional: emocional - negación de emoción	Ver también {cinmo}.
+roi	cmavo   	-rom-   	-roi-	   	ROI      	convierte número en modificador de intervalo cuantificado; por defecto temporal
 ro'inai	cmavo-compound			   	UI*4      	categoría emocional: emocional - negando emoción
 romai	cmavo-compound			   	MAI*      	discursivo: finalmente; última expresión
 romoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte todos en selbri ordinal; x_1 es último entre x_2 según regla x_3
@@ -739,17 +738,17 @@ sa	cmavo			   	SA      	borrar expresión parcial o completa; la palabra que sig
 sa'a	cmavo			   	UI3a      	discursivo: inserción del editor/narrador (texto entre paréntesis)	Ver también {setca}.
 sa'e	cmavo			   	UI3      	discursivo: precisión - imprecisión	Ver también {satci},  {jibni}.
 sa'enai	cmavo-compound			   	UI*3      	discursivo: precisión - imprecisión
-sai	cmavo			   	CAI      	actitudinal: intensidad moderada
 sa'i	cmavo			   	VUhU4      	operador matemático n-ario: operandos son vectores a tratar como matrices columna
+sai	cmavo			   	CAI      	actitudinal: intensidad moderada
 sa'o	cmavo			   	VUhU4      	operador matemático trinario: (derivada de a con respecto a b de grado c)
-sau	cmavo			   	BAI      	sarcu modal, 1er argumento                            requiriendo ...
 sa'u	cmavo			   	UI3      	discursivo: simplemente - elaborando	Ver también {sampu},  {pluja}.
+sau	cmavo			   	BAI      	sarcu modal, 1er argumento                            requiriendo ...
 sa'unai	cmavo-compound			   	UI*3      	discursivo: simplemente - elaborando
 se	cmavo   	-sel-		   	SE      	2da conversión; intercambia 1er/2do argumentos
 se'a	cmavo			   	UI5      	modificador de actitudinal: autosuficiencia - dependencia	Ver también {sezysei},  {kantcu}.
 se'anai	cmavo-compound			   	UI*5      	modificador de actitudinal: autosuficiencia - dependencia
-sebai	cmavo-compound			   	BAI*      	bapli modal, 2do argumento (forzando resultado)       forzando evento ...
 seba'i	cmavo-compound			   	BAI*      	basti modal, 2do argumento                            en vez de ...; en lugar de ...
+sebai	cmavo-compound			   	BAI*      	bapli modal, 2do argumento (forzando resultado)       forzando evento ...
 sebau	cmavo-compound			   	BAI*      	bangu modal, 2do argumento (hablantes)                en lenguaje de hablantes ...
 sebe'i	cmavo-compound			   	BAI*      	benji modal, 2do argumento (mensaje/carga)            transmitiendo ...
 seca'i	cmavo-compound			   	BAI*      	catni modal, 2do argumento                            autoritativamente; con autoridad sobre ...
@@ -768,8 +767,8 @@ sefa'e	cmavo-compound			   	BAI*      	fatne modal, 2do argumento (igual al 1ro)
 sefi'e	cmavo-compound			   	BAI*      	finti modal, 2do argumento                            creativamente; creando obra ...
 sega'a	cmavo-compound			   	BAI*      	zgana modal, 2do argumento                            observando ...
 segau	cmavo-compound			   	BAI*      	gasnu modal, 2do argumento complemento actor/agente   activamente; como agente activo haciendo ...
-sei	cmavo			   	SEI      	comienzo de bridi discursivo (metalinguistico)
 se'i	cmavo			   	UI5      	modificador de actitudinal: orientado a sí mismo - orientado a otro	Ver también {sevzi},  {drata}.
+sei	cmavo			   	SEI      	comienzo de bridi discursivo (metalinguistico)
 se'inai	cmavo-compound			   	UI*5      	modificador de actitudinal: autoorientado - orientado hacia otro
 seja'e	cmavo-compound			   	BAI*      	jalge modal, 2do argumento (evento causal)            resultado de ...
 seja'i	cmavo-compound			   	BAI*      	javni modal, 2do argumento                            ordenadamente; con regla prescribiendo ...
@@ -777,8 +776,8 @@ seji'e	cmavo-compound			   	BAI*      	jimte modal, 2do argumento               
 seji'o	cmavo-compound			   	BAI*      	jitro modal, 2do argumento                            controladamente; controlando/guiando a ...
 seji'u	cmavo-compound			   	BAI*      	jicmu modal, 2do argumento (basado)                   soportando ...; como base de ...
 seka'a	cmavo-compound			   	BAI*      	klama modal, 2do argumento                            con destino ...
-sekai	cmavo-compound			   	BAI*      	ckaji modal, 2do argumento (cualidad)                 caracterizado por ...; con propiedad ...
 seka'i	cmavo-compound			   	BAI*      	krati modal, 2do argumento                            representando; representando a ...
+sekai	cmavo-compound			   	BAI*      	ckaji modal, 2do argumento (cualidad)                 caracterizado por ...; con propiedad ...
 sekai ma	cmavo-compound			   	BAI*      	pregunta por una propiedad/cualidad característica; ¿cuál?
 seki'i	cmavo-compound			   	BAI*      	ckini modal, 2do argumento (igual al 1ro)             relacionado a ...
 seki'u	cmavo-compound			   	BAI*      	krinu modal, 2do argumento                            razón por lo tanto ...
@@ -808,15 +807,15 @@ sepo'i	cmavo-compound			   	BAI*      	porsi modal, 2do argumento               
 sepu'a	cmavo-compound			   	BAI*      	pluka modal, 2do argumento (para)                     complaciendo a ...; para complacer a ...
 sepu'e	cmavo-compound			   	BAI*      	pruce modal, 2do argumento (inputs)                   proceso con entradas ...
 sera'a	cmavo-compound			   	BAI*      	srana modal, 2do argumento (concerniendo)             relevantemente; concerniendo a ... (menos específico)
-serai	cmavo-compound			   	BAI*      	traji modal, 2do argumento (propiedad)                superlativo en (propiedad) ...
 sera'i	cmavo-compound			   	BAI*      	krasi modal, 2do argumento                            originalmente; como orígen/punto de partida de ...
+serai	cmavo-compound			   	BAI*      	traji modal, 2do argumento (propiedad)                superlativo en (propiedad) ...
 seri'a	cmavo-compound			   	BAI*      	rinka modal, 2do argumento (fís./mental)              por lo tanto causal ...
 seri'anai	cmavo-compound			   	BAI*      	rinka modal, 2do argumento (fís./mental)              sin embargo causal ...
 seri'i	cmavo-compound			   	BAI*      	lifri modal, 2do argumento                            experimentando ...; sufriendo ...
 sesau	cmavo-compound			   	BAI*      	sarcu modal, 2do argumento (proceso)                  necesariamente; necesario para ...
 sesi'u	cmavo-compound			   	BAI*      	sidju modal, 2do argumento                            ayudando a ... (en hacer/mantener algo)
-setai	cmavo-compound			   	BAI*      	tamsmi modal, 2do argumento                           similarmente; semejando ... (en forma ideal)	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 seta'i	cmavo-compound			   	BAI*      	tadji modal, 2do argumento                            metódicamente; como método de ...
+setai	cmavo-compound			   	BAI*      	tamsmi modal, 2do argumento                           similarmente; semejando ... (en forma ideal)	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 seti'i	cmavo-compound			   	BAI*      	stidi modal, 2do argumento                            sugestivamente; sugiriendo (idea/acción) ...
 seti'u	cmavo-compound			   	BAI*      	tcika modal, 2do argumento (para cartas)              a la hora de ...
 setu'i	cmavo-compound			   	BAI*      	stuzi modal, 2do argumento                            como emplazamiento de ...
@@ -836,8 +835,8 @@ so	cmavo   	-soz-		   	PA1      	dígito/número: 9 (dígito) (nueve)
 so'a	cmavo   	-soj-		   	PA4      	dígito/número: casi todos (dígito/número)
 so'e	cmavo   	-sop-		   	PA4      	dígito/número: la mayoría
 so'eroi	cmavo-compound			   	ROI*      	modificador de intervalo: la mayoría de las veces, usualmente
-soi	cmavo			   	SOI      	discursivo: marcador de sumti recíprocos; indica una relación recíproca emtre sumti
 so'i	cmavo   	-sor-   	-so'i-	   	PA4      	dígito/número: muchos
+soi	cmavo			   	SOI      	discursivo: marcador de sumti recíprocos; indica una relación recíproca emtre sumti
 so'imei	cmavo-compound			   	MOI*      	selbri cuantificado: convierte muchos en cardinal; x_1 son muchos x_2
 so'iroi	cmavo-compound			   	ROI*      	modificador de intervalo: muchas veces
 soki'o	cmavo-compound			   	PA*      	número/cantidad: 9,000
@@ -863,13 +862,13 @@ ta	cmavo   	-taz-		   	KOhA6      	pro-sumti: ése/ésa/eso; demostrativo cercan
 ta'a	cmavo			   	COI      	vocativo: interrupción
 ta'e	cmavo			   	TAhE      	modificador de intervalo: habitualmente
 ta'enai	cmavo-compound			   	TAhE*      	modificador de intervalo: no habitualmente
-tai	cmavo			   	BAI      	tamsmi modal, 1er argumento (como)/(de manera 2)      semejando ...; compartiendo forma ideal ...	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 ta'i	cmavo			   	BAI      	tadji modal, 1er argumento (de manera 3)              metodicamente; por método ...
+tai	cmavo			   	BAI      	tamsmi modal, 1er argumento (como)/(de manera 2)      semejando ...; compartiendo forma ideal ...	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 ta'i ma	cmavo-compound			   	BAI*      	pregunta por un método; ¿cómo?
 ta'o	cmavo			   	UI3      	discursivo: a propósito, por cierto, de paso - regresando al punto principal	Ver también {denpa},  {cneterta'a}.
 ta'onai	cmavo-compound			   	UI*3      	discursivo: a propósito, por cierto, de paso - regresando al punto principal
-tau	cmavo			   	LAU      	cambio de letra: cambia letra siguiente a mayúscula/minúscula
 ta'u	cmavo			   	UI3a      	discursivo: expandiendo el tanru - creando un tanru	Ver también {tanru}.
+tau	cmavo			   	LAU      	cambio de letra: cambia letra siguiente a mayúscula/minúscula
 ta'unai	cmavo-compound			   	UI*3a      	discursivo: creando un tanru - expandiendo el tanru
 te	cmavo   	-ter-		   	SE      	3ra conversión; intercambia 1er/3er argumentos
 te'a	cmavo			   	VUhU2      	operador matemático binario: potencia; exponencial; (a elevado a la potencia b)
@@ -915,8 +914,8 @@ terai	cmavo-compound			   	BAI*      	traji modal, 3er argumento (superlativo)  
 teri'a	cmavo-compound			   	BAI*      	rinka modal, 3do argumento (fís./mental)              causalmente bajo condiciones ...
 tesau	cmavo-compound			   	BAI*      	sarcu modal, 3er argumento (condiciones 2)            necesariamente; necesariamente bajo condiciones ...
 tesi'u	cmavo-compound			   	BAI*      	sidju modal, 3er argumento                            ayudando a hacer/mantener/lograr ...
-tetai	cmavo-compound			   	BAI*      	tamsmi modal, 3er argumento                           similarmente; compartiendo forma ideal común ...	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 teta'i	cmavo-compound			   	BAI*      	tadji modal, 3er argumento                            metódicamente bajo condiciones ...
+tetai	cmavo-compound			   	BAI*      	tamsmi modal, 3er argumento                           similarmente; compartiendo forma ideal común ...	(x_1 es como x_2 compartiendo forma ideal x_3 en propiedad x_4)
 teti'i	cmavo-compound			   	BAI*      	stidi modal, 3er argumento                            sugestivamente; sugerido a ...
 teti'u	cmavo-compound			   	BAI*      	tcika modal, 3er argumento (para cartas)              hora en día ...
 te'u	cmavo			   	TEhU      	terminador elisible: fin de conversión entre no-mex y mex; generalmente elisible
@@ -931,8 +930,8 @@ ti'u	cmavo			   	BAI      	tcika modal, 1er argumento (para cartas)             
 to	cmavo			   	TO      	paréntesis izquierdo; comienzo de nota parentética que debe ser texto gramático
 to'a	cmavo			   	BY1      	cambia a minúsculas
 to'e	cmavo   	-tol-   	-to'e-	   	NAhE      	negador escalar opuesto polar
-toi	cmavo			   	TOI      	terminador elisible: paréntesis derecho/fin de comentario; raramente elisible excepto al final del texto
 to'i	cmavo			   	TO      	comienzo de comentario editorial (dentro de una cita); contiene texto gramático; marca con inserción editoria	l
+toi	cmavo			   	TOI      	terminador elisible: paréntesis derecho/fin de comentario; raramente elisible excepto al final del texto
 to'o	cmavo			   	FAhA4      	locación/dirección; alejandose de/directamente hacia afuera de ...
 to'u	cmavo			   	UI3      	discursivo: en breve - en detalle	Ver también {tordu},  {clani},  {tcidu}.
 to'unai	cmavo-compound			   	UI*3      	discursivo: en breve - en detalle
@@ -944,41 +943,41 @@ tu'o	cmavo			   	PA5      	operando nulo (usado en operaciones unarias).
 tu'u	cmavo			   	TUhU      	terminador elisible: fin de alcance de expresión múltiple; raramente elisible
 ty	cmavo			   	BY2      	letra t
 u	cmavo			   	A      	conector lógico entre sumti: sea o no que
-ua	cmavo			   	UI1      	actitudinal: descubrimiento - confusión/búsqueda	Ver también {facki},  {cfipu},  {sisku}.
 u'a	cmavo			   	UI1      	actitudinal: ganancia - pérdida	Ver también {jinga},  {selne'u},  {prali},  {cirko}.
-uanai	cmavo-compound			   	UI*1      	actitudinal: descubrimiento - confusión/búsqueda
+ua	cmavo			   	UI1      	actitudinal: descubrimiento - confusión/búsqueda	Ver también {facki},  {cfipu},  {sisku}.
 u'anai	cmavo-compound			   	UI*1      	actitudinal: ganancia - pérdida
+uanai	cmavo-compound			   	UI*1      	actitudinal: descubrimiento - confusión/búsqueda
 ubu	bu-letteral			   	BY*      	letra u
-ue	cmavo			   	UI1      	actitudinal: sorpresa - no sorpresa - expectativa	Ver también {spaji}.
 u'e	cmavo			   	UI1      	actitudinal: asombro - lugar común	Ver también {manci},  {fadni}.
+ue	cmavo			   	UI1      	actitudinal: sorpresa - no sorpresa - expectativa	Ver también {spaji}.
 uecu'i	cmavo-compound			   	UI*1      	actitudinal: sorpresa - no realmente sorprendido - expectativa
-uenai	cmavo-compound			   	UI*1      	actitudinal: sorpresa - expectativa
 u'enai	cmavo-compound			   	UI*1      	actitudinal: asombro - lugar común
+uenai	cmavo-compound			   	UI*1      	actitudinal: sorpresa - expectativa
 uepei	cmavo-compound			   	UI*1      	actitudinal: pregunta por sorpresa
-ui	cmavo			   	UI1      	actitudinal: felicidad - tristeza	Ver también {gleki}.
 u'i	cmavo			   	UI1      	actitudinal: diversión - tedio	Ver también {selzdi},  {selxajmi},  {xalbo}.
+ui	cmavo			   	UI1      	actitudinal: felicidad - tristeza	Ver también {gleki}.
 uibu	bu-letteral			   	BY*      	letra: símbolo de felicidad (letra)
-uinai	cmavo-compound			   	UI*1      	actitudinal: felicidad - tristeza
 u'inai	cmavo-compound			   	UI*1      	actitudinal: diversión - tedio
-uo	cmavo			   	UI1      	actitudinal: culminación - incompletitud	Ver también {mulno},  {mansa},  {fanmo},  {snada}.
+uinai	cmavo-compound			   	UI*1      	actitudinal: felicidad - tristeza
 u'o	cmavo			   	UI1      	actitudinal: coraje - timidez - cobardía	Ver también {virnu}.
+uo	cmavo			   	UI1      	actitudinal: culminación - incompletitud	Ver también {mulno},  {mansa},  {fanmo},  {snada}.
 u'ocu'i	cmavo-compound			   	UI*1      	actitudinal: coraje - timidez - cobardía
-uonai	cmavo-compound			   	UI*1      	actitudinal: completitud - incompletitud
 u'onai	cmavo-compound			   	UI*1      	actitudinal: coraje - timidez - cobardía
-uu	cmavo			   	UI1      	actitudinal: compasión - crueldad	Ver también {kecti}.
+uonai	cmavo-compound			   	UI*1      	actitudinal: completitud - incompletitud
 u'u	cmavo			   	UI1      	actitudinal: arrepentimiento - falta de arrepentimiento - inocencia	Ver también {xenru},  {zugycni}.
+uu	cmavo			   	UI1      	actitudinal: compasión - crueldad	Ver también {kecti}.
 u'ucu'i	cmavo-compound			   	UI*1      	actitudinal: arrepentimiento - falta de arrepentimiento - inocencia
-uunai	cmavo-compound			   	UI*1      	actitudinal: piedad - crueldad
 u'unai	cmavo-compound			   	UI*1      	actitudinal: arrepentimiento - falta de arrepentimiento - inocencia
+uunai	cmavo-compound			   	UI*1      	actitudinal: piedad - crueldad
 va	cmavo   	-vaz-		   	VA      	distancia espacial: allí, allá; a una distancia media
 va'a	cmavo			   	VUhU3      	operador matemático unitario: inverso aditivo; (- a)
 va'e	cmavo			   	MOI      	convierte número a selbri de escala; x1 está en la n-ésima posición en la escala x2
-vai	cmavo			   	PA2      	dígito/número: dígito hexadecimal F (decimal 15) (quince)
 va'i	cmavo			   	UI3      	discursivo: en otras palabras - en las mismas palabras	Ver también {cneselsku}.
+vai	cmavo			   	PA2      	dígito/número: dígito hexadecimal F (decimal 15) (quince)
 va'inai	cmavo-compound			   	UI*3      	discursivo: en otras palabras - en las mismas palabras
 va'o	cmavo			   	BAI      	vanbi modal, 1er argumento (condiciones 1)            bajo condiciones ...; en circunstancias ...
-vau	cmavo			   	VAU      	elisible: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
 va'u	cmavo			   	BAI      	xamgu modal, 1er argumento complemento beneficiario   beneficiado por ...
+vau	cmavo			   	VAU      	elisible: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
 ve	cmavo   	-vel-		   	SE      	4ta conversión; intercambia 1er/4to argumentos
 ve'a	cmavo			   	VEhA      	intervalo espacial: región espacial media
 vebe'i	cmavo-compound			   	BAI*      	benji modal, 4to argumento                            orígen de transmisión...
@@ -989,8 +988,8 @@ vedu'o	cmavo-compound			   	BAI*      	djuno modal, 4to argumento               
 ve'e	cmavo   	-ve'e-		   	VEhA      	intervalo espacial: totalidad del espacio
 vefi'e	cmavo-compound			   	BAI*      	finti modal, 4to argumento                            creativamente; creado con ideas/elementos ...
 vega'a	cmavo-compound			   	BAI*      	zgana modal, 4to argumento (bajo condiciones)         observado bajo condiciones ...
-vei	cmavo			   	VEI      	paréntesis matemático izquierdo
 ve'i	cmavo			   	VEhA      	intervalo espacial: región espacial pequeña
+vei	cmavo			   	VEI      	paréntesis matemático izquierdo
 veka'a	cmavo-compound			   	BAI*      	klama modal, 4to argumento                            via ruta ...
 vemau	cmavo-compound			   	BAI*      	zmadu modal, 4to argumento (relativo!)                más que/excediendo por cantidad ...
 veme'a	cmavo-compound			   	BAI*      	mleca modal, 4to argumento (relativo!)                menos por cantidad ...
@@ -1011,8 +1010,8 @@ vi'u	cmavo			   	VIhA      	dimensión de intervalo: intervalo espacial 3-D; por
 vo	cmavo   	-von-		   	PA1      	dígito/número: 4 (dígito) (cuatro)
 vo'a	cmavo			   	KOhA4      	pro-sumti: repite 1er argumento del bridi principal de esta oración
 vo'e	cmavo			   	KOhA4      	pro-sumti: repite 2do argumento del bridi principal de esta oración
-voi	cmavo			   	NOI      	cláusula restrictiva no verídica usada para formar descripciones tipo "le" usando "ke'a"
 vo'i	cmavo			   	KOhA4      	pro-sumti: repite 3er argumento del bridi principal de esta oración
+voi	cmavo			   	NOI      	cláusula restrictiva no verídica usada para formar descripciones tipo "le" usando "ke'a"
 voki'o	cmavo-compound			   	PA*      	número/cantidad: 4,000
 vomoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte 4 en selbri ordinal; x_1 es cuarto entre x_2 ordenado según regla x_3
 vono	cmavo-compound			   	PA*      	número/cantidad: 40 (cuarenta)
@@ -1047,19 +1046,19 @@ y'y	cmavo			   	BY2      	letra '
 za	cmavo			   	ZI      	distancia temporal: a un tiempo medio
 za'a	cmavo			   	UI2      	evidencial: observación	Ver también {zgana},  {lanli}.
 za'e	cmavo			   	BAhE      	indicador de palabra efímera; indica que la siguiente palabra es una creación del momento y puede no ser estándar
-zai	cmavo			   	LAU      	cambio de letra: sigue selector de alfabeto alternativo
 za'i	cmavo   	-zaz-		   	NU1      	abstractor: abstractor de estado (evento); x_1 es un estado continuo de (bridi) siendo verdad
+zai	cmavo			   	LAU      	cambio de letra: sigue selector de alfabeto alternativo
 za'o	cmavo   	-za'o-		   	ZAhO      	aspecto verbal: continuando mas allá del final natural de la acción; superfective  |     ---->
-zau	cmavo			   	BAI      	zanru modal, 1er argumento                            aprobado por ...
 za'u	cmavo			   	PA3      	dígito/número: mayor que
+zau	cmavo			   	BAI      	zanru modal, 1er argumento                            aprobado por ...
 ze	cmavo   	-zel-		   	PA1      	dígito/número: 7 (dígito) (siete)
 ze'a	cmavo			   	ZEhA      	intervalo temporal: durante un tiempo medio
 ze'aba	cmavo-compound			   	ZEhA*      	tiempo verbal: durante un tiempo medio hacia el futuro
 ze'aca	cmavo-compound			   	ZEhA*      	tiempo verbal: durante un tiempo medio cubriendo el presente
 ze'apu	cmavo-compound			   	ZEhA*      	tiempo verbal: durante un tiempo medio hacia el pasado
 ze'e	cmavo   	-ze'e-		   	ZEhA      	intervalo temporal: durante todo el tiempo
-zei	cmavo			   	ZEI      	une la palabra precedente y la siguiente en un lujvo
 ze'i	cmavo			   	ZEhA      	intervalo temporal: durante un tiempo corto
+zei	cmavo			   	ZEI      	une la palabra precedente y la siguiente en un lujvo
 zeki'o	cmavo-compound			   	PA*      	número/cantidad: 7,000
 zemoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte 7 en selbri ordinal; x_1 es séptimo entre x_2 ordenado según regla x_3
 zeno	cmavo-compound			   	PA*      	número/cantidad: 70 (setenta)
@@ -1072,8 +1071,8 @@ zi'o	cmavo   	-zil-		   	KOhA7      	pro-sumti: ocupa una posición de sumti, el
 zo	cmavo			   	ZO      	cita sólo la siguiente palabra; cita una única palabra lojbánica (no un cmavo compuesto o tanru)
 zo'a	cmavo   	-zon-   	-zo'a-	   	FAhA4      	locación/dirección; tangente a
 zo'e	cmavo			   	KOhA7      	pro-sumti: un valor elíptico/no especificado; valor dado por el contexto
-zoi	cmavo			   	ZOI      	cita no lojbánica; el resultado es tratado como un bloque de texto
 zo'i	cmavo   	-zor-   	-zo'i-	   	FAhA4      	locación/dirección; mas cerca que ... /hacia adentro/acercandose desde ...
+zoi	cmavo			   	ZOI      	cita no lojbánica; el resultado es tratado como un bloque de texto
 zo'o	cmavo			   	UI5      	modificador de actitudinal: humor - seriedad	Ver también {xajmi},  {junri}.
 zo'obu	bu-letteral			   	BY*      	letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)
 zo'ocu'i	cmavo-compound			   	UI*5      	modificador de actitudinal: humor - aburrido - seriedad

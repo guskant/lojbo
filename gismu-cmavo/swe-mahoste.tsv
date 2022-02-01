@@ -5,19 +5,19 @@ a'anai	cmavo-compound			   	UI*1      	definition attitydmarkör: uppmärksam - 
 abu	bu-letteral			   	BY*      	bokstaven a.
 a'e	cmavo			   	UI1      	attitydmarkör: pigghet - utmattning.	Se även {sanji}, {cikna}, {tatpi}.
 a'enai	cmavo-compound			   	UI*1      	attitydmarkör: pigghet - utmattning.
-ai	cmavo			   	UI1      	attitudinal: avsikt - obeslutsamhet - avslag/vägran.
 a'i	cmavo			   	UI1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
+ai	cmavo			   	UI1      	attitudinal: avsikt - obeslutsamhet - avslag/vägran.
 a'icu'i	cmavo-compound			   	UI*1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
 aicu'i	cmavo-compound			   	UI*1      	attitudinal: avsikt - obeslutsamhet - avslag/vägran.
 a'inai	cmavo-compound			   	UI*1      	attitydmarkör: ansträngning - ingen särskild ansträngning - vila.
 a'o	cmavo			   	UI1      	attitydmarkör: hopp - desperation.
 a'onai	cmavo-compound			   	UI*1      	attitydmarkör: hopp - desperation.
-au	cmavo			   	UI1      	attitudinal: begär - likgiltighet - olust/motvilja.
 a'u	cmavo			   	UI1      	attitydmarkör: intresse - ointresse - bortstötande.
+au	cmavo			   	UI1      	attitudinal: begär - likgiltighet - olust/motvilja.
 a'ucu'i	cmavo-compound			   	UI*1      	attitydmarkör: intresse - ointresse - bortstötande.
 aucu'i	cmavo-compound			   	UI*1      	attitudinal: begär - likgiltighet - olust/motvilja.
-aunai	cmavo-compound			   	UI*1      	attitudinal: begär - likgiltighet - olust/motvilja.
 a'unai	cmavo-compound			   	UI*1      	attitydmarkör: intresse - ointresse - bortstötande.
+aunai	cmavo-compound			   	UI*1      	attitudinal: begär - likgiltighet - olust/motvilja.
 ba	cmavo			   	PU      	tidstempus förhållande/riktning: ska [selbri]; efter [sumti]; futurum.
 ba'a	cmavo			   	UI2      	evidential: jag förväntar mig - jag erfar - jag kommer ihåg.
 ba'acu'i	cmavo-compound			   	UI2      	evidential: jag förväntar mig - jag erfar - jag kommer ihåg.
@@ -26,8 +26,8 @@ ba'e	cmavo			   	BAhE      	förtänkt betoningsindikator; indikerar att nästa 
 ba'i	cmavo			   	BAI      	basti modal, 1st place ersatt av
 ba'o	cmavo			   	ZAhO      	intervall händelsekontur: i efterverkningarna av...; sedan ...; perfekt
 bapu	cmavo-compound			   	PU*      	tids tempus: kommer att ha varit; (tempus/modal).
-bau	cmavo			   	BAI      	bangu modal, 1st place i språk ... 
 ba'u	cmavo			   	UI3      	diskursiv: överdrift - riktighet - understatement.
+bau	cmavo			   	BAI      	bangu modal, 1st place i språk ... 
 ba'ucu'i	cmavo-compound			   	UI3      	diskursiv: överdrift - riktighet - understatement.
 ba'unai	cmavo-compound			   	UI3      	diskursiv: överdrift - riktighet - understatement.
 be	cmavo			   	BE      	sumti länk för att förbinda sumti (som standard x2) med ett selbri; används i beskrivningar.
@@ -102,13 +102,13 @@ da'e	cmavo			   	KOhA2      	pro-sumti: avlägset framtida påstående;
 da'i	cmavo			   	UI3      	diskursiv: antagligen/förmodligen - i själva verket/de facto.	Se även {sruma}.
 da'inai	cmavo-compound			   	UI3*      	diskursiv: antagligen/förmodligen - i själva verket/de facto.
 da'o	cmavo			   	DAhO      	diskursiv: upphäver pro-sumti/pro-bridi tilldelningar.
-dau	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra A (decimal 10) [tio]. 
 da'u	cmavo			   	KOhA2      	pro-sumti: ett avlägset tidigare yttrande; 
+dau	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra A (decimal 10) [tio]. 
 de	cmavo			   	KOhA1      	logiskt kvantifierad existentiell pro-sumti: det existerar något 1 (vanligtvis begränsad).
 de'a	cmavo			   	ZAhO      	händelsekontur: för ett tillfälligt uppehåll och den paus i processen som blir följden.
 de'e	cmavo			   	KOhA2      	pro-sumti: ett nära förestående yttrande.
-dei	cmavo			   	KOhA2      	pro-sumti: detta yttrande.
 de'i	cmavo			   	BAI      	detri modal, 1st place (för brev) daterad ... ; datumstämplar.
+dei	cmavo			   	KOhA2      	pro-sumti: detta yttrande.
 denpa bu	bu-letteral			   	BY*      	bokstav: Lojban 
 de'o	cmavo			   	VUhU3      	binär matematisk operator: logaritm; [log/ln a med bas b];  bas 10 eller e om inget annat anges.
 de'u	cmavo			   	KOhA2      	pro-sumti: ett tidigare yttrande.
@@ -122,8 +122,8 @@ do	cmavo   	-don-   	-doi-	   	KOhA3       	pro-sumti: du/ni lyssnare; identifie
 do'a	cmavo			   	UI3      	diskursiv: generöst - snålt.	Se även {dunda}.
 do'anai	cmavo-compound			      		diskursiv: generöst - snålt.
 do'e	cmavo			   	BAI      	elliptisk/ospecificerad modal.
-doi	cmavo			   	DOI      	generisk vokativmarkör; identifierar den avsedda lyssnaren; valbar efter COI.
 do'i	cmavo			   	KOhA2      	pro-sumti: elliptisk/ospecificerat påstående variabel.
+doi	cmavo			   	DOI      	generisk vokativmarkör; identifierar den avsedda lyssnaren; valbar efter COI.
 doido'u	cmavo-compound			   	DOI*      	generisk vokativ addresserar avsedd lyssnare.
 do'o	cmavo			   	KOhA3      	pro-sumti: ni (du lyssnaren & andra ospecificerade).
 do'u	cmavo			   	DOhU      	valbar avslutare: avslutar vokativ (ofta valbar).
@@ -142,11 +142,11 @@ e'anai	cmavo-compound			   	UI*1      	attitudinal: ger tillåtelse - förbjuder
 ebu	bu-letteral			      		bokstaven e.
 e'e	cmavo			   	UI1      	attitudinal: kompetens - inkompetens/oförmåga. 
 e'enai	cmavo-compound			   	UI*1      	attitudinal: kompetens - inkompetens/oförmåga.
-ei	cmavo			   	UI1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
 e'i	cmavo			   	UI1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende. 
+ei	cmavo			   	UI1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
 e'icu'i	cmavo-compound			   	UI*1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende.
-einai	cmavo-compound			   	UI*1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
 e'inai	cmavo-compound			   	UI*1      	attitudinal: känner tvång/bundenhet/beroende - osjälvständighet - utmanar/gör motstånd mot tvång/bundenhet/beroende.
+einai	cmavo-compound			   	UI*1      	attitudinal: förpliktelse - frihet (från förpliktelser). 
 enai	cmavo-compound			   	A*       	logiskt konjunktion: sumti eftertänkt x men inte y.
 e'o	cmavo			   	UI1      	attitudinal: efterfråga - negativ efterfråga.	Kan du ta och ..., är du snäll!?
 e'onai	cmavo-compound			   	UI*1      	attitudinal: efterfråga - negativ efterfråga.
@@ -156,11 +156,11 @@ e'unai	cmavo-compound			   	UI*1      	attitudinal: förslag - överge förslag 
 fa	cmavo			   	FA      	sumti place tag: taggar 1:a sumti placering.
 fa'a	cmavo			   	FAhA4      	platstempus förhållande/riktning; kommer fram inför/direkt mot ... 
 fa'e	cmavo			   	BAI      	fatne modal, 1st place baklänges; motsatt/omvänt/tvärtom/ut och in av... 
-fai	cmavo			   	FA      	sumti place tag: markerar ett sumti som har flyttats utanför numrerad platsstruktur; används i modala konversioner. 
 fa'i	cmavo			   	VUhU2      	unär matematisk operator: reciprok/multiplikativt inverterat tal; 1/a.	{pavdalcu}
+fai	cmavo			   	FA      	sumti place tag: markerar ett sumti som har flyttats utanför numrerad platsstruktur; används i modala konversioner. 
 fa'o	cmavo			   	FAhO      	villkorslös slut på text; utanför gängse grammatik; används för slut i skrivna verk o datorinmatning.
-fau	cmavo			   	BAI      	fasnu modal, 1st place (icke-kausal) i den händelse att ... 
 fa'u	cmavo			   	JOI      	icke-logisk konjunktion: respektive; oblandad i ordning fördelad association.
+fau	cmavo			   	BAI      	fasnu modal, 1st place (icke-kausal) i den händelse att ... 
 fe	cmavo			   	FA      	sumti place tag: taggar 2:a sumti placering.  
 fe'a	cmavo			   	VUhU3      	binär matematisk operator: n roten ur; inverterad exponent.
 fe'eba'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: perfektiv i rummet; bortom platsen ...
@@ -172,8 +172,8 @@ fe'enoroi	cmavo-compound			   	ROI*      	plats tempus intervall modifierare: al
 fe'epu'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: anticipativ i rummet; ända till kanten av...
 fe'eroroi	cmavo-compound			   	ROI*      	plats tempus intervall modifiererare: alltid i rummet; objekt kvantifierbart tempus.
 fe'eza'o	cmavo-compound			   	ZAhO*      	plats händelsekontur tempus: superfektiv i rummet; fortsätter för långt bortom ... 
-fei	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra B (decimal 11) [eleven].
 fe'i	cmavo			   	VUhU1      	unär matematisk operator: dividerat med/delat med; divisionsoperator; [(((a / b) / c) / ...)].
+fei	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra B (decimal 11) [eleven].
 fe'o	cmavo			   	COI      	vokativ: klart slut (slut på diskussionen).
 fe'u	cmavo			   	FEhU      	valbar avslutare: avslutar tillfällig konversion av selbri till modal; går vanligtvis att välja bort.
 fi	cmavo			   	FA      	sumti place tag: tag 3rd sumti place.
@@ -187,8 +187,8 @@ fi'ure	cmavo-compound			   	PA*      	hälften.	synonym {pimu}; se även {xadba}
 fo	cmavo			   	FA      	sumti place tag: tag 4th sumti place.
 fo'a	cmavo   	-fo'a-		   	KOhA4      	pro-sumti: han/hon/det/de #6 (specificerad av goi).
 fo'e	cmavo   	-fo'e-		   	KOhA4      	pro-sumti: han/hon/det/de #7 (specificerad av goi).
-foi	cmavo			   	FOI      	avslutare: avslutar sammansatt lerfu; aldrig valbar.
 fo'i	cmavo   	-fo'i-		      		pro-sumti: han/hon/det/de #8 (specificerad av goi).
+foi	cmavo			   	FOI      	avslutare: avslutar sammansatt lerfu; aldrig valbar.
 fo'o	cmavo			   	KOhA4      	pro-sumti: han/hon/det/de #9 (specificerad av goi).
 fo'u	cmavo			   	KOhA4      	pro-sumti: han/hon/det/de #10 (specificerad av goi).
 fu	cmavo			   	FA      	sumti place tag: tag 5th sumti place.
@@ -200,8 +200,8 @@ fu'u	cmavo			   	VUhU0      	unär matematisk operator: elliptisk/ospecificerad 
 fy	cmavo			      		bokstaven f.
 ga'a	cmavo			   	BAI      	zgana modal, 1st place för betraktare ... ; bevittnat av ... 
 ga'e	cmavo			   	BY1      	skifte till versal/stor bokstav.
-gai	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra C (decimal 12) [tolv].
 ga'i	cmavo			   	UI5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de av lägre rang. 	Se även {gapru}, {cnita}.
+gai	cmavo			   	PA2      	siffra/nummer: hexadecimal siffra C (decimal 12) [tolv].
 ga'icu'i	cmavo-compound			   	UI*5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de av lika rang. 
 ga'inai	cmavo-compound			   	UI*5      	attitudinal modifierare/hedersbetygelse: stolthet/hög status - lika rang - undergivenhet; används till de högre rang.
 gau	cmavo			   	BAI      	gasnu modal, 1st place agent/aktör fall tag med aktiv agent.

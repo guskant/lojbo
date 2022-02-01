@@ -549,7 +549,6 @@ juxre	gismu   	-jux-		      	x_1 (nu) is clumsy
 jvinu	gismu   	-vin-   	-ji'u-	      	x_1 is a view of x_2 from point of view x_3
 kabri	gismu			      	x_1 is a cup or mug containing x_2 made of x_3
 kacma	gismu			      	x_1 is a camera recording illumination type x_2 images to medium x_3
-kadno	gismu			      	x_1 is Canadian in aspect x_2
 kafke	gismu			      	x_1 coughs or burps gas x_2 from orifice x_3
 kagni	gismu   	-kag-		      	x_1 is a company or corporation chartered by authority x_2 for purpose x_3
 kajde	gismu   	-jde-		      	x_1 warns x_2 of danger x_3
@@ -822,7 +821,6 @@ nitcu	gismu   	-tcu-		      	x_1 needs x_2 for x_3
 nivji	gismu   	-niv-		      	x_1 knits x_2 from yarn x_3
 nixli	gismu   	-nix-   	-xli-	      	x_1 is a girl of age x_2 immature by standard x_3
 nobli	gismu   	-nol-   	-no'i-	      	x_1 is noble by standard x_2
-norgo	experimental gismu			      	x_1 reflects Norwegian culture/nationality in aspect x_2
 notci	gismu   	-not-   	-noi-	      	x_1 is a message about x_2 from author x_3 to x_4
 nukni	gismu   	-nuk-		      	x_1 is magenta
 nupre	gismu   	-nup-   	-nu'e-	      	x_1 promises or threatens to do x_2 to x_3
@@ -1011,10 +1009,10 @@ santa	gismu			      	x_1 is an umbrella shielding x_2 from x_3, made of x_4 supp
 sarcu	gismu   	-sa'u-		      	x_1 is necessary for x_2 to continue under conditions x_3
 sarji	gismu   	-sra-		      	x_1 supports or holds up x_2 against x_3 by means x_4
 sarlu	gismu			      	x_1 is a spiral or helix with limits x_2 and dimensionality x_3
-sarni	experimental gismu			      	x_1 is a triangle/tetrahedron defined by set of corners/vertices x_2, sides/dimensions x_3
+sarni	experimental gismu			      	x_1 is a triangle/tetrahedron/simplex defined by set of corners/vertices x_2 [set], sides/dimensions x_3	x_3 usually is an integer and is at least -1.
 sarxe	gismu   	-sax-		      	x_1 is harmonious or in agreement with x_2 in property x_3
 saske	gismu   	-ske-		      	x_1 is science about x_2 based on methodology x_3
-satci	gismu			      	x_1 is exact to precision x_2 in property x_2
+satci	gismu			      	x_1 is exact to precision x_2 in property x_3
 satre	gismu   	-sa'e-		      	x_1 strokes x_2 with x_3
 savru	gismu   	-sav-   	-vru-	      	x_1 is a noise to x_2 perceived with x_3
 sazri	gismu   	-saz-		      	x_1 operates machine x_2 with goal x_3
@@ -1028,7 +1026,6 @@ senta	gismu   	-set-		      	x_1 is a layer of x_2 within structure x_3
 senva	gismu   	-sev-   	-sne-	      	x_1 dreams about x_2
 sepli	gismu   	-sep-   	-sei-	      	x_1 is separate from x_2, separated by x_3
 serti	gismu   	-ser-		      	x_1 are stairs for climbing x_2 with steps x_3
-sesre	experimental gismu			      	x_1 reflects USSR (Soviet Union)/Soviet culture/Soviet nationality in aspect x_2
 setca	gismu   	-se'a-		      	x_1 inserts or puts x_2 into x_3
 sevzi	gismu   	-sez-   	-se'i-	      	x_1 is an ego or self of x_2
 sfani	gismu			      	x_1 is a fly of species x_2

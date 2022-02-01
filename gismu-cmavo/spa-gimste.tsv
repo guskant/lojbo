@@ -451,6 +451,7 @@ jarco	gismu   	-ja'o-		      	x_1 muestra/exhibe/expone x_2 ante audiencia x_3	V
 jarki	gismu   	-jak-		      	x_1 es angosto/estrecho en dimensión/dirección x_2 (la segunda en importancia) según estándar x_3	Ver también {ganra},  {tordu},  {cinla},  {caxno}.
 jaspu	gismu   	-jap-		      	x_1 es un pasaporte expedido a x_2 por autoridad x_3 que le permite hacer x_4	Ver también {pikta}.
 jatna	gismu   	-ja'a-		      	x_1 es capitán/comandante/líder/a cargo de vehículo/dominio x_2	Ver también te {bende},  {minde},  {ralju}.
+jatsu	experimental gismu			      	x_1 es un piscolabis/refrigerio/refresco/merienda con componentes/ingredientes x_2 
 javni	gismu   	-jva-		      	x_1 es una regla que prescribe/manda/requiere x_2 en sistema/comunidad x_3	Ver también {flalu},  {ritli}.
 jbama	gismu   	-bam-		      	x_1 es una bomba/aparato explosivo con material/principio explosivo x_2
 jbari	gismu   	-jba-		      	x_1 es una baya/frutilla/mora/granada/grosella (fruta) de especie/variedad x_2
@@ -1249,7 +1250,6 @@ vlina	gismu			      	x_1 es una alternativa lógica: x_2 (du'u) y/o x_3 (du'u) s
 vlipa	gismu   	-vli-		      	x_1 puede/tiene el poder/potencia/fuerza para hacer x_2 (evento) bajo condiciones x_3	Ver también {tsali},  {jitro}.
 vofli	gismu   	-vol-   	-voi-	      	x_1 vuela con medio de propulsión x_2
 voksa	gismu   	-vok-   	-vo'a-	      	x_1 es una voz de individuo x_2
-volve	experimental gismu			      	x_1 vuelve/regresa/retorna a estado/lugar anterior/original x_2 desde x_3
 vorme	gismu   	-vor-   	-vro-	      	x_1 es una puerta/entrada/salida entre x_2 y x_3 de estructura x_4	Ver también {bitmu}.
 vraga	gismu   	-vra-		      	x_1 es una palanca (herramienta) para función x_2, con fulcro x_3 y brazo x_4
 vreji	gismu   	-rej-   	-vei-	      	x_1 es un registro/grabación de x_2 conservado en medio x_3

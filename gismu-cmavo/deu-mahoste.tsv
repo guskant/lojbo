@@ -1,9 +1,9 @@
 a'a	cmavo			   	UI1      	Perspektivum: Aufmerksamkeit - Unaufmerksamkeit - Ausweichen (z.B. einer Diskussion)
-ai	cmavo			   	UI1      	Perspektivum: Absicht/Vorsatz - Unschlüssigkeit - Ablehnung
 a'i	cmavo			   	UI1      	Perspektivum: Aufwand/Mühe - Mühelosigkeit - Untätigkeit/Muße
+ai	cmavo			   	UI1      	Perspektivum: Absicht/Vorsatz - Unschlüssigkeit - Ablehnung
 a'o	cmavo			   	UI1      	Perspektivum: Hoffnung - Verzweiflung
-au	cmavo			   	UI1      	Perspektivum: Begehren/Sehnsucht - Gleichgültigkeit - Abneigung/Widerwille
 a'u	cmavo			   	UI1      	Perspektivum: Interesse - Desinteresse - Abscheu
+au	cmavo			   	UI1      	Perspektivum: Begehren/Sehnsucht - Gleichgültigkeit - Abneigung/Widerwille
 bi	cmavo   	-biv-		   	PA1      	Zahl/Ziffer: 8 [Acht].
 bi'i	cmavo   	-biz-		      		nicht-logischer Intervallverbinder: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
 bo	cmavo   	-bor-		      		Verbindung kurzer Reichweite; verbindet verschiedene Konstrukte mit kürzestmöglicher Reichweite und rechts-assoziativer Gruppierung
@@ -51,8 +51,8 @@ mei	cmavo   	-mem-   	-mei-	      		wandelt eine Zahl in eine Mächtigkeitsbezie
 mi	cmavo   	-mib-		   	KOhA3      	prosumti: Ich/wir die/der Sprecher/Autor(en); Definiert durch mi'e.	Siehe auch {mi'e}, {mi'o}, {mi'a}, {ma'a}.
 mo	cmavo			   	GOhA      	pro-bridi: Frage nach bridi/selbri/brivla.
 mo'a	cmavo   	-mob-		      		Ziffer/Zahl: zu wenige; subjektiv
-moi	cmavo   	-mom-   	-moi-	      		wandelt Zahl in eine Ordnungsbeziehung; x_1 ist das (n).te Element von Menge x_2 geordnet nach Vorschrift x_3
 mo'i	cmavo   	-mov-		      		markiert Bewegungen in der Raumzeit
+moi	cmavo   	-mom-   	-moi-	      		wandelt Zahl in eine Ordnungsbeziehung; x_1 ist das (n).te Element von Menge x_2 geordnet nach Vorschrift x_3
 mu	cmavo   	-mum-		   	PA1      	Zahl/Ziffer: 5 [Fünf]
 mu'e	cmavo   	-muf-		      		Abstraktion: Ausführung (Ereignis) Abstraktion; x_1 ist ein Punktereignis/Ausführung von [bridi]
 na	cmavo   	-nar-		      		widersprechender Bridi-Negator; Wirkungsbereich ist eine gesamte Prädikatsbeziehung; negiert logisch in manchen cmavo-Komposita
@@ -63,6 +63,7 @@ no	cmavo   	-non-		   	PA1      	Zahl/Ziffer: 0 [Null].
 no'e	cmavo   	-nor-   	-no'e-	      		mittelwertiger skalarer Negator: neutraler Punkt zwischen je'a und to'e; „eigentlich nicht“
 nu	cmavo   	-nun-		      		Abstraktion: allgemeines Ereignis Abstraktion; x_1 ist der Zustand/Prozess/Vollendung/Handlung von [bridi]
 nu'o	cmavo   	-nu'o-		      		modaler Aspekt: kann aber hat/ist nicht; unverwirklichtes Potenzial
+oi'u	experimental cmavo			   	UI1      	attitudinal: Schmerzempfinden, Leiden - Behaglichkeit	siehe {cortu}
 pa	cmavo   	-pav-		   	PA1      	Zahl/Ziffer: 1 [Eins]
 pi	cmavo   	-piz-		      		Ziffer/Zahl: Basispunkt; Default: Dezimal
 pi'u	cmavo   	-piv-		      		nicht-logische Verknüpfung: Kreuzprodukt; Kartesisches Produkt von Mengen

@@ -1,14 +1,54 @@
 a	cmavo			   	A      	逻辑连词：或 （置于sumti之后）
 a'a	cmavo			   	UI1      	态度词：刻意-不刻意-避免	也可指“专心”。相关{jundi},{rivbi}
 a'e	cmavo			   	UI1      	态度词：警惕-精疲力尽	相关{sanji},{cikna},{tatpi}
-ai	cmavo			   	UI1      	态度词：打算-无决定-拒绝	相关{termu'i},{terzu'e},{seljdi}
 a'i	cmavo			   	UI1      	态度词：努力-没有特别努力-停止/休息	相关{gunka},{troci}
+ai	cmavo			   	UI1      	态度词：打算-无决定-拒绝	相关{termu'i},{terzu'e},{seljdi}
 a'o	cmavo			   	UI1      	态度词：希望-绝望	相关{pacna}
-au	cmavo			   	UI1      	态度词：渴望-无所谓-勉强/不情愿	相关{djica}
 a'u	cmavo			   	UI1      	态度词：兴趣-无兴趣-反感	相关{cinri},{selcni}
+au	cmavo			   	UI1      	态度词：渴望-无所谓-勉强/不情愿	相关{djica}
+by	cmavo			   	BY2      	字母B
+co'ei	experimental cmavo			   	COhEI      	BAI类修饰词：将一个谓词用来修饰一个BAI类cmavo	fi'o broda fe'u co'ei brode等于fi'o brode broda fe'u
+cy	cmavo			   	BY2      	字母C
+dy	cmavo			   	BY2      	字母D
 fau'u	experimental cmavo			   	COI      	对不起, 请原谅我, 抱歉	{fraxu}, {u'u}.
+fu	cmavo			   	FA      	项位置标志：表示后面项为对应谓词的x_5
+fu'a	cmavo			   	FUhA      	逆波兰式标记；后缀表达式标记
+fu'i	cmavo			   	UI5      	态度指示词：容易-困难	{frili}
+fy	cmavo			   	BY2      	字母F
+ga	cmavo			   	GA      	逻辑连词：逻辑或；当两个条件中有任一个条件满足结果就满足	{a}
+gy	cmavo			   	BY2      	字母G
 jo'au	experimental cmavo			   	COI3      	转换语法分析器的版本/方言.	{do'u}是可以省略的终端词. 在{jo'au}之后的cmevla/sumti/selbri的词法和文法应该适合lojban.org网站的 ``BPFK Section: PEG Morphology Algorithm'' 的第134版本及官方文法, 正是为了{jo'au}构成的自由修饰词组是相容语法分析器的所有版本. 比如说, ``jo'au jie bu'' 和 ``jo'au xy xi xei'' 不是有意义的词组. 在标准使用上, 全文章开头使用{jo'au}词组, 和{fa'o}的用法相反. {jo'au}词组的意义涉及后续部分, 到下一个{jo'au}词组为止. 第一个{jo'au}词组可以出现在文章中途, 意义涉及从开头到下一个{jo'au}词组为止. 有意义的例子: jo'au cylyly xi papipa (官方yacc和jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (现行的peg http://camxes.lojban.org/ ) ; jo'au iocixes (xorxes的zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa的第0.11个版本 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa的2014-11-24版本 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)
+jy	cmavo			   	BY2      	字母J
 ka	cmavo   	-kam-		   	NU      	特性/性质指示; x_1 是[bridi]表现出的性质/特性 .
+ke'ei	experimental cmavo			   	KEhEI      	使tanru/lujvo切换到右结合	rafsi -keb-。ke'ei'a切换回左结合(仅适用于下一个selbri)
+ky	cmavo			   	BY2      	字母K
+lu	cmavo			   	LU      	引用开始标志（相当于左引号）；直接引用	{selsku},{sinxa};{li'u}
+lu'a	cmavo			   	LAhE      	范围限定词：~（集合/系统/混合物/组织……）的个体/单元/组分/成员	{cmima},{sumgadri}
+lu'e	cmavo			   	LAhE      	范围限定词：~的标记/记号/符号	{sinxa},{sumgadri},{la'e}
+lu'i	cmavo			   	LAhE      	范围限定词：由~组成的集合；	{la'i},{le'i},{lo'i}
+ly	cmavo			   	BY2      	字母L
+ma	cmavo			   	KOhA7      	代词：代替sumti，对其提出疑问；什么/谁/哪里/怎么/……	对谓词提问用{mo}
+ma'a	cmavo			   	KOhA3      	代词：我们（包括说话者/作者、听众/读者 以及其他一些人）；大家	{mi},{mi'o},{mi'a}
+me'oi	experimental cmavo			   	MEhOI      	非逻辑语brivla	这是一种快速的将外语词引入逻辑语的方法，也称“阶段零fu'ivla”，相当于{me'au} {la'e} {zo'oi}，参见{mu'oi}
 mi'ai	experimental cmavo			   	KOhA3      	我們
 mi'o	cmavo			   	KOhA3      	咱們
+mo	cmavo			   	GOhA      	疑问代词：代替谓词（bridi/selbri/brivla），对其提出疑问；对sumti的状态/性质，sumti间的关系提问；怎么/做什么	对sumti提问用{ma}
+my	cmavo			   	BY2      	字母M
+ny	cmavo			   	BY2      	字母N
+py	cmavo			   	BY2      	字母P
 ra'oi	experimental cmavo			   	RAhOI      	rafsi的标记. 把rafsi变为sumti.	要注意在这个rafsi的前后时常需要留出空白或休止. 語法分析器zantufa-0.14和更高版本分析ra'oi作为selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). 例: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .
+ru'u	cmavo			   	FAhA2      	方位词：周围/四周/环绕	{sruri}
+ry	cmavo			   	BY2      	字母R
+sa	cmavo			   	SA      	撤回前言；对前言部分内容进行修改（发生语误时）；不是……应该是……	具体修改的部分由后面所接的词判断
+sa'ei	experimental cmavo			   	COI2      	将cmevla或一个zoi引用转换为拟声词
+sa'i	cmavo			   	VUhU4      	n元数学算符：矩阵的列矢量
+sa'o	cmavo			   	VUhU4      	三元数学算符：导数运算，普通微分；函数a关于变元b的c（默认为1）阶导数	参见{cneparbi}，{cmaci}
+sy	cmavo			   	BY2      	字母S
+ty	cmavo			   	BY2      	字母T
+vy	cmavo			   	BY2      	字母V
+xy	cmavo			   	BY2      	字母X
+y'y	cmavo			   	BY2      	字母 '
+zu	cmavo			   	ZI      	时态距离：长时间；很久
+zu'a	cmavo			   	FAhA2      	方位词：左；~的左边	{zunle}
+zu'u	cmavo			   	UI3      	连词：一方面(zu'u) - 另一方面(zu'unai)	参见{karbi}，{frica}，{dukti}
+zy	cmavo			   	BY2      	字母Z

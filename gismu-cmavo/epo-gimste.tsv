@@ -59,6 +59,7 @@ blabi	gismu   	-lab-		      	x_1 estas blanka/tre hela [koloradjektivo]	Palaj fo
 blaci	gismu			      	x_1 estas kvanto da/enhavas/konsistas el vitro de konsisto enhavanta x_2-on	Vidu ankaŭ {kabri}.
 blanu	gismu   	-bla-		      	x_1 estas blua [koloradjektivo]	Vidu ankaŭ {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.
 bliku	gismu   	-bli-		      	x_1 estas bloko [3-dimensia formo] el materialo x_2, surfacoj/flankoj/lateroj x_3	x_3 (edroj/lateroj/facoj/surfacoj) inkluzivu nombron, grandon, kaj formon; ankaŭ multedro (= pitybli kun plataj/ebenaj lateroj/surfacoj).  regula multedro (= {kubybli}, {blikubli}), briko (= {kitybli}); Vidu ankaŭ {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}.
+blolo	experimental gismu			      	x_1 estas ananaso/ano de genro Ananas de specio/variaĵo x_2
 bloti	gismu   	-lot-   	-blo-   	-lo'i-      	x_1 estas boato/ŝipo [veturilo] por porti x_2-on, pelita de x_3	Vidu ankaŭ {falnu}, {fulta}, {marce}, {jatna}, {sabnu}.
 bolci	gismu   	-bol-   	-boi-	      	x_1 estas pilko/sfero/globo [formo] el materialo x_2; x_1 estas spherical objekto [farita el x_2]	Ankaŭ: ronda.  Vidu ankaŭ {bliku}, {cukla}, {bidju}, {gunro}.
 bongu	gismu   	-bog-   	-bo'u-	      	x_1 estas osto/eburo [korpoparto], plenumanta funkcion x_2 en korpo x_3; [metafore: kalcio]	x_2 verŝajne estas abstraktaĵo: ĝi povas esti strukturo/subteno por iu korpoparto, sed ankaŭ aliaj kiel la timpano; la unua povas esprimiĝi kiel (tu'a le<korpoparto>); kartilago (= {ranbo'u}), skeleto (= {bogygreku}).  Vidu ankaŭ {greku}, {denci}, {jirna}, {sarji}.
@@ -117,6 +118,7 @@ cecla	gismu   	-cel-   	-ce'a-	      	x_1 lanĉas/pafas pafaĵon/ĵetaĵon x_2, 
 cecmu	gismu   	-cem-   	-ce'u-	      	x_1 estas komunumo/kolonio de organismoj x_2	Vidu ankaŭ {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}.
 cedra	gismu			      	x_1 estas epoko/erao karakterizita de x_2 (okazo/eco/intervalo/ideo)	(intervalo x_2 estu la difinaj limoj; se temas pri nur karakteriza periodo, oni esprimu la naturon de la intervalon per abstrakta bridi, aŭ la intervalon oni marku per tu'a; x_2 ankaŭ povas esti karakterizaj objektoj aŭ praktikoj de la epoko, se markita per tu'a); Vidu ankaŭ {ranji}, {temci}, {citsi}.
 cenba	gismu   	-cne-		      	x_1 varias/ŝanĝiĝas laŭ eco/kvanto x_2 (ka/ni) en kvanto/grado x_3 sub kondiĉoj x_4	Nerezulta, ne nepre kaŭza ŝanĝiĝo.  (kp. cenba kiu estas nerezulta, galfi kiu estas rezulta kaj kaŭza, stika kiu estas nerezulta kaj kaŭza; stodi, zasni, binxo)
+cendo	experimental gismu			      	x_1 apartenas al la ŝintoa kulturo/religio/etoso laŭ aspekto x_2 
 censa	gismu   	-ces-		      	x_1 estas sankta por homo/popolo/kulturo/religio/kulto/grupo x_2	(kp. cevni, krici, latna, prŭi, lijda, sinma)
 centi	gismu   	-cen-		      	x_1 estas centono [1/100; 1x_10**-2] de x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi, petso, picti, terto, xatsi, xecto, xexso, zepti, zetro)
 cerda	gismu   	-ced-		      	x_1 heredas x_2-on (objekto/kvalito) de x_3 laŭ regulo x_4	Pedante, heredo de objekto estu sumti-levado (tu'a se estas neabstraktaĵo en x_2) el heredo de loka ponse la objekto - la posedo de la objekto (=posycerda, posyselcerda por neambigua semantiko).  Vidu ankaŭ {jgina}.
@@ -205,8 +207,10 @@ cnino	gismu   	-nin-   	-ni'o-	      	x_1 estas nova/nekonata por observanto x_2
 cnisa	gismu   	-nis-		      	x_1 estas kvanto da/enhavas/konsistas el plumbo (Pb); [metafore: peza, malleable, mola metalo]	Vidu ankaŭ {jinme}, {tinci}.
 cnita	gismu   	-nit-   	-ni'a-	      	x_1 estas rekte/vertikale sub x_2 en referenckadro x_3	Ankaŭ: malsupra, suba.  Vidu ankaŭ {dizlo}, {gapru}, {galtu}, {farna}, {loldi}.
 cokcu	gismu   	-cko-		      	x_1 sorbas/suĉas x_2-on el x_3 en x_4-on; x_1 estas sorba	Vidu ankaŭ {panje}, {sakci}, {lacpu}.
+cokte	experimental gismu			      	x_1 estas pruno/ano de subgenro Prunus de genro Prunus de specio/variaĵo x_2 
 condi	gismu   	-con-   	-cno-   	-coi-      	x_1 estas profunda laŭ direkto/eco x_2 disde referenca punkto x_3 laŭ normo x_4	Vidu ankaŭ {clani}, {caxno}, {bargu}, {ganra}, {rotsu}, {barda}, {gutci}, {minli}.
 cortu	gismu   	-cor-   	-cro-	      	x_1 doloriĝas/sentas doloron je x_2; x_2 doloras al x_1	Vidu ankaŭ {cinmo}, {xrani}.
+cotci	experimental gismu			      	x_1 estas manĝeto/refreŝigaĵo kun eroj/ingrediencoj x_2
 cpacu	gismu   	-cpa-		      	x_1 akiras/havigas al si/obtenas/akceptas x_2-on el fonto x_3 [ne implicas antaŭan posedanton]	Ankaŭ: venigi, alporti, eltiri, eligi; akcepti donacon (= {seldu'acpa}).  Vidu ankaŭ {punji}, {lebna}, {vimcu}.
 cpana	gismu			      	x_1 estas sur [la supra surfaco de] x_2 en referenckadro/gravito x_3	(x_1 povas esti objekto aŭ okazo); Vidu ankaŭ se {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, punji por meti sur {ion}, {sarji}, {zbepi}.
 cpare	gismu   	-par-		      	x_1 grimpas/rampas sur surfaco x_2 en direkto x_3 per x_4 [membroj/iloj]	Vidu ankaŭ {klama}, {litru}, {bajra}, {farlu}, {plipe}.
@@ -316,6 +320,7 @@ dunja	gismu   	-duj-		      	x_1 frostiĝas/ĝeliĝas/solidiĝas je temperaturo 
 dunku	gismu   	-duk-   	-du'u-	      	x_1 angoras/sentas ĉagrenon/emocian premon pro x_2	Vidu ankaŭ {fengu}, {surla}.
 dunli	gismu   	-dun-   	-du'i-	      	x_1 estas egala al/kongrua kun/tiom kiel x_2 en eco/dimensio/kvanto x_3	Sama en kvanto/kvalito (ne nepre en identeco); 'analogion' oni povas esprimi kiel la ekvivalenco de du similecoj (ka x_1 simsa x_2) kaj (ka x_3 simsa x_4).  Vidu ankaŭ cmavo {du'i}, {satci}, {frica}, {simsa}, {mintu}.
 dunra	gismu   	-dur-		      	x_1 estas vintro [malvarma sezono] de jaro x_2 en loko x_3	Vidu ankaŭ {citsi}, {crisa}, {critu}, {vensa}.
+durna	experimental gismu			      	x_1 estas durio/ano de genro Durio de specio/variaĵo x_2 
 dzena	gismu   	-dze-		      	x_1 estas praulo de x_2 laŭ ligilo/grado x_3; la generacio de x_1 antaŭas tiun de la gepatroj de x_2	Vidu ankaŭ {patfu}, {rirni}, {tamne}.
 dzipo	gismu   	-zip-   	-zi'o-	      	x_1 montras antarktikan kulturon/naciecon/geografion laŭ aspekto x_2	Vidu ankaŭ {ketco}, {friko}, {sralo}, {terdi}.
 facki	gismu   	-fak-   	-fa'i-	      	x_1 ekscias/malkovras/eltrovas fakton x_2 (du'u) pri temo/objekto x_3	x_1 trovas (fi) x_3-on (objekto) Vidu ankaŭ {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}.
@@ -358,6 +363,7 @@ flalu	gismu   	-fla-		      	x_1 estas leĝo preciziganta x_2-on por komunumo x_
 flani	gismu			      	x_1 estas fluto/ŝalmo/fifro/hobojo [fluteca/anĉa muzikinstrumento]	Vidu ankaŭ {zgike}.
 flecu	gismu   	-fle-		      	x_1 estas fluo/kurento/rivero de/en x_2 fluanta en direkto al x_3 el direkto/fonto x_4	(x_2 verŝiĝas al x_3 el x_4; x_2 estas fluido Gaso aŭ likvaĵo. (= selfle por reordigitaj {lokoj})); Vidu ankaŭ {rirxe}, senta kie direkteco ne estas {implicita}, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, litki,{ciblu}.
 fliba	gismu   	-fli-		      	x_1 malsukcesas je x_2 (stato/okazo)	Perpleksa (= {pesfli}, {jmifli}, {dafspufli}, {menfli}); ankaŭ x_2 ĉesiĝas/ne kompletiĝas/ne povas kontinui pro malsukceso de x_1.  Vidu ankaŭ {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.
+flipo	experimental gismu			      	x_1 montras filipinan kulturon/naciecon/lingvon/geografion laŭ aspekto x_2
 flira	gismu   	-fir-		      	x_1 estas (la) vizaĝo [kapo/korpoparto] de x_2; (adjektivo:) x_1 estas vizaĝa	Vidu ankaŭ {sefta}, {stedu}, {crane}, {mebri}.
 foldi	gismu   	-flo-   	-foi-	      	x_1 estas kampo [formo] el materialo x_2; x_1 estas larĝa unufora etendo de x_2	Ankaŭ: arbaro (= {ricfoi}), razenejo/herbobedo (= {sasfoi}), densejo (= {spafoi}, {cicyspafoi}).  Vidu ankaŭ {purdi}, {cange}.
 fonmo	gismu   	-fom-   	-fo'o-	      	x_1 estas kvanto da ŝaŭmo/sapakvo el materialo x_2, kun bobeloj/vezikoj el materialo x_3	Vidu ankaŭ {zbabu}.
@@ -450,6 +456,7 @@ jarco	gismu   	-ja'o-		      	x_1 (aganto) montras/elmontras/[malkaŝas]/demonst
 jarki	gismu   	-jak-		      	x_1 estas mallarĝa/malvasta laŭ dimensio x_2 [2-a plej signifa dimensio] laŭ normo x_3	Vidu ankaŭ {caxno}, {cinla}, {tordu}, {tagji}, {cinla}, {cmalu}.
 jaspu	gismu   	-jap-		      	x_1 estas pasporto liverita al x_2 (homo) fare de aŭtoritato x_3 rajtiganta x_4-on (ago)	Vidu ankaŭ {pikta}, {catni}, {curmi}.
 jatna	gismu   	-ja'a-		      	x_1 estas kapitano/komandanto/estro/ĉefo/mastro de veturilo/regno x_2	Vidu ankaŭ {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}.
+jatsu	experimental gismu			      	x_1 estas manĝeto/refreŝigaĵo kun eroj/ingrediencoj x_2
 javni	gismu   	-jva-		      	x_1 estas regulo preskribanta/difinanta/postulanta x_2-on (okazo/stato) en sistemo/kumunumo x_3	Regularo, preskribo (ankaŭ x_2), principo, postulo (kondiĉoj kutime estas en x_2); x_1 estas reguliga; x_2, x_3 estas reguligitaj.  Vidu ankaŭ {flalu}, {ritli}, cmavo {ja'i}, {marde}, {tcaci}, {tinbe}, {zekri}.
 jbama	gismu   	-bam-		      	x_1 estas bombo/eksplodaĵo kun eksploda materialo/principo x_2	Vidu ankaŭ {cecla}, {spoja}.
 jbari	gismu   	-jba-		      	x_1 estas bero (frukto/planto) de planto/speco x_2	Vidu ankaŭ {grute}, {tsiju}, {narge}, {grute}.
@@ -459,7 +466,7 @@ jbini	gismu   	-bin-   	-bi'i-	      	x_1 estas inter aro da punktoj/limoj x_2 (
 jdari	gismu   	-jar-		      	x_1 estas firma/malmola/rezista/necedema al forto x_2 sub kondiĉoj x_3	Vidu ankaŭ {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}.
 jdice	gismu   	-jdi-		      	x_1 (homo) decidas x_2-on (du'u) pri afero x_3 (okazo/stato)	(kp. pajni, cŭna, kanji, manri)
 jdika	gismu			      	x_1 malpliiĝas/malvastiĝas/malgrandiĝas/reduktiĝas laŭ eco x_2 en kvanto x_3	Vidu ankaŭ {zenba}, {mleca}, {vimcu}.
-jdima	gismu   	-di'a-		      	x_1 [kvanto] estas la prezo de x_2 por aĉetanto/konsumanto x_3 fiksita de vendisto x_4	x_2 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (= {posydi'a}, posyseldi'a por neambigua {semantiko}); prezo estas decidita/fiksita de la vendanto, kaj estas proksimume simila al ofero (friti), kio estas tio, kion la aĉetanto povas decidi; (rimarku ke prezo ne samas al kosto/elspezo, kio estas la efektiva kvanto interŝanĝita en transago; ĉi tiu lasta estas vecnu aŭ canja; neniu el la du samas al valoro aŭ vamji).  Vidu ankaŭ {canja}, {friti}, {janta}, {jdini}, {kargu}, {pleji}, {dapma}, vamji por {'valoro'}, ve vecnu por {'kosto'}, {canja}, {fepni}, {jerna}, {jinga}, {pleji}, {prali}, {rupnu}, {sfasa}, {vamji}.
+jdima	gismu   	-di'a-		      	x_1 [kvanto] estas la prezo de x_2 por aĉetanto/konsumanto x_3 fiksita de vendisto x_4	x_2 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (= {posydi'a}, posyseldi'a por neambigua {semantiko}); prezo estas decidita/fiksita de la vendanto, kaj estas proksimume simila al ofero (friti), kio estas tio, kion la aĉetanto povas decidi; (rimarku ke prezo ne samas al kosto/elspezo, kio estas la efektiva kvanto interŝanĝita en transago; ĉi tiu lasta estas vecnu aŭ canja; neniu el la du samas al valoro aŭ vamji).  Vidu ankaŭ {canja}, {friti}, {janta}, {jdini}, {kargu}, {pleji}, {dapma}, vamji por '{valoro}', ve vecnu por '{kosto}', {canja}, {fepni}, {jerna}, {jinga}, {pleji}, {prali}, {rupnu}, {sfasa}, {vamji}.
 jdini	gismu   	-din-   	-di'i-	      	x_1 estas mono liverita de x_2; (adjektivo:) x_1 estas financa/mona/pecuniary/fiska	Papermono (= {pledi'i}).  Vidu ankaŭ {fepni}, {jdima}, {rupnu}, {sicni}, {canja}, {rupnu}.
 jduli	gismu   	-dul-   	-jdu-	      	x_1 estas kvanto da gelatenaĵo/duonsolidaĵo [tekseco] de materialo/konsisto enhavanta x_2-on	Vidu ankaŭ {litki}, {sligu}.
 jecta	gismu   	-jec-   	-je'a-	      	x_1 estas ŝtato/civito reganta teritorion/regnon x_2; [rilato registaro/teritorio]	(adjektivo:) x_1 estas civila/politika.  Vidu ankaŭ {gugde}, {tutra}, {turni}, {natmi}, {jansu}, {lanci}, {cecmu}.
@@ -483,6 +490,7 @@ jgena	gismu   	-jge-		      	x_1 estas nodo inter x_2 (objekto/jo'u-objektoj)	No
 jgina	gismu   	-gin-		      	x_1 estas geno de estaĵo [aŭ loko en estaĵo] x_2 determinanta trajton/procedon x_3	Ankaŭ: kromosomo = (gincilta, ginpoi).  Vidu ankaŭ {cerda}.
 jgira	gismu   	-jgi-		      	x_1 (homo) fieras pri x_2 (abstraktaĵo)	Emocia kombino de kontentiĝo kaj respekto/estimo je eco aŭ ago de homo/estaĵo kiu havas specifan ligon kun la emociiĝanto; memfieri (= {se'ijgi}, {tolcumla}); uzu je tu'a en x_2 por fiero pri nespecifaj ecoj de iu.  Vidu ankaŭ {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
 jgita	gismu   	-git-		      	x_1 estas gitaro/violono/violonĉelo/harpo [korda muzikinstrumento] kun plektro/arĉo x_2	Ankaŭ: mandolino, liuto.  Vidu ankaŭ {zgike}.
+jguvi	experimental gismu			      	x_1 estas monstro de specio/variaĵo x_2
 jibni	gismu   	-jbi-		      	x_1 estas proksime/apude de x_2 laŭ eco/kvanto x_3 (ka/ni)	Vidu ankaŭ {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu}, {diklo}, {stuzi}.
 jibri	gismu   	-jib-		      	x_1 estas ofico/profesio/okupo (tipo de laboro regule farita pro pago) de homo x_2	Labori por alia (= {selplijibri}).  (kp. briju, gunka, te jerna kiu estas laboro specife por pago kaj ne specife por alia, te pilno kiu estas okupo ne nepre por pago kaj ne nepre regula aŭ longdaŭra sed por alia, se gasnu kaj se zukte por incidentaj agoj)
 jicla	gismu			      	x_1 (objekto, aŭ okazo: forto) kirlas/agitas/miksas fluaĵon (gaso/likvaĵo) x_2	Konvekto (= {nenflejicla}); agenta kirlo (= {jiclygau}, {jiclyzu'e}).  Vidu ankaŭ {fanza}, {tunta}, {mixre}.
@@ -639,6 +647,7 @@ lanci	gismu			      	x_1 estas flago/standardo de x_2/simbolas x_2-on kun desegn
 lanka	gismu			      	x_1 estas korbo enhavanta x_2-on, teksita el materialo x_3	Vidu ankaŭ {vasru}, {baktu}.
 lanli	gismu   	-lal-		      	x_1 analizas/detale ekzamenas x_2-on per metodo/tekniko/sistemo x_3 [procedo/ago]	Vidu ankaŭ {catlu}, {zgana}, {jarco}, {pensi}, {pinka}.
 lanme	gismu   	-lan-		      	x_1 estas shafo de speco/raso x_2 el aro x_3	Vidu ankaŭ {kanba}, {sunla}.
+lanru	experimental gismu			      	x_1 estas lanterno, kiu iluminas x_2, en stilo/kun ecoj x_3	Lanterno ne necese iluminas ion ajn.
 lante	gismu			      	x_1 estas ladskatolo/hermetike fiksita ujo por pereema enhavo x_2, farita el x_3	Vidu ankaŭ {botpi}, {baktu}, {tinci}.
 lanxe	gismu   	-lax-		      	x_1 estas en ekvilibro sub fortoj x_2 (kolektivaĵo)	(kp. midju, nutli; fapro por ekvilibrigaj/kontraŭaj fortoj, nutli)
 lanzu	gismu   	-laz-		      	x_1 (kolektivaĵo) estas familio kun membro(j) x_2 ligitaj laŭ normo x_3	Ankaŭ: klano, tribo; x_2 estas en x_1, ano/membro de x_1 (selylanzu por reordigitaj lokoj); parenco (= lazmi'u - xy mintu y'y leka cmima da poi lanzu).  Vidu ankaŭ {natmi}, {cmima}, {girzu}, {jutsi}, {klesi}.
@@ -653,6 +662,7 @@ lenjo	gismu   	-len-   	-le'o-	      	x_1 estas lenso [fokusanta formo] fokusant
 lenku	gismu   	-lek-		      	x_1 estas malvarma/frida laŭ normo x_2	Vidu ankaŭ {glare}, {bisli}.
 lerci	gismu   	-lec-		      	x_1 (okazo) estas malfrua laŭ normo x_2	Vidu ankaŭ {clira}.
 lerfu	gismu   	-ler-   	-le'u-	      	x_1 (la'e zo BY/vorto-bu) estas litero/cifero/simbolo en alfabeto/karaktraro x_2 simbolanta x_3-on	Ankaŭ: x_1 glifo, runo, karaktro (ankaŭ me'o BY/vorto-bu), x_2 simbolaro; (adjektivo:) x_1 estas alfabeta/simbola; sinxa estas pli ĝenerala simbolo.  Vidu ankaŭ {mifra}, {namcu}, {sinxa}, {pandi}.
+letci	experimental gismu			      	x_1 estas liĉio (Litchi chinensis) de variaĵo x_2 
 libjo	gismu   	-lib-		      	x_1 montras libian kulturon/naciecon laŭ aspekto x_2	Vidu ankaŭ {friko}, {xrabo}, {muslo}.
 lidne	gismu   	-li'e-		      	x_1 antaŭas/antaŭiras/malsekvas x_2-on en sinsekvo x_3; x_2 sekvas/postiras x_1-on en sinsekvo x_3	Ankaŭ: x_1 antaŭa, antaŭiranto; x_2 posta, postiranta, sekvanta (= selyli'e por reordigitaj {lokoj}).  Vidu ankaŭ cmavo {li'e}, {balvi}, {ralju}, {rebla}, purci por tempa {sinsekvo}, {jersi}, {porsi}, {jatna}, {farna}.
 lifri	gismu   	-lif-   	-fri-	      	x_1 [homo/pasivo/stato] spertas/travivas/suferas/ĝuas x_2-on (okazo/sperto); x_2 okazas al x_1	Ankaŭ: havi (okazojn/spertojn); (adjektivo:) x_1 estas empiria; sugestas pasivan aperton sed ne ekscludas activan (per zukte) intencon; meritita sperto: rekompenco aŭ puno (=jernyfri, zanjernyfri, maljernyfri).  Vidu ankaŭ cmavo {ri'i}, {jmive}, {fasnu}, {renvi}.
@@ -712,6 +722,7 @@ matra	gismu			      	x_1 estas motoro/maŝino funkciiganta/pelanta/potenciganta 
 mavji	gismu   	-mav-		      	x_1 estas kvanto da aveno [greno] de speco/raso x_2	Vidu ankaŭ {gurni}.
 maxri	gismu   	-xri-		      	x_1 estas kvanto da tritiko [greno] de speco/raso x_2	Vidu ankaŭ {gurni}.
 mebri	gismu   	-meb-		      	x_1 estas (la) frunto [elstara plata/glata kapo/korpoparto] de x_2	Vidu ankaŭ {stedu}, {flira}.
+medzo	experimental gismu			      	x_1 meditas pri x_2 per praktiko/metodo/studo x_3 
 megdo	gismu   	-meg-		      	x_1 estas miliono [1x_10**6] da x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	Vidu ankaŭ {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, xatsi,xecto,{xexso}, {zepti}, {zetro}.
 mekso	gismu   	-mek-   	-me'o-	      	x_1 [kvantigilo/esprimo] estas matematika esprimo interpretita laŭ reguloj/konvencio x_2	Vidu ankaŭ {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.
 melbi	gismu   	-mel-   	-mle-	      	x_1 estas bela/plaĉa/agrabla al x_2 laŭ aspekto x_3 (ka) laŭ estetika normo x_4	Ankaŭ: gracia.  Vidu ankaŭ {pluka}, {xamgu}.
@@ -874,10 +885,11 @@ polje	gismu   	-plo-		      	x_1 (forto) faldas x_2-on je loko/formanta faldo(j)
 polno	gismu   	-pol-		      	x_1 montras polinezian/oceanian (geografia regiono) kulturon/naciecon/lingvojn laŭ aspekto x_2	Vidu ankaŭ {sralo}, {daplu}, {xamsi}.
 ponjo	gismu   	-pon-   	-po'o-	      	x_1 montras japanan kulturon/naciecon/lingvon laŭ aspekto x_2	Vidu ankaŭ {xazdo}, {daplu}.
 ponse	gismu   	-pos-   	-po'e-	      	x_1 posedas/havas x_2-on laŭ leĝo/kutimo x_3; x_1 estas posedanto de x_2 laŭ x_3	(x_3 ĝenerale estas grava; la koncepto estas tre vasta kiam ne limigita, kaj la naturo/interpreto de posedo estas tre kulturdependa); Vidu ankaŭ {ckini}, {ralte}, {jitro}, {steci}, {srana}, {tutra}, {turni}, {zivle}.
+porno	experimental gismu			      	x_1 estas pornografio de seksa orientiĝo x_2 en prezento/komunikilo x_3 de specialaĵo/koncentriĝo//fokuso x_4 
 porsi	gismu   	-por-   	-poi-	      	x_1 estas vico/sinsekvo/ordigita/listigita per apliko de komparo/reguloj x_2 al neordigita aro x_3	Ankaŭ: (adjektivo:) x_1 estas seria.  (aroj komplete specifitaj); Vidu ankaŭ cmavo {po'i}, {lidne}, {liste}, {cmima}.
 porto	gismu   	-pot-		      	x_1 montras portugalan kulturon/naciecon/lingvon laŭ aspekto x_2	Vidu ankaŭ {brazo}.
 prali	gismu   	-pal-		      	x_1 estas profito/gajno/avantaĝo/utilon al x_2 rezultanta de ago/procedo x_3	Ankaŭ: (fe) x_2 profitas el x_3 (= selterprali por reordigitaj {lokoj}); x_1 povas esti specifa objekto, varo (kolektivaĵo), okazo, aŭ eco; pedante, por objektoj/varoj, ĉi tio estas sumti-levado el posedo de la objekto/varo (= selposprali por neambigua {semantiko}).  Vidu ankaŭ {vecnu}, {cnemu}, {pleji}, {jinga}, {canja}, {sfasa}, {jerna}, {jdima}, {dunda}, {zivle}.
-prami	gismu   	-pam-   	-pa'i-	      	x_1 amas x_2-on (objekto/stato)	Ankaŭ: x_1 estas ama al x_2, x_1 estas amanto de x_2 (unu senco), x_2 estas amata de x_1 (= selpa'i por reordigitaj {lokoj}).  Vidu ankaŭ {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.
+prami	gismu   	-pam-   	-pa'i-	      	x_1 amas x_2-on (objekto/stato)	Ankaŭ: x_1 estas ama al x_2, x_1 estas amanto de x_2 (unu senco), x_2 estas amata de x_1 (= selpa'i por reordigitaj lokoj).  Vidu ankaŭ {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.
 prane	gismu   	-pa'e-		      	x_1 estas perfekta/ideala/arketipa/sendifekta/neplibonigebla en eco/aspekto x_2 (ka)	Ankaŭ: sen difekto/eraro.  Vidu ankaŭ {manfo}, {curve}, {traji}, {cfila}, {mulno}.
 preja	gismu   	-pej-   	-pe'a-	      	x_1 disvastiĝas/etendiĝas sur x_2-on el komenca stato x_3	Vidu ankaŭ {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}.
 prenu	gismu   	-pre-		      	x_1 estas persono/individuo (substantivo) [ne nepre homa]; x_1 montras personecon	Vidu ankaŭ {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}.
@@ -1005,6 +1017,7 @@ sidju	gismu   	-dju-		      	x_1 helpas objekton/homon x_2 fari/atingi/daŭrigi 
 sigja	gismu   	-sig-		      	x_1 estas cigaro/cigaredo farita el tabako/fumebla substanco x_2 fare de x_3	Vidu ankaŭ {danmo}, {jelca}, {tanko}, {marna}.
 silka	gismu   	-sik-		      	x_1 estas kvanto da/enhavas/konsistas el silko produktita de x_2	Vidu ankaŭ {curnu}, {bukpu}, {cilta}.
 silna	gismu			      	x_1 estas porcio/kvanto da salo el fonto x_2, de konsisto enhavanta x_3-on	Vidu ankaŭ {sakta}.
+silru	experimental gismu			      	x_1 estas ekzoplanedo turnanta ĉirkaŭ x_2 kun planedaj ecoj x_3, orbitaj parametroj x_4
 simlu	gismu   	-mlu-		      	x_1 ŝajnas havi econ x_2 por observanto x_3 sub kondiĉoj x_4	Sugesti kredon/observon (= {mlugau}, {mluti'i}); simili (= {smimlu}, {mitmlu}).  Vidu ankaŭ {catlu}, {viska}, {simsa}, {zgana}, {ganse}, {jarco}.
 simsa	gismu   	-smi-		      	x_1 estas simila/paralela al x_2 laŭ eco/kvanto x_3 (ka/ni)	Ankaŭ: x_1 estas portreto/figuro de x_2; x_1 kaj x_2 estas similaj; simileco kaj paraleleco diferas precipe pri emfazo.  Vidu ankaŭ {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici}.
 simxu	gismu   	-sim-   	-si'u-	      	x_1 (aro) havas membrojn kiuj reciproke faras x_2-on (okazo)	Membroj de x_1 faras unu al la alia x_2, returne faras x_2-on.  Vidu ankaŭ {kampu}, {mintu}.
@@ -1019,6 +1032,7 @@ sisku	gismu   	-sis-		      	x_1 serĉas (eco) x_2-on inter aro x_3 (kompleta sp
 sisti	gismu   	-sti-		      	x_1 [aganto] ĉesas/haltas/finas agon/procedon/staton x_2 [ne nepre ĝin kompletiganta]	Vidu ankaŭ {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.
 sitna	gismu   	-sit-		      	x_1 citas/aludas al/referencas fonton x_2 por informo/frazo x_3 (du'u)	Vidu ankaŭ {krasi}.
 sivni	gismu   	-siv-		      	x_1 estas privata/[sekreta/konfidenca] por x_2; x_1 estas nepublika/kaŝita	Ankaŭ: x_1 estas sekreta (unu senco); x_2 kunscias x_1-on (= selsivni por reordigitaj {lokoj}); ekskludon eblas esprimi per na'e(bo) en x_2: ekskludita/nekunscianta (= {nalselsivni}).  (kp.gubni,mipri)
+sizgo	experimental gismu			      	x_1 estas jamboso/sizigio/ano de genro Syzygium de specio/variaĵo x_2
 skaci	gismu			      	x_1 estas jupo/kilto el materialo x_2 [vesto malferma je la malsupro; ne krurpartigita]	Jupa vesto povas esti tutlonga (pastu), sed devas pendi sub la zono kun subteno de super aŭ ĉe la zono.  Vidu ankaŭ {taxfu}, {palku}.
 skami	gismu   	-sam-		      	x_1 estas komputilo por celo x_2	Vidu ankaŭ {kanji}, {minji}, {pensi}.
 skapi	gismu   	-kap-		      	x_1 estas felo/ledo el x_2	Vidu ankaŭ {pilka}, {calku}, {kerfa}.
@@ -1051,6 +1065,7 @@ smuni	gismu   	-mun-   	-smu-	      	x_1 estas signifo/interpreto de x_2 rekonit
 snada	gismu   	-sad-		      	x_1 [aganto] sukcesas/atingas/kompletas x_2-on rezulte de peno/klopodo/provo x_3	(adjektivo:) x_1 estas sukcesa; x_2 (okazo/stato/atingo).  Vidu ankaŭ {fliba}, {troci}, {jgira}.
 snanu	gismu   	-nan-		      	x_1 estas sude de x_2 laŭ referenckadro x_3	Vidu ankaŭ {berti}, {stuna}, {stici}, {farna}.
 snidu	gismu   	-nid-		      	x_1 daŭras x_2 sekundojn (defaŭlte 1 sekundo) laŭ normo x_3	Vidu ankaŭ {cacra}, {junla}, {mentu}, {tcika}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.
+sniju	experimental gismu			      	x_1 estas kokoso (Cocos nucifera) de variaĵo x_2 
 snime	gismu   	-si'e-		      	x_1 konsistas el/enhavas/estas kvanto/etendo da neĝo	Vidu ankaŭ {bratu}, {carvi}, {bisli}.
 snipa	gismu   	-nip-		      	x_1 algluiĝas/alfiksiĝas al x_2; (adjektivo:) x_1 estas alglua/guma	Rimarku ke x_1 estas la algluiĝa surfaco; x_2 ne nepre estas glua.  Vidu ankaŭ {tarla}, {viknu}.
 snuji	gismu   	-nuj-		      	x_1 estas sandviĉo/tavolaro [ne limigita al manĝaĵo] de x_2 sandviĉita inter x_3	Vidu ankaŭ {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}.
@@ -1072,6 +1087,7 @@ spali	gismu			      	x_1 (aganto) poluras objekton/surfacon x_2 per poluro x_3, 
 spano	gismu   	-san-		      	x_1 montras hispanlingvan kulturon/naciecon/lingvon laŭ aspekto x_2	Metafora limigo al Hispanio kontraste kun xispo (komparebla al la distingo inter glico kaj merko/sralo/brito/kadno); Hispanio (= {sangu'e}); hispaniaj lingvoj, precipe la kastilia de Hispanio (= {sansanbau}).  (kp.xispo, ketco, mexno, gento)
 spati	gismu   	-spa-		      	x_1 estas planto/herbo/kreskaĵo/vegetaĵo de speco/raso/kultivo x_2                                                                              6c  68     [ankaŭ: (adjektivo:) x_1 estas vegeta]; (kp. genja, grute, gurni, latna, rozgu, stagi, tricu, tsiju, tujli, xruba, xrula, pezli, srasu	)
 speni	gismu   	-spe-		      	x_1 estas edz(in)o de x_2 laŭ leĝo/kutimo/tradicio/sistemo/konvencio x_3	Vidu ankaŭ {prami}, {gletu}.
+spero	experimental gismu			      	x_1 estas de lingvo Esperanto/apartenas al kulturo de lingvo Esperanto laŭ aspekto x_2
 spisa	gismu   	-spi-		      	x_1 [objekto/substanco] estas peco/porcio/partiklo de x_2 [substanco]	Vidu ankaŭ {pagbu}.
 spita	gismu			      	x_1 estas hospitalo/malsanulejo/sanatorio traktanta pacientojn x_2 por kondiĉo/vundoj/malsano x_3                                                 4c  20     [azilo (loko kie x_2 de spita estas lenu mrobi'o = mrospita)]; (kp. bilma, mikce	)
 spofu	gismu   	-pof-   	-po'u-	      	x_1 estas nefunkcianta/neutiligebla/rompita por funkcio x_2	Rompi, malfunkciigi (= {pofygau}, {pofyzu'e}); akcidente rompiĝi, rezulte de okazo, neagenta (= {pofyja'e}, {nutpo'uja'e}).  Vidu ankaŭ {daspo}, {katna}, {porpi}, se {xrani}, {cikre}.
@@ -1158,6 +1174,7 @@ tcila	gismu   	-til-		      	x_1 estas detalo/trajto/apartaĵo de x_2	Vidu anka�
 tcima	gismu   	-tim-   	-ti'a-	      	x_1 estas vetero ĉe loko/regiono x_2; (adjektivo:) x_1 estas meteorologa	Klimato (= {citsyti'a}, {timymo'a}).  Vidu ankaŭ {brife}, {bumru}, {carvi}, {dilnu}, {bratu}.
 tcini	gismu			      	x_1 [stato/eco] estas stato/situacio/kondiĉo/konjunkturo/pozicio/cirkonstanco de x_2	Karakterizaj ecoj aŭ ĉirkaŭaĵo de objekto/okazo/procedo etapo aŭ stato kiuj estas tipe/potenciale nur portempaj.  Vidu ankaŭ {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji}, {zasni}.
 tcita	gismu			      	x_1 estas etikedo de x_2 montranta informon x_3	Vidu ankaŭ {sinxa}, {cmene}, {judri}.
+tcone	experimental gismu			      	x_1 estas rostita/rostata porko en stilo/kun ecoj x_2
 temci	gismu   	-tem-   	-tei-	      	x_1 estas tempodaŭro/intervalo/periodo/[forpasita tempo] ekde tempo/okazo x_2 ĝis tempo/okazo x_3	Ankaŭ: aĝo/forpasita tempo (= {niltei}).  Vidu ankaŭ {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.
 tenfa	gismu   	-tef-		      	x_1 estas la eksponencialo de bazo x_2 altigata ĝis potenco/eksponento x_3	Vidu ankaŭ {dugri}.
 tengu	gismu   	-teg-   	-te'u-	      	x_1 (eco-ka) estas tekseco de x_2	Vidu ankaŭ {rufsu}, {xutla}.
@@ -1182,6 +1199,7 @@ toldi	gismu   	-tod-		      	x_1 estas papilio/tineo de speco/raso x_2	Vidu anka
 tonga	gismu   	-tog-   	-to'a-	      	x_1 estas tono/noto de frekvenco/piĉo x_2 el fonto x_3	Vidu ankaŭ {rilti}, {zgike}, {janbe}, {siclu}.
 tordu	gismu   	-tor-   	-to'u-	      	x_1 estas mallonga laŭ dimensio/direkto x_2 (defaŭlte plej longa dimensio) laŭ mezurnormo x_3	Vidu ankaŭ {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.
 torni	gismu   	-ton-   	-to'i-	      	x_1 tordiĝas sub pezo/forto/tordiĝo x_2	Vidu ankaŭ {tinsa}, {trati}.
+tovla	experimental gismu			      	x_1 estas ĉielarko ĉe loko x_2
 traji	gismu   	-rai-		      	x_1 estas superlativa en eco x_2 (ka), la x_3-a ekstremo (defaŭlte ka zmadu) inter aro/amplekso x_4	Ankaŭ: x_1 estas plej x_3-a en x_2 inter x_4; x_1 estas la x_3-a ekstremo de x_4; x_1 estas ekstrema; x_1 estas simple x_3.  (kp. cmavo rai, jimte, milxe, mutce, rimarku kontrasto kun milxe kaj mutce anstataŭ kun mleca kaj zmadu, kiu estas valoroj por x_3, banli, curve, fanmo, krasi, manfo, prane)
 trano	gismu			      	x_1 estas kvanto da/enhavas/konsistas el nitrogeno/amoniako/nitrato	Vidu ankaŭ {vacri}.
 trati	gismu			      	x_1 estas streĉita en direkto x_2	Vidu ankaŭ {tinsa}, {torni}, {tagji}, {tcena}, {kluza}.
@@ -1241,7 +1259,6 @@ vlina	gismu			      	x_1 estas logika disjunkcio/alterno, asertanta ke x_2 (du'u
 vlipa	gismu   	-vli-		      	x_1 havas potencon por kaŭzi x_2-on sub kondiĉoj x_3; x_1 estas potenca laŭ aspekto x_2 sub x_3	Ankaŭ: havas regon.  Vidu ankaŭ {tsali}, {jitro}, {ruble}.
 vofli	gismu   	-vol-   	-voi-	      	x_1 flugas [en aero/atmosfero] per leva/pela rimedo x_2	Vidu ankaŭ {cipni}, {klama}, {vinji}.
 voksa	gismu   	-vok-   	-vo'a-	      	x_1 estas voĉo/parolsono de individuo x_2	Vidu ankaŭ {sance}, {tirna}, {bacru}.
-volve	experimental gismu			      	x_1 revenas al x_2 el x_3; x_1 movas reen al x_2 el x_3.	Rigardu ankaŭ {volvygau} - 'redoni', {benji}, {krefu}, {rapli}, {rinka}.
 vorme	gismu   	-vor-   	-vro-	      	x_1 estas pordo/enirejo inter x_2 kaj x_3 de strukturo x_4	Rimarku: emfazo sur vojeco; solida pordo (= vrogai/vrobi'u/vrozu'itci).  Vidu ankaŭ {canko}, {ganlo}, {kalri}, {murta}, {pagre}, {bitmu}, {kuspe}.
 vraga	gismu   	-vra-		      	x_1 estas levilo [de aparato] por fari x_2-on [funkcio/ago], kun pivoto/apogpunkto x_3 kaj brako x_4	Vidu ankaŭ {tutci}, {pulni}.
 vreji	gismu   	-rej-   	-vei-	      	x_1 estas registro de x_2 (datenoj/faktoj/du'u) pri x_3 (objekto/okazo) konservita en medio x_4	Vidu ankaŭ {sorcu}, {datni}, {papri}.
@@ -1258,6 +1275,7 @@ xagri	gismu			      	x_1 estas ŝalmo/hobojo/klarneto/saksofono [anĉa muzikinst
 xajmi	gismu   	-xam-		      	x_1 estas komika/amuza al x_2 en eco/aspekto x_3 (nu/ka); x_2 trovas x_3-on amuza pri x_1	Ankaŭ: x_1 estas komikisto (= {xampre}, xamseljibri por profesia {komikisto}).  (x_1 povas esti homo/objekto aŭ abstraktaĵo; estu singarda pri ebla sumti-levigo); Vidu ankaŭ {bebna}, {cisma}, {cmila}, fenki,{zdile}.
 xaksu	gismu   	-xak-		      	x_1 (okazo) foruzas/konsumas/[malŝparas] x_2-on [rimedo]	Forĵetaĵo (= {fesxaksu}, {dusxaksu}).  Vidu ankaŭ {citka}, {festi}, {daspo}, {livla}, {pinxe}.
 xalbo	gismu			      	x_1 estas frivola/malserioza pri x_2 (abstraktaĵo)	Vidu ankaŭ {junri}, {linto}.
+xalda	experimental gismu			      	x_1 estas blubero [frukto] de specio/variaĵo x_2
 xalka	gismu   	-xal-		      	x_1 estas kvanto da/enhavas/konsistas el alkoholo de tipo x_2 el fonto/procedo x_3	Vidu ankaŭ {birje}, {jikru}, {vanju}.
 xalni	gismu			      	x_1 (homo) panikas pro krizo x_2 (okazo/stato)	Vidu ankaŭ {ckape}, {snura}, {terpa}, {xanka}.
 xamgu	gismu   	-xag-   	-xau-	      	x_1 (objekto/okazo) estas bona/utila/agrabla/[akceptebla] por x_2 laŭ normo x_3	Akceptebla (= {mlixau}, {norxau}, {xaurselcru}).  Vidu ankaŭ {melbi}, {xlali}, {vrude}, {zabna}.
@@ -1265,6 +1283,7 @@ xampo	gismu   	-xap-   	-xa'o-	      	x_1 estas x_2 amperoj [metra unuo] en kure
 xamsi	gismu   	-xas-		      	x_1 estas maro/oceano/golfo/[atmosfero] de planedo x_2, el fluido x_3	Ankaŭ: atmosfero (= {varxamsi}, {varsenta}).  Vidu ankaŭ {daplu}, {djacu}, {lalxu}, {rirxe}, {tumla}, {vacri}, {zbani}, {ctaru}.
 xance	gismu   	-xan-   	-xa'e-	      	x_1 estas mano [korpoparto] de x_2; [metafore: manipulilo]	Vidu ankaŭ {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji}.
 xanka	gismu			      	x_1 estas nervoza/maltrankvila/malpacienca pri x_2 (abstraktaĵo) sub kondiĉoj x_3	Vidu ankaŭ {xalni}, {terpa}, {raktu}.
+xanmi	experimental gismu			      	x_1 apartenas al la animisma kulturo/religio/etoso (animismo) laŭ aspekto x_2
 xanri	gismu   	-xar-		      	x_1 [koncepto] estas fantazia/imagita de x_2	Ankaŭ: (adjektivo:) x_1 estas mensa (unu senco), x_1 estas nereala (unu senco); spite la sinonimo, rimarku ke tio ke x_2 estas imagata ne implicas ke ĝi ne ekzistas en la reala mondo; la difino estas verkita tiel ke oni povas paroli pri imagitaj aferoj sen aserti ke ili vere ekzistas.  Vidu ankaŭ {fatci}, {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}.
 xanto	gismu			      	x_1 estas elefanto de speco/raso x_2	Vidu ankaŭ {mabru}, {barda}.
 xarci	gismu   	-xac-   	-xa'i-	      	x_1 estas armilo por uzi kontraŭ x_2 fare de x_3	Kanono (= {celxa'i}).  Vidu ankaŭ {jenmi}, {sonci}, {catra}.
@@ -1274,6 +1293,7 @@ xasli	gismu			      	x_1 estas azeno de speco/raso x_2	Vidu ankaŭ {xirma}, {kum
 xasne	gismu			      	x_1 estas ŝvito el korpo x_2, ekskreciita de glando/organo x_3	Vidu ankaŭ {pinca}, {vikmi}, {cigla}.
 xatra	gismu   	-xa'a-		      	x_1 estas letero/[mesaĝo] por celita(j) ricevanto(j) x_2 de aŭtoro x_3 kun enhavo x_4	(kp. notci, kiu has places in a different order; la emphasis in xatra estas on la communication inter author kaj recipient, kaj not la content, kiu in a letter may not easily be categorizedtoa 'subject';ciska,mrilu,papri)
 xatsi	gismu   	-xat-		      	x_1 estas trilionono [1x_10**-18] de x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi, petso,picti,terto, xecto, xexso, zepti, zetro)
+xavli	experimental gismu			      	x_1 montras la havajan kulturon/lingvon/popolon/geografion laŭ aspekto x_2 
 xazdo	gismu   	-xaz-   	-zdo-	      	x_1 montras azian kulturon/naciecon/geografion laŭ aspekto x_2	Vidu ankaŭ {polno}, {friko}, {jungo}, {rusko}, {ropno}.
 xebni	gismu   	-xen-   	-xei-	      	x_1 malamas/malestimas x_2-on (objekto/abstraktaĵo)	Vidu ankaŭ {djica}, {nitcu}, {rigni}, {prami}, {nelci}.
 xebro	gismu   	-xeb-   	-bro-	      	x_1 montras hebrean/judan/izraelan kulturon/naciecon/lingvon laŭ aspekto x_2	Vidu ankaŭ {filso}.
@@ -1290,6 +1310,7 @@ xirma	gismu   	-xir-   	-xi'a-	      	x_1 estas ĉevalo de speco/raso x_2	Vidu a
 xislu	gismu   	-xil-   	-xi'u-	      	x_1 estas rado [ilo] de aparato/veturilo x_2, farita el materialoj/kun ecoj x_3	Vidu ankaŭ {carce}, {karce}, {pulni}, {tutci}.
 xispo	gismu   	-xip-		      	x_1 montras hispanamerikan kulturon/naciecojn laŭ aspekto x_2	Temas pri hispanlingvaj latinamerikaj landoj, ne Brazilo/Gujano.  Vidu ankaŭ {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.
 xlali	gismu   	-xla-		      	x_1 estas malbona por x_2 laŭ normo x_3; x_1 estas neakceptebla por x_2	Zorge distingu malbona/neakcepteblan okazon disde malbona/neakceptebla aganto: x_1 faras malbone (= lenu ko'a gasnu cu xlali kaj ne ĝenerale ko'a xlali).  Vidu ankaŭ {palci}, {mabla}, xamgu,{betri}.
+xlobi	experimental gismu			      	x_1 estas hobio de x_2 
 xlura	gismu   	-xlu-		      	x_1 (aganto) influas/logas/tentas x_2-on fari agon/staton x_3 per influo/minaco/logo x_4	Ankaŭ: impresi; x_4 estas alloga (= trivelxlu por reordigo de {lokoj}); x_3 povas esti jam atingita ago/stato, aŭ provo fari agon/enigi staton).  (x_3 kaj x_4 ĝenerale estas okazoj aŭ statoj);Vidu ankaŭ {djica}, {mukti}, {trina}, {jitro}, {sazri}, {tcica}, {xance}, {stidi}, {kajde}, {maksi}.
 xotli	gismu   	-xol-   	-xoi-	      	x_1 estas hotelo/gastejo/loĝdomo en loko x_2 administrita de x_3	Vidu ankaŭ {barja}, {gusta}.
 xrabo	gismu   	-rab-		      	x_1 montras araban kulturon/naciecon laŭ aspekto x_2	Vidu ankaŭ {sadjo}, {semto}, {lubno}, {rakso}, {sirxo}.
@@ -1324,6 +1345,7 @@ zepti	gismu   	-zep-		      	x_1 estas miltrilionono [1x_10**-21] de x_2 laŭ di
 zetro	gismu   	-zet-		      	x_1 estas mil trilionoj [1x_10**21] da x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi, petso,picti, terto, xatsi,xecto, xexso, zepti)
 zgana	gismu   	-zga-		      	x_1 observas/[rimarkas]/rigardas x_2-on per senso/rimedo x_3 sub kondiĉoj x_4	Vidi/rigardi (= {vi'azga}); gardisto/sentinelo (= {zgaku'i}, {jdeku'i}).  Vidu ankaŭ cmavo {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.
 zgike	gismu   	-zgi-   	-gi'e-	      	x_1 estas muziko ludata/produktata de x_2 (okazo)	Okazo x_2 povas esti homo ludanta instrumenton, kantanta, muzika fonto funkcianta/vibranta, ktp.; instrumento (= {zgica'a}); ludi instrumenton (= {zgica'apli}, {zgiterca'a}, {selzgigau}, {selzgizu'e}); kanto (= {sagzgi}, {selsa'a}); voĉo, uzita muzike (= {zgivo'a}); componita muziko (= {finzgi}).  Vidu ankaŭ {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}.
+zguro	experimental gismu			      	x_1 estas breloko/amuleto/kuriozaĵo de sentimentala valoro/rememorigo de x_2 por gardanto/posedanto x_3
 zifre	gismu   	-zif-   	-zi'e-	      	x_1 estas libera por fari/esti x_2 (okazo/stato) sub kondiĉoj x_3	Ankaŭ: nelimigita, nemalhelpita, senĝena; (adjektivo:) sendependa; (adverbo:) vole, volonte, libere, laŭvole; (potential:) x_1 vole faras x_2.  Vidu ankaŭ {pinfu}, {rinju}, bilga,{curmi}, {kakne}, {frili}.
 zinki	gismu   	-zin-   	-zi'i-	      	x_1 estas kvanto da/enhavas/konsistas el zinko (Zn); [metafore: malmola metalo]	Vidu ankaŭ {jinme}.
 zirpu	gismu   	-zir-   	-zi'u-	      	x_1 estas purpura/violkolora [koloradjektivo]	Vidu ankaŭ {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.
