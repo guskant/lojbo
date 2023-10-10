@@ -489,6 +489,7 @@ jibni	gismu   	-jbi-		      	x_1 esta cerca/cercano/próximo a x_2 en propiedad 
 jibri	gismu   	-jib-		      	x_1 es un trabajo/ocupación/empleo de persona x_2
 jicla	gismu			      	x_1 revuelve/agita fluido x_2 con herramienta/utensilio x_3
 jicmu	gismu   	-cmu-		      	x_1 es una base/fundamento de x_2	Ver también {zbepi},  {genja}.
+jidge	experimental gismu			      	x_1 tiene la oportunidad hacer x_2 (propiedad) bajo condiciones x_3
 jijnu	gismu   	-jij-		      	x_1 intuye que x_2 (du'u) es cierto acerca de x_3
 jikca	gismu   	-jik-		      	x_1 interactúa socialmente/es sociable con x_2
 jikru	gismu			      	x_1 es una cantidad de licor/bebida espirituosa destilada de x_2	Ver también {birje},  {xalka}.
@@ -1314,6 +1315,7 @@ xutla	gismu   	-xul-		      	x_1 es suave en textura	Ver también {rufsu},  {ten
 zabna	gismu   	-zan-   	-za'a-	      	x_1 es estupendo/genial/magnífico/excelente/esplendido/formidable/extraordinario/maravilloso/fabuloso/bárbaro/ideal en propiedad/aspecto x_2 según estándar x_3	Ver también {mabla},  {xamgu},  {vrude}.
 zajba	gismu   	-zaj-		      	x_1 es un gimnasta en evento x_2
 zalvi	gismu   	-zal-		      	x_1 muele/pulveriza x_2 en polvo x_3
+zandi	experimental gismu			      	x_1 está sucio/contaminado por contaminante x_2 según estándar x_3
 zanru	gismu   	-zar-   	-zau-	      	x_1 aprueba/favorece/celebra plan/acción x_2	Ver también {xenru}.
 zarci	gismu   	-zac-   	-zai-	      	x_1 es un mercado/almacén/despensa que vende x_2, manejado por x_3
 zargu	gismu   	-zag-   	-za'u-	      	x_1 es el trasero/nalga/cola (parte del cuerpo) de x_2

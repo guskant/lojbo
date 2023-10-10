@@ -687,7 +687,7 @@ raumei	cmavo-compound			   	MOI*      	selbri cuantificado: convierte suficiente
 raumoi	cmavo-compound			   	MOI*      	selbri cuantificado: convierte suficiente en selbri ordinal; x_1 es suficientésimo entre x_2 según regla x_3
 ra'unai	cmavo-compound			   	UI*3      	discursivo: principalmente - igualmente - incidentalmente
 re	cmavo   	-rel-		      		dígito/número: 2 (dígito) (dos)
-re'a	cmavo			   	VUhU4      	operador matemático unitario: matríz transpuesta/dual; (A*)
+re'a	cmavo			   	VUhU4      	operador matemático unitario: matríz transpuesta/dual; (A^T)
 re'e	cmavo			   	UI4      	categoría emocional: religioso/espiritual/adoración - sacrilegio	Ver también {lijda}.
 re'enai	cmavo-compound			   	UI*4      	categoría emocional: espiritual/adoración - sacrilegio
 re'i	cmavo			   	COI      	vocativo: listo para recibir - no preparado para recibir

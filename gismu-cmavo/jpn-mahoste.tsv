@@ -320,7 +320,7 @@ ka'e	cmavo			   	CAhA      	できる、あり得る ： 間制詞（モダリ�
 ka'i	cmavo			   	BAI      	～が代表して ： krati 法制詞, x_1	・読み方： カヒ
 kai	cmavo			   	BAI      	～が象徴して ： ckaji 法制詞, x_1	・読み方： カイ
 ka'o	cmavo			   	PA5      	虚数単位（i）／-1の平方根 ： 数量詞；	・読み方： カホ
-ka'u	cmavo			   	UI2      	文化的知識	心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；「ka'u lo nu lo cticinza gau sanli ne'i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 ・読み方： カフ ・関連語： {kluju'o} 
+ka'u	cmavo			   	UI2      	文化的知識	心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；「ka'u lo nu lo cticinza gau sanli ne'i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 ・読み方： カフ ・関連語： {kluju'o}
 kau	cmavo			   	UI3a      	間接疑問	心態詞（談話系）； 質問を表す語の直後に付き、その回答を表す。間接疑問の対象；「djuno lo du'u ma kau daspo ti／誰がこれを壊したのかを知っている」 「mi na djuno lo du'u ti mo kau／これが[何であるか／どうなのか／何をしているのか]、私は知らない」 「.e'o ko no da jungau lo du'u mi zvati ma kau／私がどこにいるか誰にも教えないでください」 「loi bangu cu ficysi'u lo ka xo kau da jicmu valsi lo skari ce'u／基本的な色を表す単語がいくつあるかは言語によって異なる」 「.ei do jdice lo du'u xu kau do djica lo nu klama／あなたが行きたいかどうかは、あなたが決めることだ」 ・読み方： カウ
 ke	cmavo   	-kem-		   	KE      	tanru グループ開始 ： 境界詞； tanru 内のグループの開始を示す	「melbi ke tsani skari／綺麗な【空の色】」 ・大意： グループ開始 ・読み方： ケ ・関連語： {ke'e}
 ke'a	cmavo			   	KOhA7      	関係代項詞 ： 代詞（sumti）； sumti に関係詞で節を繋げる際、その本体の sumti と節の中の特定の sumti とを同一にする；	「lo tcadu poi mi jbena fo ke'a／私が生まれた町」 ・読み方： ケハ
@@ -331,7 +331,7 @@ ke'o	cmavo			   	COI      	どうか復唱を ：心態詞（呼応系）； 相
 ke'u	cmavo			   	UI3      	反復 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出す「ke'u lo catni cmetcita cu sarcu／身分証明書が必要だってば」 「coi ke'u／また会ったね」 「.ienai ke'u／何度も言うが、私は反対だ」 ・読み方： ケフ ・関連語：  {refbasna}, {krefu}, {rapli}, {velde'a}
 ke'unai	cmavo-compound			   	UI*3      	展開 （ ke'u 反復 - ke'unai 展開）	心態詞（談話系）； 以前に言ったことを再び持ち出さずに話をそのまま展開させ続ける 「ti'e do pu cpare la noi cmana kilimanjar --- .i ke'unai mi pukfri lo jvinu be la noi lalxu viktori'as／キリマンジャロ山に登ったんだってね。 --- そしてヴィクトリア湖を観光したよ。」 ・読み方： ケフナイ
 ki	cmavo			   	KI      	制詞設定／初期化 ： 間制詞／相制詞／法制詞の右に付いてそれらを以降の文にも効くように設定する、あるいは単独で置いて全ての制詞をリセットする；	「pu ki ku mi klama lo zarci .i penmi ko'o／私は店に行った。彼女に会った」 ・読み方： キ
-ki'a	cmavo			   	UI6      	逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；「{ mi penmi ko'a } { ko'a ki'a }／｛彼女に会った。｝｛“彼女”って誰のこと？｝」 ・読み方： キハ  ・関連語： {cfipu}, {kucli}
+ki'a	cmavo			   	UI6      	逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；「mi penmi ko'a --- .i ko'a ki'a／彼女に会った。 --- “彼女”って誰のこと？」 ・読み方： キハ  ・関連語： {cfipu}, {kucli}
 ki'ai	experimental cmavo			   	COI2      	臨時の間投詞／心態詞。 cmevlaやzoi 引用句を後ろにとり、それを間投／心態詞化する。	関連語： {sa'ei}, {ci'oi}, {tai'i}
 ki'anai	cmavo-compound			   	UI*6      	逐語的理解 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）	心態詞； 語句が何を意味しているのかを理解している ・読み方： キハナイ
 ki'e	cmavo			   	COI      	感謝 ：心態詞（呼応系）	・読み方： キヘ
@@ -345,7 +345,7 @@ ko'e	cmavo			   	KOhA4      	sumti 変数（彼女／彼／其）２ ： 代詞�
 ko'i	cmavo			   	KOhA4      	sumti 変数（彼女／彼／其）３ ： 代詞（sumti）； goi で配当する	・読み方： コヒ
 koi	cmavo			   	BAI      	～を境界として ： korbi 法制詞, x_1	・読み方： コイ
 ko'o	cmavo			   	KOhA4      	sumti 変数（彼女／彼／其）４ ： 代詞（sumti）； goi で配当する	・読み方： コホ
-ko'oi	experimental cmavo			   	UI6      	談話系：命令	``{ko}'' は ''{do} {ko'oi}'' の短縮形。{au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei} の上位語。 「do .onai ko'oi lo mi speni co'a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』） 「ra ko'oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko'oi se platu be do ku te snada／あなたの計画がうまく行きますように」 「mi ko'oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」 ・読み方： コホイ  ・関連語：{minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga} 
+ko'oi	experimental cmavo			   	UI6      	談話系：命令	``{ko}'' は ''{do} {ko'oi}'' の短縮形。{au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei} の上位語。 「do .onai ko'oi lo mi speni co'a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』） 「ra ko'oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko'oi se platu be do ku te snada／あなたの計画がうまく行きますように」 「mi ko'oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」 ・読み方： コホイ  ・関連語：{minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}
 ko'u	cmavo			   	KOhA4      	sumti 変数（彼女／彼／其）５ ： 代詞（sumti）； goi で配当する	・読み方： コフ
 ku	cmavo			   	KU      	sumti 末端 ： 境界詞； sumti の末端を示す	「vu ja vi ku lo bonsna pu co'a ca ca'o durcarvi／遠く近く波音のしぐれてくる」（山頭火『行乞記（二）』） ・読み方： ク
 ku'a	cmavo   	-kuz-		   	JOI      	集合交差 ： 接続詞（非論理・sumti/selbri）； 集合の交差、積集合	・大意： 数学的交差 ・読み方： クハ
@@ -551,7 +551,7 @@ rau	cmavo			   	PA4      	十分な ： 数量詞；	・読み方： ラウ
 ra'ucu'i	cmavo-compound			   	UI*3      	同様に （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）	心態詞（談話系）；「ti ra'ucu'i kukte／これも同様においしい」 ・読み方： ラフシュヒ
 ra'unai	cmavo-compound			   	UI*3      	ついでながら （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）	心態詞（談話系）；「ti ra'unai kukte／ついでに言うとこれもおいしい」 ・読み方： ラフナイ
 re	cmavo   	-rel-		   	PA1      	2 ： 数量詞；	・大意： 2 ・読み方： レ
-re'a	cmavo			   	VUhU4      	転置行列 ： 数理演算子（単一項）； ある行列の列と行を交換することで生ずる行列； [A*]	・読み方： レハ
+re'a	cmavo			   	VUhU4      	転置行列 ： 数理演算子（単一項）； ある行列の列と行を交換することで生ずる行列； [A^T]	・読み方： レハ
 re'e	cmavo			   	UI4      	崇拝 （ re'e 崇拝 - re'enai 冒涜）	心態詞（修飾系・カテゴリ）； ・読み方： レヘ  ・関連語： {lijda}
 re'enai	cmavo-compound			   	UI*4      	冒涜 （ re'e 崇拝 - re'enai 冒涜）	心態詞（修飾系・カテゴリ）； ・読み方： レヘナイ
 re'i	cmavo			   	COI      	受信待機 ：心態詞（呼応系）； 相手の発言を受け取る準備が出来ていることを伝える	・読み方： レヒ

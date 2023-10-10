@@ -1,6 +1,6 @@
 bacru	gismu   	-ba'u-		      	x_1 eldiras buŝe/diras/parolas [pervoĉe faras sonon] x_2	[ankaŭ: voĉi; ne necese implicas komunikon aŭ aŭdanton; ('diri' ĝenerale estas cusku)]; (Vidu ankaŭ: krixa, cusku, casnu, tavla, voksa, pinka.)
 badna	gismu			      	x_1 estas banano/bananarbo [frukto/planto] de speco/raso x_2	Vidu ankaŭ"grute".
-badri	gismu   	-dri-		      	x_1 estas malĝoja/malgaja/trista/depremita pri x_2	Vidu ankaŭ klaku, gleki, betri, cinmo, junri
+badri	gismu   	-dri-		      	x_1 estas malĝoja/malgaja/trista/depremita pri x_2 (abstraktaĵo)	Vidu ankaŭ {klaku}, {gleki}, {betri}, {cinmo}, {junri}.
 bajra	gismu   	-baj-		      	x_1 kuras sur supraĵo x_2 per membroj x_3 kun irmaniero x_4	Vidu ankaŭ {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.
 bakfu	gismu   	-baf-		      	x_1 estas pako/fasko [formo] da x_2 ligitaj per x_3	Vidu ankaŭ {daski}, {dakli}, {tanxe}.
 bakni	gismu   	-bak-		      	x_1 estas bovo de speco/raso x_2	Vidu ankaŭ {danlu}.
@@ -490,7 +490,7 @@ jgena	gismu   	-jge-		      	x_1 estas nodo inter x_2 (objekto/jo'u-objektoj)	No
 jgina	gismu   	-gin-		      	x_1 estas geno de estaĵo [aŭ loko en estaĵo] x_2 determinanta trajton/procedon x_3	Ankaŭ: kromosomo = (gincilta, ginpoi).  Vidu ankaŭ {cerda}.
 jgira	gismu   	-jgi-		      	x_1 (homo) fieras pri x_2 (abstraktaĵo)	Emocia kombino de kontentiĝo kaj respekto/estimo je eco aŭ ago de homo/estaĵo kiu havas specifan ligon kun la emociiĝanto; memfieri (= {se'ijgi}, {tolcumla}); uzu je tu'a en x_2 por fiero pri nespecifaj ecoj de iu.  Vidu ankaŭ {cinmo}, {cumla}, {sevzi}, {sinma}, {snada}.
 jgita	gismu   	-git-		      	x_1 estas gitaro/violono/violonĉelo/harpo [korda muzikinstrumento] kun plektro/arĉo x_2	Ankaŭ: mandolino, liuto.  Vidu ankaŭ {zgike}.
-jguvi	experimental gismu			      	x_1 estas monstro de specio/variaĵo x_2
+jguvi	experimental gismu			      	x_1 estas monstro de specio/variaĵo x_2	怪 Mandarena "guài"; Kantona "gwaai3" (monstro, strangaĵo)
 jibni	gismu   	-jbi-		      	x_1 estas proksime/apude de x_2 laŭ eco/kvanto x_3 (ka/ni)	Vidu ankaŭ {darno}, {nenri}, {vanbi}, {jbini}, {lamji}, {zvati}, {cpana}, {bartu}, {diklo}, {stuzi}.
 jibri	gismu   	-jib-		      	x_1 estas ofico/profesio/okupo (tipo de laboro regule farita pro pago) de homo x_2	Labori por alia (= {selplijibri}).  (kp. briju, gunka, te jerna kiu estas laboro specife por pago kaj ne specife por alia, te pilno kiu estas okupo ne nepre por pago kaj ne nepre regula aŭ longdaŭra sed por alia, se gasnu kaj se zukte por incidentaj agoj)
 jicla	gismu			      	x_1 (objekto, aŭ okazo: forto) kirlas/agitas/miksas fluaĵon (gaso/likvaĵo) x_2	Konvekto (= {nenflejicla}); agenta kirlo (= {jiclygau}, {jiclyzu'e}).  Vidu ankaŭ {fanza}, {tunta}, {mixre}.
@@ -586,7 +586,7 @@ ketco	gismu   	-ket-   	-tco-	      	x_1 montras sudamerikan kulturon/naciecon/g
 kevna	gismu   	-kev-   	-ke'a-	      	x_1 estas truo/kavaĵo/kaverno en x_2; x_1 estas konkava interne de x_2; x_2 estas kava je loko x_1	Ankaŭ: puto, konkavo; kava (= {selke'a}).  Vidu ankaŭ {fenra}, {kunti}, {canlu}, {canko}, {galxe}, {tubnu}.
 kicne	gismu   	-kic-   	-ki'e-	      	x_1 kusenas x_2-on per materialo x_3; x_1 estas kuseno/pillow [por x_2] de rembura materialo x_3	Vidu ankaŭ {ckana}, {matci}.
 kijno	gismu   	-kij-		      	x_1 estas kvanto da/enhavas/konsistas el oksigeno (O); [metafore: subtenas vivon/brulon]	(kp. jelca, vacri, vaŝu)
-kilto	gismu   	-ki'o-		      	x_1 estas milo [1000; 1x_10**3] da x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, megdo, mikri, milti, nanvi, petso, picti, terto, xatsi, xecto, xexso,zepti,zetro,minli)
+kilto	gismu   	-ki'o-		      	x_1 estas milo [1000; 10^3] da x_2 laŭ dimensio/aspekto x_3 (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, megdo, mikri, milti, nanvi, petso, picti, terto, xatsi, xecto, xexso,zepti,zetro,minli)
 kinli	gismu   	-kil-		      	x_1 estas akra je loko x_2	Vidu ankaŭ {balre}, {dakfu}, {jesni}.
 kisto	gismu   	-kis-		      	x_1 montras pakistanan/paŝta kulturon/naciecon/lingvon laŭ aspekto x_2	Vidu ankaŭ {xurdo}.
 klaji	gismu   	-laj-		      	x_1 estas strato/avenuo/vojo ĉe x_2 kun aliro al x_3	Ankaŭ: koridoro; kutime ne vojo inter punktoj, sed donas aliron al lokoj laŭlonge apud ĝi.  Vidu ankaŭ {naxle}, {panka}, {pluta}, {dargu}.
